@@ -190,6 +190,14 @@ def main():
             continue
         board(raw, output, index, eyebrow, line1, line2, subtitle, chips)
         print("wrote", output)
+    # Rebuild the contact sheet from the same six marketing images.
+    sheet = Image.new("RGB", (1176, 1392), PAPER)
+    for i, entry in enumerate(boards):
+        source = OUT / entry[0]
+        if source.exists():
+            thumb = Image.open(source).convert("RGB").resize((360, 640), Image.Resampling.LANCZOS)
+            sheet.paste(thumb, (24 + (i % 3) * 384, 24 + (i // 3) * 680))
+    sheet.save(STORE / "screenshots/contact-sheet.png")
     print("store artwork ready")
 
 
