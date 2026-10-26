@@ -57,6 +57,12 @@
 <img src="store/screenshots/marketing/03-mistakes.png" width="30%" alt="易错词" />
 </p>
 
+## 下载安装
+
+在 [GitHub Releases](https://github.com/luodehua321/wordwise-android/releases) 下载 arm64-v8a APK，适用于 Android 8.0 及以上。覆盖更新需使用相同签名；本项目本地交付包延续原证书。
+
+本次项目整理与构建检查见 [2.0.11 验证记录](docs/validation/VALIDATION-v2.0.11.md)。
+
 ## 构建与运行
 
 需要 **JDK 17 或兼容版本**、Android SDK Platform 35、Build Tools 36.0.0 和 Python 3.9+。Gradle Wrapper 为 8.9，Java/Kotlin 字节码目标为 17。界面采用 Jetpack Compose，最低 Android 8.0（API 26），当前仅打包 arm64-v8a。
