@@ -1,0 +1,21 @@
+British English IPA data — original source and reproducible extraction
+
+ipa-dict en_UK (Received Pronunciation), based on ipacards by leoboiko
+(now melissaboiko). UK data retains GPL-3.0, distinct from US MIT/BSD data.
+https://github.com/open-dict-data/ipa-dict
+Pinned commit: 972cd67dd5f96bc5660e28070cde26e3928abcd7
+Original path: data/en_UK.txt
+SHA-256: 221394caef0cf723b4f2df81a98ac33191293257b88aed5b1fb89466d3a0dc77
+https://github.com/melissaboiko/ipacards
+
+en_UK.txt is the complete, unmodified UTF-8 source, not a binary-only copy.
+ipa-dict-README.md reproduces the pinned upstream attribution and licensing.
+LICENSE-GPL-3.0.txt reproduces the upstream GPL-3.0 license in full.
+The app selects exact spellings from this file; pronunciation text is unchanged.
+supplement.json contains project-reviewed missing readings, with references.
+No automatic US-to-UK transformation is applied. Unattested entries are empty.
+Run: python3 extract_british_ipa.py ../vocabulary.json output.json
+Omit output.json for read-only verification of every UK field.
+The same extraction is used by tools/british_pronunciations.py and
+tools/build_vocabulary.py in the project source. The original source and
+extraction code are provided alongside the data under GPL-3.0.

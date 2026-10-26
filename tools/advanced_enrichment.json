@@ -1,0 +1,1867 @@
+{
+  "analysis": {
+    "examples": [
+      {
+        "en": "Our analysis shows that the new plan saves time.",
+        "zh": "我们的分析表明，新方案可以节省时间。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "conduct an analysis",
+        "zh": "进行分析"
+      }
+    ]
+  },
+  "reflect": {
+    "examples": [
+      {
+        "en": "Take a moment to reflect on what you learned.",
+        "zh": "花点时间思考一下你学到的内容。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "reflect on an experience",
+        "zh": "反思一段经历"
+      }
+    ]
+  },
+  "administrative": {
+    "examples": [
+      {
+        "en": "The team needs help with administrative tasks.",
+        "zh": "团队需要有人协助处理行政事务。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "administrative tasks",
+        "zh": "行政事务"
+      }
+    ]
+  },
+  "reluctant": {
+    "examples": [
+      {
+        "en": "She was reluctant to leave her hometown.",
+        "zh": "她不愿离开家乡。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be reluctant to do something",
+        "zh": "不愿做某事"
+      }
+    ]
+  },
+  "career": {
+    "examples": [
+      {
+        "en": "He hopes to build a career in engineering.",
+        "zh": "他希望在工程领域发展职业生涯。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "pursue a career",
+        "zh": "追求某种职业"
+      }
+    ]
+  },
+  "arbitrary": {
+    "examples": [
+      {
+        "en": "The deadline seems arbitrary because no reason was given.",
+        "zh": "这个截止日期似乎是随意定的，因为没有给出理由。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an arbitrary decision",
+        "zh": "任意作出的决定"
+      }
+    ]
+  },
+  "philosophical": {
+    "examples": [
+      {
+        "en": "The book asks philosophical questions about happiness.",
+        "zh": "这本书提出了关于幸福的哲学问题。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a philosophical question",
+        "zh": "哲学问题"
+      }
+    ]
+  },
+  "abandon": {
+    "examples": [
+      {
+        "en": "They had to abandon the plan because of the storm.",
+        "zh": "由于暴风雨，他们不得不放弃这个计划。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "abandon a plan",
+        "zh": "放弃计划"
+      }
+    ]
+  },
+  "abstract": {
+    "examples": [
+      {
+        "en": "It is easier to explain an abstract idea with an example.",
+        "zh": "用例子更容易解释抽象概念。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an abstract concept",
+        "zh": "抽象概念"
+      }
+    ]
+  },
+  "academic": {
+    "examples": [
+      {
+        "en": "The library gives students access to academic journals.",
+        "zh": "图书馆让学生能够查阅学术期刊。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "academic research",
+        "zh": "学术研究"
+      }
+    ]
+  },
+  "accommodate": {
+    "examples": [
+      {
+        "en": "This room can accommodate six people comfortably.",
+        "zh": "这个房间可以舒适地容纳六个人。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "accommodate guests",
+        "zh": "接待并安置客人"
+      }
+    ]
+  },
+  "accumulate": {
+    "examples": [
+      {
+        "en": "Dust can accumulate on the shelves over time.",
+        "zh": "久而久之，架子上会积灰。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "accumulate experience",
+        "zh": "积累经验"
+      }
+    ]
+  },
+  "accurate": {
+    "examples": [
+      {
+        "en": "We need accurate information before making a decision.",
+        "zh": "我们需要准确的信息才能作出决定。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "accurate information",
+        "zh": "准确信息"
+      }
+    ]
+  },
+  "achieve": {
+    "examples": [
+      {
+        "en": "Regular practice will help you achieve your goal.",
+        "zh": "坚持练习会帮助你实现目标。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "achieve a goal",
+        "zh": "实现目标"
+      }
+    ]
+  },
+  "acknowledge": {
+    "examples": [
+      {
+        "en": "The report acknowledges that more research is needed.",
+        "zh": "报告承认还需要更多研究。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "acknowledge a mistake",
+        "zh": "承认错误"
+      }
+    ]
+  },
+  "adapt": {
+    "examples": [
+      {
+        "en": "Plants can adapt to changes in their environment.",
+        "zh": "植物能够适应环境变化。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "adapt to change",
+        "zh": "适应变化"
+      }
+    ]
+  },
+  "adequate": {
+    "examples": [
+      {
+        "en": "Make sure you have adequate time to finish the task.",
+        "zh": "确保你有足够的时间完成任务。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "adequate resources",
+        "zh": "充足的资源"
+      }
+    ]
+  },
+  "adjacent": {
+    "examples": [
+      {
+        "en": "The café is adjacent to the library.",
+        "zh": "咖啡馆紧挨着图书馆。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "adjacent to",
+        "zh": "与……相邻"
+      }
+    ]
+  },
+  "advocate": {
+    "examples": [
+      {
+        "en": "The group advocates better access to education.",
+        "zh": "这个团体主张让更多人有机会接受教育。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "advocate a policy",
+        "zh": "倡导一项政策"
+      }
+    ]
+  },
+  "allocate": {
+    "examples": [
+      {
+        "en": "We need to allocate more time to testing.",
+        "zh": "我们需要分配更多时间用于测试。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "allocate resources",
+        "zh": "分配资源"
+      }
+    ]
+  },
+  "alternative": {
+    "examples": [
+      {
+        "en": "Cycling is a convenient alternative to driving.",
+        "zh": "骑自行车是开车之外的一种便利选择。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an alternative approach",
+        "zh": "另一种方法"
+      }
+    ]
+  },
+  "ambiguous": {
+    "examples": [
+      {
+        "en": "The instructions are ambiguous and need to be clearer.",
+        "zh": "这些说明含义不明确，需要写得更清楚。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an ambiguous statement",
+        "zh": "含糊不清的陈述"
+      }
+    ]
+  },
+  "anticipate": {
+    "examples": [
+      {
+        "en": "We anticipate a rise in demand during the summer.",
+        "zh": "我们预计夏季需求会增加。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "anticipate a problem",
+        "zh": "预见问题"
+      }
+    ]
+  },
+  "apparent": {
+    "examples": [
+      {
+        "en": "It became apparent that the map was out of date.",
+        "zh": "地图已经过时这一点变得显而易见。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an apparent difference",
+        "zh": "明显的差异"
+      }
+    ]
+  },
+  "approach": {
+    "examples": [
+      {
+        "en": "We need a different approach to this problem.",
+        "zh": "我们需要用不同的方法处理这个问题。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "adopt an approach",
+        "zh": "采用一种方法"
+      }
+    ]
+  },
+  "assess": {
+    "examples": [
+      {
+        "en": "The teacher will assess each student's progress.",
+        "zh": "老师将评估每个学生的进步情况。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "assess a risk",
+        "zh": "评估风险"
+      }
+    ]
+  },
+  "assume": {
+    "examples": [
+      {
+        "en": "Do not assume that everyone has the same experience.",
+        "zh": "不要假定每个人都有相同的经历。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "assume responsibility",
+        "zh": "承担责任"
+      }
+    ]
+  },
+  "attain": {
+    "examples": [
+      {
+        "en": "She worked hard to attain a high level of fluency.",
+        "zh": "她努力学习，以达到较高的流利程度。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "attain a goal",
+        "zh": "达到目标"
+      }
+    ]
+  },
+  "attribute": {
+    "examples": [
+      {
+        "en": "They attribute their success to careful planning.",
+        "zh": "他们把成功归因于周密的计划。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "attribute something to something",
+        "zh": "把某事归因于某事"
+      }
+    ]
+  },
+  "bias": {
+    "examples": [
+      {
+        "en": "A larger sample can help reduce bias in the study.",
+        "zh": "更大的样本有助于减少研究中的偏差。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "reduce bias",
+        "zh": "减少偏差"
+      }
+    ]
+  },
+  "capacity": {
+    "examples": [
+      {
+        "en": "The new battery has a greater storage capacity.",
+        "zh": "新电池的储能容量更大。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "storage capacity",
+        "zh": "存储容量"
+      }
+    ]
+  },
+  "clarify": {
+    "examples": [
+      {
+        "en": "Could you clarify the last point in your explanation?",
+        "zh": "你能把解释中的最后一点讲清楚吗？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "clarify a point",
+        "zh": "澄清一个要点"
+      }
+    ]
+  },
+  "coherent": {
+    "examples": [
+      {
+        "en": "Her report presents a coherent argument.",
+        "zh": "她的报告提出了一套连贯的论证。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a coherent argument",
+        "zh": "连贯的论证"
+      }
+    ]
+  },
+  "coincide": {
+    "examples": [
+      {
+        "en": "The festival will coincide with the school holiday.",
+        "zh": "这个节日恰好与学校假期在同一时间。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "coincide with",
+        "zh": "与……同时发生"
+      }
+    ]
+  },
+  "collaborate": {
+    "examples": [
+      {
+        "en": "The two teams will collaborate on the new project.",
+        "zh": "这两个团队将合作开展新项目。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "collaborate with a team",
+        "zh": "与一个团队合作"
+      }
+    ]
+  },
+  "commence": {
+    "examples": [
+      {
+        "en": "Work on the bridge will commence next month.",
+        "zh": "桥梁工程将于下个月开始。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "commence work",
+        "zh": "开始工作"
+      }
+    ]
+  },
+  "compatible": {
+    "examples": [
+      {
+        "en": "Check whether the software is compatible with your device.",
+        "zh": "检查软件是否与你的设备兼容。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "compatible with",
+        "zh": "与……兼容"
+      }
+    ]
+  },
+  "compensate": {
+    "examples": [
+      {
+        "en": "The company will compensate passengers for the delay.",
+        "zh": "公司将向乘客赔偿延误造成的损失。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "compensate for a loss",
+        "zh": "弥补损失"
+      }
+    ]
+  },
+  "comprehensive": {
+    "examples": [
+      {
+        "en": "The book provides a comprehensive introduction to biology.",
+        "zh": "这本书全面介绍了生物学。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a comprehensive review",
+        "zh": "全面的评述"
+      }
+    ]
+  },
+  "comprise": {
+    "examples": [
+      {
+        "en": "The course comprises ten short lessons.",
+        "zh": "这门课程由十节短课组成。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "comprise several parts",
+        "zh": "由几个部分组成"
+      }
+    ]
+  },
+  "concentrate": {
+    "examples": [
+      {
+        "en": "I find it easier to concentrate in a quiet room.",
+        "zh": "我发现在安静的房间里更容易集中注意力。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "concentrate on a task",
+        "zh": "专注于一项任务"
+      }
+    ]
+  },
+  "conclude": {
+    "examples": [
+      {
+        "en": "The researchers conclude that more data is needed.",
+        "zh": "研究人员得出的结论是还需要更多数据。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "conclude a discussion",
+        "zh": "结束讨论"
+      }
+    ]
+  },
+  "concurrent": {
+    "examples": [
+      {
+        "en": "The server can handle many concurrent requests.",
+        "zh": "服务器能够处理许多并发请求。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "concurrent events",
+        "zh": "同时发生的事件"
+      }
+    ]
+  },
+  "confine": {
+    "examples": [
+      {
+        "en": "Please confine your answer to the question asked.",
+        "zh": "请把回答限定在所问的问题范围内。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "confine something to",
+        "zh": "将某事限制在……范围内"
+      }
+    ]
+  },
+  "consensus": {
+    "examples": [
+      {
+        "en": "The team reached a consensus after a long discussion.",
+        "zh": "经过长时间讨论，团队达成了共识。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "reach a consensus",
+        "zh": "达成共识"
+      }
+    ]
+  },
+  "consequence": {
+    "examples": [
+      {
+        "en": "Every decision has a consequence.",
+        "zh": "每个决定都会带来后果。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "as a consequence",
+        "zh": "因此"
+      }
+    ]
+  },
+  "consistent": {
+    "examples": [
+      {
+        "en": "The results are consistent with our earlier findings.",
+        "zh": "这些结果与我们此前的发现一致。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "consistent with",
+        "zh": "与……一致"
+      }
+    ]
+  },
+  "constitute": {
+    "examples": [
+      {
+        "en": "These documents constitute the final agreement.",
+        "zh": "这些文件构成最终协议。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "constitute a threat",
+        "zh": "构成威胁"
+      }
+    ]
+  },
+  "constrain": {
+    "examples": [
+      {
+        "en": "A limited budget can constrain our choices.",
+        "zh": "预算有限可能会限制我们的选择。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "constrain growth",
+        "zh": "限制增长"
+      }
+    ]
+  },
+  "contemporary": {
+    "examples": [
+      {
+        "en": "The gallery displays contemporary art.",
+        "zh": "这家美术馆展出当代艺术作品。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "contemporary society",
+        "zh": "当代社会"
+      }
+    ]
+  },
+  "contradict": {
+    "examples": [
+      {
+        "en": "The new evidence appears to contradict the original theory.",
+        "zh": "新证据似乎与原来的理论相矛盾。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "contradict a statement",
+        "zh": "与某项陈述相矛盾"
+      }
+    ]
+  },
+  "controversial": {
+    "examples": [
+      {
+        "en": "The proposal remains controversial among local residents.",
+        "zh": "这项提议在当地居民中仍存在争议。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a controversial issue",
+        "zh": "有争议的问题"
+      }
+    ]
+  },
+  "conventional": {
+    "examples": [
+      {
+        "en": "The study compares new methods with conventional ones.",
+        "zh": "这项研究比较了新方法与传统方法。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "conventional wisdom",
+        "zh": "普遍接受的看法"
+      }
+    ]
+  },
+  "convey": {
+    "examples": [
+      {
+        "en": "A picture can convey an idea without words.",
+        "zh": "一幅画可以不用文字就传达一个想法。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "convey a message",
+        "zh": "传达信息"
+      }
+    ]
+  },
+  "correspond": {
+    "examples": [
+      {
+        "en": "The numbers in the table correspond to the labels below.",
+        "zh": "表格中的数字与下方的标签相对应。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "correspond to",
+        "zh": "与……相对应"
+      }
+    ]
+  },
+  "crucial": {
+    "examples": [
+      {
+        "en": "Regular feedback is crucial to effective learning.",
+        "zh": "定期反馈对有效学习至关重要。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a crucial factor",
+        "zh": "关键因素"
+      }
+    ]
+  },
+  "deduce": {
+    "examples": [
+      {
+        "en": "We can deduce the answer from the information provided.",
+        "zh": "我们可以根据所提供的信息推断出答案。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "deduce a conclusion",
+        "zh": "推导出结论"
+      }
+    ]
+  },
+  "define": {
+    "examples": [
+      {
+        "en": "The first step is to define the problem clearly.",
+        "zh": "第一步是明确界定问题。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "define a term",
+        "zh": "给术语下定义"
+      }
+    ]
+  },
+  "demonstrate": {
+    "examples": [
+      {
+        "en": "The guide will demonstrate how to use the equipment.",
+        "zh": "向导将演示如何使用这些设备。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "demonstrate a skill",
+        "zh": "展示一项技能"
+      }
+    ]
+  },
+  "depict": {
+    "examples": [
+      {
+        "en": "The painting depicts a busy street in winter.",
+        "zh": "这幅画描绘了冬日一条繁忙的街道。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "depict a scene",
+        "zh": "描绘一个场景"
+      }
+    ]
+  },
+  "derive": {
+    "examples": [
+      {
+        "en": "Many English words derive from Latin.",
+        "zh": "许多英语词汇源自拉丁语。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "derive from",
+        "zh": "源自……"
+      }
+    ]
+  },
+  "deviate": {
+    "examples": [
+      {
+        "en": "Try not to deviate from the agreed plan.",
+        "zh": "尽量不要偏离已商定的计划。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "deviate from a plan",
+        "zh": "偏离计划"
+      }
+    ]
+  },
+  "diminish": {
+    "examples": [
+      {
+        "en": "The noise began to diminish as the train moved away.",
+        "zh": "随着火车远去，噪声开始减弱。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "diminish in importance",
+        "zh": "重要性降低"
+      }
+    ]
+  },
+  "discrete": {
+    "examples": [
+      {
+        "en": "The course is divided into three discrete sections.",
+        "zh": "这门课程分为三个独立的部分。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "discrete units",
+        "zh": "独立的单元"
+      }
+    ]
+  },
+  "distinct": {
+    "examples": [
+      {
+        "en": "The two plants have distinct patterns on their leaves.",
+        "zh": "这两种植物的叶片上有明显不同的纹路。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a distinct advantage",
+        "zh": "明显的优势"
+      }
+    ]
+  },
+  "distort": {
+    "examples": [
+      {
+        "en": "A poor recording can distort the sound of a voice.",
+        "zh": "质量差的录音可能使人声失真。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "distort the facts",
+        "zh": "歪曲事实"
+      }
+    ]
+  },
+  "diverse": {
+    "examples": [
+      {
+        "en": "The city is home to people from diverse backgrounds.",
+        "zh": "这座城市居住着背景各异的人。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "diverse perspectives",
+        "zh": "多元的观点"
+      }
+    ]
+  },
+  "dynamic": {
+    "examples": [
+      {
+        "en": "The coastline is a dynamic environment that changes constantly.",
+        "zh": "海岸线是一个不断变化的环境。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a dynamic process",
+        "zh": "动态过程"
+      }
+    ]
+  },
+  "elaborate": {
+    "examples": [
+      {
+        "en": "She drew an elaborate map of the old city.",
+        "zh": "她绘制了一幅详尽的古城地图。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an elaborate design",
+        "zh": "精巧复杂的设计"
+      }
+    ]
+  },
+  "emerge": {
+    "examples": [
+      {
+        "en": "Several new questions emerged during the discussion.",
+        "zh": "讨论过程中出现了几个新问题。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "emerge from",
+        "zh": "从……中出现"
+      }
+    ]
+  },
+  "empirical": {
+    "examples": [
+      {
+        "en": "The theory needs support from empirical evidence.",
+        "zh": "这个理论需要实证证据的支持。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "empirical evidence",
+        "zh": "实证证据"
+      }
+    ]
+  },
+  "enhance": {
+    "examples": [
+      {
+        "en": "Good lighting can enhance the appearance of a room.",
+        "zh": "良好的照明可以改善房间的观感。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "enhance understanding",
+        "zh": "增进理解"
+      }
+    ]
+  },
+  "ensure": {
+    "examples": [
+      {
+        "en": "Check the address to ensure that the package arrives safely.",
+        "zh": "核对地址，确保包裹安全送达。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "ensure safety",
+        "zh": "确保安全"
+      }
+    ]
+  },
+  "equivalent": {
+    "examples": [
+      {
+        "en": "The two amounts are equivalent in value.",
+        "zh": "这两个数额的价值相等。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "equivalent to",
+        "zh": "等同于……"
+      }
+    ]
+  },
+  "establish": {
+    "examples": [
+      {
+        "en": "The study helped establish a link between the two events.",
+        "zh": "这项研究有助于确定这两个事件之间的联系。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "establish a relationship",
+        "zh": "建立联系"
+      }
+    ]
+  },
+  "evaluate": {
+    "examples": [
+      {
+        "en": "We need time to evaluate the results of the experiment.",
+        "zh": "我们需要时间评估实验结果。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "evaluate performance",
+        "zh": "评估表现"
+      }
+    ]
+  },
+  "evident": {
+    "examples": [
+      {
+        "en": "Her enthusiasm was evident from the way she spoke.",
+        "zh": "从她说话的方式就能看出她的热情。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "it is evident that",
+        "zh": "显然……"
+      }
+    ]
+  },
+  "exclude": {
+    "examples": [
+      {
+        "en": "The survey will exclude people under the age of eighteen.",
+        "zh": "这项调查将排除未满十八岁的人。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "exclude a possibility",
+        "zh": "排除一种可能性"
+      }
+    ]
+  },
+  "explicit": {
+    "examples": [
+      {
+        "en": "The instructions give explicit details about each step.",
+        "zh": "这些说明明确列出了每一步的细节。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "explicit instructions",
+        "zh": "明确的指示"
+      }
+    ]
+  },
+  "facilitate": {
+    "examples": [
+      {
+        "en": "The new tool will facilitate communication across teams.",
+        "zh": "这个新工具将促进团队之间的沟通。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "facilitate learning",
+        "zh": "促进学习"
+      }
+    ]
+  },
+  "feasible": {
+    "examples": [
+      {
+        "en": "We need to decide whether the proposal is feasible.",
+        "zh": "我们需要判断这项提议是否可行。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a feasible solution",
+        "zh": "可行的解决办法"
+      }
+    ]
+  },
+  "fluctuate": {
+    "examples": [
+      {
+        "en": "Temperatures can fluctuate widely during the spring.",
+        "zh": "春季气温可能会大幅波动。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "fluctuate between",
+        "zh": "在……之间波动"
+      }
+    ]
+  },
+  "formulate": {
+    "examples": [
+      {
+        "en": "The students worked together to formulate a research question.",
+        "zh": "学生们合作提出了一个研究问题。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "formulate a plan",
+        "zh": "制订计划"
+      }
+    ]
+  },
+  "fundamental": {
+    "examples": [
+      {
+        "en": "Trust is fundamental to a strong working relationship.",
+        "zh": "信任对稳固的工作关系至关重要。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a fundamental principle",
+        "zh": "基本原则"
+      }
+    ]
+  },
+  "hypothesis": {
+    "examples": [
+      {
+        "en": "The experiment was designed to test our hypothesis.",
+        "zh": "这项实验旨在检验我们的假设。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "test a hypothesis",
+        "zh": "检验假设"
+      }
+    ]
+  },
+  "illustrate": {
+    "examples": [
+      {
+        "en": "This example will illustrate the difference between the two methods.",
+        "zh": "这个例子将说明两种方法的区别。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "illustrate a point",
+        "zh": "说明一个要点"
+      }
+    ]
+  },
+  "implicit": {
+    "examples": [
+      {
+        "en": "There was an implicit assumption that everyone would agree.",
+        "zh": "其中隐含着一个假定，即所有人都会同意。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an implicit assumption",
+        "zh": "隐含的假定"
+      }
+    ]
+  },
+  "imply": {
+    "examples": [
+      {
+        "en": "A high price does not always imply high quality.",
+        "zh": "价格高并不总意味着质量好。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "imply a connection",
+        "zh": "暗示存在联系"
+      }
+    ]
+  },
+  "incentive": {
+    "examples": [
+      {
+        "en": "Flexible working hours provide an incentive to stay.",
+        "zh": "灵活的工作时间为员工留下来提供了动力。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an incentive to improve",
+        "zh": "促进改进的激励"
+      }
+    ]
+  },
+  "incorporate": {
+    "examples": [
+      {
+        "en": "The revised plan will incorporate your suggestions.",
+        "zh": "修订后的计划将纳入你的建议。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "incorporate feedback",
+        "zh": "采纳反馈"
+      }
+    ]
+  },
+  "indicate": {
+    "examples": [
+      {
+        "en": "The signs indicate that the trail turns left.",
+        "zh": "这些标志表明小路在此向左转。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "indicate a change",
+        "zh": "表明变化"
+      }
+    ]
+  },
+  "inevitable": {
+    "examples": [
+      {
+        "en": "Some delays are inevitable when the weather is severe.",
+        "zh": "天气恶劣时，一些延误是不可避免的。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an inevitable consequence",
+        "zh": "不可避免的后果"
+      }
+    ]
+  },
+  "infer": {
+    "examples": [
+      {
+        "en": "We can infer her feelings from the tone of the letter.",
+        "zh": "我们可以从信的语气推断出她的感受。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "infer from evidence",
+        "zh": "根据证据推断"
+      }
+    ]
+  },
+  "inhibit": {
+    "examples": [
+      {
+        "en": "A lack of confidence can inhibit participation in class.",
+        "zh": "缺乏自信可能会妨碍课堂参与。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "inhibit growth",
+        "zh": "抑制生长"
+      }
+    ]
+  },
+  "initial": {
+    "examples": [
+      {
+        "en": "Our initial estimate was lower than the final cost.",
+        "zh": "我们最初的估算低于最终成本。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an initial assessment",
+        "zh": "初步评估"
+      }
+    ]
+  },
+  "integrate": {
+    "examples": [
+      {
+        "en": "The system can integrate data from several sources.",
+        "zh": "这个系统能够整合多个来源的数据。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "integrate information",
+        "zh": "整合信息"
+      }
+    ]
+  },
+  "interpret": {
+    "examples": [
+      {
+        "en": "Different readers may interpret the poem in different ways.",
+        "zh": "不同读者可能会以不同的方式理解这首诗。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "interpret results",
+        "zh": "解读结果"
+      }
+    ]
+  },
+  "intrinsic": {
+    "examples": [
+      {
+        "en": "Curiosity can be an intrinsic source of motivation.",
+        "zh": "好奇心可以成为内在动力的来源。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "intrinsic value",
+        "zh": "内在价值"
+      }
+    ]
+  },
+  "justify": {
+    "examples": [
+      {
+        "en": "The evidence does not justify such a strong conclusion.",
+        "zh": "这些证据不足以支持如此肯定的结论。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "justify a decision",
+        "zh": "为决定提供合理依据"
+      }
+    ]
+  },
+  "maintain": {
+    "examples": [
+      {
+        "en": "Regular exercise can help maintain your fitness.",
+        "zh": "经常锻炼可以帮助你保持良好的身体状态。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "maintain a balance",
+        "zh": "维持平衡"
+      }
+    ]
+  },
+  "nevertheless": {
+    "examples": [
+      {
+        "en": "The route was difficult; nevertheless, we reached the village before dark.",
+        "zh": "这条路线很难走，尽管如此，我们仍在天黑前到达了村庄。"
+      }
+    ],
+    "collocations": []
+  },
+  "objective": {
+    "examples": [
+      {
+        "en": "We need an objective assessment of the evidence.",
+        "zh": "我们需要对证据作出客观评估。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an objective assessment",
+        "zh": "客观评估"
+      }
+    ]
+  },
+  "obtain": {
+    "examples": [
+      {
+        "en": "You can obtain a copy of the form at the front desk.",
+        "zh": "你可以在前台领取一份表格。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "obtain permission",
+        "zh": "获得许可"
+      }
+    ]
+  },
+  "persist": {
+    "examples": [
+      {
+        "en": "If the problem persists, contact the support team.",
+        "zh": "如果问题持续存在，请联系支持团队。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "persist in doing something",
+        "zh": "坚持做某事"
+      }
+    ]
+  },
+  "phenomenon": {
+    "examples": [
+      {
+        "en": "The researchers are studying this unusual phenomenon.",
+        "zh": "研究人员正在研究这一不寻常的现象。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a natural phenomenon",
+        "zh": "自然现象"
+      }
+    ]
+  },
+  "potential": {
+    "examples": [
+      {
+        "en": "The site has potential for further development.",
+        "zh": "这个地点具有进一步开发的潜力。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "potential benefits",
+        "zh": "潜在的益处"
+      }
+    ]
+  },
+  "precede": {
+    "examples": [
+      {
+        "en": "A short introduction will precede the main presentation.",
+        "zh": "正式演讲之前会有一段简短介绍。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "precede an event",
+        "zh": "在某事件之前发生"
+      }
+    ]
+  },
+  "precise": {
+    "examples": [
+      {
+        "en": "Please give me the precise location of the meeting.",
+        "zh": "请告诉我会议的确切地点。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "precise instructions",
+        "zh": "精确的指示"
+      }
+    ]
+  },
+  "predominant": {
+    "examples": [
+      {
+        "en": "Green is the predominant colour in the painting.",
+        "zh": "绿色是这幅画的主色调。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "the predominant view",
+        "zh": "占主导地位的观点"
+      }
+    ]
+  },
+  "preliminary": {
+    "examples": [
+      {
+        "en": "These are preliminary results and may change.",
+        "zh": "这些是初步结果，可能还会变化。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "preliminary findings",
+        "zh": "初步发现"
+      }
+    ]
+  },
+  "presume": {
+    "examples": [
+      {
+        "en": "I presume that the meeting will start at nine.",
+        "zh": "我估计会议九点开始。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "presume innocence",
+        "zh": "推定无罪"
+      }
+    ]
+  },
+  "proportion": {
+    "examples": [
+      {
+        "en": "A large proportion of the students travel by bus.",
+        "zh": "很大一部分学生乘公共汽车出行。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a large proportion of",
+        "zh": "……中的很大一部分"
+      }
+    ]
+  },
+  "pursue": {
+    "examples": [
+      {
+        "en": "She decided to pursue further study abroad.",
+        "zh": "她决定到国外继续深造。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "pursue an interest",
+        "zh": "追求兴趣"
+      }
+    ]
+  },
+  "qualitative": {
+    "examples": [
+      {
+        "en": "The study combines interviews with qualitative analysis.",
+        "zh": "这项研究将访谈与定性分析结合起来。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "qualitative analysis",
+        "zh": "定性分析"
+      }
+    ]
+  },
+  "quantitative": {
+    "examples": [
+      {
+        "en": "The team collected quantitative data on energy use.",
+        "zh": "团队收集了能源使用方面的定量数据。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "quantitative data",
+        "zh": "定量数据"
+      }
+    ]
+  },
+  "rational": {
+    "examples": [
+      {
+        "en": "We need a rational explanation for the difference.",
+        "zh": "我们需要为这种差异找到一个合理的解释。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a rational decision",
+        "zh": "理性的决定"
+      }
+    ]
+  },
+  "relevant": {
+    "examples": [
+      {
+        "en": "Please include only information relevant to the topic.",
+        "zh": "请只包含与主题相关的信息。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "relevant to",
+        "zh": "与……相关"
+      }
+    ]
+  },
+  "reliable": {
+    "examples": [
+      {
+        "en": "The station provides a reliable local weather forecast.",
+        "zh": "这家电台提供可靠的当地天气预报。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a reliable source",
+        "zh": "可靠的来源"
+      }
+    ]
+  },
+  "resolve": {
+    "examples": [
+      {
+        "en": "The two sides met to resolve their differences.",
+        "zh": "双方会面以解决分歧。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "resolve a conflict",
+        "zh": "解决冲突"
+      }
+    ]
+  },
+  "retain": {
+    "examples": [
+      {
+        "en": "The soil can retain water for several days.",
+        "zh": "这种土壤能够保持水分数日。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "retain information",
+        "zh": "记住信息"
+      }
+    ]
+  },
+  "rigorous": {
+    "examples": [
+      {
+        "en": "The product must pass rigorous testing before release.",
+        "zh": "产品在发布前必须经过严格测试。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "rigorous testing",
+        "zh": "严格测试"
+      }
+    ]
+  },
+  "significant": {
+    "examples": [
+      {
+        "en": "There was a significant improvement in her reading speed.",
+        "zh": "她的阅读速度有了显著提高。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a significant difference",
+        "zh": "显著差异"
+      }
+    ]
+  },
+  "simultaneous": {
+    "examples": [
+      {
+        "en": "The festival will feature simultaneous events across the city.",
+        "zh": "节日期间，全市将同时举行多场活动。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "simultaneous translation",
+        "zh": "同声传译"
+      }
+    ]
+  },
+  "subsequent": {
+    "examples": [
+      {
+        "en": "Subsequent studies confirmed the original findings.",
+        "zh": "后续研究证实了最初的发现。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "subsequent research",
+        "zh": "后续研究"
+      }
+    ]
+  },
+  "sufficient": {
+    "examples": [
+      {
+        "en": "We have sufficient evidence to support the claim.",
+        "zh": "我们有足够的证据支持这一说法。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "sufficient evidence",
+        "zh": "充分的证据"
+      }
+    ]
+  },
+  "sustain": {
+    "examples": [
+      {
+        "en": "The project needs funding to sustain its activities.",
+        "zh": "这个项目需要资金来维持其活动。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "sustain growth",
+        "zh": "维持增长"
+      }
+    ]
+  },
+  "tentative": {
+    "examples": [
+      {
+        "en": "We have made a tentative plan for next week.",
+        "zh": "我们为下周制订了一个暂定计划。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a tentative agreement",
+        "zh": "初步协议"
+      }
+    ]
+  },
+  "undergo": {
+    "examples": [
+      {
+        "en": "The building will undergo repairs this summer.",
+        "zh": "这栋楼将于今年夏天进行修缮。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "undergo a change",
+        "zh": "经历变化"
+      }
+    ]
+  },
+  "underlying": {
+    "examples": [
+      {
+        "en": "We need to understand the underlying cause of the problem.",
+        "zh": "我们需要了解问题的根本原因。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "the underlying cause",
+        "zh": "根本原因"
+      }
+    ]
+  },
+  "validate": {
+    "examples": [
+      {
+        "en": "Further experiments are needed to validate the results.",
+        "zh": "需要进一步实验来验证这些结果。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "validate a hypothesis",
+        "zh": "验证假设"
+      }
+    ]
+  },
+  "variable": {
+    "examples": [
+      {
+        "en": "The price is variable and depends on demand.",
+        "zh": "价格会变化，取决于需求。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a variable rate",
+        "zh": "浮动利率"
+      }
+    ]
+  },
+  "verify": {
+    "examples": [
+      {
+        "en": "Please verify the details before submitting the form.",
+        "zh": "提交表格之前，请核实各项细节。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "verify information",
+        "zh": "核实信息"
+      }
+    ]
+  },
+  "whereas": {
+    "examples": [
+      {
+        "en": "The first route is shorter, whereas the second is quieter.",
+        "zh": "第一条路线更短，而第二条更安静。"
+      }
+    ],
+    "collocations": []
+  },
+  "teaching": {
+    "examples": [
+      {
+        "en": "Teaching requires patience and clear communication.",
+        "zh": "教学需要耐心和清晰的沟通。"
+      },
+      {
+        "en": "Her teaching helped the students understand difficult ideas.",
+        "zh": "她的教学帮助学生理解了复杂的概念。"
+      }
+    ],
+    "collocations": []
+  }
+}

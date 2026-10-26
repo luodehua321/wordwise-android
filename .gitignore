@@ -1,0 +1,41 @@
+.DS_Store
+.idea/
+*.iml
+local.properties
+.gradle/
+.kotlin/
+**/build/
+__pycache__/
+*.py[cod]
+.venv/
+# Local signing identity must never be uploaded
+keystore/
+*.keystore
+*.jks
+keystore.properties
+.env
+.env.*
+!.env.example
+# Generated packages and diagnostics
+dist/
+release-upload/
+*.apk
+*.aab
+*.log
+# Large original snapshots remain local
+tools/.cache/
+tools/data/*.jsonl.gz
+tools/data/open-dictionary-v2.0-matched.json
+tools/data/v209-*
+tools/data/v210-*
+# Recreated automatically before Android builds
+app/src/main/assets/prepared_vocabulary.db
+app/src/main/assets/prepared_vocabulary.bin
+app/src/main/assets/prepared_vocabulary.json
+# Individual fetch-cache entries are duplicated in the retained aggregate
+tools/data/public_ipa_v15/kaikki/
+tools/data/public_ipa_v15/kaikki-intimate.html
+# Full upstream corpora are development-only; keep their notices and aggregates
+tools/data/*.zip
+tools/data/public_ipa_v15/en_US.txt
+tools/data/public_ipa_v15/eng_latn_*.tsv

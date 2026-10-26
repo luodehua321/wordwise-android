@@ -1,0 +1,103 @@
+{
+  "availability": {
+    "meaningZh": "n. 可获得性；可用性；有空的状态",
+    "reason": "补足订位、库存、人员时间等常用语境。"
+  },
+  "regulator": {
+    "meaningZh": "n. 监管机构；监管者；调节器；调压器",
+    "reason": "补足当代常见的行业监管义。"
+  },
+  "sustainable": {
+    "meaningZh": "adj. 可持续的；能够长期维持的；不破坏环境的",
+    "reason": "补足可持续发展与环境语境的常用义。"
+  },
+  "rehabilitation": {
+    "meaningZh": "n. 康复；恢复；重建；改造",
+    "reason": "补足康复治疗及社会恢复义。"
+  },
+  "accountability": {
+    "meaningZh": "n. 问责；负有说明或承担后果的责任",
+    "reason": "用明确中文表达对行为、结果负责的含义。"
+  },
+  "ensemble": {
+    "meaningZh": "n. 合奏团；合唱团；全体；整套服装",
+    "reason": "补足音乐学习语境中常见的团体义。"
+  },
+  "vulnerability": {
+    "meaningZh": "n. 脆弱性；易受伤害的状态；弱点；漏洞",
+    "reason": "补足软件安全领域常见的漏洞义。"
+  },
+  "diner": {
+    "meaningZh": "n. 用餐者；美式小餐馆；餐车",
+    "reason": "补足美式英语常用的餐馆义。"
+  },
+  "credential": {
+    "meaningZh": "n. 资格证明；证书；凭据；国书",
+    "reason": "把常用资格证明义放在前面。"
+  },
+  "definitive": {
+    "meaningZh": "adj. 明确的；确定的；最终的；权威性的",
+    "partOfSpeech": "adj.",
+    "reason": "修正错误的名词释义，并呈现常用形容词义。"
+  },
+  "parenting": {
+    "meaningZh": "n. 育儿；对子女的养育和教育",
+    "reason": "以常用中文概括养育义。"
+  },
+  "sexuality": {
+    "meaningZh": "n. 性；性欲；性行为；性取向",
+    "reason": "补足用于个人和社会语境的常用义，不只指生理性征。"
+  },
+  "staffer": {
+    "meaningZh": "n. 工作人员；职员；幕僚",
+    "reason": "补足一般机构、竞选团队语境。"
+  },
+  "adverse": {
+    "meaningZh": "adj. 不利的；有害的；负面的；相反的",
+    "reason": "补足 adverse effects 的常用搭配含义。"
+  },
+  "vintage": {
+    "meaningZh": "adj. 老式而优质的；复古的；特定年代的\nn. 葡萄收获年份；某年份酿的酒",
+    "reason": "补足相机、衣物等复古语境，并明确葡萄酒年份义。"
+  },
+  "partisan": {
+    "meaningZh": "adj. 党派的；偏袒某一方的\nn. 坚定的支持者；游击队员",
+    "reason": "清楚区分当代党派义与名词义。"
+  },
+  "potent": {
+    "meaningZh": "adj. 强有力的；有效的；药效强的",
+    "reason": "呈现常用力量与效力义，避免仅按单一语境理解。"
+  },
+  "usage": {
+    "meaningZh": "n. 用法；使用；使用量；惯例",
+    "reason": "补足 data usage 等常见使用量语境。"
+  },
+  "coverage": {
+    "meaningZh": "n. 新闻报道；覆盖范围；保险范围",
+    "reason": "补足信号覆盖与保险覆盖语境。"
+  },
+  "turnover": {
+    "meaningZh": "n. 营业额；人员流动率；周转；翻面；半圆酥饼",
+    "reason": "补足 staff turnover，并按常用商务义排序。"
+  },
+  "southern": {
+    "meaningZh": "adj. 南方的；南部的；向南的",
+    "partOfSpeech": "adj.",
+    "reason": "删除原数据“男风”错字，并优先呈现常用方位形容词义。"
+  },
+  "eastern": {
+    "meaningZh": "adj. 东方的；东部的；向东的",
+    "partOfSpeech": "adj.",
+    "reason": "优先呈现常用方位形容词义，避免把特定宗教名词义当作基础义。"
+  },
+  "financier": {
+    "meaningZh": "n. 金融家；融资者",
+    "partOfSpeech": "n.",
+    "reason": "优先呈现常用职业名词义，避免把欺骗行为当作一般释义。"
+  },
+  "mum": {
+    "meaningZh": "n. 妈妈（英国口语）；菊花\nadj. 沉默的；不作声的",
+    "partOfSpeech": "n. / adj.",
+    "reason": "补足常见英式口语“妈妈”义；参考Cambridge mum词条，中文为项目原创概述。"
+  }
+}

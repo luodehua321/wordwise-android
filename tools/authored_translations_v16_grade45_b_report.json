@@ -1,0 +1,21 @@
+{
+  "version": "v16-grade45-b",
+  "translationMappings": 600,
+  "matchedBlankItemsAllGrades": 679,
+  "matchedBlankItemsByOriginalGrade": {
+    "4": 455,
+    "5": 158,
+    "6": 23,
+    "7": 17,
+    "8": 10,
+    "10": 10,
+    "9": 6
+  },
+  "sourceSHA256": "faa3a9ca03737e9184549165aaca44a8cfb594a322bb576cb58a503789cbb8d5",
+  "outputSHA256": "f823df109471f25cc3d5b0346660972b972b80795d3855df5fd960db289c2510",
+  "assertions": [
+    "600 exact-English keys match fixed scope",
+    "all translations are nonempty Chinese",
+    "assets unchanged by this agent"
+  ]
+}

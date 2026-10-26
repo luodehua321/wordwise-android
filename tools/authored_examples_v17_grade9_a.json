@@ -1,0 +1,1075 @@
+{
+  "license": "CC0 1.0",
+  "words": {
+    "counterterrorism": {
+      "examples": [
+        {
+          "en": "The course examines the relationship between counterterrorism and civil liberties.",
+          "zh": "这门课程探讨了反恐与公民自由之间的关系。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 反恐；反恐行动"
+    },
+    "interdependence": {
+      "examples": [
+        {
+          "en": "The report highlights the interdependence of the two economies.",
+          "zh": "报告着重指出了两个经济体之间的相互依存关系。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "perpetually": {
+      "examples": [
+        {
+          "en": "The old clock seemed perpetually five minutes slow.",
+          "zh": "那座旧钟似乎总是慢五分钟。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "precondition": {
+      "examples": [
+        {
+          "en": "Reliable transport is a precondition for the project's success.",
+          "zh": "可靠的交通是这个项目成功的先决条件。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "pornographic": {
+      "examples": [
+        {
+          "en": "The library's policy excludes pornographic material.",
+          "zh": "这家图书馆的规定不允许收藏色情材料。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "retardation": {
+      "examples": [
+        {
+          "en": "The study examined the retardation of plant growth under low light.",
+          "zh": "这项研究考察了光照不足时植物生长的延缓。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "stereotypical": {
+      "examples": [
+        {
+          "en": "The film avoids a stereotypical portrayal of the community.",
+          "zh": "这部电影避免了对这个群体作刻板的描绘。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "apprehensive": {
+      "examples": [
+        {
+          "en": "She felt apprehensive before the interview.",
+          "zh": "面试前，她感到忐忑不安。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "personalize": {
+      "examples": [
+        {
+          "en": "You can personalize the notebook by adding your name to the cover.",
+          "zh": "你可以把名字加在封面上，让笔记本更有个人特色。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "vt.",
+      "meaningZh": "vt. 使个性化；按个人需要定制；在物品上标明姓名；使成为个人问题"
+    },
+    "postmodernism": {
+      "examples": [
+        {
+          "en": "The seminar introduced several debates about postmodernism in literature.",
+          "zh": "研讨会介绍了文学领域中有关后现代主义的几场争论。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "epistemological": {
+      "examples": [
+        {
+          "en": "The essay raises an epistemological question about how we know what is true.",
+          "zh": "这篇文章就我们如何认识真理提出了一个认识论问题。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "methodically": {
+      "examples": [
+        {
+          "en": "He methodically checked each cable before starting the machine.",
+          "zh": "他有条不紊地检查了每根电缆，然后才启动机器。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "elaboration": {
+      "examples": [
+        {
+          "en": "The proposal needs further elaboration before we can assess it.",
+          "zh": "这项提案还需要进一步阐述，我们才能评估。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 详细阐述；进一步说明；精心制作；发展完善"
+    },
+    "pluralistic": {
+      "examples": [
+        {
+          "en": "The school aims to serve a pluralistic society.",
+          "zh": "这所学校致力于服务一个多元化的社会。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj.",
+      "meaningZh": "adj. 多元的；多元主义的"
+    },
+    "appropriateness": {
+      "examples": [
+        {
+          "en": "The committee questioned the appropriateness of the chosen venue.",
+          "zh": "委员会质疑了所选场所是否合适。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 合适性；恰当程度"
+    },
+    "predominate": {
+      "examples": [
+        {
+          "en": "Local issues predominate in the discussion.",
+          "zh": "地方性议题在讨论中占据主导地位。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "inconclusive": {
+      "examples": [
+        {
+          "en": "The first round of tests produced inconclusive results.",
+          "zh": "第一轮测试未能得出明确的结论。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj.",
+      "meaningZh": "adj. 未有定论的；不足以下结论的"
+    },
+    "extrapolate": {
+      "examples": [
+        {
+          "en": "We should not extrapolate too much from such a small sample.",
+          "zh": "我们不应根据这么小的样本作过多推断。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "admonition": {
+      "examples": [
+        {
+          "en": "She remembered her teacher's admonition to check the sources carefully.",
+          "zh": "她记得老师告诫过，要仔细核查来源。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "oscillation": {
+      "examples": [
+        {
+          "en": "The sensor recorded a small oscillation in the signal.",
+          "zh": "传感器记录到了信号中的一次微小振荡。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "roundtable": {
+      "examples": [
+        {
+          "en": "The conference ended with a roundtable on education.",
+          "zh": "会议以一场关于教育的圆桌讨论结束。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n. / adj.",
+      "meaningZh": "n. 圆桌会议；圆桌讨论\nadj. 圆桌会议的"
+    },
+    "seniority": {
+      "examples": [
+        {
+          "en": "Seniority was one factor in the promotion decision.",
+          "zh": "资历是这次晋升决定的考虑因素之一。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 资历；年资；职位较高；年长"
+    },
+    "commonality": {
+      "examples": [
+        {
+          "en": "The discussion revealed a surprising commonality between the two projects.",
+          "zh": "讨论揭示了两个项目之间一个出人意料的共同点。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 共性；共同点；共同特征"
+    },
+    "pretension": {
+      "examples": [
+        {
+          "en": "He spoke with confidence but without pretension.",
+          "zh": "他讲话自信，却不装腔作势。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "desirability": {
+      "examples": [
+        {
+          "en": "The study examines the desirability of expanding the service.",
+          "zh": "这项研究考察了扩大服务规模是否可取。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 可取性；值得向往的程度；吸引力"
+    },
+    "religiosity": {
+      "examples": [
+        {
+          "en": "The survey measured religiosity without asking about political views.",
+          "zh": "这项调查测量了宗教虔诚程度，没有询问政治观点。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 宗教性；宗教虔诚；宗教信仰的虔诚程度"
+    },
+    "embankment": {
+      "examples": [
+        {
+          "en": "They walked along the river embankment at sunset.",
+          "zh": "日落时，他们沿着河堤散步。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "exasperation": {
+      "examples": [
+        {
+          "en": "She sighed in exasperation when the printer jammed again.",
+          "zh": "打印机再次卡纸时，她恼怒地叹了口气。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "denigrate": {
+      "examples": [
+        {
+          "en": "The debate should not be used to denigrate those who disagree.",
+          "zh": "不应借辩论来诋毁持不同意见的人。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "vt.",
+      "meaningZh": "vt. 诋毁；贬低"
+    },
+    "craftsmanship": {
+      "examples": [
+        {
+          "en": "The cabinet shows remarkable craftsmanship.",
+          "zh": "这个橱柜展现了精湛的制作工艺。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 精湛技艺；工艺；手工制作的质量"
+    },
+    "entomologist": {
+      "examples": [
+        {
+          "en": "The entomologist identified the insect from a photograph.",
+          "zh": "昆虫学家根据一张照片辨认出了这种昆虫。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "acceptability": {
+      "examples": [
+        {
+          "en": "The survey assessed the acceptability of the proposed changes.",
+          "zh": "调查评估了大家对拟议变动的接受程度。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 可接受性；认可程度"
+    },
+    "molestation": {
+      "examples": [
+        {
+          "en": "The report examines how institutions respond to allegations of molestation.",
+          "zh": "这份报告考察了机构如何应对猥亵指控。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 猥亵；性骚扰；骚扰；干扰"
+    },
+    "transformative": {
+      "examples": [
+        {
+          "en": "The exchange programme proved transformative for her education.",
+          "zh": "那个交流项目给她的教育经历带来了深刻改变。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "purification": {
+      "examples": [
+        {
+          "en": "The experiment included a stage of water purification.",
+          "zh": "实验包含一个净水阶段。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "celebratory": {
+      "examples": [
+        {
+          "en": "They shared a celebratory meal after finishing the project.",
+          "zh": "项目完成后，他们一起吃了一顿庆功饭。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj.",
+      "meaningZh": "adj. 庆祝的；用于庆贺的"
+    },
+    "conciliatory": {
+      "examples": [
+        {
+          "en": "Her conciliatory tone helped reduce the tension.",
+          "zh": "她愿意和解的语气有助于缓和紧张气氛。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "solicitation": {
+      "examples": [
+        {
+          "en": "They received a solicitation for donations from the museum.",
+          "zh": "他们收到了博物馆发来的募捐请求。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 请求；征求；募捐请求；业务招揽；劝诱"
+    },
+    "quandary": {
+      "examples": [
+        {
+          "en": "The unexpected offer left her in a quandary.",
+          "zh": "那个出乎意料的提议让她陷入两难。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "essayist": {
+      "examples": [
+        {
+          "en": "The essayist explored everyday life with humour and insight.",
+          "zh": "那位随笔作家以幽默和洞察力探索日常生活。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "altruism": {
+      "examples": [
+        {
+          "en": "The book examines the role of altruism in cooperation.",
+          "zh": "这本书考察了利他行为在合作中的作用。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "purist": {
+      "examples": [
+        {
+          "en": "A language purist objected to the new expression.",
+          "zh": "一位语言纯粹主义者反对使用那个新表达。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "revulsion": {
+      "examples": [
+        {
+          "en": "The cruelty described in the account filled her with revulsion.",
+          "zh": "叙述中的残忍行为让她感到强烈的厌恶。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "cordless": {
+      "examples": [
+        {
+          "en": "She used a cordless drill to assemble the shelves.",
+          "zh": "她用无绳电钻组装搁架。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj.",
+      "meaningZh": "adj. 无绳的；无线连接的"
+    },
+    "berate": {
+      "examples": [
+        {
+          "en": "There is no need to berate him for an honest mistake.",
+          "zh": "没有必要因一个无心的错误而严厉责骂他。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "encampment": {
+      "examples": [
+        {
+          "en": "The hikers reached the encampment before dark.",
+          "zh": "徒步者们在天黑前到达了营地。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 营地；宿营地；扎营"
+    },
+    "finality": {
+      "examples": [
+        {
+          "en": "The door closed with a sense of finality.",
+          "zh": "门关上了，仿佛一切已成定局。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "tantalize": {
+      "examples": [
+        {
+          "en": "The trailer was designed to tantalize viewers with glimpses of the story.",
+          "zh": "预告片通过展示故事片段来吊起观众的胃口。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "profusion": {
+      "examples": [
+        {
+          "en": "A profusion of flowers filled the garden.",
+          "zh": "花园里开满了鲜花。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "wholeness": {
+      "examples": [
+        {
+          "en": "The essay stresses the wholeness of the work rather than its separate parts.",
+          "zh": "这篇文章强调作品的整体性，而不是其中各个独立部分。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 完整性；整体性"
+    },
+    "passivity": {
+      "examples": [
+        {
+          "en": "His passivity during the crisis surprised his colleagues.",
+          "zh": "他在危机中的被动态度让同事们感到意外。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "expletive": {
+      "examples": [
+        {
+          "en": "The editor removed an expletive from the quotation.",
+          "zh": "编辑从引文中删去了一个脏话词。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "disingenuous": {
+      "examples": [
+        {
+          "en": "It would be disingenuous to pretend that we knew nothing about the problem.",
+          "zh": "假装我们对这个问题一无所知，就显得不真诚了。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj.",
+      "meaningZh": "adj. 不真诚的；虚伪的；故作不知的"
+    },
+    "affable": {
+      "examples": [
+        {
+          "en": "The affable host made everyone feel at ease.",
+          "zh": "和蔼可亲的主人让大家都感到轻松自在。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "uneasiness": {
+      "examples": [
+        {
+          "en": "A sense of uneasiness grew as the meeting continued.",
+          "zh": "随着会议继续，不安感逐渐增强。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "indignity": {
+      "examples": [
+        {
+          "en": "She refused to accept the indignity of being publicly mocked.",
+          "zh": "她拒绝忍受被公开嘲笑的侮辱。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "elucidate": {
+      "examples": [
+        {
+          "en": "The diagram helps elucidate the process.",
+          "zh": "这幅示意图有助于阐明这个过程。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "burdensome": {
+      "examples": [
+        {
+          "en": "The new paperwork became burdensome for the small team.",
+          "zh": "新的文书工作成了这个小团队的沉重负担。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj.",
+      "meaningZh": "adj. 繁重的；难以承担的；累赘的"
+    },
+    "universality": {
+      "examples": [
+        {
+          "en": "The essay questions the universality of the proposed rule.",
+          "zh": "这篇文章质疑了所提规则的普适性。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "abatement": {
+      "examples": [
+        {
+          "en": "The team measured noise abatement after installing the new panels.",
+          "zh": "团队测量了安装新面板后噪声的降低程度。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "frenetic": {
+      "examples": [
+        {
+          "en": "They worked at a frenetic pace to prepare for the opening.",
+          "zh": "他们以紧张忙乱的节奏工作，为开幕作准备。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj.",
+      "meaningZh": "adj. 紧张忙乱的；狂热的"
+    },
+    "liberalize": {
+      "examples": [
+        {
+          "en": "The proposal would liberalize access to public records.",
+          "zh": "这项提案将放宽查阅公共记录的限制。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "v.",
+      "meaningZh": "v. 放宽限制；使自由化"
+    },
+    "denunciation": {
+      "examples": [
+        {
+          "en": "The letter contains a strong denunciation of the violence.",
+          "zh": "信中对暴力行为作出了强烈谴责。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "illustrious": {
+      "examples": [
+        {
+          "en": "The exhibition celebrates her illustrious career as a designer.",
+          "zh": "展览回顾了她作为设计师的杰出职业生涯。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "peculiarity": {
+      "examples": [
+        {
+          "en": "One peculiarity of the house is its unusually narrow staircase.",
+          "zh": "这座房子的一个特点是楼梯格外狭窄。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "remittance": {
+      "examples": [
+        {
+          "en": "Please keep the receipt for your remittance.",
+          "zh": "请保留汇款收据。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "chastity": {
+      "examples": [
+        {
+          "en": "The historian studied ideals of chastity in the literature.",
+          "zh": "历史学家研究了文学作品中有关贞洁的理想观念。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "immobilize": {
+      "examples": [
+        {
+          "en": "The mechanic used a clamp to immobilize the part.",
+          "zh": "机械师用夹具固定住了那个零件。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "paucity": {
+      "examples": [
+        {
+          "en": "The researchers noted a paucity of reliable data.",
+          "zh": "研究人员指出，可靠的数据十分缺乏。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "eloquence": {
+      "examples": [
+        {
+          "en": "Her eloquence held the audience's attention.",
+          "zh": "她出色的口才吸引了听众的注意。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "etiology": {
+      "examples": [
+        {
+          "en": "The paper examines the etiology of the disease.",
+          "zh": "论文探讨了这种疾病的病因。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 病因；病因学"
+    },
+    "exhilaration": {
+      "examples": [
+        {
+          "en": "They felt a rush of exhilaration when they reached the summit.",
+          "zh": "到达顶峰时，他们感到一阵兴奋。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "restate": {
+      "examples": [
+        {
+          "en": "Could you restate the question in simpler terms?",
+          "zh": "你能用更简单的说法重述这个问题吗？",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "dialectical": {
+      "examples": [
+        {
+          "en": "The course introduces a dialectical approach to historical change.",
+          "zh": "这门课程介绍了研究历史变迁的辩证方法。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "atonement": {
+      "examples": [
+        {
+          "en": "He regarded the apology as a first step toward atonement.",
+          "zh": "他认为道歉是弥补过错的第一步。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "infestation": {
+      "examples": [
+        {
+          "en": "The inspection revealed an infestation of insects in the stored grain.",
+          "zh": "检查发现储存的谷物里有大量害虫侵扰。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "inducement": {
+      "examples": [
+        {
+          "en": "The discount was offered as an inducement to book early.",
+          "zh": "折扣被用来鼓励人们提前预订。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "evocation": {
+      "examples": [
+        {
+          "en": "The music creates a vivid evocation of a summer evening.",
+          "zh": "音乐生动地唤起了夏日傍晚的意境。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "enunciate": {
+      "examples": [
+        {
+          "en": "The actor was asked to enunciate each word clearly.",
+          "zh": "演员被要求清楚地说出每个词。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "judicious": {
+      "examples": [
+        {
+          "en": "A judicious choice of examples made the lecture easy to follow.",
+          "zh": "恰当选择的例子让讲座很容易理解。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "convulsion": {
+      "examples": [
+        {
+          "en": "The medical notes described a brief convulsion.",
+          "zh": "病历描述了一次短暂的惊厥。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "unsavory": {
+      "examples": [
+        {
+          "en": "The investigation uncovered several unsavory business practices.",
+          "zh": "调查揭露了几种不光彩的商业行为。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "sensuality": {
+      "examples": [
+        {
+          "en": "The review praises the sensuality of the film's colours and music.",
+          "zh": "评论赞赏了影片色彩和音乐带来的感官愉悦。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 感官愉悦；感官享受；肉欲"
+    },
+    "preemption": {
+      "examples": [
+        {
+          "en": "The scheduler uses preemption to share processor time.",
+          "zh": "调度器利用抢占机制分配处理器时间。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 抢先行动；（计算机）抢占；优先购买权"
+    },
+    "dynamism": {
+      "examples": [
+        {
+          "en": "The performance had the dynamism of a live street show.",
+          "zh": "那场表演具有街头现场演出般的活力。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 活力；动感；（哲学）力本说"
+    },
+    "mutilation": {
+      "examples": [
+        {
+          "en": "The report documents the mutilation of several statues.",
+          "zh": "报告记录了几尊雕像遭到毁损的情况。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "vilify": {
+      "examples": [
+        {
+          "en": "The article argues against attempts to vilify an entire community.",
+          "zh": "文章反对试图诋毁整个群体的做法。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "fortitude": {
+      "examples": [
+        {
+          "en": "She faced the long journey with remarkable fortitude.",
+          "zh": "她以非凡的毅力面对那段漫长的旅程。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "trivialize": {
+      "examples": [
+        {
+          "en": "The joke seemed to trivialize a serious concern.",
+          "zh": "那个笑话似乎把一个严肃的担忧轻描淡写地带过了。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "vt.",
+      "meaningZh": "vt. 淡化……的重要性；把……轻描淡写；使显得不重要"
+    },
+    "empathetic": {
+      "examples": [
+        {
+          "en": "The nurse gave an empathetic response to his worries.",
+          "zh": "护士对他的担忧作出了充满同理心的回应。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj.",
+      "meaningZh": "adj. 有同理心的；能体会他人感受的"
+    },
+    "futurist": {
+      "examples": [
+        {
+          "en": "The futurist wrote about possible changes in city life.",
+          "zh": "那位未来学家撰文探讨城市生活可能发生的变化。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n. / adj.",
+      "meaningZh": "n. 未来学家；未来主义者；未来派艺术家\nadj. 未来主义的"
+    },
+    "midsection": {
+      "examples": [
+        {
+          "en": "A band of darker stone marks the tower's midsection.",
+          "zh": "一圈深色石材标示着塔身的中部。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 中间部分；身体中部；腹部"
+    },
+    "inordinate": {
+      "examples": [
+        {
+          "en": "The repair took an inordinate amount of time.",
+          "zh": "这次修理花了过多的时间。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "internist": {
+      "examples": [
+        {
+          "en": "The internist reviewed the patient's medical history.",
+          "zh": "内科医生查看了病人的病史。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "ameliorate": {
+      "examples": [
+        {
+          "en": "The new drainage system should ameliorate the flooding problem.",
+          "zh": "新的排水系统有望缓解水患。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "masturbate": {
+      "examples": [
+        {
+          "en": "The survey asked adult participants whether they masturbate.",
+          "zh": "问卷询问成年参与者是否自慰。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "pragmatist": {
+      "examples": [
+        {
+          "en": "As a pragmatist, she wanted a plan that could actually be carried out.",
+          "zh": "作为一个务实的人，她想要一项真正能实施的计划。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 实用主义者；务实的人"
+    },
+    "polemic": {
+      "examples": [
+        {
+          "en": "The book is a polemic against wasteful development.",
+          "zh": "这本书是一部抨击浪费式开发的论战著作。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "distinctively": {
+      "examples": [
+        {
+          "en": "The building has a distinctively curved roof.",
+          "zh": "这座建筑有一个独具特色的弯曲屋顶。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adv.",
+      "meaningZh": "adv. 独特地；与众不同地；有鲜明特色地"
+    },
+    "antagonize": {
+      "examples": [
+        {
+          "en": "He did not want to antagonize the neighbours by making noise.",
+          "zh": "他不想因制造噪声而惹邻居生气。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "v.",
+      "meaningZh": "v. 使反感；激怒；使敌对；与……对抗"
+    }
+  }
+}

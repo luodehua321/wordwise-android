@@ -1,0 +1,23 @@
+{
+  "version": "v17-grade45-c",
+  "translationMappings": 800,
+  "matchedBlankItemsAllGrades": 902,
+  "matchedBlankItemsByOriginalGrade": {
+    "4": 228,
+    "5": 588,
+    "7": 27,
+    "6": 16,
+    "8": 14,
+    "9": 12,
+    "10": 17
+  },
+  "sourceSHA256": "faa3a9ca03737e9184549165aaca44a8cfb594a322bb576cb58a503789cbb8d5",
+  "outputSHA256": "43fd41f74a4401d3422d6c6aedeabf566c6b891bacf2a18d0bd51656cdf35389",
+  "replacementSuggestions": 17,
+  "assertions": [
+    "800 exact-English keys match fixed scope",
+    "all translations contain nonempty Chinese",
+    "Tom/Mary names retained in every relevant sentence",
+    "assets and Android code not modified by this task"
+  ]
+}

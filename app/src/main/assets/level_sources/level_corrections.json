@@ -1,0 +1,12 @@
+{
+  "mum": {
+    "difficulty": 1,
+    "reason": "英式口语中最常见的家庭称呼之一，属于项目基础词核心。旧版因美国语料频次低误列高等级；v2.0 依基础词核心调整为1级。",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/mum"
+  },
+  "retarded": {
+    "difficulty": 8,
+    "reason": "现代英语中该词带有冒犯性，不应在初中级学习流中出现；保留词条但放入高等级，避免被当作普通中性词学习。",
+    "reference": "https://www.merriam-webster.com/dictionary/retarded"
+  }
+}

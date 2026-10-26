@@ -1,0 +1,19 @@
+{
+  "wordCount": 28167,
+  "curatedPairs": 110,
+  "shapePairsAdded": 4,
+  "mainPronunciationsAdded": {
+    "uk": 734
+  },
+  "relatedPronunciationsAdded": {
+    "us": 254,
+    "uk": 570
+  },
+  "confusableWords": 1633,
+  "shapeWords": 11994,
+  "shapeItems": 24043,
+  "confusableItems": 1828,
+  "remainingMainUK": 1100,
+  "remainingRelatedUS": 4828,
+  "remainingRelatedUK": 3566
+}

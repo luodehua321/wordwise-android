@@ -1,0 +1,1583 @@
+{
+  "meta": {
+    "version": "learner-enrichment-v11",
+    "descriptionZh": "v2.0 学习体验补充：为低难度高频词补原创中文译文、搭配与例句，并压缩高频多义词的卡片释义；全部新增内容为项目原创 CC0。",
+    "translationCreditZh": "中文译文为项目原创（CC0），英文原句沿用其原有来源与署名。"
+  },
+  "exampleTranslations": {
+    "goat": {
+      "They killed a goat as a sacrifice to the gods.": "他们杀了一只山羊献给众神。",
+      "Is it hard to milk a goat?": "给山羊挤奶难吗？"
+    },
+    "bye": {
+      "He went off without saying good-bye.": "他没说再见就走了。",
+      "She walked away without saying good bye.": "她没说再见就走开了。"
+    },
+    "grey": {
+      "When candles are out, all cats are grey.": "蜡烛熄灭时，所有的猫都是灰色的。（黑暗中难分好坏。）",
+      "Her grey hair makes her look older than she is.": "她的灰白头发让她看起来比实际年龄大。"
+    },
+    "hell": {
+      "He died and his soul went to hell.": "他死了，灵魂下了地狱。",
+      "The pastor said Tom's going to burn in hell.": "牧师说汤姆会在地狱里受火刑。"
+    },
+    "forth": {
+      "Tom rocked back and forth in his chair.": "汤姆坐在椅子上前后摇晃。",
+      "Tom kept walking back and forth.": "汤姆不停地来回走动。"
+    },
+    "liberal": {
+      "I was surprised to learn that Tom was a liberal.": "得知汤姆是自由派，我很惊讶。",
+      "The publishers of that newspaper are very liberal.": "那家报纸的出版人非常开明。"
+    },
+    "medium": {
+      "We have large, medium, and small. What size do you want?": "我们有大号、中号和小号。您要哪个尺码？",
+      "I like my steak medium rare.": "我喜欢三分熟的牛排。"
+    },
+    "unclear": {
+      "It is still unclear what caused the accident.": "事故原因仍不清楚。",
+      "The meaning of this letter is unclear.": "这封信的意思不明确。"
+    },
+    "catholic": {
+      "Mary is Catholic, but her boyfriend is an atheist.": "玛丽是天主教徒，但她的男朋友是无神论者。",
+      "Tom went to a Catholic high school.": "汤姆上了一所天主教高中。"
+    },
+    "maker": {
+      "Tom plugged in the coffee maker.": "汤姆给咖啡机插上了电源。",
+      "I've made peace with my maker. I'm ready to die.": "我已与造物主和解，准备好离开了。"
+    },
+    "commander": {
+      "He is commander of our troops.": "他是我们都队的指挥官。",
+      "The commander refused to negotiate.": "指挥官拒绝谈判。"
+    },
+    "missile": {
+      "A torpedo is an underwater missile.": "鱼雷是一种水下导弹。"
+    },
+    "holy": {
+      "Holy mackerel! Is that a shark?": "天哪！那是鲨鱼吗？",
+      "This is holy ground.": "这是圣地。"
+    },
+    "surely": {
+      "He will surely succeed in his new job.": "他在新工作中一定会成功。",
+      "I surely hope you can help us.": "我当然希望你能帮我们。"
+    },
+    "dealer": {
+      "The police suspected that Tom was a drug dealer.": "警方怀疑汤姆是毒贩。",
+      "The dog growled at the drug dealer.": "那只狗对着毒贩低吼。"
+    },
+    "routine": {
+      "My wife is getting tired of the daily routine.": "我妻子渐渐厌倦了日常的例行事务。",
+      "I'm tired of the day-to-day routine of life.": "我厌倦了日复一日的生活。"
+    },
+    "fiber": {
+      "This carbon fiber bicycle is incredibly lightweight.": "这辆碳纤维自行车轻得惊人。",
+      "You need to eat more fiber.": "你需要多吃膳食纤维。"
+    },
+    "snap": {
+      "Tom tried not to make a snap judgment.": "汤姆尽量不草率下结论。",
+      "Tom certainly is good at making snap decisions.": "汤姆确实很擅长当机立断。"
+    },
+    "hip": {
+      "My grandmother fell and broke her hip.": "我祖母摔倒，髋部骨折了。",
+      "It's hip and trendy.": "这很时髦。"
+    },
+    "gear": {
+      "Shift into third gear.": "换到三挡。",
+      "The country was gearing up for war.": "这个国家正在为战争做准备。"
+    },
+    "minor": {
+      "This composition is in the key of A-minor.": "这首曲子是 A 小调。",
+      "Tom is something of a minor celebrity around here.": "汤姆在这一带算是个小名人。"
+    },
+    "index": {
+      "I use my index finger to point.": "我用食指指东西。",
+      "My index finger hurts.": "我的食指疼。"
+    },
+    "rank": {
+      "He was advanced to the rank of general.": "他被晋升为将军。",
+      "Tom has the rank of captain.": "汤姆的军衔是上尉。"
+    },
+    "super": {
+      "Tom will watch the Super Bowl with Mary.": "汤姆会和玛丽一起看超级碗。",
+      "He is doing a super job.": "他干得非常出色。"
+    },
+    "portrait": {
+      "This is a portrait of my late father.": "这是我已故父亲的肖像。",
+      "Tom painted a good portrait of his mother.": "汤姆给母亲画了一幅很好的肖像。"
+    },
+    "lawsuit": {
+      "A bad compromise is better than a good lawsuit.": "糟糕的和解也好过漂亮的官司。",
+      "I would prefer any alternative to a lawsuit.": "比起打官司，我宁愿选择任何别的办法。"
+    },
+    "testimony": {
+      "We now know that the testimony he gave was coerced.": "我们现在知道他当时是被迫作证的。",
+      "He contradicted himself several times in his testimony.": "他在证词中多次自相矛盾。"
+    },
+    "burden": {
+      "He was not a financial burden on her.": "他并不是她的经济负担。",
+      "He was a burden to his parents.": "他是父母的负担。"
+    },
+    "chamber": {
+      "the upper chamber is the senate": "上议院即参议院。",
+      "the chambers of his heart were healthy": "他的心室很健康。"
+    },
+    "profile": {
+      "I try to keep a low profile now.": "我现在尽量保持低调。",
+      "I try to keep a low profile.": "我尽量保持低调。"
+    },
+    "resort": {
+      "Tom makes $900 a week working at a resort hotel.": "汤姆在度假酒店工作，每周挣 900 美元。",
+      "It is sometimes acceptable to resort to violence.": "有时诉诸暴力是可以接受的。"
+    },
+    "tissue": {
+      "Tom carefully cut the tissue with scissors.": "汤姆小心地用剪刀剪开纸巾。",
+      "Could I please have a tissue?": "能给我一张纸巾吗？"
+    },
+    "dispute": {
+      "They did not wish to become embroiled in the dispute.": "他们不想卷入这场争端。",
+      "This is beyond dispute.": "这是无可争议的。"
+    },
+    "adviser": {
+      "I need a good financial adviser.": "我需要一位好的财务顾问。",
+      "Tom was a spiritual adviser.": "汤姆曾是一位精神导师。"
+    },
+    "latter": {
+      "Let's hope for the latter.": "我们但愿是后者。",
+      "Tom and Dick were both heroes but only the latter is remembered today": "汤姆和迪克都是英雄，但如今只有后者被人铭记。"
+    },
+    "terror": {
+      "The vampire movie filled them with terror.": "那部吸血鬼电影让他们充满恐惧。",
+      "Tom screamed in terror.": "汤姆惊恐地尖叫。"
+    },
+    "chart": {
+      "Tom showed Mary the chart.": "汤姆把图表给玛丽看。",
+      "The album received positive reviews from the music critics but failed to chart.": "这张专辑得到了乐评人的好评，却未能上榜。"
+    },
+    "detect": {
+      "We have detected an abnormality on your x-ray.": "我们在你的 X 光片上发现了异常。",
+      "Cancer can be treated if it is detected in the early stages.": "癌症如果早期发现是可以治疗的。"
+    },
+    "deck": {
+      "Do you have a deck of cards?": "你有一副扑克牌吗？",
+      "We were walking on the deck.": "我们在甲板上散步。"
+    },
+    "similarly": {
+      "All of the men were dressed similarly to Tom.": "所有男人的穿着都和汤姆相似。",
+      "He was similarly affected": "他也受到了类似的影响。"
+    },
+    "dialogue": {
+      "they disagreed but kept an open dialogue": "他们意见不合，但保持着开放的对话。",
+      "he has read Plato's Dialogues in the original Greek": "他读过柏拉图《对话录》的希腊文原著。"
+    },
+    "advanced": {
+      "He was advanced to the rank of general.": "他被晋升为将军。",
+      "Advanced countries must give aid to developing countries.": "发达国家必须援助发展中国家。"
+    },
+    "aircraft": {
+      "Please remain seated until the aircraft arrives at the gate.": "请在飞机到达登机口前留在座位上。",
+      "We shot down enemy aircraft.": "我们击落了敌机。"
+    },
+    "delivery": {
+      "How long do I have to wait for delivery?": "我要等多久才能送达？",
+      "I hope that you tipped the delivery boy.": "我希望你给了送货员小费。"
+    },
+    "platform": {
+      "I met him at the end of the platform.": "我在站台尽头遇见了他。",
+      "Please step back from the edge of the platform.": "请退到站台边缘之后。"
+    },
+    "offense": {
+      "The best defense is a good offense.": "最好的防守就是进攻。",
+      "Tom takes offense at the slightest thing.": "汤姆动不动就生气。"
+    },
+    "protest": {
+      "More and more students began to protest.": "越来越多的学生开始抗议。",
+      "Tom knew better than to protest.": "汤姆知道不该抗议。"
+    },
+    "insight": {
+      "Compared to his father, he lacks insight.": "与他父亲相比，他缺乏洞察力。"
+    },
+    "episode": {
+      "Do you remember how the last episode ended?": "你还记得上一集是怎么结尾的吗？",
+      "This is the final episode.": "这是最后一集。"
+    },
+    "loose": {
+      "A few loose ends remain to be cleared up.": "还有几个零散的问题需要解决。",
+      "That dog is too dangerous to be left loose.": "那条狗太危险，不能放任不管。"
+    },
+    "prior": {
+      "It happened prior to my arrival.": "这事发生在我到达之前。",
+      "I have a prior engagement.": "我已有约在先。"
+    },
+    "intellectual": {
+      "Tom is an intellectual.": "汤姆是个知识分子。",
+      "satire is an intellectual weapon": "讽刺是一种智识武器。"
+    },
+    "assault": {
+      "He was charged with assault and battery.": "他被控殴打和人身侵犯。",
+      "Did Tom try to assault you?": "汤姆试图袭击你吗？"
+    },
+    "proof": {
+      "There is indisputable proof that Tom is the thief.": "有确凿证据证明汤姆就是小偷。",
+      "The photographs are the only proof we have.": "这些照片是我们仅有的证据。"
+    },
+    "headquarters": {
+      "Flags of the world fly proudly at the United Nations headquarters.": "世界各国的旗帜在联合国总部骄傲地飘扬。",
+      "Napoleon's headquarters were in an unused windmill.": "拿破仑的指挥部设在一座废弃的风车里。"
+    },
+    "fade": {
+      "Tom nodded as he listened to the applause fade.": "汤姆听着掌声渐渐消失，点了点头。",
+      "Her beauty will fade in time.": "她的美貌终将随时光褪色。"
+    },
+    "tragedy": {
+      "What is the real cause of this tragedy?": "这场悲剧的真正原因是什么？",
+      "Tom wrote a tragedy with a happy ending.": "汤姆写了一部结局圆满的悲剧。"
+    },
+    "alter": {
+      "I think he needs to alter his lifestyle.": "我觉得他需要改变生活方式。",
+      "The government had to alter its foreign policy.": "政府不得不调整外交政策。"
+    },
+    "convert": {
+      "Do you know how to convert from Celsius to Fahrenheit?": "你知道怎么把摄氏度换算成华氏度吗？",
+      "He is a recent convert to Catholicism.": "他最近皈依了天主教。"
+    },
+    "prominent": {
+      "Some prominent tennis players behave like spoiled brats.": "一些知名网球选手表现得像被宠坏的孩子。",
+      "The prominent psychologist resembles my uncle in appearance.": "那位著名心理学家在外貌上像我的叔叔。"
+    },
+    "vital": {
+      "Exercise is vital for a dog.": "运动对狗来说至关重要。",
+      "Patience is vital for a teacher.": "耐心对老师来说至关重要。"
+    },
+    "earnings": {
+      "It was difficult to live on his meager earnings.": "靠他微薄的收入很难生活。",
+      "Corporate earnings in the first quarter improved sharply.": "第一季度企业盈利大幅改善。"
+    },
+    "vessel": {
+      "A blood vessel burst inside his brain.": "他脑内的一根血管破裂了。",
+      "The nurse hit a blood vessel.": "护士扎到了血管。"
+    },
+    "storage": {
+      "Tom carried two boxes into the storage room.": "汤姆把两个箱子搬进储藏室。",
+      "We only use our basement for storage.": "我们只用地下室存放东西。"
+    },
+    "distribute": {
+      "We would like to distribute this product in Japan.": "我们希望在日本分销这款产品。",
+      "We would like to distribute your product in Japan.": "我们希望在日本代理你们的产品。"
+    },
+    "tribe": {
+      "Members of that tribe settled along the river.": "那个部落的成员沿河定居。",
+      "The tribe foraged for berries.": "部落的人四处采集浆果。"
+    },
+    "buyer": {
+      "I hope I can find a buyer for this.": "我希望能为这个找到买家。",
+      "I found a buyer for your house.": "我为你的房子找到了买家。"
+    }
+  },
+  "examples": {
+    "vs": [
+      {
+        "en": "It is experience vs. theory in today's design debate.",
+        "zh": "在今天的设计讨论中，这是经验与理论的对决。"
+      }
+    ],
+    "secondly": [
+      {
+        "en": "First, find a quiet place; secondly, turn off your phone.",
+        "zh": "首先找一个安静的地方；其次，关掉手机。"
+      }
+    ],
+    "ha": [
+      {
+        "en": "Ha! I knew you would say that.",
+        "zh": "哈！我就知道你会这么说。"
+      }
+    ],
+    "underlie": [
+      {
+        "en": "Trust underlies every good partnership.",
+        "zh": "信任是每一段良好合作关系的基础。"
+      }
+    ],
+    "whilst": [
+      {
+        "en": "She read whilst waiting for the train.",
+        "zh": "她一边等火车一边看书。"
+      }
+    ],
+    "firstly": [
+      {
+        "en": "Firstly, let us check the schedule.",
+        "zh": "首先，我们看一下日程。"
+      }
+    ],
+    "august": [
+      {
+        "en": "The office is usually quiet in August.",
+        "zh": "八月份办公室通常很安静。"
+      }
+    ]
+  },
+  "collocations": {
+    "yes": [
+      {
+        "en": "yes or no",
+        "zh": "是或否"
+      },
+      {
+        "en": "say yes",
+        "zh": "答应"
+      }
+    ],
+    "oh": [
+      {
+        "en": "oh well",
+        "zh": "唉，算了"
+      },
+      {
+        "en": "oh my",
+        "zh": "天哪"
+      }
+    ],
+    "yeah": [
+      {
+        "en": "yeah, right",
+        "zh": "得了吧"
+      },
+      {
+        "en": "oh yeah",
+        "zh": "哦，对了"
+      }
+    ],
+    "worry": [
+      {
+        "en": "worry about",
+        "zh": "担心"
+      },
+      {
+        "en": "no worries",
+        "zh": "没关系"
+      }
+    ],
+    "necessary": [
+      {
+        "en": "if necessary",
+        "zh": "如有必要"
+      },
+      {
+        "en": "necessary condition",
+        "zh": "必要条件"
+      }
+    ],
+    "throughout": [
+      {
+        "en": "throughout the year",
+        "zh": "全年"
+      },
+      {
+        "en": "throughout history",
+        "zh": "纵观历史"
+      }
+    ],
+    "challenge": [
+      {
+        "en": "face a challenge",
+        "zh": "面对挑战"
+      },
+      {
+        "en": "meet the challenge",
+        "zh": "迎接挑战"
+      }
+    ],
+    "fear": [
+      {
+        "en": "fear of",
+        "zh": "对……的恐惧"
+      },
+      {
+        "en": "no fear",
+        "zh": "不怕"
+      }
+    ],
+    "somebody": [
+      {
+        "en": "somebody else",
+        "zh": "别人"
+      },
+      {
+        "en": "somebody like you",
+        "zh": "像你这样的人"
+      }
+    ],
+    "sorry": [
+      {
+        "en": "feel sorry for",
+        "zh": "为……感到难过"
+      },
+      {
+        "en": "say sorry",
+        "zh": "道歉"
+      }
+    ],
+    "tomorrow": [
+      {
+        "en": "tomorrow morning",
+        "zh": "明天早上"
+      },
+      {
+        "en": "see you tomorrow",
+        "zh": "明天见"
+      }
+    ],
+    "healthy": [
+      {
+        "en": "healthy diet",
+        "zh": "健康饮食"
+      },
+      {
+        "en": "stay healthy",
+        "zh": "保持健康"
+      }
+    ],
+    "yesterday": [
+      {
+        "en": "yesterday morning",
+        "zh": "昨天早上"
+      },
+      {
+        "en": "the day before yesterday",
+        "zh": "前天"
+      }
+    ],
+    "mom": [
+      {
+        "en": "mom and dad",
+        "zh": "爸爸妈妈"
+      },
+      {
+        "en": "my mom",
+        "zh": "我妈妈"
+      }
+    ],
+    "okay": [
+      {
+        "en": "it's okay",
+        "zh": "没关系"
+      },
+      {
+        "en": "okay then",
+        "zh": "那好吧"
+      }
+    ],
+    "expensive": [
+      {
+        "en": "too expensive",
+        "zh": "太贵"
+      },
+      {
+        "en": "expensive taste",
+        "zh": "昂贵的品味"
+      }
+    ],
+    "ourselves": [
+      {
+        "en": "by ourselves",
+        "zh": "我们自己"
+      },
+      {
+        "en": "enjoy ourselves",
+        "zh": "玩得开心"
+      }
+    ],
+    "hi": [
+      {
+        "en": "say hi",
+        "zh": "打招呼"
+      },
+      {
+        "en": "hi there",
+        "zh": "你好呀"
+      }
+    ],
+    "hungry": [
+      {
+        "en": "feel hungry",
+        "zh": "觉得饿"
+      },
+      {
+        "en": "hungry for",
+        "zh": "渴望"
+      }
+    ],
+    "eleven": [
+      {
+        "en": "eleven o'clock",
+        "zh": "十一点"
+      },
+      {
+        "en": "eleven years old",
+        "zh": "十一岁"
+      }
+    ],
+    "supermarket": [
+      {
+        "en": "go to the supermarket",
+        "zh": "去超市"
+      },
+      {
+        "en": "supermarket chain",
+        "zh": "连锁超市"
+      }
+    ],
+    "website": [
+      {
+        "en": "visit a website",
+        "zh": "访问网站"
+      },
+      {
+        "en": "official website",
+        "zh": "官方网站"
+      }
+    ],
+    "sixteen": [
+      {
+        "en": "sixteen years old",
+        "zh": "十六岁"
+      },
+      {
+        "en": "sixteen candles",
+        "zh": "十六根蜡烛"
+      }
+    ],
+    "eighteen": [
+      {
+        "en": "eighteen years old",
+        "zh": "十八岁"
+      },
+      {
+        "en": "eighteen months",
+        "zh": "十八个月"
+      }
+    ],
+    "fourteen": [
+      {
+        "en": "fourteen years old",
+        "zh": "十四岁"
+      },
+      {
+        "en": "fourteen days",
+        "zh": "十四天"
+      }
+    ],
+    "goodbye": [
+      {
+        "en": "say goodbye",
+        "zh": "道别"
+      },
+      {
+        "en": "goodbye for now",
+        "zh": "暂时告别"
+      }
+    ],
+    "thirteen": [
+      {
+        "en": "thirteen years old",
+        "zh": "十三岁"
+      },
+      {
+        "en": "thirteen minutes",
+        "zh": "十三分钟"
+      }
+    ],
+    "seventeen": [
+      {
+        "en": "seventeen years old",
+        "zh": "十七岁"
+      },
+      {
+        "en": "seventeen countries",
+        "zh": "十七个国家"
+      }
+    ],
+    "nineteen": [
+      {
+        "en": "nineteen years old",
+        "zh": "十九岁"
+      },
+      {
+        "en": "nineteen ninety",
+        "zh": "一九九〇年"
+      }
+    ],
+    "thirsty": [
+      {
+        "en": "feel thirsty",
+        "zh": "口渴"
+      },
+      {
+        "en": "thirsty for",
+        "zh": "渴望"
+      }
+    ],
+    "august": [
+      {
+        "en": "in August",
+        "zh": "在八月"
+      },
+      {
+        "en": "early August",
+        "zh": "八月初"
+      }
+    ],
+    "exist": [
+      {
+        "en": "exist in",
+        "zh": "存在于"
+      },
+      {
+        "en": "cease to exist",
+        "zh": "不复存在"
+      }
+    ],
+    "tend": [
+      {
+        "en": "tend to",
+        "zh": "倾向于"
+      },
+      {
+        "en": "tend a garden",
+        "zh": "打理花园"
+      }
+    ],
+    "nor": [
+      {
+        "en": "neither... nor",
+        "zh": "既不……也不"
+      },
+      {
+        "en": "nor do I",
+        "zh": "我也不"
+      }
+    ],
+    "victim": [
+      {
+        "en": "fall victim to",
+        "zh": "成为……的受害者"
+      },
+      {
+        "en": "crime victim",
+        "zh": "犯罪受害者"
+      }
+    ],
+    "interesting": [
+      {
+        "en": "find it interesting",
+        "zh": "觉得有趣"
+      },
+      {
+        "en": "interesting story",
+        "zh": "有趣的故事"
+      }
+    ],
+    "audience": [
+      {
+        "en": "target audience",
+        "zh": "目标受众"
+      },
+      {
+        "en": "live audience",
+        "zh": "现场观众"
+      }
+    ],
+    "relate": [
+      {
+        "en": "relate to",
+        "zh": "与……有关；理解"
+      },
+      {
+        "en": "relate a story",
+        "zh": "讲述故事"
+      }
+    ],
+    "prevent": [
+      {
+        "en": "prevent from",
+        "zh": "阻止"
+      },
+      {
+        "en": "prevent disease",
+        "zh": "预防疾病"
+      }
+    ],
+    "none": [
+      {
+        "en": "none of",
+        "zh": "没有一个"
+      },
+      {
+        "en": "none at all",
+        "zh": "一点也没有"
+      }
+    ],
+    "admit": [
+      {
+        "en": "admit to",
+        "zh": "承认"
+      },
+      {
+        "en": "admit that",
+        "zh": "承认"
+      }
+    ],
+    "suffer": [
+      {
+        "en": "suffer from",
+        "zh": "遭受"
+      },
+      {
+        "en": "suffer pain",
+        "zh": "忍受痛苦"
+      }
+    ],
+    "successful": [
+      {
+        "en": "successful career",
+        "zh": "成功的事业"
+      },
+      {
+        "en": "be successful in",
+        "zh": "在……方面成功"
+      }
+    ],
+    "eventually": [
+      {
+        "en": "eventually become",
+        "zh": "最终成为"
+      },
+      {
+        "en": "sooner or later",
+        "zh": "迟早"
+      }
+    ],
+    "publish": [
+      {
+        "en": "publish a book",
+        "zh": "出版一本书"
+      },
+      {
+        "en": "publish online",
+        "zh": "在网上发布"
+      }
+    ],
+    "effective": [
+      {
+        "en": "highly effective",
+        "zh": "非常有效"
+      },
+      {
+        "en": "effective way",
+        "zh": "有效方法"
+      }
+    ],
+    "neighborhood": [
+      {
+        "en": "in the neighborhood",
+        "zh": "在附近"
+      },
+      {
+        "en": "neighborhood watch",
+        "zh": "邻里守望"
+      }
+    ],
+    "directly": [
+      {
+        "en": "directly to",
+        "zh": "直接到"
+      },
+      {
+        "en": "directly involved",
+        "zh": "直接参与"
+      }
+    ],
+    "hurt": [
+      {
+        "en": "get hurt",
+        "zh": "受伤"
+      },
+      {
+        "en": "hurt someone",
+        "zh": "伤害某人"
+      }
+    ],
+    "immediately": [
+      {
+        "en": "immediately after",
+        "zh": "紧接着"
+      },
+      {
+        "en": "reply immediately",
+        "zh": "立即回复"
+      }
+    ],
+    "absolutely": [
+      {
+        "en": "absolutely right",
+        "zh": "完全正确"
+      },
+      {
+        "en": "absolutely not",
+        "zh": "绝对不行"
+      }
+    ],
+    "nobody": [
+      {
+        "en": "nobody else",
+        "zh": "没有别人"
+      },
+      {
+        "en": "nobody knows",
+        "zh": "没人知道"
+      }
+    ],
+    "powerful": [
+      {
+        "en": "powerful tool",
+        "zh": "强大的工具"
+      },
+      {
+        "en": "powerful country",
+        "zh": "强国"
+      }
+    ],
+    "announce": [
+      {
+        "en": "announce a plan",
+        "zh": "宣布计划"
+      },
+      {
+        "en": "announce results",
+        "zh": "公布结果"
+      }
+    ],
+    "completely": [
+      {
+        "en": "completely different",
+        "zh": "完全不同"
+      },
+      {
+        "en": "completely free",
+        "zh": "完全免费"
+      }
+    ],
+    "replace": [
+      {
+        "en": "replace with",
+        "zh": "用……替换"
+      },
+      {
+        "en": "replace a battery",
+        "zh": "更换电池"
+      }
+    ],
+    "possibility": [
+      {
+        "en": "a real possibility",
+        "zh": "真实的可能性"
+      },
+      {
+        "en": "rule out the possibility",
+        "zh": "排除可能性"
+      }
+    ],
+    "generally": [
+      {
+        "en": "generally speaking",
+        "zh": "一般来说"
+      },
+      {
+        "en": "generally accepted",
+        "zh": "普遍接受"
+      }
+    ],
+    "easily": [
+      {
+        "en": "easily understood",
+        "zh": "容易理解"
+      },
+      {
+        "en": "easily forgotten",
+        "zh": "容易被遗忘"
+      }
+    ],
+    "slowly": [
+      {
+        "en": "slowly but surely",
+        "zh": "缓慢而稳步地"
+      },
+      {
+        "en": "drive slowly",
+        "zh": "慢慢开"
+      }
+    ],
+    "introduce": [
+      {
+        "en": "introduce to",
+        "zh": "介绍给"
+      },
+      {
+        "en": "introduce a policy",
+        "zh": "推行政策"
+      }
+    ],
+    "supposed": [
+      {
+        "en": "be supposed to",
+        "zh": "应该"
+      },
+      {
+        "en": "supposedly",
+        "zh": "据说"
+      }
+    ],
+    "tradition": [
+      {
+        "en": "family tradition",
+        "zh": "家庭传统"
+      },
+      {
+        "en": "break with tradition",
+        "zh": "打破传统"
+      }
+    ],
+    "obviously": [
+      {
+        "en": "obviously not",
+        "zh": "显然不是"
+      },
+      {
+        "en": "obviously true",
+        "zh": "显而易见"
+      }
+    ],
+    "interested": [
+      {
+        "en": "interested in",
+        "zh": "对……感兴趣"
+      },
+      {
+        "en": "deeply interested",
+        "zh": "深感兴趣"
+      }
+    ],
+    "observe": [
+      {
+        "en": "observe carefully",
+        "zh": "仔细观察"
+      },
+      {
+        "en": "observe the rules",
+        "zh": "遵守规则"
+      }
+    ],
+    "leadership": [
+      {
+        "en": "strong leadership",
+        "zh": "强有力的领导"
+      },
+      {
+        "en": "leadership skills",
+        "zh": "领导能力"
+      }
+    ],
+    "contribute": [
+      {
+        "en": "contribute to",
+        "zh": "有助于；捐赠"
+      },
+      {
+        "en": "contribute ideas",
+        "zh": "贡献想法"
+      }
+    ],
+    "tiny": [
+      {
+        "en": "tiny amount",
+        "zh": "极少量"
+      },
+      {
+        "en": "tiny room",
+        "zh": "小房间"
+      }
+    ],
+    "mostly": [
+      {
+        "en": "mostly because",
+        "zh": "主要是因为"
+      },
+      {
+        "en": "mostly harmless",
+        "zh": "基本无害"
+      }
+    ],
+    "unless": [
+      {
+        "en": "unless otherwise stated",
+        "zh": "除非另有说明"
+      },
+      {
+        "en": "unless you want to",
+        "zh": "除非你想"
+      }
+    ],
+    "otherwise": [
+      {
+        "en": "or otherwise",
+        "zh": "或其他情况"
+      },
+      {
+        "en": "otherwise known as",
+        "zh": "又称"
+      }
+    ],
+    "importance": [
+      {
+        "en": "of great importance",
+        "zh": "非常重要"
+      },
+      {
+        "en": "attach importance to",
+        "zh": "重视"
+      }
+    ],
+    "organize": [
+      {
+        "en": "organize an event",
+        "zh": "组织活动"
+      },
+      {
+        "en": "organize a team",
+        "zh": "组建团队"
+      }
+    ],
+    "locate": [
+      {
+        "en": "locate in",
+        "zh": "位于"
+      },
+      {
+        "en": "locate a file",
+        "zh": "找到文件"
+      }
+    ],
+    "obvious": [
+      {
+        "en": "it is obvious that",
+        "zh": "显然"
+      },
+      {
+        "en": "obvious answer",
+        "zh": "显而易见的答案"
+      }
+    ],
+    "generate": [
+      {
+        "en": "generate electricity",
+        "zh": "发电"
+      },
+      {
+        "en": "generate income",
+        "zh": "创造收入"
+      }
+    ],
+    "appreciate": [
+      {
+        "en": "really appreciate",
+        "zh": "非常感谢"
+      },
+      {
+        "en": "appreciate the value",
+        "zh": "欣赏价值"
+      }
+    ],
+    "estimate": [
+      {
+        "en": "rough estimate",
+        "zh": "粗略估计"
+      },
+      {
+        "en": "estimate the cost",
+        "zh": "估算成本"
+      }
+    ],
+    "investigate": [
+      {
+        "en": "investigate a case",
+        "zh": "调查案件"
+      },
+      {
+        "en": "investigate further",
+        "zh": "进一步调查"
+      }
+    ],
+    "typical": [
+      {
+        "en": "typical example",
+        "zh": "典型例子"
+      },
+      {
+        "en": "typical of",
+        "zh": "是……的典型"
+      }
+    ],
+    "expectation": [
+      {
+        "en": "high expectations",
+        "zh": "高期望"
+      },
+      {
+        "en": "meet expectations",
+        "zh": "达到预期"
+      }
+    ],
+    "totally": [
+      {
+        "en": "totally different",
+        "zh": "完全不同"
+      },
+      {
+        "en": "totally agree",
+        "zh": "完全同意"
+      }
+    ],
+    "improvement": [
+      {
+        "en": "room for improvement",
+        "zh": "改进空间"
+      },
+      {
+        "en": "show improvement",
+        "zh": "显示进步"
+      }
+    ],
+    "terrible": [
+      {
+        "en": "feel terrible",
+        "zh": "感觉很糟"
+      },
+      {
+        "en": "terrible mistake",
+        "zh": "可怕的错误"
+      }
+    ],
+    "necessarily": [
+      {
+        "en": "not necessarily",
+        "zh": "不一定"
+      },
+      {
+        "en": "necessarily true",
+        "zh": "必然正确"
+      }
+    ],
+    "emphasize": [
+      {
+        "en": "emphasize the importance",
+        "zh": "强调重要性"
+      },
+      {
+        "en": "emphasize that",
+        "zh": "强调"
+      }
+    ],
+    "massive": [
+      {
+        "en": "massive change",
+        "zh": "巨大变化"
+      },
+      {
+        "en": "massive scale",
+        "zh": "大规模"
+      }
+    ],
+    "unfortunately": [
+      {
+        "en": "unfortunately for",
+        "zh": "对……来说不幸"
+      },
+      {
+        "en": "unfortunately not",
+        "zh": "很遗憾不是"
+      }
+    ],
+    "celebrate": [
+      {
+        "en": "celebrate a birthday",
+        "zh": "庆祝生日"
+      },
+      {
+        "en": "celebrate success",
+        "zh": "庆祝成功"
+      }
+    ],
+    "achievement": [
+      {
+        "en": "sense of achievement",
+        "zh": "成就感"
+      },
+      {
+        "en": "academic achievement",
+        "zh": "学业成就"
+      }
+    ],
+    "excellent": [
+      {
+        "en": "excellent quality",
+        "zh": "卓越品质"
+      },
+      {
+        "en": "excellent choice",
+        "zh": "极好的选择"
+      }
+    ],
+    "enable": [
+      {
+        "en": "enable someone to",
+        "zh": "使某人能够"
+      },
+      {
+        "en": "enable access",
+        "zh": "允许访问"
+      }
+    ],
+    "arrange": [
+      {
+        "en": "arrange a meeting",
+        "zh": "安排会议"
+      },
+      {
+        "en": "arrange for",
+        "zh": "安排"
+      }
+    ],
+    "reply": [
+      {
+        "en": "reply to",
+        "zh": "回复"
+      },
+      {
+        "en": "in reply",
+        "zh": "作为答复"
+      }
+    ],
+    "deserve": [
+      {
+        "en": "deserve better",
+        "zh": "值得更好"
+      },
+      {
+        "en": "deserve attention",
+        "zh": "值得关注"
+      }
+    ],
+    "discovery": [
+      {
+        "en": "make a discovery",
+        "zh": "有所发现"
+      },
+      {
+        "en": "scientific discovery",
+        "zh": "科学发现"
+      }
+    ],
+    "pose": [
+      {
+        "en": "pose a question",
+        "zh": "提出问题"
+      },
+      {
+        "en": "pose a risk",
+        "zh": "构成风险"
+      }
+    ],
+    "elect": [
+      {
+        "en": "elect a president",
+        "zh": "选举总统"
+      },
+      {
+        "en": "be elected as",
+        "zh": "当选为"
+      }
+    ],
+    "rarely": [
+      {
+        "en": "rarely seen",
+        "zh": "很少见"
+      },
+      {
+        "en": "very rarely",
+        "zh": "极少"
+      }
+    ],
+    "numerous": [
+      {
+        "en": "numerous times",
+        "zh": "多次"
+      },
+      {
+        "en": "numerous studies",
+        "zh": "大量研究"
+      }
+    ],
+    "moreover": [
+      {
+        "en": "and moreover",
+        "zh": "而且"
+      },
+      {
+        "en": "moreover, the cost is low",
+        "zh": "此外，成本很低"
+      }
+    ],
+    "amazing": [
+      {
+        "en": "amazing view",
+        "zh": "令人惊叹的景色"
+      },
+      {
+        "en": "amazingly good",
+        "zh": "好得惊人"
+      }
+    ],
+    "inspire": [
+      {
+        "en": "inspire confidence",
+        "zh": "激发信心"
+      },
+      {
+        "en": "inspire someone",
+        "zh": "激励某人"
+      }
+    ],
+    "adjust": [
+      {
+        "en": "adjust to",
+        "zh": "适应"
+      },
+      {
+        "en": "adjust the settings",
+        "zh": "调整设置"
+      }
+    ],
+    "retire": [
+      {
+        "en": "retire from",
+        "zh": "从……退休"
+      },
+      {
+        "en": "retire early",
+        "zh": "提前退休"
+      }
+    ],
+    "dominate": [
+      {
+        "en": "dominate the market",
+        "zh": "主导市场"
+      },
+      {
+        "en": "dominate the game",
+        "zh": "主宰比赛"
+      }
+    ],
+    "whenever": [
+      {
+        "en": "whenever possible",
+        "zh": "尽可能"
+      },
+      {
+        "en": "whenever you like",
+        "zh": "随时"
+      }
+    ],
+    "complaint": [
+      {
+        "en": "make a complaint",
+        "zh": "投诉"
+      },
+      {
+        "en": "common complaint",
+        "zh": "常见抱怨"
+      }
+    ]
+  },
+  "meaningFixes": {
+    "turn": {
+      "partOfSpeech": "v. / n.",
+      "meaningZh": "v. 转动；转弯；变成；翻转\nn. 轮流；转弯；转折",
+      "reason": "原释义把十余个生僻义项堆进卡片，学习页难以扫读；保留最常用的动名两义。"
+    },
+    "off": {
+      "partOfSpeech": "adv. / prep. / adj.",
+      "meaningZh": "adv. 离开；脱下；关掉\nprep. 从……离开；在……之外\nadj. 关着的；不新鲜的",
+      "reason": "原释义过长且混入多个专业义项，压缩为日常高频义。"
+    },
+    "set": {
+      "partOfSpeech": "v. / n. / adj.",
+      "meaningZh": "v. 放置；设置；确定\nn. 一套；一组\nadj. 固定的；规定的",
+      "reason": "原释义含日落、同伙等罕见义，卡片应优先呈现核心义。"
+    },
+    "cut": {
+      "partOfSpeech": "v. / n.",
+      "meaningZh": "v. 切；削减；剪辑\nn. 伤口；削减",
+      "reason": "压缩冗余义项，保留切、削减与伤口三个核心义。"
+    },
+    "sound": {
+      "partOfSpeech": "n. / v. / adj.",
+      "meaningZh": "n. 声音\nv. 听起来；发出声音\nadj. 健全的；合理的",
+      "reason": "原释义含海峡、探条等专业义，容易误导初学者。"
+    },
+    "shoot": {
+      "partOfSpeech": "v. / n.",
+      "meaningZh": "v. 射击；拍摄；投篮\nn. 嫩芽；拍摄",
+      "reason": "保留射击、拍摄、投篮与嫩芽，删除滑运道等罕见义。"
+    },
+    "slip": {
+      "partOfSpeech": "v. / n.",
+      "meaningZh": "v. 滑倒；溜走；悄悄放\nn. 差错；纸条",
+      "reason": "原释义冗长，保留滑倒、溜走、差错与纸条。"
+    },
+    "round": {
+      "partOfSpeech": "adj. / n. / prep.",
+      "meaningZh": "adj. 圆的\nn. 一轮；回合\nprep. 围绕；在……周围",
+      "reason": "压缩为圆、轮次与围绕三个高频义。"
+    },
+    "snap": {
+      "partOfSpeech": "v. / n.",
+      "meaningZh": "v. 咔嚓折断；猛咬；拍照\nn. 快照；啪的一声",
+      "reason": "保留折断、猛咬、拍照与快照，删除硬币等罕用义。"
+    },
+    "rough": {
+      "partOfSpeech": "adj. / n.",
+      "meaningZh": "adj. 粗糙的；粗略的；艰难的\nn. 草图；梗概",
+      "reason": "保留粗糙、粗略、艰难与草图，删除暴徒等低频义。"
+    },
+    "pitch": {
+      "partOfSpeech": "n. / v.",
+      "meaningZh": "n. 音高；球场；沥青\nv. 投掷；搭帐篷",
+      "reason": "原释义包含十余个专业义，保留音高、球场、投掷与搭帐篷。"
+    },
+    "smash": {
+      "partOfSpeech": "v. / n.",
+      "meaningZh": "v. 打碎；猛击；粉碎\nn. 破碎声；巨大成功",
+      "reason": "压缩为打碎、猛击与巨大成功。"
+    },
+    "hash": {
+      "partOfSpeech": "n. / v.",
+      "meaningZh": "n. 哈希；杂烩\nv. 切碎；反复讨论",
+      "reason": "补充计算语境中的哈希义，保留杂烩与切碎。"
+    },
+    "mentoring": {
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 辅导；导师指导",
+      "reason": "原释义混入整段英文定义，改为简洁中文。"
+    },
+    "browned": {
+      "partOfSpeech": "adj.",
+      "meaningZh": "adj. 呈褐色的；煎至金黄的",
+      "reason": "原释义混入名词、动词多义，按词形改为形容词义。"
+    },
+    "vs": {
+      "partOfSpeech": "prep.",
+      "meaningZh": "prep. 对；与……相对（versus 的缩写）",
+      "reason": "补齐缩写词的词性与常用义。"
+    },
+    "ha": {
+      "partOfSpeech": "interj.",
+      "meaningZh": "interj. 哈（表示惊讶、得意或笑声）",
+      "reason": "补齐感叹词的词性与用法。"
+    },
+    "passion": {
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 激情；热爱；酷爱",
+      "reason": "原释义把“耶稣受难”等专业义放在基础卡片中；保留最常用的情感义。"
+    },
+    "make": {
+      "partOfSpeech": "v. / n.",
+      "meaningZh": "v. 制作；使得；做\nn. 品牌；型号",
+      "reason": "压缩十余个义项，优先呈现制作、使得与品牌。"
+    },
+    "take": {
+      "partOfSpeech": "v.",
+      "meaningZh": "v. 拿；带走；花费；乘坐",
+      "reason": "保留拿取、带走、花费与乘坐四个核心义。"
+    },
+    "see": {
+      "partOfSpeech": "v.",
+      "meaningZh": "v. 看见；明白；会见",
+      "reason": "删除主教职位等罕见义。"
+    },
+    "time": {
+      "partOfSpeech": "n. / v.",
+      "meaningZh": "n. 时间；次数；时代\nv. 计时",
+      "reason": "压缩时间、次数与时代三个高频义。"
+    },
+    "think": {
+      "partOfSpeech": "v.",
+      "meaningZh": "v. 想；认为；考虑",
+      "reason": "保留想、认为与考虑。"
+    },
+    "like": {
+      "partOfSpeech": "v. / prep. / adj.",
+      "meaningZh": "v. 喜欢\nprep. 像\nadj. 相似的",
+      "reason": "按词性分组，避免多个义项挤在一起。"
+    },
+    "want": {
+      "partOfSpeech": "v. / n.",
+      "meaningZh": "v. 想要；需要\nn. 缺乏；需要",
+      "reason": "压缩为想要、需要与缺乏。"
+    },
+    "look": {
+      "partOfSpeech": "v. / n.",
+      "meaningZh": "v. 看；看起来\nn. 看一眼；神情",
+      "reason": "保留看、看起来与神情。"
+    },
+    "well": {
+      "partOfSpeech": "adv. / adj. / n.",
+      "meaningZh": "adv. 好；充分地\nadj. 健康的\nn. 井",
+      "reason": "按词性分组，优先常用副词义。"
+    },
+    "even": {
+      "partOfSpeech": "adv. / adj.",
+      "meaningZh": "adv. 甚至；即使\nadj. 平坦的；偶数的",
+      "reason": "保留甚至、平坦与偶数。"
+    },
+    "back": {
+      "partOfSpeech": "n. / adv. / v.",
+      "meaningZh": "n. 背部；后面\nadv. 向后；回原处\nv. 支持",
+      "reason": "压缩为背部、向后与支持。"
+    },
+    "good": {
+      "partOfSpeech": "adj. / n.",
+      "meaningZh": "adj. 好的；擅长的\nn. 好处",
+      "reason": "删除虔诚、慈善等低频义。"
+    },
+    "work": {
+      "partOfSpeech": "n. / v.",
+      "meaningZh": "n. 工作；作品\nv. 工作；运转；起作用",
+      "reason": "压缩为工作、作品与运转。"
+    },
+    "still": {
+      "partOfSpeech": "adv. / adj.",
+      "meaningZh": "adv. 仍然\nadj. 静止的",
+      "reason": "删除蒸馏室、剧照等专业义。"
+    },
+    "catholic": {
+      "partOfSpeech": "adj. / n.",
+      "meaningZh": "adj. 天主教的\nn. 天主教徒",
+      "reason": "删除“普遍的、宽宏大量的”等与宗教义无关的义项，避免基础卡片混入歧义。"
+    },
+    "fairly": {
+      "partOfSpeech": "adv.",
+      "meaningZh": "adv. 相当地；公平地；公正地",
+      "reason": "原释义把 fair 的“美观的”等形容词义混入 fairly；fairly 的核心义是程度与公平。"
+    }
+  }
+}

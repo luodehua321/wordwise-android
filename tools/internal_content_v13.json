@@ -1,0 +1,2448 @@
+{
+  "version": "v13",
+  "externalDictionaryUsed": false,
+  "license": "CC0 1.0",
+  "description": "项目原创中英例句、搭配；补充原词库缺少的中文学习语境。",
+  "examples": {
+    "carrier": [
+      {
+        "en": "The carrier will deliver the parcel tomorrow.",
+        "zh": "承运公司明天会送达包裹。"
+      }
+    ],
+    "rape": [
+      {
+        "en": "The center offers support to survivors of rape.",
+        "zh": "该中心为强奸受害者提供支持。"
+      }
+    ],
+    "corridor": [
+      {
+        "en": "Her office is at the end of the corridor.",
+        "zh": "她的办公室在走廊尽头。"
+      }
+    ],
+    "interior": [
+      {
+        "en": "The interior of the house needs painting.",
+        "zh": "房屋内部需要粉刷。"
+      }
+    ],
+    "pitcher": [
+      {
+        "en": "She poured water from a glass pitcher.",
+        "zh": "她用玻璃水罐倒水。"
+      }
+    ],
+    "retail": [
+      {
+        "en": "The company sells furniture at retail.",
+        "zh": "这家公司零售家具。"
+      }
+    ],
+    "developer": [
+      {
+        "en": "The developer fixed a bug in the app.",
+        "zh": "开发者修复了应用中的一个错误。"
+      }
+    ],
+    "dose": [
+      {
+        "en": "The label states the recommended dose.",
+        "zh": "标签上写明了建议剂量。"
+      }
+    ],
+    "plead": [
+      {
+        "en": "They plead for more time to finish the work.",
+        "zh": "他们恳求多给些时间完成工作。"
+      }
+    ],
+    "sixth": [
+      {
+        "en": "Our apartment is on the sixth floor.",
+        "zh": "我们的公寓在六楼。"
+      }
+    ],
+    "longtime": [
+      {
+        "en": "She had lunch with a longtime friend.",
+        "zh": "她和一位老朋友一起吃了午饭。"
+      }
+    ],
+    "render": [
+      {
+        "en": "This change could render the old system useless.",
+        "zh": "这一变化可能使旧系统失去作用。"
+      }
+    ],
+    "restrict": [
+      {
+        "en": "The rules restrict access to this area.",
+        "zh": "这些规定限制人们进入这一区域。"
+      }
+    ],
+    "enforce": [
+      {
+        "en": "The school will enforce the new rules next term.",
+        "zh": "学校将从下学期起执行新规定。"
+      }
+    ],
+    "contend": [
+      {
+        "en": "Small shops must contend with rising costs.",
+        "zh": "小商店必须应对不断上涨的成本。"
+      }
+    ],
+    "array": [
+      {
+        "en": "The store offers an impressive array of teas.",
+        "zh": "这家商店提供种类繁多的茶。"
+      }
+    ],
+    "obstacle": [
+      {
+        "en": "Lack of time was the main obstacle.",
+        "zh": "时间不足是主要障碍。"
+      }
+    ],
+    "crystal": [
+      {
+        "en": "A tiny crystal formed in the solution.",
+        "zh": "溶液中形成了一颗微小的晶体。"
+      }
+    ],
+    "arena": [
+      {
+        "en": "Thousands of fans filled the sports arena.",
+        "zh": "数千名球迷坐满了体育馆。"
+      }
+    ],
+    "drift": [
+      {
+        "en": "We watched the clouds drift across the sky.",
+        "zh": "我们看着云朵从天空缓缓飘过。"
+      }
+    ],
+    "maximum": [
+      {
+        "en": "The room can hold a maximum of forty people.",
+        "zh": "这个房间最多可容纳四十人。"
+      }
+    ],
+    "outdoor": [
+      {
+        "en": "The hotel has an outdoor swimming pool.",
+        "zh": "这家酒店有一个室外游泳池。"
+      }
+    ],
+    "suck": [
+      {
+        "en": "Babies often suck their thumbs.",
+        "zh": "婴儿经常吮吸自己的拇指。"
+      }
+    ],
+    "random": [
+      {
+        "en": "The program selects a name at random.",
+        "zh": "程序随机选出一个名字。"
+      }
+    ],
+    "leap": [
+      {
+        "en": "We watched the frog leap into the pond.",
+        "zh": "我们看着青蛙跳进池塘。"
+      }
+    ],
+    "domain": [
+      {
+        "en": "The results are now in the public domain.",
+        "zh": "这些结果现在已经公开。"
+      }
+    ],
+    "database": [
+      {
+        "en": "The library stores its records in a database.",
+        "zh": "图书馆将记录存储在数据库中。"
+      }
+    ],
+    "limb": [
+      {
+        "en": "The tree lost a large limb in the storm.",
+        "zh": "这棵树在暴风雨中折断了一根粗大的树枝。"
+      }
+    ],
+    "horn": [
+      {
+        "en": "The driver sounded the horn before turning.",
+        "zh": "司机在转弯前鸣了喇叭。"
+      }
+    ],
+    "peaceful": [
+      {
+        "en": "We spent a peaceful afternoon by the lake.",
+        "zh": "我们在湖边度过了一个宁静的下午。"
+      }
+    ],
+    "pad": [
+      {
+        "en": "She wrote the address on a small pad.",
+        "zh": "她把地址写在一个小便笺本上。"
+      }
+    ],
+    "trigger": [
+      {
+        "en": "A small spark can trigger a fire.",
+        "zh": "一颗小火星就可能引发火灾。"
+      }
+    ],
+    "virtual": [
+      {
+        "en": "We took a virtual tour of the museum.",
+        "zh": "我们以虚拟方式参观了这家博物馆。"
+      }
+    ],
+    "convict": [
+      {
+        "en": "The jury decided to convict him of fraud.",
+        "zh": "陪审团决定判定他犯有欺诈罪。"
+      }
+    ],
+    "particle": [
+      {
+        "en": "A particle of dust floated in the sunlight.",
+        "zh": "一粒灰尘在阳光中飘浮。"
+      }
+    ],
+    "boost": [
+      {
+        "en": "A short break can boost your energy.",
+        "zh": "短暂休息可以让你恢复精神。"
+      }
+    ],
+    "outer": [
+      {
+        "en": "Remove the outer leaves before washing the cabbage.",
+        "zh": "洗卷心菜前先去掉外层叶子。"
+      }
+    ],
+    "freshman": [
+      {
+        "en": "He joined the club as a college freshman.",
+        "zh": "他在大学一年级时加入了这个社团。"
+      }
+    ],
+    "ballot": [
+      {
+        "en": "Each member receives one ballot.",
+        "zh": "每位成员都会收到一张选票。"
+      }
+    ],
+    "web": [
+      {
+        "en": "A spider built a web across the window.",
+        "zh": "一只蜘蛛在窗前结了网。"
+      }
+    ],
+    "chaos": [
+      {
+        "en": "The sudden power failure caused chaos.",
+        "zh": "突然停电造成了一片混乱。"
+      }
+    ],
+    "format": [
+      {
+        "en": "Please save the file in PDF format.",
+        "zh": "请把文件保存为 PDF 格式。"
+      }
+    ],
+    "canvas": [
+      {
+        "en": "The artist placed a blank canvas on the easel.",
+        "zh": "画家把一块空白画布放在画架上。"
+      }
+    ],
+    "profound": [
+      {
+        "en": "The experience had a profound effect on her.",
+        "zh": "这段经历对她产生了深远影响。"
+      }
+    ],
+    "trait": [
+      {
+        "en": "Patience is a useful trait for a teacher.",
+        "zh": "耐心是教师的一项重要品质。"
+      }
+    ],
+    "currency": [
+      {
+        "en": "What currency is used in this country?",
+        "zh": "这个国家使用什么货币？"
+      }
+    ],
+    "beam": [
+      {
+        "en": "A beam of sunlight fell on the table.",
+        "zh": "一束阳光照在桌子上。"
+      }
+    ],
+    "bureau": [
+      {
+        "en": "The bureau publishes a report every month.",
+        "zh": "该局每个月发布一份报告。"
+      }
+    ],
+    "scatter": [
+      {
+        "en": "Please do not scatter crumbs on the floor.",
+        "zh": "请不要把面包屑撒在地板上。"
+      }
+    ],
+    "commonly": [
+      {
+        "en": "This word is commonly used in everyday speech.",
+        "zh": "这个词在日常口语中很常见。"
+      }
+    ],
+    "disk": [
+      {
+        "en": "The files were saved on an external disk.",
+        "zh": "文件保存在外置磁盘上。"
+      }
+    ],
+    "suspend": [
+      {
+        "en": "The school decided to suspend classes for a day.",
+        "zh": "学校决定停课一天。"
+      }
+    ],
+    "rebel": [
+      {
+        "en": "She began to rebel against the strict rules.",
+        "zh": "她开始反抗那些严格的规定。"
+      }
+    ],
+    "spouse": [
+      {
+        "en": "You may bring your spouse to the dinner.",
+        "zh": "你可以带配偶参加晚宴。"
+      }
+    ],
+    "output": [
+      {
+        "en": "The factory increased its output this year.",
+        "zh": "工厂今年提高了产量。"
+      }
+    ],
+    "utility": [
+      {
+        "en": "The new road has great utility for local farmers.",
+        "zh": "这条新路对当地农民很有用。"
+      }
+    ],
+    "clinical": [
+      {
+        "en": "The treatment is still in clinical trials.",
+        "zh": "这种疗法仍处于临床试验阶段。"
+      }
+    ],
+    "corporation": [
+      {
+        "en": "She works for a large international corporation.",
+        "zh": "她在一家大型跨国公司工作。"
+      }
+    ],
+    "provision": [
+      {
+        "en": "The contract includes a provision for early payment.",
+        "zh": "合同中包含一项提前付款的条款。"
+      }
+    ],
+    "classic": [
+      {
+        "en": "This novel is a classic of English literature.",
+        "zh": "这部小说是英国文学的经典作品。"
+      }
+    ],
+    "mechanism": [
+      {
+        "en": "Nobody fully understands the mechanism behind this effect.",
+        "zh": "还没有人完全了解这种现象背后的机制。"
+      }
+    ],
+    "destruction": [
+      {
+        "en": "The storm caused widespread destruction.",
+        "zh": "暴风雨造成了大范围的破坏。"
+      }
+    ],
+    "infection": [
+      {
+        "en": "The test showed no sign of infection.",
+        "zh": "检查没有发现感染迹象。"
+      }
+    ],
+    "literary": [
+      {
+        "en": "She writes reviews for a literary magazine.",
+        "zh": "她为一本文学杂志撰写评论。"
+      }
+    ],
+    "strategic": [
+      {
+        "en": "The bridge has strategic importance for the region.",
+        "zh": "这座桥对该地区具有战略意义。"
+      }
+    ],
+    "initially": [
+      {
+        "en": "I was initially unsure about the plan.",
+        "zh": "起初我对这个计划没有把握。"
+      }
+    ],
+    "expansion": [
+      {
+        "en": "The company announced the expansion of its network.",
+        "zh": "公司宣布扩大其网络。"
+      }
+    ],
+    "concentration": [
+      {
+        "en": "Noise makes concentration difficult.",
+        "zh": "噪声让人难以集中注意力。"
+      }
+    ],
+    "tournament": [
+      {
+        "en": "Our team reached the final of the tournament.",
+        "zh": "我们队进入了锦标赛决赛。"
+      }
+    ],
+    "satisfaction": [
+      {
+        "en": "She smiled with satisfaction at the finished work.",
+        "zh": "看着完成的作品，她满意地笑了。"
+      }
+    ],
+    "finance": [
+      {
+        "en": "He wants to study finance at university.",
+        "zh": "他想在大学学习金融。"
+      }
+    ],
+    "potentially": [
+      {
+        "en": "The change could potentially save a lot of time.",
+        "zh": "这一改变有可能节省大量时间。"
+      }
+    ],
+    "politically": [
+      {
+        "en": "The issue is politically sensitive.",
+        "zh": "这个问题在政治上很敏感。"
+      }
+    ],
+    "extensive": [
+      {
+        "en": "The museum has an extensive collection of maps.",
+        "zh": "博物馆收藏了大量地图。"
+      }
+    ],
+    "characterize": [
+      {
+        "en": "How would you characterize her writing style?",
+        "zh": "你会如何描述她的写作风格？"
+      }
+    ],
+    "violation": [
+      {
+        "en": "Parking here is a violation of the rules.",
+        "zh": "在这里停车违反规定。"
+      }
+    ],
+    "defensive": [
+      {
+        "en": "He became defensive when we questioned his decision.",
+        "zh": "当我们质疑他的决定时，他开始为自己辩解。"
+      }
+    ],
+    "presentation": [
+      {
+        "en": "Her presentation explained the project clearly.",
+        "zh": "她的演示清楚地介绍了这个项目。"
+      }
+    ],
+    "regardless": [
+      {
+        "en": "We will continue regardless of the weather.",
+        "zh": "无论天气如何，我们都会继续。"
+      }
+    ],
+    "stable": [
+      {
+        "en": "Prices have remained stable this month.",
+        "zh": "本月价格保持稳定。"
+      }
+    ],
+    "introduction": [
+      {
+        "en": "The book begins with a short introduction.",
+        "zh": "这本书以一篇简短的导言开篇。"
+      }
+    ],
+    "partnership": [
+      {
+        "en": "The project was completed in partnership with local schools.",
+        "zh": "这个项目是与当地学校合作完成的。"
+      }
+    ],
+    "emission": [
+      {
+        "en": "The new buses reduce the emission of harmful gases.",
+        "zh": "新公交车减少了有害气体的排放。"
+      }
+    ],
+    "distinction": [
+      {
+        "en": "The course explains the distinction between fact and opinion.",
+        "zh": "这门课讲解事实与观点之间的区别。"
+      }
+    ],
+    "variation": [
+      {
+        "en": "There is considerable variation in prices between shops.",
+        "zh": "不同商店的价格差异很大。"
+      }
+    ],
+    "radical": [
+      {
+        "en": "The plan requires a radical change in our approach.",
+        "zh": "这个计划要求我们从根本上改变方法。"
+      }
+    ],
+    "correspondent": [
+      {
+        "en": "The correspondent sent a report from the capital.",
+        "zh": "记者从首都发来一篇报道。"
+      }
+    ],
+    "evolution": [
+      {
+        "en": "The exhibition traces the evolution of the bicycle.",
+        "zh": "展览追溯了自行车的发展过程。"
+      }
+    ],
+    "vulnerable": [
+      {
+        "en": "Young plants are vulnerable to frost.",
+        "zh": "幼苗容易受到霜冻的伤害。"
+      }
+    ],
+    "capability": [
+      {
+        "en": "The camera has the capability to record video.",
+        "zh": "这台相机具有录像功能。"
+      }
+    ],
+    "gradually": [
+      {
+        "en": "The room gradually became warmer.",
+        "zh": "房间逐渐暖和起来。"
+      }
+    ],
+    "stability": [
+      {
+        "en": "The new policy aims to improve economic stability.",
+        "zh": "新政策旨在提高经济稳定性。"
+      }
+    ],
+    "economist": [
+      {
+        "en": "The economist explained why prices were rising.",
+        "zh": "这位经济学家解释了物价上涨的原因。"
+      }
+    ],
+    "celebration": [
+      {
+        "en": "We held a small celebration after the exam.",
+        "zh": "考试结束后，我们举行了一次小型庆祝活动。"
+      }
+    ],
+    "preference": [
+      {
+        "en": "Do you have a preference for tea or coffee?",
+        "zh": "你更喜欢茶还是咖啡？"
+      }
+    ],
+    "incredible": [
+      {
+        "en": "The view from the top was incredible.",
+        "zh": "山顶的景色令人惊叹。"
+      }
+    ],
+    "conviction": [
+      {
+        "en": "She spoke with conviction about the need for change.",
+        "zh": "她坚定地谈到改变的必要性。"
+      }
+    ],
+    "maintenance": [
+      {
+        "en": "The machine needs regular maintenance.",
+        "zh": "这台机器需要定期维护。"
+      }
+    ],
+    "sophisticated": [
+      {
+        "en": "The new device uses sophisticated software.",
+        "zh": "这种新设备使用复杂精密的软件。"
+      }
+    ],
+    "narrative": [
+      {
+        "en": "The film presents a simple narrative about friendship.",
+        "zh": "这部电影讲述了一个关于友谊的简单故事。"
+      }
+    ],
+    "adjustment": [
+      {
+        "en": "The chair needs a slight adjustment.",
+        "zh": "这把椅子需要稍微调整一下。"
+      }
+    ],
+    "motivation": [
+      {
+        "en": "Her main motivation was to help others.",
+        "zh": "她的主要动机是帮助他人。"
+      }
+    ],
+    "sequence": [
+      {
+        "en": "Put the pictures in the correct sequence.",
+        "zh": "把图片按正确顺序排列。"
+      }
+    ],
+    "edition": [
+      {
+        "en": "I bought the latest edition of the textbook.",
+        "zh": "我买了这本教材的最新版本。"
+      }
+    ],
+    "manufacturing": [
+      {
+        "en": "The region has a strong manufacturing sector.",
+        "zh": "该地区制造业发达。"
+      }
+    ],
+    "legitimate": [
+      {
+        "en": "Customers have a legitimate reason to complain.",
+        "zh": "顾客有正当的理由投诉。"
+      }
+    ],
+    "furthermore": [
+      {
+        "en": "The room is small; furthermore, it has no window.",
+        "zh": "这个房间很小，而且没有窗户。"
+      }
+    ],
+    "sanction": [
+      {
+        "en": "The government imposed an economic sanction.",
+        "zh": "政府实施了一项经济制裁。"
+      }
+    ],
+    "nomination": [
+      {
+        "en": "Her nomination for the award surprised nobody.",
+        "zh": "她获得该奖项提名，大家都不意外。"
+      }
+    ],
+    "tactic": [
+      {
+        "en": "Offering a free sample is a common sales tactic.",
+        "zh": "提供免费试用装是一种常见的销售策略。"
+      }
+    ],
+    "invasion": [
+      {
+        "en": "The article describes the invasion of the island.",
+        "zh": "这篇文章描述了对该岛的入侵。"
+      }
+    ],
+    "intensity": [
+      {
+        "en": "The intensity of the light can be adjusted.",
+        "zh": "光线的强度可以调节。"
+      }
+    ],
+    "confusion": [
+      {
+        "en": "The similar names caused confusion.",
+        "zh": "相似的名字造成了混淆。"
+      }
+    ],
+    "collective": [
+      {
+        "en": "The decision was the result of a collective effort.",
+        "zh": "这项决定是大家共同努力的结果。"
+      }
+    ],
+    "fitness": [
+      {
+        "en": "Walking regularly can improve your fitness.",
+        "zh": "经常步行可以增强体能。"
+      }
+    ],
+    "surprisingly": [
+      {
+        "en": "The test was surprisingly easy.",
+        "zh": "这次考试出乎意料地简单。"
+      }
+    ],
+    "indication": [
+      {
+        "en": "There was no indication that the train would be late.",
+        "zh": "没有迹象表明火车会晚点。"
+      }
+    ],
+    "alliance": [
+      {
+        "en": "The two groups formed an alliance.",
+        "zh": "这两个团体结成了联盟。"
+      }
+    ],
+    "regulate": [
+      {
+        "en": "The device helps regulate the temperature.",
+        "zh": "这个装置有助于调节温度。"
+      }
+    ],
+    "adolescent": [
+      {
+        "en": "The book describes the life of an adolescent.",
+        "zh": "这本书描述了一名青少年的生活。"
+      }
+    ],
+    "magic": [
+      {
+        "en": "The children enjoyed the magic show.",
+        "zh": "孩子们很喜欢这场魔术表演。"
+      }
+    ],
+    "essence": [
+      {
+        "en": "In essence, the two proposals are very similar.",
+        "zh": "本质上，这两个提议非常相似。"
+      }
+    ],
+    "initiate": [
+      {
+        "en": "We will initiate a review of the process.",
+        "zh": "我们将开始审查这一流程。"
+      }
+    ],
+    "mainstream": [
+      {
+        "en": "The idea is now part of mainstream thinking.",
+        "zh": "这个想法如今已成为主流观念的一部分。"
+      }
+    ],
+    "motivate": [
+      {
+        "en": "A clear goal can motivate people to work harder.",
+        "zh": "明确的目标能激励人们更加努力。"
+      }
+    ],
+    "seemingly": [
+      {
+        "en": "The seemingly simple task took hours.",
+        "zh": "这个看似简单的任务花了好几个小时。"
+      }
+    ],
+    "companion": [
+      {
+        "en": "My dog is a loyal companion.",
+        "zh": "我的狗是一个忠诚的伙伴。"
+      }
+    ],
+    "inspector": [
+      {
+        "en": "The inspector checked the fire exits.",
+        "zh": "检查员检查了消防出口。"
+      }
+    ],
+    "overwhelming": [
+      {
+        "en": "The proposal was approved by an overwhelming majority.",
+        "zh": "这项提案以压倒性多数获得通过。"
+      }
+    ],
+    "diagnosis": [
+      {
+        "en": "The doctor explained the diagnosis to the patient.",
+        "zh": "医生向病人解释了诊断结果。"
+      }
+    ],
+    "consistently": [
+      {
+        "en": "She consistently arrives before everyone else.",
+        "zh": "她总是比其他人先到。"
+      }
+    ],
+    "questionnaire": [
+      {
+        "en": "Please complete this short questionnaire.",
+        "zh": "请填写这份简短的问卷。"
+      }
+    ],
+    "hence": [
+      {
+        "en": "The road is closed, hence the delay.",
+        "zh": "道路封闭了，因此出现了延误。"
+      }
+    ],
+    "chronic": [
+      {
+        "en": "The town has a chronic shortage of housing.",
+        "zh": "这个镇长期缺少住房。"
+      }
+    ],
+    "administer": [
+      {
+        "en": "The office will administer the new program.",
+        "zh": "这个办公室将负责管理新项目。"
+      }
+    ],
+    "respectively": [
+      {
+        "en": "The tickets cost ten and fifteen dollars, respectively.",
+        "zh": "这两种票的价格分别为十美元和十五美元。"
+      }
+    ],
+    "astronomer": [
+      {
+        "en": "The astronomer observed a distant star.",
+        "zh": "这位天文学家观测了一颗遥远的恒星。"
+      }
+    ],
+    "pickup": [
+      {
+        "en": "Your order will be ready for pickup at noon.",
+        "zh": "你的订单中午就可以取货。"
+      }
+    ],
+    "timing": [
+      {
+        "en": "Good timing is essential in this game.",
+        "zh": "在这个游戏中，把握好时机非常重要。"
+      }
+    ],
+    "portfolio": [
+      {
+        "en": "The designer showed us her portfolio.",
+        "zh": "这位设计师向我们展示了她的作品集。"
+      }
+    ],
+    "shuttle": [
+      {
+        "en": "A free shuttle runs between the airport and the hotel.",
+        "zh": "机场与酒店之间有免费接驳车。"
+      }
+    ],
+    "rider": [
+      {
+        "en": "The rider got off the horse at the gate.",
+        "zh": "骑手在大门口下了马。"
+      }
+    ],
+    "residential": [
+      {
+        "en": "The shop is in a quiet residential area.",
+        "zh": "这家商店位于一个安静的住宅区。"
+      }
+    ],
+    "diagnose": [
+      {
+        "en": "Further tests are needed to diagnose the problem.",
+        "zh": "还需要进一步检测才能诊断这个问题。"
+      }
+    ],
+    "liberty": [
+      {
+        "en": "The law protects individual liberty.",
+        "zh": "这项法律保护个人自由。"
+      }
+    ],
+    "pit": [
+      {
+        "en": "Workers dug a deep pit beside the road.",
+        "zh": "工人在路旁挖了一个深坑。"
+      }
+    ],
+    "wildlife": [
+      {
+        "en": "The reserve protects local wildlife.",
+        "zh": "这个保护区保护当地的野生动植物。"
+      }
+    ],
+    "teenage": [
+      {
+        "en": "She wrote the story during her teenage years.",
+        "zh": "她在青少年时期写下了这个故事。"
+      }
+    ],
+    "pursuit": [
+      {
+        "en": "He traveled widely in pursuit of knowledge.",
+        "zh": "他为求知而广泛游历。"
+      }
+    ],
+    "oral": [
+      {
+        "en": "The course includes an oral examination.",
+        "zh": "这门课包括一次口试。"
+      }
+    ],
+    "reporting": [
+      {
+        "en": "The award recognizes excellent reporting.",
+        "zh": "这个奖项表彰优秀的新闻报道。"
+      }
+    ],
+    "endorse": [
+      {
+        "en": "Several teachers agreed to endorse the proposal.",
+        "zh": "几位老师同意支持这个提议。"
+      }
+    ],
+    "feedback": [
+      {
+        "en": "Thank you for your helpful feedback.",
+        "zh": "感谢你提供的有益反馈。"
+      }
+    ],
+    "thereby": [
+      {
+        "en": "The new route is shorter, thereby saving time.",
+        "zh": "新路线更短，因此节省了时间。"
+      }
+    ],
+    "indicator": [
+      {
+        "en": "Sales figures are one indicator of demand.",
+        "zh": "销售数据是反映需求的一项指标。"
+      }
+    ],
+    "spectrum": [
+      {
+        "en": "The course covers a broad spectrum of topics.",
+        "zh": "这门课涉及广泛的主题。"
+      }
+    ],
+    "sunlight": [
+      {
+        "en": "The plant needs plenty of sunlight.",
+        "zh": "这种植物需要充足的阳光。"
+      }
+    ],
+    "bold": [
+      {
+        "en": "She made a bold decision to start her own business.",
+        "zh": "她大胆决定自己创业。"
+      }
+    ],
+    "realm": [
+      {
+        "en": "The question belongs in the realm of philosophy.",
+        "zh": "这个问题属于哲学领域。"
+      }
+    ],
+    "accounting": [
+      {
+        "en": "She took a course in accounting.",
+        "zh": "她修读了一门会计课程。"
+      }
+    ],
+    "huh": [
+      {
+        "en": "Huh, I thought the shop was open today.",
+        "zh": "嗯，我还以为这家店今天营业呢。"
+      }
+    ],
+    "metaphor": [
+      {
+        "en": "The poet uses the sea as a metaphor for life.",
+        "zh": "诗人用大海比喻人生。"
+      }
+    ],
+    "chin": [
+      {
+        "en": "He rested his chin on his hand.",
+        "zh": "他用手托着下巴。"
+      }
+    ],
+    "starter": [
+      {
+        "en": "We ordered soup as a starter.",
+        "zh": "我们点了汤作为开胃菜。"
+      }
+    ],
+    "banking": [
+      {
+        "en": "She uses an app for her everyday banking.",
+        "zh": "她用一款应用处理日常银行业务。"
+      }
+    ]
+  },
+  "collocations": {
+    "carrier": [
+      {
+        "en": "an aircraft carrier",
+        "zh": "一艘航空母舰"
+      }
+    ],
+    "rape": [
+      {
+        "en": "a rape survivor",
+        "zh": "强奸受害者"
+      }
+    ],
+    "corridor": [
+      {
+        "en": "a narrow corridor",
+        "zh": "狭窄的走廊"
+      }
+    ],
+    "interior": [
+      {
+        "en": "interior design",
+        "zh": "室内设计"
+      }
+    ],
+    "pitcher": [
+      {
+        "en": "a water pitcher",
+        "zh": "水罐"
+      }
+    ],
+    "retail": [
+      {
+        "en": "the retail price",
+        "zh": "零售价"
+      }
+    ],
+    "developer": [
+      {
+        "en": "a software developer",
+        "zh": "软件开发者"
+      }
+    ],
+    "dose": [
+      {
+        "en": "a daily dose",
+        "zh": "每日剂量"
+      }
+    ],
+    "plead": [
+      {
+        "en": "plead for help",
+        "zh": "恳求帮助"
+      }
+    ],
+    "sixth": [
+      {
+        "en": "the sixth floor",
+        "zh": "六楼"
+      }
+    ],
+    "longtime": [
+      {
+        "en": "a longtime friend",
+        "zh": "相识多年的朋友"
+      }
+    ],
+    "render": [
+      {
+        "en": "render assistance",
+        "zh": "提供援助"
+      }
+    ],
+    "restrict": [
+      {
+        "en": "restrict access",
+        "zh": "限制进入或使用"
+      }
+    ],
+    "enforce": [
+      {
+        "en": "enforce a rule",
+        "zh": "执行规定"
+      }
+    ],
+    "contend": [
+      {
+        "en": "contend with difficulties",
+        "zh": "应对困难"
+      }
+    ],
+    "array": [
+      {
+        "en": "an array of choices",
+        "zh": "一系列选择"
+      }
+    ],
+    "obstacle": [
+      {
+        "en": "overcome an obstacle",
+        "zh": "克服障碍"
+      }
+    ],
+    "crystal": [
+      {
+        "en": "a crystal vase",
+        "zh": "水晶花瓶"
+      }
+    ],
+    "arena": [
+      {
+        "en": "a sports arena",
+        "zh": "体育场馆"
+      }
+    ],
+    "drift": [
+      {
+        "en": "drift apart",
+        "zh": "渐渐疏远"
+      }
+    ],
+    "maximum": [
+      {
+        "en": "the maximum speed",
+        "zh": "最高速度"
+      }
+    ],
+    "outdoor": [
+      {
+        "en": "outdoor activities",
+        "zh": "户外活动"
+      }
+    ],
+    "suck": [
+      {
+        "en": "suck through a straw",
+        "zh": "用吸管吸"
+      }
+    ],
+    "random": [
+      {
+        "en": "a random sample",
+        "zh": "随机样本"
+      }
+    ],
+    "leap": [
+      {
+        "en": "a leap forward",
+        "zh": "一次飞跃"
+      }
+    ],
+    "domain": [
+      {
+        "en": "a domain name",
+        "zh": "域名"
+      }
+    ],
+    "database": [
+      {
+        "en": "a customer database",
+        "zh": "客户数据库"
+      }
+    ],
+    "limb": [
+      {
+        "en": "an artificial limb",
+        "zh": "假肢"
+      }
+    ],
+    "horn": [
+      {
+        "en": "sound the horn",
+        "zh": "鸣喇叭"
+      }
+    ],
+    "peaceful": [
+      {
+        "en": "a peaceful village",
+        "zh": "宁静的村庄"
+      }
+    ],
+    "pad": [
+      {
+        "en": "a writing pad",
+        "zh": "便笺本"
+      }
+    ],
+    "trigger": [
+      {
+        "en": "trigger a reaction",
+        "zh": "引发反应"
+      }
+    ],
+    "virtual": [
+      {
+        "en": "virtual reality",
+        "zh": "虚拟现实"
+      }
+    ],
+    "convict": [
+      {
+        "en": "convict someone of a crime",
+        "zh": "判定某人犯有某罪"
+      }
+    ],
+    "particle": [
+      {
+        "en": "a tiny particle",
+        "zh": "微小的颗粒"
+      }
+    ],
+    "boost": [
+      {
+        "en": "boost confidence",
+        "zh": "增强信心"
+      }
+    ],
+    "outer": [
+      {
+        "en": "the outer layer",
+        "zh": "外层"
+      }
+    ],
+    "freshman": [
+      {
+        "en": "a college freshman",
+        "zh": "大学一年级学生"
+      }
+    ],
+    "ballot": [
+      {
+        "en": "a secret ballot",
+        "zh": "无记名投票"
+      }
+    ],
+    "web": [
+      {
+        "en": "a spider web",
+        "zh": "蜘蛛网"
+      }
+    ],
+    "chaos": [
+      {
+        "en": "in complete chaos",
+        "zh": "一片混乱"
+      }
+    ],
+    "format": [
+      {
+        "en": "a file format",
+        "zh": "文件格式"
+      }
+    ],
+    "canvas": [
+      {
+        "en": "a canvas bag",
+        "zh": "帆布包"
+      }
+    ],
+    "profound": [
+      {
+        "en": "a profound change",
+        "zh": "深刻的变化"
+      }
+    ],
+    "trait": [
+      {
+        "en": "a personality trait",
+        "zh": "性格特征"
+      }
+    ],
+    "currency": [
+      {
+        "en": "foreign currency",
+        "zh": "外币"
+      }
+    ],
+    "beam": [
+      {
+        "en": "a beam of light",
+        "zh": "一束光"
+      }
+    ],
+    "bureau": [
+      {
+        "en": "a news bureau",
+        "zh": "新闻分社"
+      }
+    ],
+    "scatter": [
+      {
+        "en": "scatter seeds",
+        "zh": "播撒种子"
+      }
+    ],
+    "commonly": [
+      {
+        "en": "commonly used",
+        "zh": "常用的"
+      }
+    ],
+    "disk": [
+      {
+        "en": "a hard disk",
+        "zh": "硬盘"
+      }
+    ],
+    "suspend": [
+      {
+        "en": "suspend a service",
+        "zh": "暂停一项服务"
+      }
+    ],
+    "rebel": [
+      {
+        "en": "rebel against authority",
+        "zh": "反抗权威"
+      }
+    ],
+    "spouse": [
+      {
+        "en": "a surviving spouse",
+        "zh": "在世的配偶"
+      }
+    ],
+    "output": [
+      {
+        "en": "annual output",
+        "zh": "年产量"
+      }
+    ],
+    "utility": [
+      {
+        "en": "a utility bill",
+        "zh": "水电燃气等公用事业账单"
+      }
+    ],
+    "clinical": [
+      {
+        "en": "a clinical trial",
+        "zh": "临床试验"
+      }
+    ],
+    "corporation": [
+      {
+        "en": "a multinational corporation",
+        "zh": "跨国公司"
+      }
+    ],
+    "provision": [
+      {
+        "en": "the provision of services",
+        "zh": "服务的提供"
+      }
+    ],
+    "classic": [
+      {
+        "en": "a classic example",
+        "zh": "典型例子"
+      }
+    ],
+    "mechanism": [
+      {
+        "en": "a safety mechanism",
+        "zh": "安全装置"
+      }
+    ],
+    "destruction": [
+      {
+        "en": "the destruction of forests",
+        "zh": "森林的毁坏"
+      }
+    ],
+    "infection": [
+      {
+        "en": "prevent infection",
+        "zh": "预防感染"
+      }
+    ],
+    "literary": [
+      {
+        "en": "a literary work",
+        "zh": "文学作品"
+      }
+    ],
+    "strategic": [
+      {
+        "en": "a strategic decision",
+        "zh": "战略决策"
+      }
+    ],
+    "initially": [
+      {
+        "en": "initially planned",
+        "zh": "最初计划的"
+      }
+    ],
+    "expansion": [
+      {
+        "en": "rapid expansion",
+        "zh": "迅速扩张"
+      }
+    ],
+    "concentration": [
+      {
+        "en": "a lack of concentration",
+        "zh": "注意力不集中"
+      }
+    ],
+    "tournament": [
+      {
+        "en": "a tennis tournament",
+        "zh": "网球锦标赛"
+      }
+    ],
+    "satisfaction": [
+      {
+        "en": "job satisfaction",
+        "zh": "工作满意度"
+      }
+    ],
+    "finance": [
+      {
+        "en": "public finance",
+        "zh": "公共财政"
+      }
+    ],
+    "potentially": [
+      {
+        "en": "potentially dangerous",
+        "zh": "可能有危险的"
+      }
+    ],
+    "politically": [
+      {
+        "en": "politically active",
+        "zh": "积极参与政治的"
+      }
+    ],
+    "extensive": [
+      {
+        "en": "extensive research",
+        "zh": "广泛研究"
+      }
+    ],
+    "characterize": [
+      {
+        "en": "characterize a situation",
+        "zh": "描述一种情形的特点"
+      }
+    ],
+    "violation": [
+      {
+        "en": "a violation of privacy",
+        "zh": "侵犯隐私"
+      }
+    ],
+    "defensive": [
+      {
+        "en": "a defensive strategy",
+        "zh": "防御策略"
+      }
+    ],
+    "presentation": [
+      {
+        "en": "give a presentation",
+        "zh": "作报告或演示"
+      }
+    ],
+    "regardless": [
+      {
+        "en": "regardless of age",
+        "zh": "不论年龄"
+      }
+    ],
+    "stable": [
+      {
+        "en": "a stable income",
+        "zh": "稳定的收入"
+      }
+    ],
+    "introduction": [
+      {
+        "en": "an introduction to music",
+        "zh": "音乐入门"
+      }
+    ],
+    "partnership": [
+      {
+        "en": "form a partnership",
+        "zh": "建立合作关系"
+      }
+    ],
+    "emission": [
+      {
+        "en": "carbon emission",
+        "zh": "碳排放"
+      }
+    ],
+    "distinction": [
+      {
+        "en": "make a distinction",
+        "zh": "作出区分"
+      }
+    ],
+    "variation": [
+      {
+        "en": "seasonal variation",
+        "zh": "季节性变化"
+      }
+    ],
+    "radical": [
+      {
+        "en": "a radical reform",
+        "zh": "彻底的改革"
+      }
+    ],
+    "correspondent": [
+      {
+        "en": "a foreign correspondent",
+        "zh": "驻外记者"
+      }
+    ],
+    "evolution": [
+      {
+        "en": "human evolution",
+        "zh": "人类进化"
+      }
+    ],
+    "vulnerable": [
+      {
+        "en": "vulnerable to attack",
+        "zh": "容易受到攻击的"
+      }
+    ],
+    "capability": [
+      {
+        "en": "technical capability",
+        "zh": "技术能力"
+      }
+    ],
+    "gradually": [
+      {
+        "en": "gradually improve",
+        "zh": "逐渐改善"
+      }
+    ],
+    "stability": [
+      {
+        "en": "financial stability",
+        "zh": "金融稳定"
+      }
+    ],
+    "economist": [
+      {
+        "en": "a leading economist",
+        "zh": "杰出的经济学家"
+      }
+    ],
+    "celebration": [
+      {
+        "en": "a birthday celebration",
+        "zh": "生日庆祝活动"
+      }
+    ],
+    "preference": [
+      {
+        "en": "a personal preference",
+        "zh": "个人偏好"
+      }
+    ],
+    "incredible": [
+      {
+        "en": "an incredible story",
+        "zh": "令人难以置信的故事"
+      }
+    ],
+    "conviction": [
+      {
+        "en": "a firm conviction",
+        "zh": "坚定的信念"
+      }
+    ],
+    "maintenance": [
+      {
+        "en": "routine maintenance",
+        "zh": "日常维护"
+      }
+    ],
+    "sophisticated": [
+      {
+        "en": "a sophisticated system",
+        "zh": "复杂精密的系统"
+      }
+    ],
+    "narrative": [
+      {
+        "en": "a personal narrative",
+        "zh": "个人经历的叙述"
+      }
+    ],
+    "adjustment": [
+      {
+        "en": "make an adjustment",
+        "zh": "作出调整"
+      }
+    ],
+    "motivation": [
+      {
+        "en": "a lack of motivation",
+        "zh": "缺乏动力"
+      }
+    ],
+    "sequence": [
+      {
+        "en": "a sequence of events",
+        "zh": "一连串事件"
+      }
+    ],
+    "edition": [
+      {
+        "en": "a revised edition",
+        "zh": "修订版"
+      }
+    ],
+    "manufacturing": [
+      {
+        "en": "the manufacturing industry",
+        "zh": "制造业"
+      }
+    ],
+    "legitimate": [
+      {
+        "en": "a legitimate concern",
+        "zh": "合理的担忧"
+      }
+    ],
+    "furthermore": [
+      {
+        "en": "and furthermore",
+        "zh": "而且"
+      }
+    ],
+    "sanction": [
+      {
+        "en": "official sanction",
+        "zh": "正式批准"
+      }
+    ],
+    "nomination": [
+      {
+        "en": "receive a nomination",
+        "zh": "获得提名"
+      }
+    ],
+    "tactic": [
+      {
+        "en": "a delaying tactic",
+        "zh": "拖延策略"
+      }
+    ],
+    "invasion": [
+      {
+        "en": "an invasion of privacy",
+        "zh": "对隐私的侵犯"
+      }
+    ],
+    "intensity": [
+      {
+        "en": "high intensity",
+        "zh": "高强度"
+      }
+    ],
+    "confusion": [
+      {
+        "en": "avoid confusion",
+        "zh": "避免混淆"
+      }
+    ],
+    "collective": [
+      {
+        "en": "collective responsibility",
+        "zh": "集体责任"
+      }
+    ],
+    "fitness": [
+      {
+        "en": "physical fitness",
+        "zh": "身体素质"
+      }
+    ],
+    "surprisingly": [
+      {
+        "en": "surprisingly good",
+        "zh": "出乎意料地好"
+      }
+    ],
+    "indication": [
+      {
+        "en": "a clear indication",
+        "zh": "明确的迹象"
+      }
+    ],
+    "alliance": [
+      {
+        "en": "a political alliance",
+        "zh": "政治联盟"
+      }
+    ],
+    "regulate": [
+      {
+        "en": "regulate traffic",
+        "zh": "管理交通"
+      }
+    ],
+    "adolescent": [
+      {
+        "en": "adolescent behavior",
+        "zh": "青少年行为"
+      }
+    ],
+    "magic": [
+      {
+        "en": "a magic trick",
+        "zh": "魔术戏法"
+      }
+    ],
+    "essence": [
+      {
+        "en": "the essence of something",
+        "zh": "某事物的本质"
+      }
+    ],
+    "initiate": [
+      {
+        "en": "initiate a discussion",
+        "zh": "发起讨论"
+      }
+    ],
+    "mainstream": [
+      {
+        "en": "mainstream media",
+        "zh": "主流媒体"
+      }
+    ],
+    "motivate": [
+      {
+        "en": "motivate someone to learn",
+        "zh": "激励某人学习"
+      }
+    ],
+    "seemingly": [
+      {
+        "en": "seemingly impossible",
+        "zh": "看似不可能的"
+      }
+    ],
+    "companion": [
+      {
+        "en": "a travel companion",
+        "zh": "旅伴"
+      }
+    ],
+    "inspector": [
+      {
+        "en": "a safety inspector",
+        "zh": "安全检查员"
+      }
+    ],
+    "overwhelming": [
+      {
+        "en": "overwhelming support",
+        "zh": "压倒性的支持"
+      }
+    ],
+    "diagnosis": [
+      {
+        "en": "an accurate diagnosis",
+        "zh": "准确的诊断"
+      }
+    ],
+    "consistently": [
+      {
+        "en": "consistently high quality",
+        "zh": "始终如一的高品质"
+      }
+    ],
+    "questionnaire": [
+      {
+        "en": "a survey questionnaire",
+        "zh": "调查问卷"
+      }
+    ],
+    "hence": [
+      {
+        "en": "hence the need",
+        "zh": "由此产生的需要"
+      }
+    ],
+    "chronic": [
+      {
+        "en": "a chronic problem",
+        "zh": "长期存在的问题"
+      }
+    ],
+    "administer": [
+      {
+        "en": "administer an exam",
+        "zh": "组织考试"
+      }
+    ],
+    "respectively": [
+      {
+        "en": "rank first and second respectively",
+        "zh": "分别排名第一和第二"
+      }
+    ],
+    "astronomer": [
+      {
+        "en": "an amateur astronomer",
+        "zh": "业余天文学家"
+      }
+    ],
+    "pickup": [
+      {
+        "en": "a pickup truck",
+        "zh": "皮卡车"
+      }
+    ],
+    "timing": [
+      {
+        "en": "perfect timing",
+        "zh": "恰到好处的时机"
+      }
+    ],
+    "portfolio": [
+      {
+        "en": "an investment portfolio",
+        "zh": "投资组合"
+      }
+    ],
+    "shuttle": [
+      {
+        "en": "a shuttle bus",
+        "zh": "接驳巴士"
+      }
+    ],
+    "rider": [
+      {
+        "en": "a bicycle rider",
+        "zh": "骑自行车的人"
+      }
+    ],
+    "residential": [
+      {
+        "en": "a residential street",
+        "zh": "住宅区的街道"
+      }
+    ],
+    "diagnose": [
+      {
+        "en": "diagnose a fault",
+        "zh": "诊断故障"
+      }
+    ],
+    "liberty": [
+      {
+        "en": "at liberty",
+        "zh": "自由的"
+      }
+    ],
+    "pit": [
+      {
+        "en": "a sand pit",
+        "zh": "沙坑"
+      }
+    ],
+    "wildlife": [
+      {
+        "en": "wildlife conservation",
+        "zh": "野生动植物保护"
+      }
+    ],
+    "teenage": [
+      {
+        "en": "a teenage daughter",
+        "zh": "十几岁的女儿"
+      }
+    ],
+    "pursuit": [
+      {
+        "en": "the pursuit of happiness",
+        "zh": "对幸福的追求"
+      }
+    ],
+    "oral": [
+      {
+        "en": "oral communication",
+        "zh": "口头交流"
+      }
+    ],
+    "reporting": [
+      {
+        "en": "news reporting",
+        "zh": "新闻报道"
+      }
+    ],
+    "endorse": [
+      {
+        "en": "endorse a candidate",
+        "zh": "支持候选人"
+      }
+    ],
+    "feedback": [
+      {
+        "en": "give feedback",
+        "zh": "提供反馈"
+      }
+    ],
+    "thereby": [
+      {
+        "en": "thereby reducing costs",
+        "zh": "从而降低成本"
+      }
+    ],
+    "indicator": [
+      {
+        "en": "an economic indicator",
+        "zh": "经济指标"
+      }
+    ],
+    "spectrum": [
+      {
+        "en": "the visible spectrum",
+        "zh": "可见光谱"
+      }
+    ],
+    "sunlight": [
+      {
+        "en": "direct sunlight",
+        "zh": "直射阳光"
+      }
+    ],
+    "bold": [
+      {
+        "en": "bold type",
+        "zh": "粗体字"
+      }
+    ],
+    "realm": [
+      {
+        "en": "the realm of science",
+        "zh": "科学领域"
+      }
+    ],
+    "accounting": [
+      {
+        "en": "an accounting firm",
+        "zh": "会计师事务所"
+      }
+    ],
+    "huh": [
+      {
+        "en": "Huh, really?",
+        "zh": "嗯，真的吗？"
+      }
+    ],
+    "metaphor": [
+      {
+        "en": "an extended metaphor",
+        "zh": "延伸隐喻"
+      }
+    ],
+    "chin": [
+      {
+        "en": "a pointed chin",
+        "zh": "尖下巴"
+      }
+    ],
+    "starter": [
+      {
+        "en": "a starter motor",
+        "zh": "启动马达"
+      }
+    ],
+    "banking": [
+      {
+        "en": "online banking",
+        "zh": "网上银行业务"
+      }
+    ]
+  },
+  "meaningFixes": {
+    "corporation": {
+      "meaningZh": "n. 公司；法人；法人团体",
+      "reason": "删除误译“合作”，公司与corporation法人义。"
+    },
+    "presentation": {
+      "meaningZh": "n. 演示；报告；展示；介绍；呈现；赠送",
+      "reason": "补充常用演示/报告义。"
+    },
+    "virtual": {
+      "meaningZh": "adj. 虚拟的；事实上的；实际上的",
+      "reason": "补充现代常用虚拟义。"
+    },
+    "fitness": {
+      "meaningZh": "n. 健康；体能；适合；适当",
+      "reason": "日常体能义优先。"
+    },
+    "portfolio": {
+      "meaningZh": "n. 作品集；投资组合；公文包；部长职务",
+      "reason": "补足作品集/投资组合常用义。"
+    },
+    "pad": {
+      "meaningZh": "n. 垫子；衬垫；便笺本；肉垫；v. 加衬垫；填塞；虚增",
+      "reason": "补充便笺本常用义，删除无语境的误导孤立义“路”。"
+    },
+    "pickup": {
+      "meaningZh": "n. 取货；接人；皮卡车；拾起；好转；拾音器",
+      "reason": "补足生活常用取货、接人、皮卡义。"
+    },
+    "starter": {
+      "meaningZh": "n. 开胃菜；启动装置；起跑者；首发队员；起始物",
+      "reason": "补足餐饮、机器、运动常用义。"
+    },
+    "render": {
+      "meaningZh": "v. 使成为；给予；提供；表现；翻译；渲染",
+      "reason": "修复“给于”错字，常用使成为/提供/渲染义优先。"
+    },
+    "regardless": {
+      "meaningZh": "adv. 不顾；不管；不加理会地",
+      "partOfSpeech": "adv.",
+      "reason": "原词性a.错误；regardless of是介词短语，不使单词成为形容词。"
+    },
+    "consistently": {
+      "meaningZh": "adv. 始终如一地；一贯地；持续地",
+      "reason": "删除不能代表该副词常用义的“坚固，坚实”。"
+    },
+    "overwhelming": {
+      "meaningZh": "adj. 压倒性的；巨大的；难以抵挡的",
+      "reason": "补充证据、支持、情绪等语境的巨大的/压倒性义。"
+    },
+    "strategic": {
+      "meaningZh": "adj. 战略的；策略上的；至关重要的",
+      "reason": "补充日常策略及重要位置义。"
+    },
+    "finance": {
+      "meaningZh": "n. 金融；财政；财务；资金；v. 为…提供资金；筹措资金",
+      "reason": "补充金融及资金常用义。"
+    },
+    "generally": {
+      "meaningZh": "adv. 通常；一般地；普遍地；大体上",
+      "reason": "“逐渐地”对应 gradually，与 generally 的通常/总体义不同。"
+    },
+    "fundamentally": {
+      "meaningZh": "adv. 根本上；从根本上说；基本上；本质上",
+      "reason": "基频/基音/基谐波是 fundamental 的名词义，不能附在副词 fundamentally 上。"
+    },
+    "sales": {
+      "meaningZh": "n. 销售；销售量；销售额；销售业务\nadj. 销售的",
+      "partOfSpeech": "n. / adj.",
+      "reason": "原词仅标 adj. 销售的，无法解释本条自带例句 Sales fell off in the third quarter. 的名词主语。"
+    },
+    "jobless": {
+      "meaningZh": "adj. 失业的；没有工作的",
+      "reason": "jobless 是没有工作，失职是未履行职责，两者不同。"
+    },
+    "importantly": {
+      "meaningZh": "adv. 重要地；更重要的是（常见于 more importantly）；自命不凡地",
+      "reason": "“大量地”“有名望地”不是 importantly 的适当常用义；more importantly 的提示语义缺失。"
+    },
+    "nervousness": {
+      "meaningZh": "n. 紧张不安；神经过敏；易激动",
+      "reason": "“神经”“神经元”分别对应 nerve/neuron，不能将器官/细胞名解释为 nervousness 这一状态名词。"
+    },
+    "genetically": {
+      "meaningZh": "adv. 在遗传上；从基因角度；以基因方式",
+      "reason": "现释义含“遗传学/生殖/基因”等裸名词，是词性不匹配；应表达基因/遗传方面的副词义。"
+    },
+    "visually": {
+      "meaningZh": "adv. 在视觉上；凭视觉；在外观上",
+      "reason": "现释义把 visual 的“视力/视觉/光学”等名词形容词义混入 visually；应表达视觉方式或外观方面。"
+    },
+    "infection": {
+      "meaningZh": "n. 感染；传染；传染病；（情绪等的）感染",
+      "reason": "核心医学感染义缺失，“影响”过泛，无法准确解释本词自带 an infection / cross infection。"
+    },
+    "emission": {
+      "meaningZh": "n. 排放；排放物；发射；散发",
+      "reason": "补足日常环保语境核心排放义；现有“发行”不是本学习条目排放/发射语境的适当常用释义。"
+    },
+    "initiate": {
+      "meaningZh": "n. 新入会者；初学者；入门者\nadj. 新入会的；初步的\nv. 发起；开始；使初步了解；接纳入会",
+      "partOfSpeech": "n. / adj. / v.",
+      "reason": "现名词“入会、开始”把动作当人，无法解释本条自带 the initiate 及 novice/beginner 近义项。"
+    },
+    "collectively": {
+      "meaningZh": "adv. 集体地；共同地；总共",
+      "reason": "现释义“集体主义/集团”等名词是 collective 的其他词性义，不是副词 collectively 的意义。"
+    },
+    "decidedly": {
+      "meaningZh": "adv. 确实；显然；果断地；坚决地",
+      "reason": "“决定了”是 decided 的完成动作义，不是 decidedly；保留明确/坚决副词义。"
+    },
+    "medically": {
+      "meaningZh": "adv. 在医学上；在医疗方面；从医学角度",
+      "reason": "现释义“内科”等名词会把 medical 的相邻含义误当作副词。"
+    },
+    "biologically": {
+      "meaningZh": "adv. 在生物学上；从生物学角度",
+      "reason": "“生物学/生态学”是名词；biologically 不等于 ecologically 的生态方面义。"
+    },
+    "mechanically": {
+      "meaningZh": "adv. 用机械；机械地；不假思索地；呆板地",
+      "reason": "现释义包含“手工操作/技工”等与 mechanically 相反或词性不合的项目。"
+    },
+    "glass": {
+      "meaningZh": "n. 玻璃；玻璃杯；透镜；眼镜（用复数 glasses）\nvt. 装玻璃于, 反射, 反映\nvi. 成玻璃状",
+      "partOfSpeech": "n. / vt. / vi."
+    },
+    "sunscreen": {
+      "meaningZh": "n. 防晒霜；防晒剂",
+      "partOfSpeech": "n."
+    },
+    "stroller": {
+      "meaningZh": "n. 婴儿推车；散步者；闲逛者",
+      "reason": "补充日常主要义婴儿推车，与新补pram对应。"
+    }
+  },
+  "collocationFixes": {
+    "motor car": {
+      "zh": "汽车",
+      "reason": "motor car 指汽车；摩托车是 motorcycle。"
+    },
+    "storage warehouse": {
+      "zh": "仓库；储藏仓库",
+      "reason": "“另售货机”与 storage warehouse 无关，属明显错配。"
+    },
+    "throat infection": {
+      "zh": "咽喉感染",
+      "reason": "“疫喉”不是 throat infection 的正确表达。"
+    },
+    "elephant seal": {
+      "zh": "象海豹",
+      "reason": "海象是 walrus，与象海豹是不同动物，不能并列为该词翻译。"
+    },
+    "brown butter": {
+      "zh": "焦化黄油",
+      "reason": "brown butter 是加热至棕色并产生坚果香气的黄油；“黑黄油”混淆 brown/black。"
+    },
+    "proposal of marriage": {
+      "zh": "求婚",
+      "reason": "“婚姻提案”是逐字误译，日常固定含义为求婚。"
+    },
+    "sales tax": {
+      "zh": "销售税",
+      "reason": "sales tax 的通用词义是销售税；仅写营业税会混淆不同税种名称。"
+    },
+    "external storage": {
+      "zh": "外部存储",
+      "reason": "删除“外路储藏”误译。"
+    },
+    "clear the throat": {
+      "zh": "清嗓子",
+      "reason": "动作是清嗓，不是清除喉咙。"
+    },
+    "raw throat": {
+      "zh": "疼痛发炎的喉咙",
+      "reason": "raw在此不是生的，而是红肿疼痛。"
+    },
+    "herb tea": {
+      "zh": "花草茶；草本茶",
+      "reason": "草本饮品不等同药用汤剂。"
+    },
+    "herbal tea": {
+      "zh": "花草茶；草本茶",
+      "reason": "不限定为特定中式凉茶。"
+    }
+  },
+  "detailFixes": [
+    {
+      "word": "secure",
+      "field": "derivatives",
+      "matchWord": "secureness",
+      "old": {
+        "word": "secureness",
+        "meaningZh": "停止工作\n(船)停泊, 靠岸",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      "new": {
+        "word": "secureness",
+        "meaningZh": "n. 安全；牢固；稳固",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      "reason": "secureness 是安全/稳固的状态，不是停止工作或船只停泊。"
+    },
+    {
+      "word": "unlike",
+      "field": "derivatives",
+      "matchWord": "unlikeness",
+      "old": {
+        "word": "unlikeness",
+        "meaningZh": "n. 不大可能的事, 不同, 不一样",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      "new": {
+        "word": "unlikeness",
+        "meaningZh": "n. 不同；差异；不相似",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      "reason": "不大可能是 unlikelihood；unlikeness 表示不同/差异。"
+    },
+    {
+      "word": "add",
+      "field": "derivatives",
+      "matchWord": "adder",
+      "old": {
+        "word": "adder",
+        "meaningZh": "n. 蝰蛇, 猪鼻蛇, 加法器",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      "new": {
+        "word": "adder",
+        "meaningZh": "n. 加法器；做加法的人（对应 add 的派生义）",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      "reason": "add 的派生 adder 对应加法器/做加法者，蝰蛇是同形异义，不能在此词族关系中混用。"
+    },
+    {
+      "word": "live",
+      "field": "derivatives",
+      "matchWord": "liver",
+      "old": {
+        "word": "liver",
+        "meaningZh": "n. 肝脏, 生活者, 居民",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      "new": {
+        "word": "liver",
+        "meaningZh": "n. 生活者；以某种方式生活的人（常见于复合词，对应 live 的派生义）",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      "reason": "live 的施事派生 liver 对应生活者；肝脏是同形异义，不属于该词族。"
+    },
+    {
+      "word": "butter",
+      "field": "derivatives",
+      "matchWord": "butt",
+      "old": {
+        "word": "butt",
+        "meaningZh": "n. 粗大的一头, 烟头, 靶, 笑柄",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      "new": null,
+      "reason": "本词释义/例句为黄油，butt 的烟头/靶/笑柄不是黄油词族；源关系来自其他同形异义项。"
+    },
+    {
+      "word": "tower",
+      "field": "derivatives",
+      "matchWord": "tow",
+      "old": {
+        "word": "tow",
+        "meaningZh": "n. 拖, 拖绳, 拖轮\nvt. 拖, 拉, 牵引",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      "new": null,
+      "reason": "本词释义/例句为塔和高耸；tow 的拖曳来自 tower 拖曳者这一罕见同形词，不能作为当前塔义词族。"
+    },
+    {
+      "word": "tower",
+      "field": "synonyms",
+      "matchWord": "tug",
+      "old": {
+        "word": "tug",
+        "meaningZh": "n. 用力拉, 拖曳, 苦干, 挣扎, 绳索\nv. 用力拉",
+        "senseEn": "a powerful small boat designed to pull or push larger ships",
+        "source": "Princeton WordNet 3.0 synset 04495843-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      "new": null,
+      "reason": "当前词条没有拖船义，而此近义关系 senseEn 明写 a powerful small boat...，与塔/高耸义不同。"
+    },
+    {
+      "word": "competence",
+      "field": "synonyms",
+      "matchWord": "competency",
+      "old": {
+        "word": "competency",
+        "meaningZh": "n. 足以使人过舒适生活的富裕收入, 充裕的生活条件",
+        "senseEn": "the quality of being adequately or well qualified physically and intellectually",
+        "source": "Princeton WordNet 3.0 synset 05153520-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      "new": {
+        "word": "competency",
+        "meaningZh": "n. 能力；胜任力；专业技能",
+        "senseEn": "the quality of being adequately or well qualified physically and intellectually",
+        "source": "Princeton WordNet 3.0 synset 05153520-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      "reason": "v12主释义已修复，关系词副本仍保留旧误义；当前英语义项与新义相符。"
+    },
+    {
+      "word": "leaf",
+      "field": "synonyms",
+      "matchWord": "foliage",
+      "old": {
+        "word": "foliage",
+        "meaningZh": "n. 树叶, 植物",
+        "senseEn": "the main organ of photosynthesis and transpiration in higher plants",
+        "source": "Princeton WordNet 3.0 synset 13152742-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      "new": {
+        "word": "foliage",
+        "meaningZh": "n. （统称）叶子；枝叶",
+        "senseEn": "the main organ of photosynthesis and transpiration in higher plants",
+        "source": "Princeton WordNet 3.0 synset 13152742-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      "reason": "v12主释义已修复，关系词副本仍保留旧误义；当前英语义项与新义相符。"
+    },
+    {
+      "word": "condominium",
+      "field": "synonyms",
+      "matchWord": "condo",
+      "old": {
+        "word": "condo",
+        "meaningZh": "n. 共同统治, 共管下的政府, 共管, 多层公寓大楼, 由个人占用的一套公寓房间",
+        "senseEn": "one of the dwelling units in a condominium",
+        "source": "Princeton WordNet 3.0 synset 03088580-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      "new": {
+        "word": "condo",
+        "meaningZh": "n. （具有独立产权的）公寓单元；公寓住宅楼",
+        "senseEn": "one of the dwelling units in a condominium",
+        "source": "Princeton WordNet 3.0 synset 03088580-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      "reason": "v12主释义已修复，关系词副本仍保留旧误义；当前英语义项与新义相符。"
+    },
+    {
+      "word": "skin",
+      "field": "derivatives",
+      "matchWord": "skincare",
+      "old": {
+        "word": "skincare",
+        "meaningZh": "a. 护理皮肤的",
+        "source": "项目人工词族整理 · ECDICT 中文",
+        "relation": "curated_word_family"
+      },
+      "new": {
+        "word": "skincare",
+        "meaningZh": "n. 皮肤护理；护肤",
+        "source": "项目人工词族整理 · ECDICT 中文",
+        "relation": "curated_word_family"
+      },
+      "reason": "名词作定语不能等同形容词词性。"
+    },
+    {
+      "word": "skinny",
+      "field": "derivatives",
+      "matchWord": "skincare",
+      "old": {
+        "word": "skincare",
+        "meaningZh": "a. 护理皮肤的",
+        "source": "项目人工词族整理 · ECDICT 中文",
+        "relation": "curated_word_family"
+      },
+      "new": {
+        "word": "skincare",
+        "meaningZh": "n. 皮肤护理；护肤",
+        "source": "项目人工词族整理 · ECDICT 中文",
+        "relation": "curated_word_family"
+      },
+      "reason": "名词作定语不能等同形容词词性。"
+    }
+  ],
+  "reviewEvidence": {
+    "independentReviewFile": "dist/validation-v2.0.4/independent-content-review.json",
+    "previousWordCount": 28074,
+    "externalDictionaryUsed": false
+  },
+  "fieldFixes": {
+    "enroll": {
+      "wordForms": [
+        {
+          "word": "enrolling",
+          "meaningZh": "现在分词"
+        },
+        {
+          "word": "enrolled",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "enrolls",
+          "meaningZh": "第三人称单数（美式拼写）"
+        },
+        {
+          "word": "enrols",
+          "meaningZh": "第三人称单数（英式变体 enrol）"
+        }
+      ]
+    },
+    "earphone": {
+      "wordForms": [
+        {
+          "word": "earphones",
+          "meaningZh": "复数"
+        }
+      ]
+    },
+    "pant": {
+      "examples": [
+        {
+          "en": "The dog began to pant after the run.",
+          "zh": "跑步后，那只狗开始喘气。",
+          "source": "项目原创语境 v13 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "legging": {
+      "wordForms": [
+        {
+          "word": "leggings",
+          "meaningZh": "复数"
+        }
+      ],
+      "reason": "清除继承自leg的同形现在分词；legging本词为名词。"
+    }
+  }
+}

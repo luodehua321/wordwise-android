@@ -1,0 +1,97 @@
+{
+  "version": "v16-grade45-b",
+  "scope": "Suggestions only; not applied by this translation map.",
+  "replacements": [
+    {
+      "wordId": "emission",
+      "originalEnglish": "The burning of coal is responsible for more than 40% of Australia's greenhouse gas emissions.",
+      "reason": "无日期的特定国家排放百分比，数据具有时效性，未在本批事实核实。",
+      "suggestedExample": {
+        "en": "The new equipment reduces harmful emissions.",
+        "zh": "新设备减少了有害排放。",
+        "source": "项目原创语境 v16 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "alliance",
+      "originalEnglish": "Japan entered into an alliance with France just before the war.",
+      "reason": "未指明哪场战争或哪项协定，历史关系缺乏上下文，建议普通同盟语境。",
+      "suggestedExample": {
+        "en": "The two organizations formed an alliance to protect the forest.",
+        "zh": "这两个组织结成联盟，以保护森林。",
+        "source": "项目原创语境 v16 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "indigenous",
+      "originalEnglish": "Latin Americans know very little about the history of the indigenous peoples who used to live here several centuries ago.",
+      "reason": "对拉丁美洲人历史知识的笼统概括，缺乏可核实限定；以中性原住民语境替代。",
+      "suggestedExample": {
+        "en": "The museum displays artwork by indigenous artists.",
+        "zh": "博物馆展示原住民艺术家的作品。",
+        "source": "项目原创语境 v16 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "bloody",
+      "originalEnglish": "Tom was sitting at the bar drinking a Bloody Mary.",
+      "reason": "Bloody Mary 是鸡尾酒专名，不体现主词 bloody 的常用染血/血腥形容词义。",
+      "suggestedExample": {
+        "en": "She put the bloody bandage into a bag.",
+        "zh": "她把染血的绷带放进袋子。",
+        "source": "项目原创语境 v16 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "skull",
+      "originalEnglish": "The human skull consists of 23 bones.",
+      "reason": "头骨骨块数没有说明计数口径，不在译文中暗改数字；建议不含数量断言的语境。",
+      "suggestedExample": {
+        "en": "The skull protects the brain.",
+        "zh": "头骨保护大脑。",
+        "source": "项目原创语境 v16 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "mortality",
+      "originalEnglish": "Chad has the world's third-highest maternal mortality rate.",
+      "reason": "未标注年份的国家孕产妇死亡率排名具有时效性，未在本批核实。",
+      "suggestedExample": {
+        "en": "The report compares mortality rates in several regions.",
+        "zh": "这份报告比较了几个地区的死亡率。",
+        "source": "项目原创语境 v16 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "predator",
+      "originalEnglish": "Wolves are predators, but they don't eat each other.",
+      "reason": "包含“狼不会相互吞食”的绝对化生物行为断言，不在译文中改写；建议无绝对断言的语境。",
+      "suggestedExample": {
+        "en": "The wolf is a skilled predator.",
+        "zh": "狼是善于捕猎的捕食动物。",
+        "source": "项目原创语境 v16 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    }
+  ]
+}

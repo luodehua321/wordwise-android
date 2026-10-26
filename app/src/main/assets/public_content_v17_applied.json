@@ -1,0 +1,373 @@
+{
+  "snapshotSHA256": "9ccf1fe1abd500b6bf912fa6393756b30551f0b4cfa21ccc51449ebd72a74867",
+  "source": "https://kaikki.org/dictionary/downloads/zh/zh-extract.jsonl.gz",
+  "license": "CC BY-SA 4.0",
+  "words": {
+    "abashment": {
+      "uk": "/əˈbæʃ.mənt/"
+    },
+    "abbreviator": {
+      "us": "/əˈbɹi.viˌeɪ.təɹ/",
+      "uk": "/əˈbɹiː.viˌeɪ.tə/, /-ɛɪ.tə/"
+    },
+    "abdicator": {
+      "us": "/ˈæb.dəˌkei.tɚ/, /ˈæb.dəˌkei.tə/"
+    },
+    "aberrance": {
+      "us": "/ˈæ.bɛɹ.n̩s/, /æˈbɛɹ.n̩ts/"
+    },
+    "aberrancy": {
+      "us": "/æ.ˈbɛɹ.n̩.si/, /ˈæ.bɛɹ.n̩.sɪ/"
+    },
+    "abetment": {
+      "us": "/əˈbɛt.mənt/"
+    },
+    "abidance": {
+      "us": "/əˈbaɪd.n̩s/, /əˈbaɪd.n̩ts/"
+    },
+    "abjectly": {
+      "us": "/æbˈd͡ʒɛktli/, /-ˈd͡ʒɛkli/"
+    },
+    "abradant": {
+      "us": "/əˈbɹeɪd.n̩t/"
+    },
+    "absurdness": {
+      "uk": "/əbˈsɜːd.nəs/"
+    },
+    "accelerative": {
+      "us": "/ɪk.ˈsɛl.ə.ˌɹeɪt.ɪv/, /æk.ˈsɛl.ə.ˌɹeɪt.ɪv/"
+    },
+    "acidulate": {
+      "us": "/əˈsɪd͡ʒʊ.leɪt/"
+    },
+    "anthologize": {
+      "uk": "/ænˈθɒl.ə.dʒaɪz/"
+    },
+    "arduousness": {
+      "uk": "/ˈɑːdjuːəsnəs/"
+    },
+    "bosomy": {
+      "us": "/ˈbʊzəmi/"
+    },
+    "bronchus": {
+      "us": "/ˈbɹɑŋkəs/"
+    },
+    "cacophonous": {
+      "us": "/kəˈkɑfənəs/"
+    },
+    "ceremonious": {
+      "us": "/ˌsɛ.ɹəˈmoʊ.ni.əs/"
+    },
+    "chivalric": {
+      "us": "/ʃəˈvalɹɪk/"
+    },
+    "chlorination": {
+      "uk": "/ˌklɒ.ɹɪˈneɪ.ʃən/"
+    },
+    "chorister": {
+      "us": "/ˈkɔɹɪstəɹ/"
+    },
+    "crotchet": {
+      "us": "/ˈkɹɑtʃ.ɪt/"
+    },
+    "decampment": {
+      "uk": "/diːˈkæmpmənt/"
+    },
+    "defrauder": {
+      "uk": "/dɪˈfɹɔːdə(ɹ)/"
+    },
+    "demurrer": {
+      "uk": "/dɪˈmʌɹə/"
+    },
+    "disintegrative": {
+      "uk": "/dɪsˈɪntɪˌɡreɪtɪv/"
+    },
+    "dissatisfy": {
+      "uk": "/dɪsˈsætɪsfaɪ/"
+    },
+    "dissociative": {
+      "us": "/dɪˈsoʊ.ʃi.ə.tɪv/, /dɪˈsoʊ.si.ə.tɪv/"
+    },
+    "divinatory": {
+      "uk": "/dɪˈvɪnətɹi/"
+    },
+    "enunciation": {
+      "us": "/ɪˌnʌn.siˈeɪ.ʃən/"
+    },
+    "exclamatory": {
+      "us": "/ɛksˈklæməˌtɔɹi/"
+    },
+    "exhilarate": {
+      "uk": "/ɪɡˈzɪləɹeɪt/, /ɛɡ-/"
+    },
+    "granulate": {
+      "us": "/ˈɡɹæn.jul.eɪt/, /ˈɡɹæn.jəl.eɪt/, /ˈɡɹæn.jul.ət/, /ˈɡɹæn.jəl.ət/",
+      "uk": "/ˈɡɹæn.juːl.eɪt/, /ˈɡɹæn.juːl.ət/"
+    },
+    "hoarder": {
+      "us": "/ˈhɔɹdɚ/, /ˈhoɹdɚ/"
+    },
+    "interstice": {
+      "us": "/ɪnˈtɚ.stɪs/",
+      "uk": "/ɪnˈtɜː.stɪs/"
+    },
+    "lamination": {
+      "us": "/ˌlæm.ɪˈneɪ.ʃən/, /ˌlæm.əˈneɪ.ʃən/"
+    },
+    "lexicography": {
+      "us": "/ˌlɛksɪˈkɑɡɹəfi/, /-sə-/",
+      "uk": "/ˌlɛksɪˈkɒɡɹəfi/"
+    },
+    "lingual": {
+      "us": "/ˈlɪŋ.ɡju.əl/"
+    },
+    "matriculation": {
+      "us": "/məˌtrɪkjəˈleɪʃən/"
+    },
+    "mythologist": {
+      "us": "/mɪˈθɑl.ə.d͡ʒɪst/",
+      "uk": "/mɪˈθɒl.ə.d͡ʒɪst/"
+    },
+    "pedagogic": {
+      "us": "/ˌpɛdəˈɡɑd͡ʒɪk/",
+      "uk": "/ˌpɛdəˈɡɒd͡ʒɪk/, /ˌpɛdəˈɡɒɡɪk/"
+    },
+    "perfidious": {
+      "us": "/pɚˈfɪdi.əs/"
+    },
+    "pharyngeal": {
+      "us": "/fəˈɹɪndʒəl/"
+    },
+    "platitudinous": {
+      "us": "/ˌplætɪˈt(j)ud(ə)nəs/, /-ɾɪ-/",
+      "uk": "/ˌplætɪˈtjuːdɪnəs/, /-ˈtʃuː-/"
+    },
+    "profanation": {
+      "uk": "/pɹɒfəˈneɪʃ(ə)n/"
+    },
+    "proselyte": {
+      "us": "/ˈpɹɑsəˌlaɪt/",
+      "uk": "/ˈpɹɒsəlaɪt/"
+    },
+    "recapitulation": {
+      "us": "/ɹiː.kəˌpɪ.tʃəˈleɪ.ʃ(ə)n/"
+    },
+    "redundance": {
+      "uk": "/ɹɪˈdʌndəns/"
+    },
+    "salivary": {
+      "us": "/ˈsælɪˌvɛɹi/"
+    },
+    "simultaneity": {
+      "us": "/ˌsaɪməltəˈniɪ.ti/"
+    },
+    "stargaze": {
+      "us": "/ˈstɑɹɡeɪz/"
+    },
+    "subjugation": {
+      "us": "/ˌsʌbdʒəˈɡeɪʃən/"
+    },
+    "tannery": {
+      "us": "/ˈtænəɹi/"
+    },
+    "vexation": {
+      "us": "/vɛkˈseɪʃən/"
+    },
+    "modeling": {
+      "uk": "/ˈmɒdlɪŋ/"
+    },
+    "tang": {
+      "uk": "/tæŋ/"
+    },
+    "sundry": {
+      "uk": "/ˈsʌndɹi/"
+    },
+    "slough": {
+      "uk": "/slʌf/"
+    }
+  },
+  "wordForms": [
+    {
+      "word": "able",
+      "form": "abler",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/able",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "able",
+      "form": "ablest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/able",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "subtle",
+      "form": "subtler",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/subtle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "subtle",
+      "form": "subtlest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/subtle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "coy",
+      "form": "coyer",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/coy",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "eerie",
+      "form": "eeriest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/eerie",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "falsetto",
+      "form": "falsettos",
+      "label": "复数（可数义）",
+      "tags": [
+        "plural"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/falsetto",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "gnarly",
+      "form": "gnarliest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/gnarly",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "handball",
+      "form": "handballs",
+      "label": "复数（可数义）",
+      "tags": [
+        "plural"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/handball",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "nosy",
+      "form": "nosier",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/nosy",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "nosy",
+      "form": "nosiest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/nosy",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "stark",
+      "form": "starker",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/stark",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "stark",
+      "form": "starkest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/stark",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "tacky",
+      "form": "tackier",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/tacky",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "tacky",
+      "form": "tackiest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/tacky",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "wordSourceUrlTemplate": "https://zh.wiktionary.org/wiki/{word}",
+  "additionalSource": {
+    "url": "https://github.com/ahpxex/open-dictionary/releases/tag/v2.0",
+    "sha256": "95026a4b78aa83f1f32481e8ff30ea3f7d942b648b3d6e66ef64ca3a194cb66e",
+    "disclosure": "Wiktionary-grounded model-expanded learner dictionary",
+    "readings": {
+      "tang": {
+        "us": [
+          "/tæŋ/"
+        ],
+        "uk": [
+          "/tæŋ/"
+        ]
+      },
+      "sundry": {
+        "us": [
+          "/ˈsʌndɹi/"
+        ],
+        "uk": [
+          "/ˈsʌndɹi/"
+        ]
+      },
+      "slough": {
+        "us": [
+          "/slʌf/"
+        ],
+        "uk": [
+          "/slʌf/"
+        ]
+      }
+    }
+  }
+}

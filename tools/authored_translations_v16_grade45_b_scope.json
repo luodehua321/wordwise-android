@@ -1,0 +1,4809 @@
+{
+  "version": "v16-grade45-b",
+  "source": "/private/tmp/lingo-v209-vocabulary-before.json",
+  "sourceSHA256": "faa3a9ca03737e9184549165aaca44a8cfb594a322bb576cb58a503789cbb8d5",
+  "selection": "original difficulty 4 or 5; blank Chinese; exclude all v16 exact English entries including removed bad examples; sorted rank/id/exampleIndex; dedupe by exact English; first 600",
+  "rows": [
+    {
+      "wordId": "federal",
+      "rank": 493,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom was sentenced to three years in federal prison.",
+      "meaningZh": "a. 联邦的, 联合的, 同盟的"
+    },
+    {
+      "wordId": "republican",
+      "rank": 594,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The Republican candidate won the election.",
+      "meaningZh": "n. 共和主义者, 共和党员\na. 共和政体的, 共和国的, 共和主义的"
+    },
+    {
+      "wordId": "congress",
+      "rank": 638,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The President vetoed the law after Congress passed it.",
+      "meaningZh": "n. 国会, 会议, 讨论会"
+    },
+    {
+      "wordId": "democrat",
+      "rank": 903,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom is a democrat.",
+      "meaningZh": "n. 民主人士, 民主主义者, 民主党党员"
+    },
+    {
+      "wordId": "senate",
+      "rank": 1111,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He was elected to the Senate in the last election.",
+      "meaningZh": "n. 参议院, 立法机构, 评议会"
+    },
+    {
+      "wordId": "regime",
+      "rank": 1848,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The regime has fallen.",
+      "meaningZh": "n. 政权, 当权期间, 政体, 社会制度, 体制, 情态"
+    },
+    {
+      "wordId": "representative",
+      "rank": 1976,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He attended the meeting as the company representative.",
+      "meaningZh": "n. 代表, 众议员, 典型\na. 描写的, 表现的, 代理的, 代表的, 代议制的, 典型的"
+    },
+    {
+      "wordId": "legislation",
+      "rank": 2017,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The world is not going to be saved by legislation.",
+      "meaningZh": "n. 立法, 法律"
+    },
+    {
+      "wordId": "participation",
+      "rank": 2214,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Thank you very much for your participation!",
+      "meaningZh": "n. 参与, 分享"
+    },
+    {
+      "wordId": "coalition",
+      "rank": 2241,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The coalition force fired at her car at the checkpoint in Baghdad.",
+      "meaningZh": "n. 结合体, 结合, 联合"
+    },
+    {
+      "wordId": "symptom",
+      "rank": 2249,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "This is only a symptom of a deeper problem.",
+      "meaningZh": "n. 症状, 征候, 征兆"
+    },
+    {
+      "wordId": "negotiation",
+      "rank": 2259,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We want to break off this negotiation.",
+      "meaningZh": "n. 谈判, 磋商, 交涉"
+    },
+    {
+      "wordId": "independence",
+      "rank": 2291,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The colony has not declared independence as yet.",
+      "meaningZh": "n. 独立, 自立, 自主"
+    },
+    {
+      "wordId": "competitive",
+      "rank": 2307,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "These are very competitive prices.",
+      "meaningZh": "a. 竞争的"
+    },
+    {
+      "wordId": "congressional",
+      "rank": 2309,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "That will require congressional approval.",
+      "meaningZh": "a. 会议的, 议会的, 国会的"
+    },
+    {
+      "wordId": "involvement",
+      "rank": 2311,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I heard of his involvement in crime.",
+      "meaningZh": "n. 卷入, 牵连, 包含, 困窘"
+    },
+    {
+      "wordId": "championship",
+      "rank": 2326,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We have no chance of winning the championship.",
+      "meaningZh": "n. 冠军身份, 冠军称号, 捍卫"
+    },
+    {
+      "wordId": "entertainment",
+      "rank": 2350,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Music is a form of entertainment.",
+      "meaningZh": "n. 娱乐, 款待, 娱乐表演"
+    },
+    {
+      "wordId": "evaluation",
+      "rank": 2354,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I want a full evaluation as soon as possible.",
+      "meaningZh": "n. 评估, 估价, 求值"
+    },
+    {
+      "wordId": "arrangement",
+      "rank": 2357,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It was a satisfactory arrangement for fifteen years.",
+      "meaningZh": "n. 排列, 整齐, 安排"
+    },
+    {
+      "wordId": "psychological",
+      "rank": 2361,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "His loss of memory is a psychological problem rather than a physical one.",
+      "meaningZh": "a. 心理学的, 精神上的, 心灵的"
+    },
+    {
+      "wordId": "distribution",
+      "rank": 2373,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Ubuntu is a popular Linux distribution.",
+      "meaningZh": "n. 分配"
+    },
+    {
+      "wordId": "transportation",
+      "rank": 2374,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Do you know how to get there by public transportation?",
+      "meaningZh": "n. 运输, 输送, 交通车辆"
+    },
+    {
+      "wordId": "commission",
+      "rank": 2379,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The commission has promised to take action soon.",
+      "meaningZh": "n. 委任状, 任官令, 所委职责, 佣金, 犯, 委托, 所托之事\nvt. 委任, 委托制作, 使服役"
+    },
+    {
+      "wordId": "interpretation",
+      "rank": 2380,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It's open to interpretation.",
+      "meaningZh": "n. 解释, 演出, 翻译"
+    },
+    {
+      "wordId": "objective",
+      "rank": 2406,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "You seem to have lost sight of original objective.",
+      "meaningZh": "n. 目的, 目标, 宗旨, 宾格, 实物\na. 客观的, 如实的, 无偏见的, 宾格的"
+    },
+    {
+      "wordId": "electronic",
+      "rank": 2407,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is listening to electronic music.",
+      "meaningZh": "a. 电子的"
+    },
+    {
+      "wordId": "dimension",
+      "rank": 2420,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "That adds a new dimension to our problem.",
+      "meaningZh": "n. 尺寸, 次元, 面积, 维数\nvt. 标出尺寸"
+    },
+    {
+      "wordId": "immigration",
+      "rank": 2431,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "This study compares the immigration policies of various nations.",
+      "meaningZh": "n. 移民, 移居"
+    },
+    {
+      "wordId": "implication",
+      "rank": 2434,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The implication was clear.",
+      "meaningZh": "n. 牵连, 含义, 暗示"
+    },
+    {
+      "wordId": "retirement",
+      "rank": 2442,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "My mother is in a retirement home.",
+      "meaningZh": "n. 退休, 隐居, 撤退"
+    },
+    {
+      "wordId": "publication",
+      "rank": 2459,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We are expecting the publication of his book.",
+      "meaningZh": "n. 出版物, 出版, 公布"
+    },
+    {
+      "wordId": "literally",
+      "rank": 2469,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I have literally nothing to do.",
+      "meaningZh": "adv. 逐字地, 按照字面上地, 不夸张地"
+    },
+    {
+      "wordId": "convention",
+      "rank": 2472,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "There was a convention last month.",
+      "meaningZh": "n. 大会, 协定, 惯例, 约定"
+    },
+    {
+      "wordId": "enterprise",
+      "rank": 2499,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "a growing enterprise must have a bold leader",
+      "meaningZh": "n. 企业, 事业心, 进取心, 干事业"
+    },
+    {
+      "wordId": "elementary",
+      "rank": 2511,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We used to play musical chairs in elementary school.",
+      "meaningZh": "a. 初步的, 基本的"
+    },
+    {
+      "wordId": "protein",
+      "rank": 2523,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Chicken, tuna and soybeans are good sources of protein.",
+      "meaningZh": "n. 蛋白质\na. 蛋白质的"
+    },
+    {
+      "wordId": "negotiate",
+      "rank": 2541,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "His job is to negotiate with foreign buyers.",
+      "meaningZh": "vi. 商议, 谈判, 交涉\nvt. 谈妥, 转让, 处理"
+    },
+    {
+      "wordId": "specialist",
+      "rank": 2546,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Her doctor wants to refer her to a specialist.",
+      "meaningZh": "n. 专门医师, 专家\na. 专业的, 专家的"
+    },
+    {
+      "wordId": "biological",
+      "rank": 2564,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We have three adopted children. The younger two are biological brothers.",
+      "meaningZh": "a. 生物学的"
+    },
+    {
+      "wordId": "utility",
+      "rank": 2578,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "all the utilities were lost after the hurricane",
+      "meaningZh": "n. 功用, 有用之物, 实用, 公用事业, 实用程序\na. 实用的, 有多种用途的"
+    },
+    {
+      "wordId": "arise",
+      "rank": 2581,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Accidents arise from carelessness.",
+      "meaningZh": "vi. 站立, 出现, 起来"
+    },
+    {
+      "wordId": "nevertheless",
+      "rank": 2582,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I was very tired, but I was nevertheless unable to sleep.",
+      "meaningZh": "adv. 然而, 虽然如此\nconj. 然而"
+    },
+    {
+      "wordId": "clinical",
+      "rank": 2584,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The drug must go through clinical trials before being approved.",
+      "meaningZh": "a. 临床的, 门诊部的"
+    },
+    {
+      "wordId": "activist",
+      "rank": 2595,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is a human rights activist.",
+      "meaningZh": "n. 激进主义分子"
+    },
+    {
+      "wordId": "incorporate",
+      "rank": 2600,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She incorporated his suggestions into her proposal",
+      "meaningZh": "a. 合并的, 组成公司的, 一体化的\nvt. 吸收, 合并, 使组成公司, 体现\nvi. 合并, 混合, 组成公司"
+    },
+    {
+      "wordId": "corporation",
+      "rank": 2602,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The company saved millions on its corporation tax bill.",
+      "meaningZh": "n. 公司；法人；法人团体"
+    },
+    {
+      "wordId": "assumption",
+      "rank": 2606,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "That assumption is wrong.",
+      "meaningZh": "n. 假定, 自负, 担任, 假装"
+    },
+    {
+      "wordId": "provision",
+      "rank": 2612,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom was in need of provisions.",
+      "meaningZh": "n. (政府提供的)钱和设备, 准备, 供应品, 规定, 条款\nvt. 供给...食物及必需品"
+    },
+    {
+      "wordId": "classic",
+      "rank": 2616,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He had a classic education.",
+      "meaningZh": "n. 古典作品, 杰作, 大艺术家\na. 第一流的, 最优秀的, 古典的"
+    },
+    {
+      "wordId": "chemical",
+      "rank": 2617,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The treaty bans the use of chemical weapons.",
+      "meaningZh": "n. 化学药品\na. 化学的, 化学上用的"
+    },
+    {
+      "wordId": "extraordinary",
+      "rank": 2625,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Do you want to see something extraordinary?",
+      "meaningZh": "a. 非常的, 特别的, 非凡的"
+    },
+    {
+      "wordId": "personally",
+      "rank": 2633,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I wonder if I might speak to Tom personally.",
+      "meaningZh": "adv. 亲自地, 个别地, 当面, 就本人而言, 针对个人地"
+    },
+    {
+      "wordId": "mechanism",
+      "rank": 2677,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The locking mechanism has jammed.",
+      "meaningZh": "n. 机械, 机构, 结构, 机理, 技巧"
+    },
+    {
+      "wordId": "destruction",
+      "rank": 2685,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The world is on the brink of destruction.",
+      "meaningZh": "n. 破坏, 毁灭"
+    },
+    {
+      "wordId": "infection",
+      "rank": 2692,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Were you treated for an infection after your surgery?",
+      "meaningZh": "n. 感染；传染；传染病；（情绪等的）感染"
+    },
+    {
+      "wordId": "literary",
+      "rank": 2700,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "No one was aware of her literary talent.",
+      "meaningZh": "a. 文学的, 文艺的, 精通文学的"
+    },
+    {
+      "wordId": "strategic",
+      "rank": 2702,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom made a strategic error.",
+      "meaningZh": "adj. 战略的；策略上的；至关重要的"
+    },
+    {
+      "wordId": "initially",
+      "rank": 2715,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It was much more difficult than we initially thought.",
+      "meaningZh": "adv. 最初, 开头"
+    },
+    {
+      "wordId": "incentive",
+      "rank": 2726,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The workers have no incentive to work harder.",
+      "meaningZh": "n. 动机\na. 激励的"
+    },
+    {
+      "wordId": "expansion",
+      "rank": 2734,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "the expansion of (a+b)^2 is a^2 + 2ab + b^2",
+      "meaningZh": "n. 扩充, 开展, 膨胀"
+    },
+    {
+      "wordId": "concentration",
+      "rank": 2752,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "When were Jews first sent to the concentration camps?",
+      "meaningZh": "n. 集中, 专心"
+    },
+    {
+      "wordId": "tournament",
+      "rank": 2761,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He won the first prize at the chess tournament.",
+      "meaningZh": "n. 比赛, 竞赛, 锦标赛, 联赛"
+    },
+    {
+      "wordId": "tremendous",
+      "rank": 2768,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is taking a tremendous chance.",
+      "meaningZh": "a. 巨大的, 非常的, 可怕的"
+    },
+    {
+      "wordId": "senator",
+      "rank": 2769,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "By the time the senator finished his speech, the audience had lost interest.",
+      "meaningZh": "n. 参议员, (某些大学的)理事"
+    },
+    {
+      "wordId": "satisfaction",
+      "rank": 2779,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom gets a lot of satisfaction from his work.",
+      "meaningZh": "n. 满足, 满意, 快事, 赔偿, 赎罪, 报仇的机会"
+    },
+    {
+      "wordId": "testify",
+      "rank": 2790,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Our only witness is refusing to testify.",
+      "meaningZh": "v. 证明, 作证, 声明, 表明"
+    },
+    {
+      "wordId": "naturally",
+      "rank": 2795,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Singing comes as naturally to her as flying does to birds.",
+      "meaningZh": "adv. 自然地, 以自然力, 天生地"
+    },
+    {
+      "wordId": "finance",
+      "rank": 2808,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Bonds were issued to finance a war.",
+      "meaningZh": "n. 金融；财政；财务；资金；v. 为…提供资金；筹措资金"
+    },
+    {
+      "wordId": "potentially",
+      "rank": 2831,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "he is potentially dangerous",
+      "meaningZh": "adv. 可能地, 潜在地"
+    },
+    {
+      "wordId": "politically",
+      "rank": 2838,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It is costly and politically difficult to continue this conflict.",
+      "meaningZh": "adv. 政治上"
+    },
+    {
+      "wordId": "terrorist",
+      "rank": 2841,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We will never give in to terrorist demands.",
+      "meaningZh": "n. 恐怖分子"
+    },
+    {
+      "wordId": "extensive",
+      "rank": 2845,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The fire caused extensive damage.",
+      "meaningZh": "a. 广的, 广泛的, 多方面的"
+    },
+    {
+      "wordId": "originally",
+      "rank": 2854,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I was hired originally to do another job.",
+      "meaningZh": "adv. 本来, 原来, 最初, 就起源而论, 独创地"
+    },
+    {
+      "wordId": "considerable",
+      "rank": 2855,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "There is considerable optimism that the economy will improve.",
+      "meaningZh": "a. 相当的, 可观的, 重要的"
+    },
+    {
+      "wordId": "characterize",
+      "rank": 2859,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "You can characterize his behavior as that of an egotist",
+      "meaningZh": "vt. 描绘...的特性, 刻划...的性格"
+    },
+    {
+      "wordId": "violation",
+      "rank": 2870,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "This is a violation of the law.",
+      "meaningZh": "n. 违反, 违背, 妨碍"
+    },
+    {
+      "wordId": "defensive",
+      "rank": 2881,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is our strongest defensive player.",
+      "meaningZh": "a. 防卫的, 防备用的, 自卫的\nn. 守势, 防卫姿势, 防卫物"
+    },
+    {
+      "wordId": "establishment",
+      "rank": 2890,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "he quickly became recognized as a member of the establishment",
+      "meaningZh": "n. 确立, 制定, 设施"
+    },
+    {
+      "wordId": "comprehensive",
+      "rank": 2896,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "There is no such a thing as a comprehensive textbook.",
+      "meaningZh": "a. 广泛的, 有理解力的, 综合的"
+    },
+    {
+      "wordId": "presentation",
+      "rank": 2898,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom spent the whole morning getting ready for his presentation.",
+      "meaningZh": "n. 演示；报告；展示；介绍；呈现；赠送"
+    },
+    {
+      "wordId": "regardless",
+      "rank": 2899,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She buys what she wants regardless of the cost.",
+      "meaningZh": "adv. 不顾；不管；不加理会地"
+    },
+    {
+      "wordId": "stable",
+      "rank": 2903,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Prices have been stable for the past three years.",
+      "meaningZh": "n. 马房, 牛棚\na. 稳定的, 安定的, 坚固的, 坚定的\nvt. 赶入马房\nvi. 被关在马厩"
+    },
+    {
+      "wordId": "introduction",
+      "rank": 2904,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "What did you write in the introduction?",
+      "meaningZh": "n. 介绍, 传入, 采用, 初步"
+    },
+    {
+      "wordId": "violate",
+      "rank": 2909,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Those who violate the rules will be punished.",
+      "meaningZh": "vt. 违犯, 亵渎, 违反, 侵犯, 妨碍"
+    },
+    {
+      "wordId": "partnership",
+      "rank": 2912,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "They agreed to form a joint partnership.",
+      "meaningZh": "n. 合伙, 合股, 合作关系"
+    },
+    {
+      "wordId": "emission",
+      "rank": 2915,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The burning of coal is responsible for more than 40% of Australia's greenhouse gas emissions.",
+      "meaningZh": "n. 排放；排放物；发射；散发"
+    },
+    {
+      "wordId": "fate",
+      "rank": 2919,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She had no choice but to accept her fate.",
+      "meaningZh": "n. 命运, 运气\nvt. 注定"
+    },
+    {
+      "wordId": "distinction",
+      "rank": 2921,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I can make a distinction between good and bad.",
+      "meaningZh": "n. 区别"
+    },
+    {
+      "wordId": "variation",
+      "rank": 2927,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "an emery wheel is the modern variation of a grindstone",
+      "meaningZh": "n. 变更, 变化, 变种, 变奏"
+    },
+    {
+      "wordId": "radical",
+      "rank": 2929,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The government watched the activities of radical groups carefully.",
+      "meaningZh": "n. 激进分子, 词根, 基础, 根式, 根\na. 激进的, 根本的, 基本的, 根的"
+    },
+    {
+      "wordId": "correspondent",
+      "rank": 2934,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He was sent abroad as a correspondent.",
+      "meaningZh": "n. 通讯记者, 通信者"
+    },
+    {
+      "wordId": "significance",
+      "rank": 2937,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It doesn't have any significance.",
+      "meaningZh": "n. 重要性, 意义, 意味"
+    },
+    {
+      "wordId": "evolution",
+      "rank": 2946,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The evolution of dinosaurs interests me greatly.",
+      "meaningZh": "n. 进化, 发展, 进展, (气体)放出, 开方"
+    },
+    {
+      "wordId": "vulnerable",
+      "rank": 2955,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I feel weak and vulnerable.",
+      "meaningZh": "a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局的"
+    },
+    {
+      "wordId": "capability",
+      "rank": 2958,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "This program has both downloading and uploading capabilities.",
+      "meaningZh": "n. 能力, 性能, 约束力"
+    },
+    {
+      "wordId": "gradually",
+      "rank": 2961,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom gradually began to lose his sense of smell.",
+      "meaningZh": "adv. 逐渐地"
+    },
+    {
+      "wordId": "psychology",
+      "rank": 2972,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom teaches sport psychology.",
+      "meaningZh": "n. 心理学, 心理状态"
+    },
+    {
+      "wordId": "obligation",
+      "rank": 2988,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I think we have an obligation to do that.",
+      "meaningZh": "n. 义务, 责任, 约束, 契约, 恩惠, 债务"
+    },
+    {
+      "wordId": "economist",
+      "rank": 2994,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is an economist.",
+      "meaningZh": "n. 经济学者, 经济家"
+    },
+    {
+      "wordId": "celebration",
+      "rank": 2996,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "This is not a time for celebration.",
+      "meaningZh": "n. 庆祝, 庆典"
+    },
+    {
+      "wordId": "psychologist",
+      "rank": 3014,
+      "difficulty": 4,
+      "exampleIndex": 0,
+      "en": "The psychologist asked me a whole battery of questions.",
+      "meaningZh": "n. 心理学家"
+    },
+    {
+      "wordId": "limitation",
+      "rank": 3019,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It is important to know your own limitations.",
+      "meaningZh": "n. 限制, 缺陷, 限额"
+    },
+    {
+      "wordId": "preference",
+      "rank": 3022,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It's a matter of personal preference.",
+      "meaningZh": "n. 偏爱, 优先, 喜爱物"
+    },
+    {
+      "wordId": "incredible",
+      "rank": 3026,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "That story is too incredible to be true.",
+      "meaningZh": "a. 难以置信的"
+    },
+    {
+      "wordId": "fabric",
+      "rank": 3059,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom carefully cut the fabric with a pair of scissors.",
+      "meaningZh": "n. 织物, 布, 结构, 构造, 建筑物"
+    },
+    {
+      "wordId": "conviction",
+      "rank": 3066,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She always stands up for her convictions.",
+      "meaningZh": "n. 定罪, 信服, 坚信"
+    },
+    {
+      "wordId": "maintenance",
+      "rank": 3067,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The bridge is under maintenance.",
+      "meaningZh": "n. 维护, 保持, 维修, 生活费用, 坚持, 扶养"
+    },
+    {
+      "wordId": "sophisticated",
+      "rank": 3077,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is very sophisticated.",
+      "meaningZh": "a. 复杂的, 久经世故的"
+    },
+    {
+      "wordId": "desperate",
+      "rank": 3091,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is in desperate need of money.",
+      "meaningZh": "a. 不顾一切的, 危急的, 令人绝望的, 极渴望的"
+    },
+    {
+      "wordId": "narrative",
+      "rank": 3097,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "his narrative was interesting",
+      "meaningZh": "n. 叙述, 故事\na. 叙述的, 叙事的, 故事体的"
+    },
+    {
+      "wordId": "punishment",
+      "rank": 3110,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "In my family, the punishment for lying was severe.",
+      "meaningZh": "n. 处罚, 刑罚, 惩罚"
+    },
+    {
+      "wordId": "cholesterol",
+      "rank": 3119,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Are you taking a cholesterol-lowering medication?",
+      "meaningZh": "n. 胆固醇"
+    },
+    {
+      "wordId": "adjustment",
+      "rank": 3121,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She made a quick adjustment to her new job.",
+      "meaningZh": "n. 调整, 调节, 校正"
+    },
+    {
+      "wordId": "motivation",
+      "rank": 3126,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "What was your motivation to do that?",
+      "meaningZh": "n. 动机, 刺激, 推动"
+    },
+    {
+      "wordId": "restriction",
+      "rank": 3127,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "There are no restrictions.",
+      "meaningZh": "n. 限制, 限定, 约束"
+    },
+    {
+      "wordId": "assignment",
+      "rank": 3128,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I have an assignment for you.",
+      "meaningZh": "n. 分配, 功课, 任务, 转让, 归因, 陈述"
+    },
+    {
+      "wordId": "laboratory",
+      "rank": 3132,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Enter the laboratory and press the emergency button.",
+      "meaningZh": "n. 实验室, 研究室, 化工厂"
+    },
+    {
+      "wordId": "sequence",
+      "rank": 3143,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Nobody could remember the sequence of events.",
+      "meaningZh": "n. 序列, 续发事件, 顺序, 连续\nvt. 按顺序排好"
+    },
+    {
+      "wordId": "edition",
+      "rank": 3155,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Is there a paperback edition of this book?",
+      "meaningZh": "n. 版本, 版, 翻版"
+    },
+    {
+      "wordId": "manufacturing",
+      "rank": 3161,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "There might be manufacturing defects.",
+      "meaningZh": "n. 制造业\na. 制造业的"
+    },
+    {
+      "wordId": "offensive",
+      "rank": 3168,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "That joke is offensive on so many levels.",
+      "meaningZh": "a. 令人不快的, 侮辱的, 攻击性的"
+    },
+    {
+      "wordId": "extension",
+      "rank": 3190,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I need a new extension cord like this one.",
+      "meaningZh": "n. 延长, 扩充, 范围, 扩展名\na. 伸缩的"
+    },
+    {
+      "wordId": "inflation",
+      "rank": 3197,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Four percent inflation is forecast for this year.",
+      "meaningZh": "n. 胀大, 夸张, 通货膨胀"
+    },
+    {
+      "wordId": "furthermore",
+      "rank": 3213,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "computer chess games are getting cheaper all the time; furthermore, their quality is improving",
+      "meaningZh": "adv. 此外, 而且"
+    },
+    {
+      "wordId": "mortgage",
+      "rank": 3215,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "What's your mortgage payment?",
+      "meaningZh": "n. 抵押, 约束性义务, 抵押借款\nvt. 抵押, 以...作担保, 把...许给"
+    },
+    {
+      "wordId": "sanction",
+      "rank": 3217,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I doubt if sanctions will work.",
+      "meaningZh": "n. 核准, 制裁, 处罚, 约束力\nvt. 制定制裁规则, 认可, 核准, 同意"
+    },
+    {
+      "wordId": "consciousness",
+      "rank": 3224,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "When I regained consciousness, I was in the hospital.",
+      "meaningZh": "n. 意识, 知觉, 自觉"
+    },
+    {
+      "wordId": "measurement",
+      "rank": 3227,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Precision in measurement is necessary.",
+      "meaningZh": "n. 尺寸, 度量, 度量单位"
+    },
+    {
+      "wordId": "seize",
+      "rank": 3230,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "You have no legal right to seize my property.",
+      "meaningZh": "vt. 抓住, 逮捕, 俘获, 没收, 扣押, 掌握\nvi. 突然抓住, 利用"
+    },
+    {
+      "wordId": "nomination",
+      "rank": 3232,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "the nomination was brief and to the point",
+      "meaningZh": "n. 提名, 任命, 提名权"
+    },
+    {
+      "wordId": "frustration",
+      "rank": 3240,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom couldn't hide his frustration.",
+      "meaningZh": "n. 挫折, 顿挫"
+    },
+    {
+      "wordId": "physically",
+      "rank": 3243,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He was there physically, but not mentally.",
+      "meaningZh": "adv. 按自然规律, 完全地, 实际上, 真正地, 身体上地"
+    },
+    {
+      "wordId": "impressive",
+      "rank": 3258,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "They just padded the report to make it look more impressive.",
+      "meaningZh": "a. 给人深刻印象的, 威严的"
+    },
+    {
+      "wordId": "charity",
+      "rank": 3287,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Do you know how much I give to charity?",
+      "meaningZh": "n. 慈悲, 博爱, 慈善团体, 施舍"
+    },
+    {
+      "wordId": "tactic",
+      "rank": 3288,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We were forced to change our tactics.",
+      "meaningZh": "n. 一项战术, 一条策略\na. 战术的, 顺序的, 排列的"
+    },
+    {
+      "wordId": "identification",
+      "rank": 3289,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "You'll need a photograph of yourself for identification.",
+      "meaningZh": "n. 识别, 身份证明, 认同"
+    },
+    {
+      "wordId": "invasion",
+      "rank": 3295,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "People called for an immediate invasion of Cuba.",
+      "meaningZh": "n. 侵犯, 侵入, 侵害"
+    },
+    {
+      "wordId": "intensity",
+      "rank": 3300,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He was overwhelmed by the intensity of her love.",
+      "meaningZh": "n. 强烈, 紧张, 强度"
+    },
+    {
+      "wordId": "quarterback",
+      "rank": 3302,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom plays quarterback on our high school's football team.",
+      "meaningZh": "n. 四分卫\nvi. 担任四分卫"
+    },
+    {
+      "wordId": "occupation",
+      "rank": 3334,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Agriculture was the principal occupation of the inhabitants.",
+      "meaningZh": "n. 职业, 占有, 占有期, 占领, 占领军"
+    },
+    {
+      "wordId": "confusion",
+      "rank": 3335,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "A power failure contributed to the confusion in the hall.",
+      "meaningZh": "n. 混乱, 混淆, 无秩序"
+    },
+    {
+      "wordId": "collective",
+      "rank": 3342,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Collective interests must be protected.",
+      "meaningZh": "a. 集体的, 聚集的, 共同的"
+    },
+    {
+      "wordId": "homeless",
+      "rank": 3350,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom lived in a homeless shelter for a while.",
+      "meaningZh": "a. 无家的, 无养主的"
+    },
+    {
+      "wordId": "fitness",
+      "rank": 3357,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "No one doubts her fitness for the post.",
+      "meaningZh": "n. 健康；体能；适合；适当"
+    },
+    {
+      "wordId": "dramatically",
+      "rank": 3364,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "That number has increased dramatically.",
+      "meaningZh": "adv. 戏剧地, 引人注目地, 突然地"
+    },
+    {
+      "wordId": "surprisingly",
+      "rank": 3368,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Surprisingly, he swims even on cold days.",
+      "meaningZh": "adv. 使人惊奇, 出人意外, 惊人, 令人惊讶"
+    },
+    {
+      "wordId": "indication",
+      "rank": 3371,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Her slurred speech was an indication that she was drunk.",
+      "meaningZh": "n. 指示, 象征, 暗示"
+    },
+    {
+      "wordId": "anniversary",
+      "rank": 3374,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "What did your boyfriend give you for your anniversary?",
+      "meaningZh": "n. 周年纪念"
+    },
+    {
+      "wordId": "alliance",
+      "rank": 3376,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Japan entered into an alliance with France just before the war.",
+      "meaningZh": "n. 联盟, 联合"
+    },
+    {
+      "wordId": "regulate",
+      "rank": 3384,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Traffic lights are used to regulate traffic.",
+      "meaningZh": "vt. 管理, 控制, 调节, 调整, 校准"
+    },
+    {
+      "wordId": "adolescent",
+      "rank": 3386,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Adolescents often quarrel with their parents.",
+      "meaningZh": "a. 青春期的, 青少年的\nn. 青少年"
+    },
+    {
+      "wordId": "magic",
+      "rank": 3411,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "My cousin is good at doing magic tricks.",
+      "meaningZh": "n. 魔术, 魔法\na. 魔术的, 有魔力的, 不可思议的"
+    },
+    {
+      "wordId": "acceptable",
+      "rank": 3415,
+      "difficulty": 5,
+      "exampleIndex": 0,
+      "en": "His work was acceptable, but far from excellent.",
+      "meaningZh": "a. 可接受的, 合意的, 可忍受的"
+    },
+    {
+      "wordId": "continuous",
+      "rank": 3422,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "This continuous noise annoys me.",
+      "meaningZh": "a. 连续的, 继续的, 连续不断的"
+    },
+    {
+      "wordId": "presidency",
+      "rank": 3432,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Andrew Jackson expanded the power of the presidency beyond what was customary before his time",
+      "meaningZh": "n. 总统职权, 总裁职位"
+    },
+    {
+      "wordId": "subtle",
+      "rank": 3435,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "There are subtle differences.",
+      "meaningZh": "a. 敏锐的, 精细的, 狡猾的, 稀薄的, 灵巧的, 微妙的"
+    },
+    {
+      "wordId": "acceptance",
+      "rank": 3443,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "the proposal found wide acceptance",
+      "meaningZh": "n. 接受, 接纳, 承认, 同意, 赞同, 容忍, 相信"
+    },
+    {
+      "wordId": "ethical",
+      "rank": 3454,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Is it ethical to clone humans?",
+      "meaningZh": "a. 伦理的, 民族的, 民族特有的"
+    },
+    {
+      "wordId": "civilization",
+      "rank": 3459,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Civilization is the limitless multiplication of unnecessary necessities.",
+      "meaningZh": "n. 文明, 教化"
+    },
+    {
+      "wordId": "integrity",
+      "rank": 3464,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "the integrity of the nervous system is required for normal development",
+      "meaningZh": "n. 正直, 廉正, 完整"
+    },
+    {
+      "wordId": "essence",
+      "rank": 3468,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Time is of the essence.",
+      "meaningZh": "n. 实质, 本质, 香精"
+    },
+    {
+      "wordId": "humanity",
+      "rank": 3501,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "This book has restored my faith in humanity.",
+      "meaningZh": "n. 人性, 人类, 博爱"
+    },
+    {
+      "wordId": "correlation",
+      "rank": 3502,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "No correlation was found.",
+      "meaningZh": "n. 相互关系, 相关, 关联"
+    },
+    {
+      "wordId": "excitement",
+      "rank": 3506,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Excitement is not good for a man of my age.",
+      "meaningZh": "n. 刺激, 兴奋"
+    },
+    {
+      "wordId": "architecture",
+      "rank": 3509,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom loves architecture more than anything else in the world.",
+      "meaningZh": "n. 建筑学, 建筑式样"
+    },
+    {
+      "wordId": "administrative",
+      "rank": 3510,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The city is divided into ten administrative districts.",
+      "meaningZh": "a. 管理的, 行政的"
+    },
+    {
+      "wordId": "allegation",
+      "rank": 3516,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "It's an absurd allegation.",
+      "meaningZh": "n. 断言, 主张, 申辩"
+    },
+    {
+      "wordId": "initiate",
+      "rank": 3524,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Who has initiated this?",
+      "meaningZh": "n. 新入会者；初学者；入门者\nadj. 新入会的；初步的\nv. 发起；开始；使初步了解；接纳入会"
+    },
+    {
+      "wordId": "mainstream",
+      "rank": 3528,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "This author is critical of the mainstream media.",
+      "meaningZh": "n. 主流"
+    },
+    {
+      "wordId": "motivate",
+      "rank": 3534,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The teachers are trying to motivate their students.",
+      "meaningZh": "vt. 给与动机, 刺激, 提高...的学习欲望, 促动"
+    },
+    {
+      "wordId": "seemingly",
+      "rank": 3541,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Seemingly impossible things sometimes happen.",
+      "meaningZh": "adv. 看来似乎, 表面上看来"
+    },
+    {
+      "wordId": "companion",
+      "rank": 3547,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "My companions were all asleep.",
+      "meaningZh": "n. 朋友, 陪伴, 指南, 升降口围罩\nvt. 陪伴"
+    },
+    {
+      "wordId": "inspector",
+      "rank": 3550,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I know who killed the police inspector.",
+      "meaningZh": "n. 检查员, 巡视员"
+    },
+    {
+      "wordId": "facilitate",
+      "rank": 3568,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "I think I can facilitate that.",
+      "meaningZh": "vt. 使容易, 促进, 帮助"
+    },
+    {
+      "wordId": "overwhelming",
+      "rank": 3571,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The bill was passed by an overwhelming majority.",
+      "meaningZh": "adj. 压倒性的；巨大的；难以抵挡的"
+    },
+    {
+      "wordId": "recession",
+      "rank": 3576,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The recession caused many businesses to close.",
+      "meaningZh": "n. 后退, 凹处, 衰退, 归还"
+    },
+    {
+      "wordId": "motive",
+      "rank": 3578,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The motive for the murder is not yet known.",
+      "meaningZh": "n. 动机, 目的, 主题, 基调\na. 运动的, 成为动机的"
+    },
+    {
+      "wordId": "ownership",
+      "rank": 3585,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Is gun ownership legal in your country?",
+      "meaningZh": "n. 所有权, 物主身份"
+    },
+    {
+      "wordId": "inspection",
+      "rank": 3588,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The building did not pass a fire inspection.",
+      "meaningZh": "n. 检验, 检查, 视察"
+    },
+    {
+      "wordId": "possession",
+      "rank": 3593,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Our health is our most precious possession.",
+      "meaningZh": "n. 拥有, 占有, 所有, 财产, 领土, 领地, 自制, 着迷"
+    },
+    {
+      "wordId": "diagnosis",
+      "rank": 3594,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The doctor made the correct diagnosis.",
+      "meaningZh": "n. 诊断"
+    },
+    {
+      "wordId": "consistently",
+      "rank": 3596,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "You are consistently late to work.",
+      "meaningZh": "adv. 始终如一地；一贯地；持续地"
+    },
+    {
+      "wordId": "announcement",
+      "rank": 3604,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom says he has an announcement to make.",
+      "meaningZh": "n. 公告, 发表, 告知"
+    },
+    {
+      "wordId": "questionnaire",
+      "rank": 3606,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Fill out the questionnaire.",
+      "meaningZh": "n. 调查表, 问卷"
+    },
+    {
+      "wordId": "infrastructure",
+      "rank": 3613,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Let's talk about infrastructure.",
+      "meaningZh": "n. 基础结构, 基础设施"
+    },
+    {
+      "wordId": "broadcast",
+      "rank": 3617,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "What language does this radio station broadcast in?",
+      "meaningZh": "n. 广播, 传播\na. 广播的\nv. 广播\nadv. 经广播, 四散地"
+    },
+    {
+      "wordId": "wrist",
+      "rank": 3624,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I broke my wrist when I fell on it.",
+      "meaningZh": "n. 手腕, 腕关节"
+    },
+    {
+      "wordId": "hence",
+      "rank": 3639,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "a year hence it will be forgotten",
+      "meaningZh": "adv. 因此, 从此"
+    },
+    {
+      "wordId": "continuing",
+      "rank": 3647,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I see no point in continuing this conversation.",
+      "meaningZh": "a. 继续的, 持续的, 连续的"
+    },
+    {
+      "wordId": "chronic",
+      "rank": 3654,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She suffers from a chronic illness.",
+      "meaningZh": "a. 慢性的, 习惯性的\nn. 慢性病患者"
+    },
+    {
+      "wordId": "replacement",
+      "rank": 3656,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Your replacement has already been picked.",
+      "meaningZh": "n. 归还, 更换, 代替者"
+    },
+    {
+      "wordId": "administer",
+      "rank": 3661,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "she administers the funds",
+      "meaningZh": "vt. 管理, 料理, 执行\nvi. 执行遗产管理人的职责, 给予帮助"
+    },
+    {
+      "wordId": "transmission",
+      "rank": 3665,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Can you drive a car with manual transmission?",
+      "meaningZh": "n. 传输, 传送, 变速器"
+    },
+    {
+      "wordId": "amendment",
+      "rank": 3667,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The amendment was first proposed in 1789.",
+      "meaningZh": "n. 修订, 改善, 改良, 改正"
+    },
+    {
+      "wordId": "indigenous",
+      "rank": 3679,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Latin Americans know very little about the history of the indigenous peoples who used to live here several centuries ago.",
+      "meaningZh": "a. 本土的, 国产的, 固有的"
+    },
+    {
+      "wordId": "modify",
+      "rank": 3685,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Do you think it's dangerous to eat genetically modified food?",
+      "meaningZh": "vt. 修正, 变更, 修饰, 缓和, 减轻\nvi. 被修改"
+    },
+    {
+      "wordId": "separation",
+      "rank": 3704,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "he hid in the separation between walls",
+      "meaningZh": "n. 分离, 分居, 缺口, 退职"
+    },
+    {
+      "wordId": "republic",
+      "rank": 3709,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The colony declared independence and became a republic.",
+      "meaningZh": "n. 共和国, 共和政体, 团体, 界"
+    },
+    {
+      "wordId": "enthusiasm",
+      "rank": 3716,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom had a lot of enthusiasm.",
+      "meaningZh": "n. 巨大的热情, 热心"
+    },
+    {
+      "wordId": "wilderness",
+      "rank": 3718,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "he led the Democratic party back from the wilderness",
+      "meaningZh": "n. 荒野, 荒地, 大量"
+    },
+    {
+      "wordId": "praise",
+      "rank": 3719,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The teacher encouraged the students with praise.",
+      "meaningZh": "n. 赞美, 称赞, 崇拜\nvt. 称赞, 赞美\nvi. 赞扬, 表扬"
+    },
+    {
+      "wordId": "endless",
+      "rank": 3722,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The list is endless.",
+      "meaningZh": "a. 不停的, 无穷尽的, 无尽的"
+    },
+    {
+      "wordId": "respectively",
+      "rank": 3726,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "the brothers were called Felix and Max, respectively",
+      "meaningZh": "adv. 各自地, 独自地, 个别地, 分别地"
+    },
+    {
+      "wordId": "mechanical",
+      "rank": 3729,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "I'm a mechanical engineer.",
+      "meaningZh": "a. 机械的, 机械性的, 力学的"
+    },
+    {
+      "wordId": "profound",
+      "rank": 3735,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It had a profound effect on me.",
+      "meaningZh": "a. 极深的, 深厚的, 深刻的, 渊博的"
+    },
+    {
+      "wordId": "corruption",
+      "rank": 3743,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "We are sick and tired of political corruption.",
+      "meaningZh": "n. 腐败, 堕落, 贪污"
+    },
+    {
+      "wordId": "astronomer",
+      "rank": 3744,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is a very well-respected astronomer.",
+      "meaningZh": "n. 天文学家"
+    },
+    {
+      "wordId": "unity",
+      "rank": 3749,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "This organization lacks unity.",
+      "meaningZh": "n. 一致, 联合, 单一(性), 个体"
+    },
+    {
+      "wordId": "horrible",
+      "rank": 3750,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Why do you say such horrible things about me?",
+      "meaningZh": "a. 可怕的, 遭透的, 极讨厌的"
+    },
+    {
+      "wordId": "exclusive",
+      "rank": 3753,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "We have exclusive rights to Tom's invention.",
+      "meaningZh": "a. 排外的, 独占的, 唯一的"
+    },
+    {
+      "wordId": "twist",
+      "rank": 3759,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Twist that knob to the right and the box will open.",
+      "meaningZh": "n. 一扭, 扭曲, 曲折, 歪曲, 螺旋状, 新手法\nvt. 拧, 扭, 捻, 编织, 使扭转, 缠绕, 盘绕, 歪曲, 使转动, 使苦恼, 使混乱, 使旋转\nvi. 转向, 弯曲, 缠绕, 扭动, 呈螺旋形"
+    },
+    {
+      "wordId": "suspicion",
+      "rank": 3762,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He fell under the suspicion of the police.",
+      "meaningZh": "n. 怀疑, 觉察, 嫌疑"
+    },
+    {
+      "wordId": "residence",
+      "rank": 3766,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "You'll have to establish residence here before you can vote.",
+      "meaningZh": "n. 住宅, 居留, 驻扎, 居住期间"
+    },
+    {
+      "wordId": "meaningful",
+      "rank": 3769,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom and I had a meaningful conversation.",
+      "meaningZh": "a. 意味深长的"
+    },
+    {
+      "wordId": "pension",
+      "rank": 3785,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "It was hard for him to live on his small pension.",
+      "meaningZh": "n. 养老金, 退休金, 津贴, 年金, 抚恤金, 膳宿学校, 膳宿费\nvt. 发给退休金, 用津贴拉拢"
+    },
+    {
+      "wordId": "promotion",
+      "rank": 3786,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Chances of promotion are slim in this firm.",
+      "meaningZh": "n. 晋级, 创建, 增进"
+    },
+    {
+      "wordId": "delicate",
+      "rank": 3787,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The president declined to answer the delicate question.",
+      "meaningZh": "a. 细致优雅的, 微妙的, 美味的"
+    },
+    {
+      "wordId": "attraction",
+      "rank": 3800,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The attraction was mutual.",
+      "meaningZh": "n. 吸引, 吸引人的事物, 吸引力"
+    },
+    {
+      "wordId": "pickup",
+      "rank": 3802,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I was rear-ended by a pickup truck.",
+      "meaningZh": "n. 取货；接人；皮卡车；拾起；好转；拾音器"
+    },
+    {
+      "wordId": "belly",
+      "rank": 3805,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom lifted up his shirt and exposed his belly.",
+      "meaningZh": "n. 腹部, 食欲\nvt. 使鼓起\nvi. 鼓起, 匍匐前进"
+    },
+    {
+      "wordId": "timing",
+      "rank": 3808,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The timing was impeccable.",
+      "meaningZh": "n. 时间选择, 时间测定, 定时, 调速"
+    },
+    {
+      "wordId": "portfolio",
+      "rank": 3809,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom showed me his portfolio.",
+      "meaningZh": "n. 作品集；投资组合；公文包；部长职务"
+    },
+    {
+      "wordId": "shuttle",
+      "rank": 3810,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "My dream is to travel in a space shuttle.",
+      "meaningZh": "n. 穿梭, 梭子, 往返移动之物\nv. (使)穿梭移动, 往返运送"
+    },
+    {
+      "wordId": "transaction",
+      "rank": 3813,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "no transactions are possible without him",
+      "meaningZh": "n. 交易, 办理, 学报, 和解协议"
+    },
+    {
+      "wordId": "ankle",
+      "rank": 3814,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom twisted his ankle and it swelled up.",
+      "meaningZh": "n. 踝"
+    },
+    {
+      "wordId": "firmly",
+      "rank": 3818,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She pressed her lips firmly together.",
+      "meaningZh": "adv. 坚固, 坚定, 断然"
+    },
+    {
+      "wordId": "identical",
+      "rank": 3822,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "He is identical to his older brother.",
+      "meaningZh": "a. 同一的, 恒等的, 完全相同的"
+    },
+    {
+      "wordId": "rider",
+      "rank": 3824,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "A good horse knows its rider.",
+      "meaningZh": "n. 骑手, (文件后的)附件, 扶手"
+    },
+    {
+      "wordId": "residential",
+      "rank": 3828,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom and Mary live in a quiet residential neighborhood.",
+      "meaningZh": "a. 住宅的, 与居住有关的"
+    },
+    {
+      "wordId": "carbohydrate",
+      "rank": 3831,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Pasta is high in carbohydrates.",
+      "meaningZh": "n. 碳水化合物, 糖类"
+    },
+    {
+      "wordId": "diagnose",
+      "rank": 3832,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I quit smoking when I was diagnosed with cancer.",
+      "meaningZh": "v. 诊断"
+    },
+    {
+      "wordId": "liberty",
+      "rank": 3835,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The Statue of Liberty is located in New York.",
+      "meaningZh": "n. 自由, 特权, 许可, 冒失"
+    },
+    {
+      "wordId": "crawl",
+      "rank": 3836,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The thought of powdered sugar makes my skin crawl.",
+      "meaningZh": "n. 爬行, 匍匐而行, 养鱼池\nv. 爬行"
+    },
+    {
+      "wordId": "promising",
+      "rank": 3844,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Now he is recognized as one of the most promising writers.",
+      "meaningZh": "a. 有希望的, 前途有望的"
+    },
+    {
+      "wordId": "donor",
+      "rank": 3847,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom has an organ donor card in his wallet.",
+      "meaningZh": "n. 捐赠人"
+    },
+    {
+      "wordId": "pastor",
+      "rank": 3850,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The girl, closing her eyes, listened to the pastor.",
+      "meaningZh": "n. 牧师"
+    },
+    {
+      "wordId": "opera",
+      "rank": 3851,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Do you want to go to the opera with me?",
+      "meaningZh": "n. 歌剧"
+    },
+    {
+      "wordId": "pit",
+      "rank": 3857,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Be careful not to swallow the pit.",
+      "meaningZh": "n. 深坑, 矿井, 果核, 地窖, 深渊, 绝境, 陷阱\nvt. 窖藏, 使凹下, 使有麻点, 去...之核, 使留疤痕, 使相斗, 使竞争\nvi. 起凹点, 凹陷"
+    },
+    {
+      "wordId": "wildlife",
+      "rank": 3859,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "chemicals could kill all the wildlife",
+      "meaningZh": "n. 野生动植物"
+    },
+    {
+      "wordId": "doorway",
+      "rank": 3866,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Her sudden appearance in the doorway surprised us.",
+      "meaningZh": "n. 门口, 途径"
+    },
+    {
+      "wordId": "teenage",
+      "rank": 3868,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is just an average teenage boy.",
+      "meaningZh": "a. 十三岁到十九岁的"
+    },
+    {
+      "wordId": "guidance",
+      "rank": 3869,
+      "difficulty": 5,
+      "exampleIndex": 0,
+      "en": "Thank you for your guidance.",
+      "meaningZh": "n. 指导, 领导"
+    },
+    {
+      "wordId": "pursuit",
+      "rank": 3873,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She spent her life in pursuit of the truth.",
+      "meaningZh": "n. 追踪, 追求, 追赶, 娱乐, 职业"
+    },
+    {
+      "wordId": "oral",
+      "rank": 3875,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She gave an oral report to her boss.",
+      "meaningZh": "n. 口试\na. 口头的, 口述的, 口部的"
+    },
+    {
+      "wordId": "reporting",
+      "rank": 3882,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "All the newspapers were reporting on it.",
+      "meaningZh": "n. 报道"
+    },
+    {
+      "wordId": "endorse",
+      "rank": 3884,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I wholeheartedly endorse this decision.",
+      "meaningZh": "vt. 支持, 赞同, 背书于, 签署"
+    },
+    {
+      "wordId": "feedback",
+      "rank": 3888,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We look forward to your feedback.",
+      "meaningZh": "n. 反馈, 反应"
+    },
+    {
+      "wordId": "thereby",
+      "rank": 3891,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He knocked over the red wine, thereby ruining the table cloth",
+      "meaningZh": "adv. 因此"
+    },
+    {
+      "wordId": "indicator",
+      "rank": 3892,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Frogs are an indicator of the health of the forest.",
+      "meaningZh": "n. 指示器, 指示剂, 指标"
+    },
+    {
+      "wordId": "spectrum",
+      "rank": 3893,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "You can see the colors of the spectrum in a rainbow.",
+      "meaningZh": "n. 光谱, 范围, 系列"
+    },
+    {
+      "wordId": "sunlight",
+      "rank": 3895,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Sunlight is essential for the growth of plants.",
+      "meaningZh": "n. 日光"
+    },
+    {
+      "wordId": "laser",
+      "rank": 3896,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Laser surgery can fix some kinds of vision problems.",
+      "meaningZh": "n. 激光"
+    },
+    {
+      "wordId": "bold",
+      "rank": 3897,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The most important words are in bold.",
+      "meaningZh": "a. 大胆的\nn. 粗体"
+    },
+    {
+      "wordId": "expertise",
+      "rank": 3898,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "That's outside my area of expertise.",
+      "meaningZh": "n. 专家意见, 专门技术"
+    },
+    {
+      "wordId": "reluctant",
+      "rank": 3900,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I know Tom will be reluctant to do that.",
+      "meaningZh": "a. 不情愿的, 勉强的"
+    },
+    {
+      "wordId": "sharply",
+      "rank": 3908,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Hideo turned the steering wheel sharply to avoid the bicyclist.",
+      "meaningZh": "adv. 锐利地, 严厉地, 厉害地"
+    },
+    {
+      "wordId": "realm",
+      "rank": 3911,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "it was a limited realm of discourse",
+      "meaningZh": "n. 王国, 领土, 领域"
+    },
+    {
+      "wordId": "therapist",
+      "rank": 3916,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom worked as a physical therapist.",
+      "meaningZh": "n. 治疗学家"
+    },
+    {
+      "wordId": "constitution",
+      "rank": 3917,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "It took four months to write a new Constitution.",
+      "meaningZh": "n. 构成, 宪法, 体格"
+    },
+    {
+      "wordId": "accounting",
+      "rank": 3921,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom worked as an accounting clerk at a small company.",
+      "meaningZh": "n. 会计学, 帐单, 清帐"
+    },
+    {
+      "wordId": "bias",
+      "rank": 3925,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "You have to judge the case without bias.",
+      "meaningZh": "n. 偏见, 斜纹\na. 偏斜的\nadv. 偏斜\nvt. 使有偏见"
+    },
+    {
+      "wordId": "huh",
+      "rank": 3926,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Huh? How is that relevant here?",
+      "meaningZh": "interj. 哼, 哈"
+    },
+    {
+      "wordId": "metaphor",
+      "rank": 3927,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I thought that it was just a metaphor.",
+      "meaningZh": "n. 隐喻"
+    },
+    {
+      "wordId": "garbage",
+      "rank": 3934,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Whose turn is it to take out the garbage?",
+      "meaningZh": "n. 垃圾, 废物"
+    },
+    {
+      "wordId": "diplomatic",
+      "rank": 3940,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The two countries do not have diplomatic relations.",
+      "meaningZh": "a. 外交的, 老练的"
+    },
+    {
+      "wordId": "minimize",
+      "rank": 3941,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "I minimized the document and then maximized it again.",
+      "meaningZh": "vt. 将...减到最少\nvt. 最小化\nvi. 最小化"
+    },
+    {
+      "wordId": "elegant",
+      "rank": 3942,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Mary is a very elegant woman.",
+      "meaningZh": "a. 优雅的, 端庄的, 高雅的"
+    },
+    {
+      "wordId": "reception",
+      "rank": 3944,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Have you been invited to the reception?",
+      "meaningZh": "n. 接待, 接受, 招待会"
+    },
+    {
+      "wordId": "automatically",
+      "rank": 3946,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "If you press this button, the window opens automatically.",
+      "meaningZh": "adv. 自动地, 机械地"
+    },
+    {
+      "wordId": "chin",
+      "rank": 3947,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "How did you get that scar on your chin?",
+      "meaningZh": "n. 下巴, 颏"
+    },
+    {
+      "wordId": "vanish",
+      "rank": 3949,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Many kinds of animals have vanished from the earth.",
+      "meaningZh": "vi. 消失, 不见, 成为零"
+    },
+    {
+      "wordId": "necessity",
+      "rank": 3951,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "There is no necessity for you to do that.",
+      "meaningZh": "n. 需要, 必需品, 必然"
+    },
+    {
+      "wordId": "starter",
+      "rank": 3952,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "For starters, I want to eat a little bit of pie.",
+      "meaningZh": "n. 开胃菜；启动装置；起跑者；首发队员；起始物"
+    },
+    {
+      "wordId": "banking",
+      "rank": 3953,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Online banking is very convenient.",
+      "meaningZh": "n. 银行业务"
+    },
+    {
+      "wordId": "casual",
+      "rank": 3955,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She took a casual glance at the book.",
+      "meaningZh": "a. 偶然的, 不经意的, 便装的\nn. 临时工, 待命士兵"
+    },
+    {
+      "wordId": "diminish",
+      "rank": 3958,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "As time passed, the radioactivity diminished.",
+      "meaningZh": "v. (使)减少, (使)变小"
+    },
+    {
+      "wordId": "prevention",
+      "rank": 3960,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "money was allocated to study the cause and prevention of influenza",
+      "meaningZh": "n. 阻止, 妨碍, 预防"
+    },
+    {
+      "wordId": "performer",
+      "rank": 3962,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We applauded the performer.",
+      "meaningZh": "n. 表演者, 执行者, 完成者"
+    },
+    {
+      "wordId": "isolate",
+      "rank": 3963,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "No nation can exist completely isolated from others.",
+      "meaningZh": "vt. 使隔离, 使孤立, 使绝缘\nn. 隔离种群"
+    },
+    {
+      "wordId": "chop",
+      "rank": 3964,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I like to chop wood.",
+      "meaningZh": "n. 肋条肉, 排骨, 砍, 戳记, 商标\nvt. 剁碎, 砍, 切击, 割断\nvi. 砍, 突然转向"
+    },
+    {
+      "wordId": "assembly",
+      "rank": 3965,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The United Nations General Assembly adopted the cease-fire resolution.",
+      "meaningZh": "n. 与会者, 集会, 装配, 组件"
+    },
+    {
+      "wordId": "productive",
+      "rank": 3966,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "You should spend less time complaining and more time doing something productive.",
+      "meaningZh": "a. 能生产的, 有生产价值的, 多产的"
+    },
+    {
+      "wordId": "inventory",
+      "rank": 3967,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "an inventory may be necessary to see if anything is missing",
+      "meaningZh": "n. 详细目录, 存货清单\nvt. 列入详细目录, 清点存货"
+    },
+    {
+      "wordId": "silk",
+      "rank": 3969,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I gave my father a silk tie.",
+      "meaningZh": "n. 丝, 绸, 绸锻类, 丝织品\na. 丝的, 丝织的"
+    },
+    {
+      "wordId": "civic",
+      "rank": 3970,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Voting is your civic duty.",
+      "meaningZh": "a. 市的, 市民的, 公民的"
+    },
+    {
+      "wordId": "magnitude",
+      "rank": 3971,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "I hadn't realized the magnitude of the problems.",
+      "meaningZh": "n. 巨大, 重大, 重要, 大小, 数量, 星等(指星的亮度)"
+    },
+    {
+      "wordId": "hostage",
+      "rank": 3972,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom was held hostage for a whole month.",
+      "meaningZh": "n. 人质, 抵押品"
+    },
+    {
+      "wordId": "steep",
+      "rank": 3973,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Let the tea steep for at least 5 minutes.",
+      "meaningZh": "n. 浸渍, 悬崖\na. 险峻的, 陡峭的, 急剧升降的, 夸大的\nv. 浸, 泡"
+    },
+    {
+      "wordId": "popularity",
+      "rank": 3974,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The popularity of a web site depends on its content.",
+      "meaningZh": "n. 名声, 受大众欢迎, 流行"
+    },
+    {
+      "wordId": "collector",
+      "rank": 3975,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He is something of a stamp collector.",
+      "meaningZh": "n. 收集家, 收取款项的人"
+    },
+    {
+      "wordId": "dynamic",
+      "rank": 3978,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "they hoped it would act as a spiritual dynamic on all churches",
+      "meaningZh": "a. 动态的, 有活力的, 有力的, 动力的, 不断变化的\nn. 动力, 动态"
+    },
+    {
+      "wordId": "equation",
+      "rank": 3982,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The equations are very complicated.",
+      "meaningZh": "n. 相等, 等式, 平衡"
+    },
+    {
+      "wordId": "rage",
+      "rank": 3984,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is given to fits of rage.",
+      "meaningZh": "n. 愤怒, 情绪激动, 狂暴\nvi. 大怒, 狂吹, 流行"
+    },
+    {
+      "wordId": "photography",
+      "rank": 3986,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Do you have underwater photography equipment?",
+      "meaningZh": "n. 摄影, 摄影术"
+    },
+    {
+      "wordId": "offering",
+      "rank": 3988,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "How much are they offering?",
+      "meaningZh": "n. 提供, 奉献物, 牲礼, 上市的股票(或证券等)"
+    },
+    {
+      "wordId": "realistic",
+      "rank": 3993,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "I think your plan is not realistic.",
+      "meaningZh": "a. 现实的, 逼真的, 现实主义的, 实在论的"
+    },
+    {
+      "wordId": "enroll",
+      "rank": 3994,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is now enrolled in college.",
+      "meaningZh": "vt. 登记, 使加入\nvi. 参军, 注册"
+    },
+    {
+      "wordId": "gathering",
+      "rank": 3999,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The squirrel was busy gathering nuts.",
+      "meaningZh": "n. 聚集, 集中, 采集"
+    },
+    {
+      "wordId": "outstanding",
+      "rank": 4000,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "They still have many outstanding debts.",
+      "meaningZh": "a. 杰出的, 突出的, 未偿付的, 未决定的"
+    },
+    {
+      "wordId": "stumble",
+      "rank": 4001,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The kid stumbled and fell to his knees.",
+      "meaningZh": "n. 绊倒, 蹒跚而行, 失足\nvt. 使绊倒, 使困惑\nvi. 绊倒, 失足, 失策, 犯错, 蹒跚, 踌躇"
+    },
+    {
+      "wordId": "descend",
+      "rank": 4006,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "A swarm of locusts descended on the cornfield.",
+      "meaningZh": "vi. 下降, 世代相传, 屈尊, 袭击\nvt. 下降"
+    },
+    {
+      "wordId": "tide",
+      "rank": 4010,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "This will tide you over for a day or so.",
+      "meaningZh": "n. 潮, 潮汐, 趋势, 潮流, 涨潮, 高潮\nvt. 使随潮漂流\nvi. 顺潮行驶"
+    },
+    {
+      "wordId": "shared",
+      "rank": 4011,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She shared her piece of cake with me.",
+      "meaningZh": "a. 共享的"
+    },
+    {
+      "wordId": "hopefully",
+      "rank": 4012,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Hopefully, Tom will wait for me.",
+      "meaningZh": "adv. 有希望地, 如果希望能实现的话"
+    },
+    {
+      "wordId": "readily",
+      "rank": 4013,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He readily agreed to it.",
+      "meaningZh": "adv. 迅速地, 轻易地, 乐意地"
+    },
+    {
+      "wordId": "cooperate",
+      "rank": 4015,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "We had to cooperate with each other.",
+      "meaningZh": "vi. 合作, 协力, 配合"
+    },
+    {
+      "wordId": "romance",
+      "rank": 4016,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "I think that maybe I should stop reading romance novels.",
+      "meaningZh": "n. 冒险故事, 浪漫史, 传奇文学\nvi. 写传奇, 作空想, 虚构"
+    },
+    {
+      "wordId": "kit",
+      "rank": 4018,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I have a first-aid kit in my car.",
+      "meaningZh": "n. 装备, 工具箱, 成套工具"
+    },
+    {
+      "wordId": "hardware",
+      "rank": 4019,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "A list of required hardware is available here.",
+      "meaningZh": "n. 硬件, 五金器具, 零件"
+    },
+    {
+      "wordId": "seal",
+      "rank": 4021,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I can seal the leak.",
+      "meaningZh": "n. 印章, 封条, 海豹, 海豹皮, 火漆, 封蜡, 玺, 保证, 批准, 象征, 标志\nvt. 封闭, 盖印, 盖章\nvi. 猎海豹"
+    },
+    {
+      "wordId": "circuit",
+      "rank": 4023,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Cables need insulation to prevent short circuits.",
+      "meaningZh": "n. 电路, 环(行)道, 巡回"
+    },
+    {
+      "wordId": "annually",
+      "rank": 4025,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "they travel to China annually",
+      "meaningZh": "adv. 一年一次, 每年"
+    },
+    {
+      "wordId": "scan",
+      "rank": 4031,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I have to be honest. I was a little bit nervous the first time I had an MRI scan.",
+      "meaningZh": "n. 审视, 浏览, 扫描, 细查\nvt. 细看, 浏览, 扫描, 详细调查, 标出格律\nvi. 押韵, 扫描"
+    },
+    {
+      "wordId": "undertake",
+      "rank": 4035,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "This is a huge undertaking.",
+      "meaningZh": "vt. 试图, 从事, 保证, 承担, 同意, 接受"
+    },
+    {
+      "wordId": "ranch",
+      "rank": 4036,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "My father has a ranch and breeds cattle and horses.",
+      "meaningZh": "n. 大牧场\nv. 经营牧场"
+    },
+    {
+      "wordId": "verbal",
+      "rank": 4037,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "a good poet is a verbal artist",
+      "meaningZh": "a. 用言辞的, 言语的, 口头的, 逐字的, 动词的"
+    },
+    {
+      "wordId": "coastal",
+      "rank": 4039,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Historical distinctions also remain between central highlanders and coastal people.",
+      "meaningZh": "a. 海岸的, 沿海的, 沿岸的"
+    },
+    {
+      "wordId": "softly",
+      "rank": 4040,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom lay on his bed and cried softly into his pillow.",
+      "meaningZh": "adv. 柔和地, 静静地, 温柔地"
+    },
+    {
+      "wordId": "automatic",
+      "rank": 4045,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "She has an automatic washing machine.",
+      "meaningZh": "n. 自动手枪, 自动机械\na. 自动的, 机械的, 必然的, 无意识的"
+    },
+    {
+      "wordId": "pro",
+      "rank": 4060,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom does that like a pro.",
+      "meaningZh": "adv. 正面地"
+    },
+    {
+      "wordId": "mate",
+      "rank": 4061,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "he lost the mate to his shoe",
+      "meaningZh": "n. 配偶, 对手, 助手, (象棋)将死\nvt. 使配对, 使一致, 结伴, (象棋)将死\nvi. 成配偶, 紧密配合"
+    },
+    {
+      "wordId": "trailer",
+      "rank": 4062,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He lives in a trailer park.",
+      "meaningZh": "n. 追踪者, 拖车"
+    },
+    {
+      "wordId": "monument",
+      "rank": 4066,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The monument was defaced.",
+      "meaningZh": "n. 纪念碑, 纪念物, 石碑"
+    },
+    {
+      "wordId": "quest",
+      "rank": 4067,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The animal came questing through the forest",
+      "meaningZh": "n. 探索, 寻求, 调查\nv. 寻找, 找, 追寻猎物"
+    },
+    {
+      "wordId": "bid",
+      "rank": 4069,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I bid you adieu.",
+      "meaningZh": "n. 出价\nv. 命令, 吩咐, 请求, 表示, 宣布, 投标"
+    },
+    {
+      "wordId": "officially",
+      "rank": 4075,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom and Mary are now officially engaged.",
+      "meaningZh": "adv. 作为公务员, 职务上, 官方地"
+    },
+    {
+      "wordId": "accuracy",
+      "rank": 4076,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I began to doubt the accuracy of his statement.",
+      "meaningZh": "n. 精确, 正确"
+    },
+    {
+      "wordId": "loyalty",
+      "rank": 4077,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I require absolute loyalty from all my employees.",
+      "meaningZh": "n. 忠贞, 忠诚, 忠实"
+    },
+    {
+      "wordId": "gasoline",
+      "rank": 4082,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "There was a strong smell of gasoline in the garage.",
+      "meaningZh": "n. 汽油"
+    },
+    {
+      "wordId": "stiff",
+      "rank": 4084,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I woke up with a stiff neck.",
+      "meaningZh": "a. 坚硬的, 严厉的, 呆板的, 生硬的, 刚强的, 强烈的, 粘的, 稠的, 艰难的\nn. 死尸, 醉鬼, 钞票\nvt. 不肯付...小费"
+    },
+    {
+      "wordId": "jaw",
+      "rank": 4087,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He has a square jaw.",
+      "meaningZh": "n. 颚, 颌\nv. 闲谈, 教训, 唠叨"
+    },
+    {
+      "wordId": "diabetes",
+      "rank": 4089,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Do you have diabetes?",
+      "meaningZh": "n. 糖尿病, 多尿症"
+    },
+    {
+      "wordId": "toxic",
+      "rank": 4090,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Lead is a toxic metal.",
+      "meaningZh": "a. 有毒的, 中毒的"
+    },
+    {
+      "wordId": "grief",
+      "rank": 4092,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom shook his head in grief.",
+      "meaningZh": "n. 伤心, 忧愁, 悲痛, 不幸, 灾难"
+    },
+    {
+      "wordId": "tackle",
+      "rank": 4096,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "This is my tackle box.",
+      "meaningZh": "n. 工具, 复滑车, 滑车, 装备, 扭倒\nvt. 固定, 处理, 抓住\nvi. 扭倒"
+    },
+    {
+      "wordId": "inmate",
+      "rank": 4097,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "People visiting inmates in the prison were instructed to keep their hands in plain view at all times.",
+      "meaningZh": "n. 同住者, 被收容者"
+    },
+    {
+      "wordId": "bow",
+      "rank": 4098,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The little girl made a polite bow to me.",
+      "meaningZh": "n. 弓, 眼睛框\nv. 用弓拉琴, 弯成弓形\nn. 鞠躬, 屈服"
+    },
+    {
+      "wordId": "dignity",
+      "rank": 4100,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Where is your dignity?",
+      "meaningZh": "n. 尊严, 高贵"
+    },
+    {
+      "wordId": "bubble",
+      "rank": 4104,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The soap bubble burst.",
+      "meaningZh": "n. 泡沫\nvi. 冒泡, 沸腾\nvt. 使冒泡, 滔滔不绝地说"
+    },
+    {
+      "wordId": "sword",
+      "rank": 4105,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Those who live by the sword die by the sword.",
+      "meaningZh": "n. 刀, 剑, 战争, 武力, 剑状物"
+    },
+    {
+      "wordId": "tightly",
+      "rank": 4107,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She held her hands tightly over her ears.",
+      "meaningZh": "adv. 紧紧地, 坚固地"
+    },
+    {
+      "wordId": "barn",
+      "rank": 4108,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The farmer keeps his tractor in the barn.",
+      "meaningZh": "n. 谷仓"
+    },
+    {
+      "wordId": "buddy",
+      "rank": 4109,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I know that Tom is a buddy of yours.",
+      "meaningZh": "n. 好朋友, 伙伴"
+    },
+    {
+      "wordId": "seventh",
+      "rank": 4110,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Two to the seventh power is one hundred twenty-eight.",
+      "meaningZh": "num. 第七, 七分之一"
+    },
+    {
+      "wordId": "specialize",
+      "rank": 4111,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "This publishing house specializes in children's literature.",
+      "meaningZh": "vt. 使特殊化, 列举, 特别指明, 限定...的范围\nvi. 成为专家, 专攻"
+    },
+    {
+      "wordId": "glory",
+      "rank": 4113,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "he valued glory above life itself",
+      "meaningZh": "n. 光荣, 荣耀, 荣誉, 壮丽, 繁荣\nvi. 自豪"
+    },
+    {
+      "wordId": "protective",
+      "rank": 4114,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom took off his protective glasses.",
+      "meaningZh": "a. 给予保护的, 保护的"
+    },
+    {
+      "wordId": "tuck",
+      "rank": 4115,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He tucked the napkin under his chin.",
+      "meaningZh": "n. 缝褶, 活力, 鼓声, 船尾突出部, 食品\nvt. 打褶, 卷起, 挤进, 塞, 收藏\nvi. 缝褶裥, 缩拢"
+    },
+    {
+      "wordId": "drum",
+      "rank": 4116,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "That drum has a very strange sound.",
+      "meaningZh": "n. 鼓, 鼓声\nvi. 击鼓, 作鼓声\nvt. 打鼓奏出"
+    },
+    {
+      "wordId": "dilemma",
+      "rank": 4118,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I face a dilemma.",
+      "meaningZh": "n. 困境, (进退两难的)窘境"
+    },
+    {
+      "wordId": "input",
+      "rank": 4120,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We value your input.",
+      "meaningZh": "n. 输入, 输入电路\nvt. 输入"
+    },
+    {
+      "wordId": "shallow",
+      "rank": 4123,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom dog paddled toward the shallow end of the pool.",
+      "meaningZh": "n. 水浅的地方, 浅滩\na. 浅的, 肤浅的\nv. (使)变浅"
+    },
+    {
+      "wordId": "bloody",
+      "rank": 4127,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom was sitting at the bar drinking a Bloody Mary.",
+      "meaningZh": "a. 血腥的, 嗜杀的, 有血的"
+    },
+    {
+      "wordId": "withdrawal",
+      "rank": 4130,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "the nurse was expert at the withdrawal of blood",
+      "meaningZh": "n. 提款, 撤退, 退回, 撤消, 退隐, 戒毒过程"
+    },
+    {
+      "wordId": "nest",
+      "rank": 4131,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The bird is in its nest.",
+      "meaningZh": "n. 巢, 窝, 休息所, 隐匿处\nvi. 筑巢, 找鸟巢\nvt. 为...设窝, 使套叠"
+    },
+    {
+      "wordId": "lane",
+      "rank": 4136,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Don't change lanes without signaling.",
+      "meaningZh": "n. 小路, 巷, 弄, 单行道"
+    },
+    {
+      "wordId": "ancestor",
+      "rank": 4137,
+      "difficulty": 4,
+      "exampleIndex": 0,
+      "en": "All humans on Earth are descended from a common ancestor.",
+      "meaningZh": "n. 祖先, 祖宗"
+    },
+    {
+      "wordId": "condemn",
+      "rank": 4138,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom was condemned to death.",
+      "meaningZh": "vt. 判刑, 责备, 谴责"
+    },
+    {
+      "wordId": "shrimp",
+      "rank": 4144,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "When was the last time you ate shrimp?",
+      "meaningZh": "n. 虾, 小虾, 矮子\nvi. 捕小虾"
+    },
+    {
+      "wordId": "courtroom",
+      "rank": 4148,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom walked into the courtroom.",
+      "meaningZh": "n. 法庭, 审判室"
+    },
+    {
+      "wordId": "homeland",
+      "rank": 4149,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "They defended their homeland against the invaders.",
+      "meaningZh": "n. 本国, 故国"
+    },
+    {
+      "wordId": "wolf",
+      "rank": 4150,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom turns into a wolf at every full moon.",
+      "meaningZh": "n. 狼, 残忍贪婪之人, 极度穷困\nvt. 狼吞虎咽, 大吃"
+    },
+    {
+      "wordId": "rack",
+      "rank": 4151,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Hang your coat and hat up on the rack over there.",
+      "meaningZh": "n. 架, 行李架, 饲草架, 搁物架, 痛苦, 折磨, 齿条, 行云团\nvt. 把...放在架上, 在架上制作, 折磨, 使痛苦, 压榨, 榨取, 猛烈撕拉, 拷问\nvi. 变形, 倾斜, (云)随风飘, (马)小步跑"
+    },
+    {
+      "wordId": "costume",
+      "rank": 4152,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Have you ever been to a costume party?",
+      "meaningZh": "n. 装束, 服装"
+    },
+    {
+      "wordId": "statute",
+      "rank": 4153,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Such crimes have no statute of limitations.",
+      "meaningZh": "n. 法令, 成文法律, 法规, 章程, 条例"
+    },
+    {
+      "wordId": "grin",
+      "rank": 4154,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom stifled a grin.",
+      "meaningZh": "n. 露齿笑\nv. 露齿而笑"
+    },
+    {
+      "wordId": "cartoon",
+      "rank": 4155,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I like this cartoon.",
+      "meaningZh": "n. 卡通画, 漫画\nv. 画漫画"
+    },
+    {
+      "wordId": "tumor",
+      "rank": 4162,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The tumor proved to be benign.",
+      "meaningZh": "n. 肿大, 肿块, 瘤, 赘生物, 肿瘤"
+    },
+    {
+      "wordId": "hostile",
+      "rank": 4163,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom has a hostile attitude.",
+      "meaningZh": "a. 敌人的, 怀敌意的, 敌对的\nn. 敌对分子"
+    },
+    {
+      "wordId": "combined",
+      "rank": 4168,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "They combined forces to fight the enemy.",
+      "meaningZh": "a. 结合的；组合的"
+    },
+    {
+      "wordId": "conceive",
+      "rank": 4169,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "I can't conceive of Tom doing that.",
+      "meaningZh": "vt. 构思, 认为\nvi. 怀孕"
+    },
+    {
+      "wordId": "bankruptcy",
+      "rank": 4171,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "As a matter of fact, bankruptcy is inevitable.",
+      "meaningZh": "n. 破产者"
+    },
+    {
+      "wordId": "bonus",
+      "rank": 4172,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I was disappointed to see that my bonus was a bit less than I was expecting.",
+      "meaningZh": "n. 奖金, 红利"
+    },
+    {
+      "wordId": "vaccine",
+      "rank": 4173,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We have a vaccine.",
+      "meaningZh": "n. 牛痘苗, 疫苗\na. 疫苗的, 牛痘的"
+    },
+    {
+      "wordId": "tropical",
+      "rank": 4182,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "It seemed that they were interested in tropical fish.",
+      "meaningZh": "a. 热带的, 热情的"
+    },
+    {
+      "wordId": "patrol",
+      "rank": 4183,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The patrol car skidded to a stop.",
+      "meaningZh": "n. 巡逻, 巡逻员, 侦察队\nv. 巡逻, 巡视"
+    },
+    {
+      "wordId": "revelation",
+      "rank": 4184,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The revelation took everyone by surprise.",
+      "meaningZh": "n. 揭露, 泄露, 发觉, 默示, 启示"
+    },
+    {
+      "wordId": "willingness",
+      "rank": 4186,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "he expressed his willingness to help",
+      "meaningZh": "n. 乐意, 心甘情愿, 愿意"
+    },
+    {
+      "wordId": "haul",
+      "rank": 4191,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We're here for the long haul.",
+      "meaningZh": "n. 用力拖拉, 拖运, 强拉, 捕获量, 拖运距离\nvi. 拖, 拉, 改变方向, 改变主意\nvt. 拖拉, 拖运"
+    },
+    {
+      "wordId": "concede",
+      "rank": 4192,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The candidate conceded after enough votes had come in to show that he would lose",
+      "meaningZh": "vt. 承认, 退让\nvi. 让步"
+    },
+    {
+      "wordId": "wagon",
+      "rank": 4194,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "My father is on the wagon.",
+      "meaningZh": "n. 四轮马车, 货车"
+    },
+    {
+      "wordId": "afterward",
+      "rank": 4195,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "They lived happily ever afterward.",
+      "meaningZh": "adv. 然后, 后来"
+    },
+    {
+      "wordId": "spectacular",
+      "rank": 4196,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The view from the mountain top was spectacular.",
+      "meaningZh": "a. 公开展示的, 惊人的, 壮观的\nn. 奇观, 惊人之举, 展览物"
+    },
+    {
+      "wordId": "sheer",
+      "rank": 4198,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "A calamity was avoided by sheer luck.",
+      "meaningZh": "a. 绝对的, 全然的, 纯粹的, 透明的, 峻峭的\nvi. 偏转, 偏航\nvt. 使急转向, 使偏航\nadv. 完全, 全然, 峻峭\nn. 偏航"
+    },
+    {
+      "wordId": "immune",
+      "rank": 4200,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is immune to that disease.",
+      "meaningZh": "a. 免疫的, 免除的, 不受影响的\nn. 免疫者"
+    },
+    {
+      "wordId": "fascinating",
+      "rank": 4204,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It was a fascinating discovery.",
+      "meaningZh": "a. 迷人的, 吸引人的, 使人神魂颠倒的"
+    },
+    {
+      "wordId": "bull",
+      "rank": 4207,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "You must take the bull by the horns.",
+      "meaningZh": "n. 公牛"
+    },
+    {
+      "wordId": "clip",
+      "rank": 4208,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Do they clip the sheep every year?",
+      "meaningZh": "n. 修剪, 夹子, 回形针, 剪下来的东西\nvt. 修剪, 痛打, 夹牢, 剪报\nvi. 剪报"
+    },
+    {
+      "wordId": "discourage",
+      "rank": 4211,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She did not let failure discourage her.",
+      "meaningZh": "vt. 使气馁, 阻碍"
+    },
+    {
+      "wordId": "coordinator",
+      "rank": 4215,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I'd like to talk to the coordinator of this project.",
+      "meaningZh": "n. 协调者, 同等的人或物"
+    },
+    {
+      "wordId": "intimate",
+      "rank": 4217,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "pretending she is on an intimate footing with those she slanders",
+      "meaningZh": "a. 亲密的, 私人的, 秘密的\nvt. 暗示, 通知, 告诉\nn. 至交"
+    },
+    {
+      "wordId": "empire",
+      "rank": 4218,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He was the ruler of the Inca Empire.",
+      "meaningZh": "n. 帝国, 帝权"
+    },
+    {
+      "wordId": "documentary",
+      "rank": 4222,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom and Mary watched a documentary about penguins.",
+      "meaningZh": "n. 记录片\na. 文件的"
+    },
+    {
+      "wordId": "neutral",
+      "rank": 4223,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom tried to stay neutral.",
+      "meaningZh": "n. 中立者, 中立国, 非彩色, 空档\na. 中立的, 中性的, 无色的"
+    },
+    {
+      "wordId": "flexible",
+      "rank": 4227,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "I was more flexible when I was younger.",
+      "meaningZh": "a. 易曲的, 灵活的, 柔顺的, 能变形的, 可通融的"
+    },
+    {
+      "wordId": "conspiracy",
+      "rank": 4229,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It isn't a conspiracy.",
+      "meaningZh": "n. 同谋, 阴谋, 阴谋集团"
+    },
+    {
+      "wordId": "casualty",
+      "rank": 4230,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The number of casualties is still unknown.",
+      "meaningZh": "n. 意外事故, 伤亡, 受害者"
+    },
+    {
+      "wordId": "functional",
+      "rank": 4233,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "a style of writing in which every word is functional",
+      "meaningZh": "a. 功能的"
+    },
+    {
+      "wordId": "execution",
+      "rank": 4234,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The idea was excellent, but the execution was terrible.",
+      "meaningZh": "n. 实行, 完成, 执行, 死刑"
+    },
+    {
+      "wordId": "terrific",
+      "rank": 4237,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "I think this is a terrific idea.",
+      "meaningZh": "a. 非常好的, 极端的, 可怕的"
+    },
+    {
+      "wordId": "teammate",
+      "rank": 4238,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "This is my teammate, Tom.",
+      "meaningZh": "n. 队友"
+    },
+    {
+      "wordId": "instinct",
+      "rank": 4239,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I acted on instinct.",
+      "meaningZh": "n. 本能, 直觉\na. 充满着的"
+    },
+    {
+      "wordId": "aluminum",
+      "rank": 4241,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Lead is much heavier than aluminum.",
+      "meaningZh": "n. 铝"
+    },
+    {
+      "wordId": "ministry",
+      "rank": 4242,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "he is studying for the ministry",
+      "meaningZh": "n. 部, 内阁, 服务"
+    },
+    {
+      "wordId": "instruct",
+      "rank": 4243,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The children have been instructed to take their places.",
+      "meaningZh": "vt. 教, 教育, 命令, 通知"
+    },
+    {
+      "wordId": "skull",
+      "rank": 4244,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The human skull consists of 23 bones.",
+      "meaningZh": "n. 头盖骨, 头脑, 好学生"
+    },
+    {
+      "wordId": "verdict",
+      "rank": 4245,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The jury has returned a verdict of guilty.",
+      "meaningZh": "n. 裁决, 判决, 判断性意见, 定论, 结论"
+    },
+    {
+      "wordId": "manipulate",
+      "rank": 4248,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom is trying to manipulate you.",
+      "meaningZh": "vt. 操纵, 利用, 操作, 巧妙地处理, 假造"
+    },
+    {
+      "wordId": "cooperative",
+      "rank": 4249,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom is likely going to be cooperative.",
+      "meaningZh": "a. 合作的；合作社的"
+    },
+    {
+      "wordId": "loop",
+      "rank": 4250,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Keep me in the loop.",
+      "meaningZh": "n. 环, 圈, 弯曲部分, 循环\nvt. 使成环, 以圈结, 以环连结\nvi. 打环, 翻筋斗"
+    },
+    {
+      "wordId": "edit",
+      "rank": 4253,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "How often do you edit your profile?",
+      "meaningZh": "vt. 编辑, 编校, 修订, 剪辑"
+    },
+    {
+      "wordId": "whip",
+      "rank": 4254,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Whip the egg whites until they are stiff.",
+      "meaningZh": "n. 鞭子, 抽打, 车夫, 搅拌器\nvt. 鞭打, 搅拌, 煽动, 召集, 仓促制成\nvi. 拍击, 急走, 抽打"
+    },
+    {
+      "wordId": "mushroom",
+      "rank": 4256,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Is it safe to eat this mushroom?",
+      "meaningZh": "n. 蘑菇形物, 蘑菇, 暴发户\nvi. 迅速生长, 迅速增加, 采蘑菇\na. 蘑菇形的, 迅速生长的"
+    },
+    {
+      "wordId": "tragic",
+      "rank": 4259,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Romeo and Juliet is a tragic story of forbidden love.",
+      "meaningZh": "a. 悲惨的, 悲剧的"
+    },
+    {
+      "wordId": "mechanic",
+      "rank": 4260,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Take it to a mechanic, and get it fixed.",
+      "meaningZh": "n. 机械工, 技工\na. 手工的"
+    },
+    {
+      "wordId": "utilize",
+      "rank": 4264,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The company, although with some exceptions, usually utilizes its resources very well.",
+      "meaningZh": "vt. 利用"
+    },
+    {
+      "wordId": "incredibly",
+      "rank": 4271,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I think I was just incredibly lucky.",
+      "meaningZh": "adv. 不能相信地"
+    },
+    {
+      "wordId": "fisherman",
+      "rank": 4272,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is a hunter and fisherman.",
+      "meaningZh": "n. 渔夫, 钓鱼者, 渔船"
+    },
+    {
+      "wordId": "isolation",
+      "rank": 4276,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "he opposed a policy of American isolation",
+      "meaningZh": "n. 隔绝, 孤立, 隔离"
+    },
+    {
+      "wordId": "sexy",
+      "rank": 4278,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Would you rather be fat and ugly or thin and sexy?",
+      "meaningZh": "a. 有性感的, 色情的"
+    },
+    {
+      "wordId": "entrepreneur",
+      "rank": 4279,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I am an entrepreneur.",
+      "meaningZh": "n. 企业家, 主办人"
+    },
+    {
+      "wordId": "syndrome",
+      "rank": 4281,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I suffer from restless leg syndrome.",
+      "meaningZh": "n. 并发症状, 综合征, 同时存在的事物"
+    },
+    {
+      "wordId": "breeze",
+      "rank": 4284,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The flag fluttered in the breeze.",
+      "meaningZh": "n. 微风, 煤屑, 轻而易举的事\nvi. 吹微风, 逃走"
+    },
+    {
+      "wordId": "ambitious",
+      "rank": 4287,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom and I are both ambitious.",
+      "meaningZh": "a. 有野心的, 抱负不凡的, 雄心勃勃的"
+    },
+    {
+      "wordId": "dissolve",
+      "rank": 4295,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "You have to dissolve it in water.",
+      "meaningZh": "v. 溶解, 解散"
+    },
+    {
+      "wordId": "insert",
+      "rank": 4301,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Please insert your card.",
+      "meaningZh": "n. 插入物\nvt. 插入, 把(人造卫星)射入(轨道), 添写\nvi. 附着"
+    },
+    {
+      "wordId": "royal",
+      "rank": 4306,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We gave him a royal send-off at the airport.",
+      "meaningZh": "n. 王室, 皇族\na. 王室的, 皇家的, 盛大的, 庄严的"
+    },
+    {
+      "wordId": "panic",
+      "rank": 4310,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "What should I do if Tom has another panic attack?",
+      "meaningZh": "n. 恐慌, 惊慌\na. 惊慌的, 没有理由的, 恐慌的\nvt. 使惊慌, 使狂热\nvi. 惊慌"
+    },
+    {
+      "wordId": "minimal",
+      "rank": 4313,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The risk is minimal.",
+      "meaningZh": "a. 最小的, 极微的, 最小限度的"
+    },
+    {
+      "wordId": "cocaine",
+      "rank": 4315,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is addicted to cocaine.",
+      "meaningZh": "n. 可卡因, 古柯碱"
+    },
+    {
+      "wordId": "fortunately",
+      "rank": 4316,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Fortunately, today Tom is much better than he was yesterday.",
+      "meaningZh": "adv. 幸运地, 幸亏"
+    },
+    {
+      "wordId": "illusion",
+      "rank": 4317,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "A mirage is said to be an illusion.",
+      "meaningZh": "n. 幻影, 错觉, 幻想"
+    },
+    {
+      "wordId": "anonymous",
+      "rank": 4318,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom said he wanted to remain anonymous.",
+      "meaningZh": "a. 姓氏不详的, 无名的, 无特色的"
+    },
+    {
+      "wordId": "appreciation",
+      "rank": 4322,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "A smile may convey understanding, joy, or an appreciation of humor.",
+      "meaningZh": "n. 感激, 赏识, 鉴别"
+    },
+    {
+      "wordId": "flexibility",
+      "rank": 4323,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "he enjoyed the flexibility of his working arrangement",
+      "meaningZh": "n. 弹性, 适应性"
+    },
+    {
+      "wordId": "casino",
+      "rank": 4325,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I went to the casino.",
+      "meaningZh": "n. 卡西诺赌场, 卡西诺牌戏"
+    },
+    {
+      "wordId": "scramble",
+      "rank": 4326,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I'm making scrambled eggs.",
+      "meaningZh": "n. 攀缘, 爬行, 抢夺, 混乱, 紧急起飞\nvi. 攀缘, 杂乱蔓延, 争夺, 拼凑, 匆忙\nvt. 攀登, 扰乱, 使混杂"
+    },
+    {
+      "wordId": "momentum",
+      "rank": 4335,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "the car's momentum carried it off the road",
+      "meaningZh": "n. 动力, 动量"
+    },
+    {
+      "wordId": "donation",
+      "rank": 4336,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom made a big donation to the hospital.",
+      "meaningZh": "n. 捐赠物, 捐款, 捐赠"
+    },
+    {
+      "wordId": "irony",
+      "rank": 4338,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "irony is wasted on the stupid",
+      "meaningZh": "n. 反语, 讽刺, 具有讽刺意味的事"
+    },
+    {
+      "wordId": "interact",
+      "rank": 4341,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I no longer have to interact with people I have little to nothing in common with.",
+      "meaningZh": "vi. 互相影响, 交互作用\nn. 幕间剧, 幕间休息"
+    },
+    {
+      "wordId": "rival",
+      "rank": 4346,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is my rival.",
+      "meaningZh": "n. 对手, 竞争者\na. 竞争的"
+    },
+    {
+      "wordId": "pin",
+      "rank": 4347,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Are you trying to pin the blame on me?",
+      "meaningZh": "n. 大头针, 针, 别针, 栓, 销子, 图钉, 插头, 管脚, 品(液量单位)\nvt. 将...用针别住, 钉住, 压住, 牵制, 使不能动, 归罪于\na. 针的, 销子的, 闩的"
+    },
+    {
+      "wordId": "punch",
+      "rank": 4348,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I want to punch you in your face.",
+      "meaningZh": "n. 打洞器, 钻孔机, 冲压机, 冲床, 潘趣酒\nvt. 以拳重击, 开洞, 冲压\nvi. 用拳猛击"
+    },
+    {
+      "wordId": "hockey",
+      "rank": 4349,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom told me you were a good hockey player.",
+      "meaningZh": "n. 冰球, 曲棍球"
+    },
+    {
+      "wordId": "persist",
+      "rank": 4351,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "If symptoms persist, consult a doctor.",
+      "meaningZh": "vi. 坚持, 固执, 持续, 坚称"
+    },
+    {
+      "wordId": "icon",
+      "rank": 4354,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "To adopt a sentence, click on the white person icon.",
+      "meaningZh": "n. 画像, 肖像, 偶像, 图标, 像标"
+    },
+    {
+      "wordId": "foster",
+      "rank": 4359,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I grew up in a foster home.",
+      "meaningZh": "a. 收养的, 养育的\nvt. 养育, 抚育, 培养, 鼓励, 抱(希望)"
+    },
+    {
+      "wordId": "correctly",
+      "rank": 4364,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I was able to answer the question correctly.",
+      "meaningZh": "adv. 对, 正确, 恰当, 符合一般性准则, 符合行为准则, 端正, 符合"
+    },
+    {
+      "wordId": "filter",
+      "rank": 4370,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Did you change the filter?",
+      "meaningZh": "n. 滤波器, 过滤器, 滤光器, 过滤嘴, 去尘器\nvt. 过滤, 渗透, 走漏\nvi. 滤过, 渗入"
+    },
+    {
+      "wordId": "heal",
+      "rank": 4371,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "In older people, wounds take a long time to heal.",
+      "meaningZh": "vi. 痊愈\nvt. 使复原, 使和解, 治愈"
+    },
+    {
+      "wordId": "exploit",
+      "rank": 4374,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "we must exploit the resources we are given wisely",
+      "meaningZh": "n. 功绩, 勋绩\nvt. 开发, 利用, 开拓, 剥削"
+    },
+    {
+      "wordId": "organism",
+      "rank": 4375,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "These creatures evolved from simpler organisms like jellyfish.",
+      "meaningZh": "n. 生物, 有机体, 社会组织"
+    },
+    {
+      "wordId": "accessible",
+      "rank": 4377,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The stadium is accessible by bus.",
+      "meaningZh": "a. 易接近的, 可进入的, 可使用的, 易受影响的, 可理解的"
+    },
+    {
+      "wordId": "sensation",
+      "rank": 4378,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "This discovery became a sensation.",
+      "meaningZh": "n. 感觉, 轰动"
+    },
+    {
+      "wordId": "partially",
+      "rank": 4379,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "This is only partially true.",
+      "meaningZh": "adv. 部分地, 一部分地, 不公平地"
+    },
+    {
+      "wordId": "shove",
+      "rank": 4384,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom gave Mary a little shove.",
+      "meaningZh": "n. 推, 挤\nvt. 推挤, 猛推, 强使\nvi. 推"
+    },
+    {
+      "wordId": "backyard",
+      "rank": 4387,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom cut down all the trees in his backyard.",
+      "meaningZh": "n. 后院, 后庭"
+    },
+    {
+      "wordId": "alike",
+      "rank": 4389,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Men are all alike. Mother used to say so.",
+      "meaningZh": "a. 相似的, 同样的\nadv. 一样, 以同样的方式"
+    },
+    {
+      "wordId": "grandchild",
+      "rank": 4393,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is going to have another grandchild.",
+      "meaningZh": "n. 孙, 外孙女, 外孙, 孙女, 孙子"
+    },
+    {
+      "wordId": "dough",
+      "rank": 4395,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Roll the dough out thin.",
+      "meaningZh": "n. 生面团"
+    },
+    {
+      "wordId": "ecological",
+      "rank": 4396,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "It's an ecological disaster.",
+      "meaningZh": "a. 生态学的, 主张生态保护的"
+    },
+    {
+      "wordId": "surrounding",
+      "rank": 4398,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Most castles have a moat surrounding them.",
+      "meaningZh": "n. 环境\na. 周围的"
+    },
+    {
+      "wordId": "dam",
+      "rank": 4399,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The river rose above the level of the dam.",
+      "meaningZh": "n. 水坝, 障碍\nv. 控制, 筑坝"
+    },
+    {
+      "wordId": "outfit",
+      "rank": 4400,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "What do you think about this outfit?",
+      "meaningZh": "n. 用具, 配备, 机构\nvt. 配备, 供应\nvi. 得到装备"
+    },
+    {
+      "wordId": "unprecedented",
+      "rank": 4401,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "It's an unprecedented case.",
+      "meaningZh": "a. 空前的"
+    },
+    {
+      "wordId": "preliminary",
+      "rank": 4404,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "A preliminary hearing is scheduled for October 20th.",
+      "meaningZh": "n. 初步做法, 初步措施, 预试, 预选赛\na. 初步的, 开始的, 预备的"
+    },
+    {
+      "wordId": "patent",
+      "rank": 4405,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I've applied for a patent on my invention.",
+      "meaningZh": "n. 专利权, 许可证, 执照, 专利品, 素质\na. 专利的, 特许的, 显著的, 新奇的\nvt. 取得...的专利权, 请准专利"
+    },
+    {
+      "wordId": "gross",
+      "rank": 4409,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It's a gross distortion of the truth.",
+      "meaningZh": "n. 总数, 总量\na. 总共的, 未打折扣的, 恶劣的, 粗野的\nvt. 总共收入"
+    },
+    {
+      "wordId": "disabled",
+      "rank": 4412,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "That poor lady is disabled.",
+      "meaningZh": "a. 残废的, 有缺陷的, 失效的"
+    },
+    {
+      "wordId": "texture",
+      "rank": 4413,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "then another melodic line is added to the texture",
+      "meaningZh": "n. (织物的)密度, (材料等的)结构, 纹理"
+    },
+    {
+      "wordId": "damn",
+      "rank": 4414,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "he's a damn (or goddam or goddamned) fool",
+      "meaningZh": "n. 一点, 诅咒, 丝毫\ninterj. 该死, 该死的\nvt. 诅咒, 罚...下地狱\nvi. 指责, 谴责, 骂...该死, 证明...有罪"
+    },
+    {
+      "wordId": "spray",
+      "rank": 4417,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The police used pepper spray and batons.",
+      "meaningZh": "n. 水沫, 浪花, 水花, 喷雾, 喷雾器, 小树枝\nvt. 喷雾, 扫射, 喷射\nvi. 喷, 溅开"
+    },
+    {
+      "wordId": "disclose",
+      "rank": 4420,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I can't disclose that information yet.",
+      "meaningZh": "vt. 揭露, 透露"
+    },
+    {
+      "wordId": "banker",
+      "rank": 4421,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "My father is a banker.",
+      "meaningZh": "n. 银行家, 庄家"
+    },
+    {
+      "wordId": "caller",
+      "rank": 4421,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The caller refused to give us his name.",
+      "meaningZh": "n. 访客, 召集员, 传唤员\na. 新鲜的"
+    },
+    {
+      "wordId": "uncover",
+      "rank": 4432,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The police have uncovered new evidence related to the case.",
+      "meaningZh": "vt. 揭露, 揭开, 暴露, 脱帽致敬\nvi. 脱帽致敬, 揭去盖子"
+    },
+    {
+      "wordId": "attendance",
+      "rank": 4433,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "attendance was up by 50 per cent",
+      "meaningZh": "n. 出席, 出席的人数, 照料"
+    },
+    {
+      "wordId": "behalf",
+      "rank": 4434,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He spoke to me on behalf of the company.",
+      "meaningZh": "n. 利益, 方面"
+    },
+    {
+      "wordId": "installation",
+      "rank": 4436,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The installation is now complete.",
+      "meaningZh": "n. 安装, 装置, 就职"
+    },
+    {
+      "wordId": "shark",
+      "rank": 4438,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "My older brother borrowed money from a loan shark.",
+      "meaningZh": "n. 鲨鱼, 骗子\nv. 诈骗"
+    },
+    {
+      "wordId": "mill",
+      "rank": 4439,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "A water wheel powers the mill.",
+      "meaningZh": "n. 压榨机, 磨坊, 制造厂\nvt. 碾磨, 磨细, 搅拌, 使乱转\nvi. 乱转, 被碾磨"
+    },
+    {
+      "wordId": "catalog",
+      "rank": 4443,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Send me a new catalog.",
+      "meaningZh": "n. 目录, 大学概况手册\nvt. 编目录"
+    },
+    {
+      "wordId": "outsider",
+      "rank": 4445,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I felt like an outsider there.",
+      "meaningZh": "n. 外人, 局外人, 非会员, 外行, 门外汉, 比赛中获胜可能性不大的选手"
+    },
+    {
+      "wordId": "fleet",
+      "rank": 4446,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The customers gave him fleeting glances, then returned to their conversations.",
+      "meaningZh": "n. 舰队, 港湾, 小河\na. 快速的, 敏捷的, 浅的, 短暂的\nadv. 浅\nvi. 疾驰, 飞逝, 掠过\nvt. 消磨, 变换船(或船员)的位置"
+    },
+    {
+      "wordId": "stance",
+      "rank": 4447,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Western countries are jumping on Japan for its stance on the issue.",
+      "meaningZh": "n. 准备击球姿势, 站立的姿势, 位置, 姿态"
+    },
+    {
+      "wordId": "vertical",
+      "rank": 4448,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The cliff is almost vertical.",
+      "meaningZh": "a. 垂直的, 直立的"
+    },
+    {
+      "wordId": "desperately",
+      "rank": 4450,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom wants desperately to believe that what Mary said is true.",
+      "meaningZh": "adv. 拼命地；绝望地；极度地"
+    },
+    {
+      "wordId": "instant",
+      "rank": 4453,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He turned pale the instant he saw her.",
+      "meaningZh": "n. 立即, 瞬间\na. 紧急的, 立即的, 即时的"
+    },
+    {
+      "wordId": "proclaim",
+      "rank": 4454,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He was proclaimed King",
+      "meaningZh": "vt. 宣布, 公告, 宣言, 表明, 赞扬"
+    },
+    {
+      "wordId": "debut",
+      "rank": 4455,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The actress made her debut when she was eight.",
+      "meaningZh": "n. 初次登台, 开张\nv. 初次登台"
+    },
+    {
+      "wordId": "worldwide",
+      "rank": 4457,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The architect achieved worldwide fame.",
+      "meaningZh": "a. 全世界的"
+    },
+    {
+      "wordId": "scent",
+      "rank": 4460,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The hunting dogs followed the scent of the fox.",
+      "meaningZh": "n. 气味, 香味, 香水, 踪迹, 痕迹, 线索, 嗅觉\nvt. 闻出, 嗅, 发觉, 使充满气味\nvi. 嗅猎, 发出气味"
+    },
+    {
+      "wordId": "colorful",
+      "rank": 4462,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Why are butterflies so colorful?",
+      "meaningZh": "a. 华美的, 富有色彩的, 有趣的"
+    },
+    {
+      "wordId": "thanksgiving",
+      "rank": 4464,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Why do Americans eat turkey on Thanksgiving?",
+      "meaningZh": "n. 感谢"
+    },
+    {
+      "wordId": "eyebrow",
+      "rank": 4465,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Why does the Mona Lisa have no eyebrows?",
+      "meaningZh": "n. 眉毛"
+    },
+    {
+      "wordId": "stack",
+      "rank": 4466,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "There was a stack of dirty dishes in the sink.",
+      "meaningZh": "n. 堆叠, 堆, 大量, 书库, 枪架, 烟囱, 堆积, 存贮栈\nvt. 堆积, 堆满, 暗中对...做手脚\nvi. 堆起"
+    },
+    {
+      "wordId": "tray",
+      "rank": 4469,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Where should I put the tray?",
+      "meaningZh": "n. 托盘, 公文盘, 满盘, 发射箱"
+    },
+    {
+      "wordId": "inherit",
+      "rank": 4471,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom hopes to inherit a lot of money when his mother dies.",
+      "meaningZh": "vt. 继承, 遗传\nvi. 接受遗产"
+    },
+    {
+      "wordId": "pioneer",
+      "rank": 4472,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He was a pioneer in this field.",
+      "meaningZh": "n. 先锋, 拓荒者, 创始人\nvt. 提倡, 开辟, 开创, 倡导\nvi. 作先驱, 开路\na. 最早的, 开拓的, 先驱的, 有开拓者特点的"
+    },
+    {
+      "wordId": "shrink",
+      "rank": 4474,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "If you wish to get on in the world, you must not shrink from effort.",
+      "meaningZh": "n. 收缩, 萎缩, 回避\nvi. 收缩, 退缩, 萎缩, 缩小, 回避\nvt. 使收缩, 使缩小"
+    },
+    {
+      "wordId": "illustration",
+      "rank": 4475,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The book has some interesting illustrations.",
+      "meaningZh": "n. 例证, 插图"
+    },
+    {
+      "wordId": "nasty",
+      "rank": 4476,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I got a nasty sting from a wasp.",
+      "meaningZh": "a. 污秽的, 下流的, 险恶的"
+    },
+    {
+      "wordId": "dot",
+      "rank": 4480,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "You see that black dot? That's an airplane.",
+      "meaningZh": "n. 点, 圆点, 小数点, 小东西, 嫁妆\nvt. 作小点记号, 加小点于\nvi. 打上点"
+    },
+    {
+      "wordId": "rational",
+      "rank": 4481,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Although the arguments were rational, he was not convinced.",
+      "meaningZh": "a. 理性的, 合理的\nn. 有理数"
+    },
+    {
+      "wordId": "fierce",
+      "rank": 4482,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom gave me a fierce look.",
+      "meaningZh": "a. 凶猛的, 猛烈的, 热烈的, 暴躁的"
+    },
+    {
+      "wordId": "aisle",
+      "rank": 4484,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Could I sit on the aisle?",
+      "meaningZh": "n. 走廊, 侧廊, 过道"
+    },
+    {
+      "wordId": "weaken",
+      "rank": 4486,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "European currencies weakened against the dollar.",
+      "meaningZh": "vt. 削弱, 减弱, 使虚弱\nvi. 变弱, 变软弱"
+    },
+    {
+      "wordId": "terrain",
+      "rank": 4492,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "they decided to attack across the rocky terrain",
+      "meaningZh": "n. 地带, 地区, 地形, 领域, 范围"
+    },
+    {
+      "wordId": "genre",
+      "rank": 4496,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Historical novels are a popular literary genre.",
+      "meaningZh": "n. 类型, 流派"
+    },
+    {
+      "wordId": "pasta",
+      "rank": 4497,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Can you keep an eye on the pasta?",
+      "meaningZh": "n. 意大利面食"
+    },
+    {
+      "wordId": "distract",
+      "rank": 4498,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom tried to distract the police so Mary could escape.",
+      "meaningZh": "vt. 转移, 分心, 使发狂"
+    },
+    {
+      "wordId": "chunk",
+      "rank": 4502,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "we won a chunk of money",
+      "meaningZh": "n. 大块, 矮胖的人(或物)"
+    },
+    {
+      "wordId": "invade",
+      "rank": 4510,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Some people think that Earth will be invaded by aliens.",
+      "meaningZh": "vt. 侵入, 拥入, 侵略, 侵袭"
+    },
+    {
+      "wordId": "hurricane",
+      "rank": 4512,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "In spite of the hurricane, the ship reached port.",
+      "meaningZh": "n. 飓风, 暴风, 暴风雨"
+    },
+    {
+      "wordId": "density",
+      "rank": 4513,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The density of water depends on the temperature.",
+      "meaningZh": "n. 密度"
+    },
+    {
+      "wordId": "coup",
+      "rank": 4514,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "A coup is underway.",
+      "meaningZh": "n. 砰然的一击, 妙计, 出乎意料的行动, 政变"
+    },
+    {
+      "wordId": "classify",
+      "rank": 4515,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "We can't reveal classified information.",
+      "meaningZh": "vt. 分类, 归类, 分等"
+    },
+    {
+      "wordId": "curiosity",
+      "rank": 4518,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Just out of curiosity, what did you think would happen?",
+      "meaningZh": "n. 好奇心, 新奇的事物, 珍品"
+    },
+    {
+      "wordId": "aggression",
+      "rank": 4521,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Fear causes aggression in dogs.",
+      "meaningZh": "n. 侵犯, 侵略"
+    },
+    {
+      "wordId": "supportive",
+      "rank": 4522,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "I was trying to be supportive.",
+      "meaningZh": "a. 支撑, 支承, 资助, 赞助, 支援, 经受, 忍受, 扶养, 证实, 鼓励, 维持, 伴奏"
+    },
+    {
+      "wordId": "informal",
+      "rank": 4529,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The school uniform is convenient because it can be worn for both informal and formal occasions.",
+      "meaningZh": "a. 非正式的, 不拘礼的, 通俗的"
+    },
+    {
+      "wordId": "sphere",
+      "rank": 4533,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Strictly speaking, the Earth is not a sphere.",
+      "meaningZh": "n. 球, 球面, 球体, 天体, 地球仪, 范围\nvt. 包围, 使成球体, 放入球内"
+    },
+    {
+      "wordId": "boast",
+      "rank": 4534,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Don't boast too much about that.",
+      "meaningZh": "n. 吹牛\nvi. 吹牛, 自夸\nvt. 夸口说, 自恃有"
+    },
+    {
+      "wordId": "publicity",
+      "rank": 4540,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "We don't want any bad publicity.",
+      "meaningZh": "n. 名声, 宣传, 公开场合"
+    },
+    {
+      "wordId": "unfold",
+      "rank": 4541,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Let's unfold the map on the table and discuss it.",
+      "meaningZh": "vt. 展开, 打开, 披露, 开展, 挑明\nvi. 伸展, 开花, 呈现"
+    },
+    {
+      "wordId": "collar",
+      "rank": 4548,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom put a flea collar on his dog.",
+      "meaningZh": "n. 衣领, 颈圈\nvt. 控制, 扭住衣领, 给...装上领子"
+    },
+    {
+      "wordId": "supposedly",
+      "rank": 4551,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "They supposedly have reached a deal.",
+      "meaningZh": "adv. 想象上, 看上去像, 被认为是, 恐怕, 按照推测"
+    },
+    {
+      "wordId": "streak",
+      "rank": 4552,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is on a winning streak.",
+      "meaningZh": "n. 条理, 斑纹, 倾向\nvt. 加条纹\nvi. 变成条纹, 飞跑"
+    },
+    {
+      "wordId": "glimpse",
+      "rank": 4555,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I caught a glimpse of him from the bus.",
+      "meaningZh": "n. 一瞥, 一闪\nvi. 投以一瞥, 闪烁不定\nvt. 瞥见"
+    },
+    {
+      "wordId": "premise",
+      "rank": 4556,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I have a warrant to search the premises.",
+      "meaningZh": "n. 前提, 房屋连地基, 上述各项\nvt. 预先提出, 引出, 作为...的前提\nvi. 作出前提"
+    },
+    {
+      "wordId": "sneak",
+      "rank": 4557,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "There was a special sneak preview last night.",
+      "meaningZh": "vi. 鬼鬼祟祟做事\nvt. 偷偷地做\nn. 鬼鬼祟祟的人, 偷偷摸摸的行为, 帆布胶底运动鞋\na. 暗中进行的"
+    },
+    {
+      "wordId": "listener",
+      "rank": 4560,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is a good listener.",
+      "meaningZh": "n. 收听者, 听众"
+    },
+    {
+      "wordId": "mentor",
+      "rank": 4561,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom is my mentor.",
+      "meaningZh": "n. 指导者, 良师益友"
+    },
+    {
+      "wordId": "excessive",
+      "rank": 4564,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom complained about the excessive noise.",
+      "meaningZh": "a. 过度的, 过多的, 极端的"
+    },
+    {
+      "wordId": "rib",
+      "rank": 4568,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I think I have a broken rib.",
+      "meaningZh": "n. 肋骨, 肋状物, 笑话\nvt. 装肋状物于, 戏弄"
+    },
+    {
+      "wordId": "rod",
+      "rank": 4575,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The parts are connected by an iron rod.",
+      "meaningZh": "n. 竿, 笞鞭, 小枝"
+    },
+    {
+      "wordId": "blank",
+      "rank": 4578,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Give me a blank sheet of paper.",
+      "meaningZh": "n. 空格, 空白\na. 空白的, 空虚的, 完全的, 无色的\nvi. 消失, 成为空白\nvt. 使无效, 取消, 封锁"
+    },
+    {
+      "wordId": "commodity",
+      "rank": 4581,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Commodity prices are falling.",
+      "meaningZh": "n. 农产品, 商品, 有用的物品"
+    },
+    {
+      "wordId": "halfway",
+      "rank": 4587,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom should be halfway home by now.",
+      "meaningZh": "a. 中途的, 不彻底的, 部分的\nadv. 半路地, 在中途, 在半途"
+    },
+    {
+      "wordId": "cemetery",
+      "rank": 4589,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I buried my dog at the pet cemetery.",
+      "meaningZh": "n. 墓地, 公墓"
+    },
+    {
+      "wordId": "equality",
+      "rank": 4590,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "He was in favor of equality for all.",
+      "meaningZh": "n. 平等, 均匀, 相等"
+    },
+    {
+      "wordId": "deliberately",
+      "rank": 4592,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom deliberately kept Mary waiting for three hours.",
+      "meaningZh": "adv. 故意地"
+    },
+    {
+      "wordId": "striking",
+      "rank": 4594,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "What were the workers striking for?",
+      "meaningZh": "a. 醒目的, 惊人的, 打击的, 罢工的"
+    },
+    {
+      "wordId": "wheelchair",
+      "rank": 4598,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The frail old man stubbornly refused to make use of a wheelchair.",
+      "meaningZh": "n. 轮椅"
+    },
+    {
+      "wordId": "toll",
+      "rank": 4599,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "How often do you use toll roads?",
+      "meaningZh": "n. 通行费, 代价, 钟声\nvt. 征收, 敲钟, 鸣钟, 勾引, 引诱\nvi. 征税, 鸣钟"
+    },
+    {
+      "wordId": "rim",
+      "rank": 4602,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom wears horn-rimmed glasses.",
+      "meaningZh": "n. 边, 轮缘, 框\nvt. 镶边, 为...装边\nvi. 形成边缘"
+    },
+    {
+      "wordId": "cling",
+      "rank": 4605,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Wet clothes cling to the body.",
+      "meaningZh": "vi. 粘紧, 附着, 紧贴, 坚持"
+    },
+    {
+      "wordId": "squad",
+      "rank": 4606,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He was sentenced to death by firing squad.",
+      "meaningZh": "n. 班, 小队, 小集团\nvt. 编成班"
+    },
+    {
+      "wordId": "plunge",
+      "rank": 4610,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom plunged the hot metal into cold water.",
+      "meaningZh": "n. 钻进, 跳进, 跳水, 跳水池, 猛跌, 落下, 投入, 开始从事, 盲目投资\nvi. 投入, 投身于, 跳进, 陷入, 下降\nvt. 使投入, 使插入, 使陷入, 使遭受"
+    },
+    {
+      "wordId": "refuge",
+      "rank": 4616,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "We took refuge behind a big tree.",
+      "meaningZh": "n. 避难所, 安全地带, 避难, 庇护\nvi. 躲避\nvt. 给予...庇护"
+    },
+    {
+      "wordId": "chill",
+      "rank": 4618,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He caught a chill because he went out in the rain.",
+      "meaningZh": "n. 寒冷, 寒意, 失意\na. 寒冷的, 冷漠的\nvt. 使寒心, 冷冻\nvi. 变冷"
+    },
+    {
+      "wordId": "rally",
+      "rank": 4619,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Non-smokers are rallying behind the new anti-smoking law.",
+      "meaningZh": "n. 重振旗鼓, 集合, 群众集会, 跌停回升\nv. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑"
+    },
+    {
+      "wordId": "programming",
+      "rank": 4622,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "What programming languages do you know?",
+      "meaningZh": "n. 节目的计划, 编制程序"
+    },
+    {
+      "wordId": "steer",
+      "rank": 4623,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Of course you can trust me. Have I ever given you a bum steer before?",
+      "meaningZh": "vt. 引导, 驾驶, 航行, 控制\nvi. 驾驶, 掌舵, 行驶\nn. 驾驶指示, 劝告"
+    },
+    {
+      "wordId": "outlet",
+      "rank": 4624,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "There aren't enough outlets in this apartment.",
+      "meaningZh": "n. 出口, 发泄方法, 市场"
+    },
+    {
+      "wordId": "thrive",
+      "rank": 4628,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The new student is thriving",
+      "meaningZh": "vi. 繁荣, 兴旺, 茁壮成长"
+    },
+    {
+      "wordId": "auction",
+      "rank": 4632,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom bought this horse at an auction.",
+      "meaningZh": "n. 拍卖\nvt. 拍卖"
+    },
+    {
+      "wordId": "comply",
+      "rank": 4637,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I can't comply with your request.",
+      "meaningZh": "vi. 顺从, 依从"
+    },
+    {
+      "wordId": "triumph",
+      "rank": 4638,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "In the end, good will triumph over evil.",
+      "meaningZh": "n. 凯旋, 胜利, 欢欣\nvi. 得胜, 成功"
+    },
+    {
+      "wordId": "conscience",
+      "rank": 4641,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom seems to be suffering from a guilty conscience.",
+      "meaningZh": "n. 良心"
+    },
+    {
+      "wordId": "scratch",
+      "rank": 4644,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "My cat purrs when I scratch behind his ears.",
+      "meaningZh": "n. 抓痕, 搔, 抓, 擦伤, 刮擦声, 乱写, 零分, 起跑线\nvt. 搔, 抓, 挖出, 擦, 刮, 乱涂, 勾抹掉\nvi. 搔, 抓, 发刮擦声, 勉强糊口\na. 碰巧的, 凑合的, 打草稿用的"
+    },
+    {
+      "wordId": "considerably",
+      "rank": 4645,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Illegal logging has decreased considerably.",
+      "meaningZh": "adv. 非常地, 很, 颇"
+    },
+    {
+      "wordId": "commerce",
+      "rank": 4647,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Advertising is the driving force behind commerce.",
+      "meaningZh": "n. 商业, 商务, 贸易"
+    },
+    {
+      "wordId": "feminist",
+      "rank": 4648,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Did you know that some of the most ardent feminists are men?",
+      "meaningZh": "n. 男女平等主义者"
+    },
+    {
+      "wordId": "similarity",
+      "rank": 4655,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The similarities end there.",
+      "meaningZh": "n. 类似, 类似处"
+    },
+    {
+      "wordId": "allegedly",
+      "rank": 4656,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "She allegedly killed him.",
+      "meaningZh": "adv. 依其申述"
+    },
+    {
+      "wordId": "butt",
+      "rank": 4657,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Why do you always butt in?",
+      "meaningZh": "n. 粗大的一头, 烟头, 靶, 笑柄"
+    },
+    {
+      "wordId": "bulk",
+      "rank": 4660,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It's cheaper if you buy in bulk.",
+      "meaningZh": "n. 大小, 体积, 大块, 大多数\nvt. 显得大, 显得重要"
+    },
+    {
+      "wordId": "mortality",
+      "rank": 4662,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Chad has the world's third-highest maternal mortality rate.",
+      "meaningZh": "n. 必死的命运, 死亡数目, 死亡率"
+    },
+    {
+      "wordId": "liver",
+      "rank": 4667,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom died of liver cancer.",
+      "meaningZh": "n. 肝脏, 生活者, 居民"
+    },
+    {
+      "wordId": "harmony",
+      "rank": 4669,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "They worked in perfect harmony with each other.",
+      "meaningZh": "n. 协调, 和睦, 调和"
+    },
+    {
+      "wordId": "tolerance",
+      "rank": 4670,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "Tom has a low tolerance for pain.",
+      "meaningZh": "n. 宽容, 忍受, 容忍, 容许量, 公差"
+    },
+    {
+      "wordId": "palace",
+      "rank": 4678,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Compared to our house, his is a palace.",
+      "meaningZh": "n. 宫, 宫殿, 华丽大厦"
+    },
+    {
+      "wordId": "peasant",
+      "rank": 4680,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Those peasants badly need land to grow rice.",
+      "meaningZh": "n. 农夫, 乡下人"
+    },
+    {
+      "wordId": "cruise",
+      "rank": 4681,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The prize money enabled me to go on a world cruise.",
+      "meaningZh": "n. 巡航, 巡弋, 漫游\nv. 巡航, 巡弋, 漫游"
+    },
+    {
+      "wordId": "neat",
+      "rank": 4683,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Keep your room as neat as you can.",
+      "meaningZh": "a. 整洁的, 巧妙的, 匀称的, 简洁的\nn. 牛"
+    },
+    {
+      "wordId": "formerly",
+      "rank": 4684,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Burkina Faso (formerly Upper Volta) achieved independence from France in 1960.",
+      "meaningZh": "adv. 从前, 以前"
+    },
+    {
+      "wordId": "widow",
+      "rank": 4691,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "He leaves a widow and a daughter.",
+      "meaningZh": "n. 寡妇, 孀妇\nvt. 使成寡妇"
+    },
+    {
+      "wordId": "brutal",
+      "rank": 4697,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "he spoke with brutal honesty",
+      "meaningZh": "a. 残忍的, 野蛮的, 不讲理的"
+    },
+    {
+      "wordId": "forbid",
+      "rank": 4698,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I forbid you to talk to Tom.",
+      "meaningZh": "vt. 禁止, 不准, 妨碍"
+    },
+    {
+      "wordId": "predator",
+      "rank": 4699,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Wolves are predators, but they don't eat each other.",
+      "meaningZh": "n. 食肉动物, 掠夺者"
+    },
+    {
+      "wordId": "fur",
+      "rank": 4700,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Tom wanted to buy a fur coat for Mary.",
+      "meaningZh": "n. 毛皮\nvt. 以毛皮制作, 使生苔, 使生水垢\nvi. 生苔, 积水垢"
+    },
+    {
+      "wordId": "voluntary",
+      "rank": 4701,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "This organization relies entirely on voluntary donations.",
+      "meaningZh": "a. 自动的, 自愿的, 故意的, 志愿的, 自发的\nn. 自愿行动, 志愿者, 自由调"
+    },
+    {
+      "wordId": "forum",
+      "rank": 4705,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "After reading Tom's forum post, Mary resisted the impulse to post a crude reply.",
+      "meaningZh": "n. 论坛, 公开讨论的广场, 法庭, 讨论会"
+    },
+    {
+      "wordId": "happily",
+      "rank": 4708,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I hope that they live happily ever after.",
+      "meaningZh": "adv. 幸福地, 快乐地, 幸好"
+    },
+    {
+      "wordId": "autonomy",
+      "rank": 4712,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Autonomy was granted in 1969 and independence in 1979.",
+      "meaningZh": "n. 自治, 自治权"
+    },
+    {
+      "wordId": "tourism",
+      "rank": 4721,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The economy is based on fishing, tourism and agriculture.",
+      "meaningZh": "n. 观光业, 游览"
+    },
+    {
+      "wordId": "threshold",
+      "rank": 4724,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I have a low threshold for pain.",
+      "meaningZh": "n. 门槛, 入口, 开端, 阈"
+    },
+    {
+      "wordId": "straw",
+      "rank": 4730,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "Will you ask the waitress to bring me a straw?",
+      "meaningZh": "n. 稻草, 麦管, 吸管, 一文不值的东西, 草帽\na. 稻草的, 稻草色的, 琐碎的, 无价值的"
+    },
+    {
+      "wordId": "fragile",
+      "rank": 4733,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "The balance of nature is very fragile.",
+      "meaningZh": "a. 易碎的, 脆的"
+    },
+    {
+      "wordId": "overnight",
+      "rank": 4742,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "They want Tom to stay overnight.",
+      "meaningZh": "n. 前一天晚上, 一夜的逗留\na. 通宵的, 晚上的, 前夜的\nadv. 在前一夜, 整夜, 昨晚一晚上"
+    },
+    {
+      "wordId": "denial",
+      "rank": 4743,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "it resulted in a complete denial of his privileges",
+      "meaningZh": "n. 否认"
+    },
+    {
+      "wordId": "fragment",
+      "rank": 4744,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "The priceless china shattered into fragments.",
+      "meaningZh": "n. 碎片, 破片, 片段"
+    },
+    {
+      "wordId": "rental",
+      "rank": 4746,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "It's a rental car.",
+      "meaningZh": "n. 租费, 租金收入\na. 租赁的, 收取租金的"
+    },
+    {
+      "wordId": "fantastic",
+      "rank": 4747,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "It would be fantastic if we could do that together.",
+      "meaningZh": "a. 奇妙的, 稀奇的, 空想的"
+    },
+    {
+      "wordId": "warmth",
+      "rank": 4749,
+      "difficulty": 4,
+      "exampleIndex": 1,
+      "en": "I remember the warmth of his arms.",
+      "meaningZh": "n. 温暖, 温情, 暖和, 激动, 生气"
+    },
+    {
+      "wordId": "projection",
+      "rank": 4755,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "our ukuleles have been designed to have superior sound and projection",
+      "meaningZh": "n. 发射, 计划, 突出部分, 设计, 推测"
+    },
+    {
+      "wordId": "graduation",
+      "rank": 4759,
+      "difficulty": 5,
+      "exampleIndex": 1,
+      "en": "I want to congratulate you on your graduation.",
+      "meaningZh": "n. 毕业, 得学位, 分划, 刻度, 分等级"
+    }
+  ],
+  "remainingDistinctRowsAfterThisBatch": 1463
+}

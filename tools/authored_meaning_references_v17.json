@@ -1,0 +1,22 @@
+{
+  "statin": {
+    "url": "https://medlineplus.gov/statins.html",
+    "note": "核对 statin 是降低胆固醇的一类药物，而非原数据所混入的多种激素抑制素。定义为项目中文改写，不提供治疗建议。"
+  },
+  "hogan": {
+    "url": "https://www.nps.gov/hutr/faqs.htm?fullweb=1",
+    "note": "NPS确认 hogan 为纳瓦霍人的传统住宅；采用文化特定名称而非仅泛称泥木屋。"
+  },
+  "menorah": {
+    "url": "https://reformjudaism.org/learning/answers-jewish-questions/how-do-we-light-hanukkah-menorah",
+    "note": "区分传统七枝 menorah 与光明节九枝 hanukkiyah，避免把词义限定为九枝。"
+  },
+  "microgram": {
+    "url": "https://www.nist.gov/pml/owm/metric-si-prefixes",
+    "note": "NIST确认micro为百万分之一，microgram为微克。项目中文改写，修正原微观图错误。"
+  },
+  "morel": {
+    "url": "https://mdc.mo.gov/discover-nature/field-guide/morels",
+    "note": "州自然保护部门将morels列为Morchella属真菌；修正原龙葵错误。仅词义说明，不提供野生菌食用鉴别建议。"
+  }
+}

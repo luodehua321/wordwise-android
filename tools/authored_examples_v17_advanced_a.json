@@ -1,0 +1,1013 @@
+{
+  "version": "v17-advanced-a",
+  "license": "CC0 1.0",
+  "words": {
+    "fundamentalist": {
+      "examples": [
+        {
+          "en": "The scholar compared several fundamentalist movements.",
+          "zh": "那位学者比较了几种基要主义运动。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "biotechnology": {
+      "examples": [
+        {
+          "en": "She works in biotechnology, developing new laboratory methods.",
+          "zh": "她在生物技术领域工作，开发新的实验室方法。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "intimidation": {
+      "examples": [
+        {
+          "en": "The witness reported repeated threats and intimidation.",
+          "zh": "证人报告说自己多次受到威胁和恐吓。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "speculative": {
+      "examples": [
+        {
+          "en": "The conclusion remains speculative until more evidence is available.",
+          "zh": "在获得更多证据之前，这个结论仍然只是推测。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "affirmation": {
+      "examples": [
+        {
+          "en": "Her letter offered an affirmation of their shared values.",
+          "zh": "她的信肯定了他们共同的价值观。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "ethnographic": {
+      "examples": [
+        {
+          "en": "The researcher kept detailed ethnographic notes during her fieldwork.",
+          "zh": "研究人员在实地调查期间记录了详尽的民族志笔记。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "ambivalence": {
+      "examples": [
+        {
+          "en": "He felt ambivalence about leaving his hometown.",
+          "zh": "对于离开家乡，他心里很矛盾。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "utilization": {
+      "examples": [
+        {
+          "en": "The report measures the utilization of available office space.",
+          "zh": "这份报告衡量了现有办公空间的利用情况。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "abandonment": {
+      "examples": [
+        {
+          "en": "The village declined after the abandonment of the old railway.",
+          "zh": "旧铁路被废弃后，这个村庄衰落了。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "disseminate": {
+      "examples": [
+        {
+          "en": "The organization uses local radio to disseminate important information.",
+          "zh": "这个组织利用地方广播传播重要信息。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "journalistic": {
+      "examples": [
+        {
+          "en": "The editor stressed the importance of journalistic independence.",
+          "zh": "编辑强调了新闻工作独立性的重要。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "termination": {
+      "examples": [
+        {
+          "en": "The contract explains the conditions for early termination.",
+          "zh": "合同说明了提前终止的条件。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "mobilization": {
+      "examples": [
+        {
+          "en": "The exercise tested the rapid mobilization of emergency teams.",
+          "zh": "这次演练检验了应急队伍的快速动员能力。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "convergence": {
+      "examples": [
+        {
+          "en": "The meeting revealed a convergence of opinion on several issues.",
+          "zh": "会议表明，各方在几个问题上的意见趋于一致。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "incompatible": {
+      "examples": [
+        {
+          "en": "The two files use incompatible formats.",
+          "zh": "这两个文件采用了不兼容的格式。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "suppression": {
+      "examples": [
+        {
+          "en": "The historian examined the suppression of public criticism.",
+          "zh": "历史学家研究了对公开批评的压制。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "necessitate": {
+      "examples": [
+        {
+          "en": "The damage may necessitate a complete replacement of the roof.",
+          "zh": "这些损坏可能使整座屋顶必须更换。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "conglomerate": {
+      "examples": [
+        {
+          "en": "The business grew into a large media conglomerate.",
+          "zh": "这家企业发展成了一家大型传媒集团。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "meaningZh": "n. 企业集团；联合大企业；混合物；砾岩\nadj. 聚集成团的\nv. 聚集成团"
+    },
+    "convertible": {
+      "examples": [
+        {
+          "en": "They rented a convertible for their coastal holiday.",
+          "zh": "他们为海滨度假租了一辆敞篷车。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "disintegrate": {
+      "examples": [
+        {
+          "en": "The old paper began to disintegrate when touched.",
+          "zh": "那些旧纸张一碰就开始碎裂。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "accessibility": {
+      "examples": [
+        {
+          "en": "The designers improved the website's accessibility for screen-reader users.",
+          "zh": "设计人员改善了网站对屏幕阅读器用户的无障碍支持。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "inflammatory": {
+      "examples": [
+        {
+          "en": "The speaker was criticized for using inflammatory language.",
+          "zh": "这位发言者因使用煽动性的语言而受到批评。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "hypertension": {
+      "examples": [
+        {
+          "en": "The clinic keeps detailed records of patients with hypertension.",
+          "zh": "诊所为高血压患者保留着详细的记录。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "exploratory": {
+      "examples": [
+        {
+          "en": "The two companies held exploratory talks about a possible partnership.",
+          "zh": "两家公司就可能的合作关系进行了探索性会谈。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "objectivity": {
+      "examples": [
+        {
+          "en": "The reviewer questioned the objectivity of the report.",
+          "zh": "评论者质疑这份报告是否客观。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "differentiation": {
+      "examples": [
+        {
+          "en": "The course explains the differentiation of cells during development.",
+          "zh": "这门课程讲解发育过程中细胞的分化。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "delineate": {
+      "examples": [
+        {
+          "en": "The map uses red lines to delineate the protected area.",
+          "zh": "这张地图用红线标出保护区的边界。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "relocation": {
+      "examples": [
+        {
+          "en": "The company offered assistance with the family's relocation.",
+          "zh": "公司为这个家庭搬迁提供了帮助。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "meaningZh": "n. 搬迁；迁移；重新安置"
+    },
+    "identifiable": {
+      "examples": [
+        {
+          "en": "Each sample carries an easily identifiable label.",
+          "zh": "每个样本都贴着易于辨认的标签。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "hydraulic": {
+      "examples": [
+        {
+          "en": "The technician inspected the hydraulic lifting system.",
+          "zh": "技术人员检查了液压升降系统。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "individualism": {
+      "examples": [
+        {
+          "en": "The essay discusses the relationship between individualism and social responsibility.",
+          "zh": "这篇文章讨论了个人主义与社会责任之间的关系。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "revitalize": {
+      "examples": [
+        {
+          "en": "The council hopes the new library will revitalize the neighborhood.",
+          "zh": "市议会希望新图书馆能让这个街区重新焕发生机。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "electromagnetic": {
+      "examples": [
+        {
+          "en": "The students measured the strength of an electromagnetic field.",
+          "zh": "学生们测量了一个电磁场的强度。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "pronouncement": {
+      "examples": [
+        {
+          "en": "The minister's public pronouncement attracted considerable attention.",
+          "zh": "部长公开发表的声明引起了广泛关注。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "neurological": {
+      "examples": [
+        {
+          "en": "The hospital has opened a new neurological research unit.",
+          "zh": "医院设立了一个新的神经学研究部门。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "stylistic": {
+      "examples": [
+        {
+          "en": "The editor suggested a few stylistic changes to the introduction.",
+          "zh": "编辑建议对引言的文风作几处调整。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "meaningZh": "adj. 文体的；风格上的；体裁上的"
+    },
+    "simplistic": {
+      "examples": [
+        {
+          "en": "The article offers a simplistic explanation for a complex problem.",
+          "zh": "这篇文章对一个复杂问题给出了过于简单化的解释。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "emphatically": {
+      "examples": [
+        {
+          "en": "She emphatically denied making the statement.",
+          "zh": "她断然否认自己说过那番话。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "proclamation": {
+      "examples": [
+        {
+          "en": "The clerk read the official proclamation aloud.",
+          "zh": "书记员大声宣读了正式公告。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "improbable": {
+      "examples": [
+        {
+          "en": "The detective considered the witness's story highly improbable.",
+          "zh": "侦探认为证人的叙述极不可信。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "generalize": {
+      "examples": [
+        {
+          "en": "We should not generalize from a single example.",
+          "zh": "我们不应该根据一个例子就作出笼统的结论。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "anthropological": {
+      "examples": [
+        {
+          "en": "Her anthropological research focuses on family relationships.",
+          "zh": "她的人类学研究主要关注家庭关系。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "propulsion": {
+      "examples": [
+        {
+          "en": "The museum displays several early rocket propulsion systems.",
+          "zh": "博物馆展出了几套早期的火箭推进系统。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "recurrence": {
+      "examples": [
+        {
+          "en": "The team changed the procedure to prevent a recurrence of the error.",
+          "zh": "团队更改了操作流程，以防止这个错误再次发生。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "colonialism": {
+      "examples": [
+        {
+          "en": "The exhibition examines the lasting effects of colonialism.",
+          "zh": "这场展览探讨了殖民主义持续至今的影响。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "viability": {
+      "examples": [
+        {
+          "en": "The committee is assessing the financial viability of the project.",
+          "zh": "委员会正在评估这个项目在财务上是否可行。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "abstinence": {
+      "examples": [
+        {
+          "en": "The questionnaire asked about periods of abstinence from alcohol.",
+          "zh": "问卷询问了不饮酒的时段。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "remembrance": {
+      "examples": [
+        {
+          "en": "They planted a tree in remembrance of their teacher.",
+          "zh": "他们种了一棵树来纪念老师。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "detachment": {
+      "examples": [
+        {
+          "en": "She described the difficult event with surprising detachment.",
+          "zh": "她叙述这件艰难往事时显得异常冷静客观。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "frivolous": {
+      "examples": [
+        {
+          "en": "The judge dismissed the claim as frivolous.",
+          "zh": "法官认为这项诉求毫无严肃根据，予以驳回。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "nonfiction": {
+      "examples": [
+        {
+          "en": "She prefers nonfiction to novels.",
+          "zh": "比起小说，她更喜欢非虚构作品。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "physiology": {
+      "examples": [
+        {
+          "en": "The course introduces the physiology of the human body.",
+          "zh": "这门课程介绍人体生理学。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "naturalist": {
+      "examples": [
+        {
+          "en": "The naturalist identified several unfamiliar birds.",
+          "zh": "这位博物学家辨认出了几种不常见的鸟。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "meaningZh": "n. 博物学家；自然主义者"
+    },
+    "righteous": {
+      "examples": [
+        {
+          "en": "The character believes that his anger is righteous.",
+          "zh": "这个人物相信自己的愤怒是正当的。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "metaphysical": {
+      "examples": [
+        {
+          "en": "The seminar explored metaphysical questions about identity.",
+          "zh": "研讨会探讨了有关身份认同的形而上学问题。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "internalize": {
+      "examples": [
+        {
+          "en": "Children may internalize the expectations of adults around them.",
+          "zh": "孩子们可能会把身边成年人的期望内化为自己的要求。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "accentuate": {
+      "examples": [
+        {
+          "en": "The lighting was designed to accentuate the texture of the stone.",
+          "zh": "灯光的设计是为了突出石材的质感。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "validation": {
+      "examples": [
+        {
+          "en": "The new method requires independent validation.",
+          "zh": "这种新方法需要独立验证。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "propensity": {
+      "examples": [
+        {
+          "en": "He has a propensity to interrupt before others have finished speaking.",
+          "zh": "他总爱在别人说完话之前插嘴。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "adventurous": {
+      "examples": [
+        {
+          "en": "Her adventurous spirit led her to travel widely.",
+          "zh": "她喜爱冒险的精神促使她四处旅行。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "undesirable": {
+      "examples": [
+        {
+          "en": "The treatment had some undesirable side effects.",
+          "zh": "这种治疗产生了一些不良副作用。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "metabolic": {
+      "examples": [
+        {
+          "en": "The study compared metabolic changes in the two groups.",
+          "zh": "这项研究比较了两组的新陈代谢变化。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "methodological": {
+      "examples": [
+        {
+          "en": "The paper discusses several methodological limitations of the survey.",
+          "zh": "这篇论文讨论了这项调查在方法上的若干局限。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "cognition": {
+      "examples": [
+        {
+          "en": "The experiment explores the relationship between language and cognition.",
+          "zh": "这项实验探讨了语言与认知之间的关系。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "conceptualize": {
+      "examples": [
+        {
+          "en": "The diagram helps students conceptualize the flow of information.",
+          "zh": "这张示意图帮助学生在头脑中形成信息流动的概念。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "articulation": {
+      "examples": [
+        {
+          "en": "The course emphasizes clear articulation when speaking.",
+          "zh": "这门课程强调说话时清晰发音。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "revolutionize": {
+      "examples": [
+        {
+          "en": "The team hopes its new design will revolutionize water filtration.",
+          "zh": "团队希望自己的新设计能使水过滤技术发生革命性变化。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "abduction": {
+      "examples": [
+        {
+          "en": "The police investigated the child's reported abduction.",
+          "zh": "警方对报案所称的儿童绑架事件展开了调查。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "magistrate": {
+      "examples": [
+        {
+          "en": "The defendant appeared before a magistrate that morning.",
+          "zh": "被告那天早上到治安法官面前出庭。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "diffusion": {
+      "examples": [
+        {
+          "en": "The lesson demonstrates the diffusion of dye through water.",
+          "zh": "这堂课演示了染料在水中的扩散。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "specificity": {
+      "examples": [
+        {
+          "en": "The researchers compared the specificity of the two tests.",
+          "zh": "研究人员比较了两种检测方法的特异性。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "enlightenment": {
+      "examples": [
+        {
+          "en": "The discussion brought a moment of enlightenment about the problem.",
+          "zh": "这场讨论使人对这个问题有了恍然大悟的认识。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "verification": {
+      "examples": [
+        {
+          "en": "The bank requested further verification of her identity.",
+          "zh": "银行要求进一步核实她的身份。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "multiculturalism": {
+      "examples": [
+        {
+          "en": "The course considers different approaches to multiculturalism.",
+          "zh": "这门课程探讨了对待多元文化的不同方式。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "pedagogical": {
+      "examples": [
+        {
+          "en": "The teachers discussed the pedagogical value of the exercise.",
+          "zh": "教师们讨论了这个练习的教学价值。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "repository": {
+      "examples": [
+        {
+          "en": "The library serves as a repository of local history.",
+          "zh": "这家图书馆是保存地方历史资料的宝库。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "meaningZh": "n. 贮藏室；仓库；知识宝库；资料库；（软件）代码仓库"
+    },
+    "meticulous": {
+      "examples": [
+        {
+          "en": "She kept meticulous records of every experiment.",
+          "zh": "她对每次实验都作了细致入微的记录。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "imperialism": {
+      "examples": [
+        {
+          "en": "The book examines the economic dimensions of imperialism.",
+          "zh": "这本书考察了帝国主义的经济层面。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "stillness": {
+      "examples": [
+        {
+          "en": "A distant bell broke the stillness of the evening.",
+          "zh": "远处的钟声打破了傍晚的宁静。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "institutionalize": {
+      "examples": [
+        {
+          "en": "The reform aims to institutionalize regular public consultation.",
+          "zh": "这项改革旨在使定期公开征求意见成为制度。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "meaningZh": "v. 使制度化；使成为惯例；把……送入专门机构照料或治疗"
+    },
+    "homogeneous": {
+      "examples": [
+        {
+          "en": "The researchers used a homogeneous mixture for the experiment.",
+          "zh": "研究人员在实验中使用了均匀的混合物。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "ferocious": {
+      "examples": [
+        {
+          "en": "A ferocious storm forced the ships back to harbor.",
+          "zh": "一场猛烈的暴风雨迫使船只返回港口。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "profitability": {
+      "examples": [
+        {
+          "en": "Rising material costs reduced the company's profitability.",
+          "zh": "原材料成本上涨降低了公司的盈利能力。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "sociological": {
+      "examples": [
+        {
+          "en": "She proposed a sociological study of urban communities.",
+          "zh": "她提出了一项关于城市社区的社会学研究。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "contemplation": {
+      "examples": [
+        {
+          "en": "He sat by the window in quiet contemplation.",
+          "zh": "他坐在窗边静静沉思。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "itinerary": {
+      "examples": [
+        {
+          "en": "Our itinerary includes two days in the mountain village.",
+          "zh": "我们的行程包括在那个山村停留两天。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "expulsion": {
+      "examples": [
+        {
+          "en": "The committee reviewed the student's expulsion from the school.",
+          "zh": "委员会复核了学校开除那名学生的决定。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "masculinity": {
+      "examples": [
+        {
+          "en": "The documentary explores changing ideas about masculinity.",
+          "zh": "这部纪录片探讨了对男性气质的观念如何变化。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "ecologist": {
+      "examples": [
+        {
+          "en": "The ecologist recorded the plants growing beside the river.",
+          "zh": "生态学家记录了河边生长的植物。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "subversive": {
+      "examples": [
+        {
+          "en": "Officials regarded the pamphlet as subversive.",
+          "zh": "官员们认为那本小册子具有颠覆性。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "incorporation": {
+      "examples": [
+        {
+          "en": "The agreement provides for the incorporation of the new association.",
+          "zh": "协议为新协会的依法成立作了规定。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "destabilize": {
+      "examples": [
+        {
+          "en": "A sudden loss of funding could destabilize the entire project.",
+          "zh": "资金突然流失可能使整个项目陷入不稳定。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "discriminatory": {
+      "examples": [
+        {
+          "en": "The organization challenged the discriminatory hiring policy.",
+          "zh": "这个组织对带有歧视性的招聘政策提出了质疑。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "meaningZh": "adj. 歧视性的；区别对待的；有辨别力的"
+    },
+    "corroborate": {
+      "examples": [
+        {
+          "en": "The photographs helped corroborate the witness's account.",
+          "zh": "这些照片帮助证实了证人的叙述。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "adversity": {
+      "examples": [
+        {
+          "en": "Their friendship remained strong in times of adversity.",
+          "zh": "他们的友谊在逆境中依然牢固。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "semantic": {
+      "examples": [
+        {
+          "en": "The two expressions have a subtle semantic difference.",
+          "zh": "这两个表达在语义上有细微差别。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "primate": {
+      "examples": [
+        {
+          "en": "The zoologist studied the behavior of a small primate.",
+          "zh": "动物学家研究了一种小型灵长类动物的行为。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "parchment": {
+      "examples": [
+        {
+          "en": "The document was written on a sheet of parchment.",
+          "zh": "这份文件写在一张羊皮纸上。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "customize": {
+      "examples": [
+        {
+          "en": "Users can customize the layout of the home screen.",
+          "zh": "用户可以自定义主屏幕的布局。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "palate": {
+      "examples": [
+        {
+          "en": "The chef designed the dish to appeal to a wide range of palates.",
+          "zh": "厨师设计这道菜，是为了迎合不同人的口味。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    }
+  }
+}

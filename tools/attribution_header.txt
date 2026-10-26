@@ -1,0 +1,79 @@
+离线词库来源、归属与许可证
+
+词条/词性/中文释义/语料词频：ECDICT
+项目：https://github.com/skywind3000/ECDICT
+固定提交：bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b
+许可证：MIT，Copyright (c) 2025 Linwei（按该固定版本原文保留）。
+ECDICT phonetic 字段以英式为主，本项目没有把它当作美式使用。
+
+美式音标：open-dict-data/ipa-dict 的 en_US (General American)
+项目：https://github.com/open-dict-data/ipa-dict
+固定提交：972cd67dd5f96bc5660e28070cde26e3928abcd7
+许可证：MIT，Copyright (c) 2016 dohliam。
+上游美国英语数据基于 lingz/cmudict-ipa，并使用 kylebgorman/syllabify 添加重音标记，
+最初的发音数据来自 Carnegie Mellon University CMUdict。
+为保留来源链，本应用同时附上 cmudict-ipa、syllabify 和 CMUdict 许可。
+https://github.com/lingz/cmudict-ipa
+https://github.com/kylebgorman/syllabify
+https://github.com/cmusphinx/cmudict
+
+英式音标：open-dict-data/ipa-dict 的 en_UK (Received Pronunciation)
+项目：https://github.com/open-dict-data/ipa-dict
+固定提交：972cd67dd5f96bc5660e28070cde26e3928abcd7
+原始路径：data/en_UK.txt
+SHA-256：221394caef0cf723b4f2df81a98ac33191293257b88aed5b1fb89466d3a0dc77
+英国数据派生自 leoboiko（现 melissaboiko）的 ipacards，遵循 GPL-3.0，
+与美国音标的 MIT/BSD 来源分别保留，不能将英国数据误称为 MIT。
+https://github.com/melissaboiko/ipacards
+仅精确匹配现有词库拼写，不机械将美式转换为英式，缺失保持空字符串。
+完整未改写原始快照、固定版本上游说明、GPL原文、可复现抽取代码随包保存在 british_ipa/。
+该英国音标数据及对应抽取代码按 GPL-3.0 提供。
+
+原创内容：core_enrichment.json、advanced_enrichment.json、practical_enrichment_v3.json、practical_enrichment_v4.json、meaning_corrections_v4.json 和 phrase_corrections.json
+中的例句、中文例句、搭配、词族说明、易混提示及译文修正为本项目原创，
+不声称来自 ECDICT、商业词典或其他上游数据库。它们以 CC0 1.0 Universal 提供。
+https://creativecommons.org/publicdomain/zero/1.0/
+v4 增加 335 条原创中英例句、459 条原创搭配、111 组人工词族和 50 组易混辨析；
+人工修正 23 个常见词的中文义项，修正理由保存在 meaning_corrections_v4.json。
+人工词族中文释义取自 ECDICT，继续遵循其 MIT 许可。
+个别词没有常见派生词，派生数组留空；未收录增强资料的词条相应数组留空。
+
+公开增强内容：
+中英例句源自 Tatoeba，经 www.ManyThings.org / Charles Kelly 筛选。
+快照日期：2026-02-13，原始 32028 句对。
+https://www.manythings.org/anki/
+https://tatoeba.org/
+许可：CC BY 2.0 France，https://creativecommons.org/licenses/by/2.0/fr/
+例句文本及译文不改写；按词形筛选并建立词条索引由本项目完成。
+逐句作者、ID、原句和译句链接保存在 vocabulary.json 对应例句与 tatoeba_attribution.tsv。
+APP 例句展示归属；保留上游关于社区语料仍可能有错误的说明。
+
+词典短语/复合词与派生关系：Princeton WordNet 3.0；中文释义由 ECDICT 提供。
+https://wordnet.princeton.edu/
+固定发行包：https://wordnetcode.princeton.edu/3.0/WNdb-3.0.tar.gz
+派生关系采用明确的词汇级 + 指针，不猜测派生词或拼写近似易混词。
+WordNet 许可全文见下；并不表示 Princeton 为本项目背书。
+参考：Fellbaum, Christiane (ed.). 1998. WordNet: An Electronic Lexical Database. MIT Press.
+本地用户的学习记录、认识率与错词记录不来自公开词库，也不上传。
+
+新增英文例句来自同一 ManyThings 2026-02-13 快照的 rus-eng.zip 英文侧，
+原文不改写，不分发俄语译文；保留对应英文句子作者、ID与CC BY 2.0 FR许可。
+来源档案中的英语例句经过 ManyThings 校对，仍可能存在错误。
+逐句归属和原句链接另见 english_examples_attribution.tsv。
+
+Open English WordNet 2025（Open English WordNet team，派生自 Princeton WordNet 3.1）
+项目：https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition
+下载：https://en-word.net/downloads
+许可：CC BY 4.0，https://creativecommons.org/licenses/by/4.0/
+使用原始英文例句、明确的 derivation 派生关系与受限的 pertainym 词族关联；
+pertainym 仅限原词典明确记录、有 -ly 形态证据的形容词/副词对，
+并要求中文释义的词性对应。其中文栏标明“词族关联”。
+排除 idea/psychomotor 等语义所属关系，不凭后缀生成候选词。
+例句经过词形匹配和片段过滤；选择、索引与资料合并由本项目完成。
+保留逐句 synset ID、归属和发行版本链接，不凭空生成中文翻译。
+Open English WordNet 完整许可与底层 Princeton WordNet 3.1 许可一并保留。
+
+以下是原始许可全文。数据来源详情及 SHA-256 见 dictionary_sources.json。
+
+
+v12 internal review: authored Chinese translations, original bilingual examples, collocations, and sense-specific Chinese glosses are project contributions under CC0 1.0. Existing English sentence text, credits and licenses remain attached. Same-sentence Chinese reuse retains the donor entry credit and license. The review uses only shipped project content and does not import another dictionary.

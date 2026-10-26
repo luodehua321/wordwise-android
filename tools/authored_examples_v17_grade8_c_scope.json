@@ -1,0 +1,5188 @@
+[
+  {
+    "id": "bountiful",
+    "word": "bountiful",
+    "pronunciationUs": "/ˈbaʊnɪfəɫ/, /ˈbaʊntɪfəɫ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 慷慨的, 宽大的",
+    "difficulty": 8,
+    "rank": 17792,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "bountifulness",
+        "meaningZh": "n. 慷慨",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "bountifully",
+        "meaningZh": "词族关联 · adv. 慷慨地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/bˈaʊntɪfəl/",
+    "synonyms": [
+      {
+        "word": "big",
+        "meaningZh": "a. 大的, 重要的\nadv. 大量地",
+        "senseEn": "given or giving freely",
+        "source": "Princeton WordNet 3.0 synset 01111418-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "liberal",
+        "meaningZh": "n. 自由主义者\na. 慷慨的, 不拘泥的, 宽大的, 自由主义的",
+        "senseEn": "given or giving freely",
+        "source": "Princeton WordNet 3.0 synset 01111418-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "handsome",
+        "meaningZh": "a. 英俊的, 大方的, 慷慨的, 相当可观的, 美观的, 灵敏的",
+        "senseEn": "given or giving freely",
+        "source": "Princeton WordNet 3.0 synset 01111418-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "plentiful",
+        "meaningZh": "a. 许多的, 丰富的, 丰饶的",
+        "senseEn": "producing in abundance",
+        "source": "Princeton WordNet 3.0 synset 01080900-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "giving",
+        "meaningZh": "n. 礼物, 给予物",
+        "senseEn": "given or giving freely",
+        "source": "Princeton WordNet 3.0 synset 01111418-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "quotient",
+    "word": "quotient",
+    "pronunciationUs": "/ˈkwoʊʃənt/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 商, 份额",
+    "difficulty": 8,
+    "rank": 17798,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "quotient verdict",
+        "zh": "以金额平均数作裁决",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "respiratory quotient",
+        "zh": "呼吸商",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "quotients",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/kwˈəʊʃənt/",
+    "synonyms": []
+  },
+  {
+    "id": "steadfastly",
+    "word": "steadfastly",
+    "pronunciationUs": "/ˈstɛdˌfæstɫi/",
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 踏实地, 不变地; 岿然; 坚定不渝",
+    "difficulty": 8,
+    "rank": 17810,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "steadfast",
+        "meaningZh": "词族关联 · a. 坚定的, 踏实的, 固定的, 不变的",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/stˈɛdfɑːstli/",
+    "synonyms": [
+      {
+        "word": "firm",
+        "meaningZh": "n. 公司, 商号\na. 坚定的, 坚强的, 牢固的, 结实的, 坚硬的, 坚挺的, 严格的, 确定的\nvt. 使牢固, 使坚定\nvi. 变稳固, 变坚实\nadv. 稳固地",
+        "senseEn": "with resolute determination",
+        "source": "Princeton WordNet 3.0 synset 00050817-adv",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "firmly",
+        "meaningZh": "adv. 坚固, 坚定, 断然",
+        "senseEn": "with resolute determination",
+        "source": "Princeton WordNet 3.0 synset 00050817-adv",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "outscore",
+    "word": "outscore",
+    "pronunciationUs": "/aʊtˈskɔɹ/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt.得分超过",
+    "difficulty": 8,
+    "rank": 17840,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "outscored",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "outscoring",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "outscores",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/aʊtskˈɔː/",
+    "synonyms": []
+  },
+  {
+    "id": "obsessively",
+    "word": "obsessively",
+    "pronunciationUs": "/ɑbˈsɛsɪvɫi/",
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 过分地；着迷地, 着魔似地",
+    "difficulty": 8,
+    "rank": 17841,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "obsessive",
+        "meaningZh": "词族关联 · a. 着迷的",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɒbsˈɛsɪvli/",
+    "synonyms": [
+      {
+        "word": "compulsively",
+        "meaningZh": "adv. 强制地, 强迫地",
+        "senseEn": "in a compulsive manner",
+        "source": "Princeton WordNet 3.0 synset 00243608-adv",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "floodplain",
+    "word": "floodplain",
+    "pronunciationUs": "/ˈfɫədˌpɫeɪn/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 泛滥平原",
+    "difficulty": 8,
+    "rank": 17852,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "floodplains",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/flˈʌdpleɪn/",
+    "synonyms": []
+  },
+  {
+    "id": "molded",
+    "word": "molded",
+    "pronunciationUs": "/ˈmoʊɫdəd/, /ˈmoʊɫdɪd/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 造形的；模塑的",
+    "difficulty": 8,
+    "rank": 17856,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "molded salad",
+        "zh": "模压沙拉",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "folded",
+        "meaningZh": "v. 折叠；交叉合拢；失败垮台；把牲畜关在栏中（fold的过去分词）",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：m → f。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "molder",
+        "meaningZh": "vi. 腐朽, 崩塌\nvt. 使腐朽, 使崩塌\nn. 造模者, 铸模工",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置6：d → r。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/mˈəʊldɪd/",
+    "synonyms": [
+      {
+        "word": "shaped",
+        "meaningZh": "a. 成某种形状的, 制成一定形状的, 有某种形状的, 合适的, 计划好的, 有目标的",
+        "senseEn": "shaped to fit by or as if by altering the contours of a pliable mass (as by work or effort)",
+        "source": "Princeton WordNet 3.0 synset 02149787-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "wrought",
+        "meaningZh": "a. 制成的, 精细的\nwork的过去式和过去分词",
+        "senseEn": "shaped to fit by or as if by altering the contours of a pliable mass (as by work or effort)",
+        "source": "Princeton WordNet 3.0 synset 02149787-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "fizzle",
+    "word": "fizzle",
+    "pronunciationUs": "/ˈfɪzəɫ/",
+    "partOfSpeech": "n. / vi.",
+    "meaningZh": "n. 嘶嘶声, 失败\nvi. 发嘶嘶声, 失败",
+    "difficulty": 8,
+    "rank": 17860,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "fizzle out",
+        "zh": "终于失败",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "sizzle",
+        "meaningZh": "vi. 发出嘶嘶声\nvt. 烧灼\nn. 咝咝声",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：f → s。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "fizzled",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "fizzles",
+        "meaningZh": "第三人称单数 / 复数"
+      },
+      {
+        "word": "fizzling",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "/fˈɪzəl/",
+    "synonyms": [
+      {
+        "word": "bust",
+        "meaningZh": "n. 半身像, 胸部, 失败, 殴打\nvt. 使爆裂, 使破产\nvi. 爆裂, 破产",
+        "senseEn": "a complete failure",
+        "source": "Princeton WordNet 3.0 synset 07365024-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "hiss",
+        "meaningZh": "n. 嘘声, 嘶嘶声\nvi. 发出嘘声, 发嘶嘶声\nvt. 发嘶嘶声表示",
+        "senseEn": "a fricative sound (especially as an expression of disapproval)",
+        "source": "Princeton WordNet 3.0 synset 07384898-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "flop",
+        "meaningZh": "n. 砰然落下, 拍击声, 失败\nvi. 笨重地摔, 猛落\nvt. 笨拙地抛下\nadv. 噗通",
+        "senseEn": "a complete failure",
+        "source": "Princeton WordNet 3.0 synset 07365024-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "tumult",
+    "word": "tumult",
+    "pronunciationUs": "/ˈtuməɫt/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 骚动, 吵闹, 混乱",
+    "difficulty": 8,
+    "rank": 17862,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "tumultuous",
+        "meaningZh": "a. 吵闹的, 纷乱的, 骚乱的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "tumults",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/tjˈuːmʌlt/",
+    "synonyms": [
+      {
+        "word": "turmoil",
+        "meaningZh": "n. 骚动, 混乱",
+        "senseEn": "violent agitation",
+        "source": "Princeton WordNet 3.0 synset 07514520-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "commotion",
+        "meaningZh": "n. 骚动, 暴乱",
+        "senseEn": "the act of making a noisy disturbance",
+        "source": "Princeton WordNet 3.0 synset 00553823-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "uproar",
+        "meaningZh": "n. 骚动, 喧嚣",
+        "senseEn": "a state of commotion and noise and confusion",
+        "source": "Princeton WordNet 3.0 synset 13978709-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "din",
+        "meaningZh": "n. 喧嚣\nv. 絮絮不休地说, 喧闹",
+        "senseEn": "the act of making a noisy disturbance",
+        "source": "Princeton WordNet 3.0 synset 00553823-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "ruckus",
+        "meaningZh": "n. 喧闹, 骚动",
+        "senseEn": "the act of making a noisy disturbance",
+        "source": "Princeton WordNet 3.0 synset 00553823-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "legging",
+    "word": "legging",
+    "pronunciationUs": "/ˈɫɛɡɪŋ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 绑腿, 裹腿",
+    "difficulty": 8,
+    "rank": 17864,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "logging",
+        "meaningZh": "n. (木材)采运作业, (事物状况的)记录",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：e → o。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "begging",
+        "meaningZh": "v. 乞讨, 乞求；行乞（beg的现在分词形式）",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：l → b。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "lagging",
+        "meaningZh": "n. 迟钝, 落后, 防护套\na. 迟钝的, 落后的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：e → a。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "leggings",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/lˈɛɡɪŋ/",
+    "synonyms": []
+  },
+  {
+    "id": "tuber",
+    "word": "tuber",
+    "pronunciationUs": "/ˈtubɝ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 块茎, 突起, 结节",
+    "difficulty": 8,
+    "rank": 17869,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "tuber root",
+        "zh": "贮藏根",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "potato tuber moth",
+        "zh": "马铃薯茎蛾",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "tuberous",
+        "meaningZh": "a. 有块茎的, 块茎状的, 有结节的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "tube",
+        "meaningZh": "n. 管, 软管, 隧道\nvt. 把...装管, 使通过管子",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置5：r → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "tuner",
+        "meaningZh": "n. 调音师, 调音的人, 调节器",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：b → n。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "tubers",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/tjˈuːbɐ/",
+    "synonyms": []
+  },
+  {
+    "id": "mucus",
+    "word": "mucus",
+    "pronunciationUs": "/ˈmjukəs/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 粘液",
+    "difficulty": 8,
+    "rank": 17872,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "mucous",
+        "meaningZh": "a. 粘液的, 粘的, 粘液性的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/mjˈuːkəs/",
+    "synonyms": []
+  },
+  {
+    "id": "dashing",
+    "word": "dashing",
+    "pronunciationUs": "/ˈdæʃɪŋ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 闯劲足的, 有力的",
+    "difficulty": 8,
+    "rank": 17888,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "dashingly",
+        "meaningZh": "词族关联 · adv. 时髦地；华丽地；精力充沛地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "washing",
+        "meaningZh": "n. 洗涤, 浸, 洗涤物",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：d → w。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "bashing",
+        "meaningZh": "n. [矿]用废矸石充填采空区；猛击, 抨击",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：d → b。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "lashing",
+        "meaningZh": "n. 鞭打, 痛骂, 叱责",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：d → l。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/dˈæʃɪŋ/",
+    "synonyms": [
+      {
+        "word": "spruce",
+        "meaningZh": "时髦的；入时的",
+        "senseEn": "marked by up-to-dateness in dress and manners",
+        "source": "Princeton WordNet 3.0 synset 00971933-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "gallant",
+        "meaningZh": "a. 英勇的, 壮丽的, 华丽的",
+        "senseEn": "lively and spirited",
+        "source": "Princeton WordNet 3.0 synset 02279622-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "snappy",
+        "meaningZh": "时髦的；入时的",
+        "senseEn": "marked by up-to-dateness in dress and manners",
+        "source": "Princeton WordNet 3.0 synset 00971933-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "dapper",
+        "meaningZh": "时髦的；入时的",
+        "senseEn": "marked by up-to-dateness in dress and manners",
+        "source": "Princeton WordNet 3.0 synset 00971933-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "jaunty",
+        "meaningZh": "时髦的；入时的",
+        "senseEn": "marked by up-to-dateness in dress and manners",
+        "source": "Princeton WordNet 3.0 synset 00971933-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      }
+    ]
+  },
+  {
+    "id": "facedown",
+    "word": "facedown",
+    "pronunciationUs": "/ˈfeɪsˈdaʊn/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. <美>直接对抗, 摊牌",
+    "difficulty": 8,
+    "rank": 17892,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/fˈeɪsdaʊn/",
+    "synonyms": []
+  },
+  {
+    "id": "vacationer",
+    "word": "vacationer",
+    "pronunciationUs": "/veɪˈkeɪʃənɝ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 休假者；度假者",
+    "difficulty": 8,
+    "rank": 17894,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "vacation",
+        "meaningZh": "n. 假期, 休假",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "",
+    "synonyms": []
+  },
+  {
+    "id": "rhododendron",
+    "word": "rhododendron",
+    "pronunciationUs": "/ˌɹoʊdəˈdɛndɹən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 杜鹃",
+    "difficulty": 8,
+    "rank": 17896,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "coast rhododendron",
+        "zh": "海滨杜鹃",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "rhododendrons",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɹˌəʊdədˈɛndɹən/",
+    "synonyms": []
+  },
+  {
+    "id": "smock",
+    "word": "smock",
+    "pronunciationUs": "/ˈsmɑk/",
+    "partOfSpeech": "n. / vt.",
+    "meaningZh": "n. 工作服, 罩衫, 长罩衣\nvt. 使穿上工作服, 缝制装饰用衣褶",
+    "difficulty": 8,
+    "rank": 17907,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "smocking",
+        "meaningZh": "n. 装饰用衣褶",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "sock",
+        "meaningZh": "n. 短袜, 鞋垫, 一击\nvt. 重击, 猛投, 给...穿袜\nvi. 打击\nadv. 正着地, 不偏不倚地\na. 非常成功的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：m → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "mock",
+        "meaningZh": "n. 嘲笑, 戏弄, 模仿\na. 假的, 伪造的, 模拟的\nadv. 虚伪地\nvt. 嘲弄, 模仿, 使失望, 欺骗, 挫败\nvi. 嘲弄",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：s → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "stock",
+        "meaningZh": "n. 树干, 祖先, 血统, 原料, 备料, 库存, 牲畜, 股票, 股份, 保留剧目\na. 存货的, 常备的, 平凡的, 普通的, 股票的, 保留剧目的, 繁殖用的\nvt. 装把手于, 进货, 备有, 放牧\nvi. 出新芽, 备货, 囤积",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：m → t。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "smocks",
+        "meaningZh": "复数 / 第三人称单数"
+      },
+      {
+        "word": "smocked",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "smocking",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "/smˈɒk/",
+    "synonyms": [
+      {
+        "word": "duster",
+        "meaningZh": "n. 掸子, 打扫灰尘的人",
+        "senseEn": "a loose coverall (coat or frock) reaching down to the ankles",
+        "source": "Princeton WordNet 3.0 synset 03258730-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "gabardine",
+        "meaningZh": "n. 华达呢, 粗布",
+        "senseEn": "a loose coverall (coat or frock) reaching down to the ankles",
+        "source": "Princeton WordNet 3.0 synset 03258730-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "millet",
+    "word": "millet",
+    "pronunciationUs": "/ˈmɪɫət/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 稷, 粟, 黍",
+    "difficulty": 8,
+    "rank": 17910,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "barn millet",
+        "zh": "谷仓小米",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "evergreen millet",
+        "zh": "常青小米",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "great millet",
+        "zh": "伟大的小米",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "hog millet",
+        "zh": "na. 糜",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "fillet",
+        "meaningZh": "n. 鱼片；肉片；去骨的鱼肉或肉块；带子；头带\nvt. 把鱼或肉去骨切片；用带缚",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：m → f。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "mallet",
+        "meaningZh": "n. 木槌, 球棍, 棒",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：i → a。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "miller",
+        "meaningZh": "n. 厂主, 蛾",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置6：t → r。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "millets",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/mˈɪlɪt/",
+    "synonyms": []
+  },
+  {
+    "id": "terse",
+    "word": "terse",
+    "pronunciationUs": "/ˈtɝs/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 简洁的, 扼要的",
+    "difficulty": 8,
+    "rank": 17917,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "terseness",
+        "meaningZh": "n. 简洁；精练",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "tersely",
+        "meaningZh": "词族关联 · adv. 简洁地, 精练地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "there",
+        "meaningZh": "在那里；用于表示存在",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：∅ → h；位置4：s → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "these",
+        "meaningZh": "这些",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：∅ → h；位置3：r → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "terms",
+        "meaningZh": "n. 条件, 条款, 费用, 价钱, 关系, 地位, 交谊",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置4：∅ → m；位置5：e → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "terser",
+        "meaningZh": "比较级"
+      }
+    ],
+    "pronunciationUk": "/tˈɜːs/",
+    "synonyms": [
+      {
+        "word": "crisp",
+        "meaningZh": "a. 脆的, 新鲜的, 活泼的\nv. (使)烘脆, (使)拳曲, (使)起皱\nn. 松脆物",
+        "senseEn": "brief and to the point; effectively cut short",
+        "source": "Princeton WordNet 3.0 synset 00547641-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "curt",
+        "meaningZh": "a. 简略的, 简短的, 生硬的",
+        "senseEn": "brief and to the point; effectively cut short",
+        "source": "Princeton WordNet 3.0 synset 00547641-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "laconic",
+        "meaningZh": "a. 简洁的, 简明的",
+        "senseEn": "brief and to the point; effectively cut short",
+        "source": "Princeton WordNet 3.0 synset 00547641-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "yuppie",
+    "word": "yuppie",
+    "pronunciationUs": "/ˈjəpi/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （美）雅皮士（属于中上阶层的年轻专业人士）",
+    "difficulty": 8,
+    "rank": 17920,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/jˈuːpi/",
+    "synonyms": []
+  },
+  {
+    "id": "groupie",
+    "word": "groupie",
+    "pronunciationUs": "/ˈɡɹupi/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 追随歌星的年轻女子, 歌星倾慕者",
+    "difficulty": 8,
+    "rank": 17932,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "grouper",
+        "meaningZh": "n. 石斑鱼",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置6：i → ∅；位置8：∅ → r。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "grouped",
+        "meaningZh": "a. 化合的；分组的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置6：i → ∅；位置8：∅ → d。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/ɡɹˈuːpi/",
+    "synonyms": []
+  },
+  {
+    "id": "rebut",
+    "word": "rebut",
+    "pronunciationUs": "/ɹiˈbət/, /ɹɪˈbət/",
+    "partOfSpeech": "vi. / vt.",
+    "meaningZh": "vi. 反驳\nvt. 辩驳, 反驳, 揭露",
+    "difficulty": 8,
+    "rank": 17936,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "rebuttal",
+        "meaningZh": "n. 辩驳, 驳回, 反驳, 反驳的证据, 反证",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "rebutter",
+        "meaningZh": "n. 反驳者, 第三次答辩, 反证",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "debut",
+        "meaningZh": "n. 初次登台, 开张\nv. 初次登台",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：r → d。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "rebutted",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "rebutting",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "rebuts",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/ɹɪbˈʌt/",
+    "synonyms": [
+      {
+        "word": "refute",
+        "meaningZh": "vt. 反驳, 驳斥；驳倒",
+        "senseEn": "prove to be false or incorrect",
+        "source": "Princeton WordNet 3.0 synset 00667747-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "infighting",
+    "word": "infighting",
+    "pronunciationUs": "/ˈɪnˌfaɪtɪŋ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 近战, 混战, 暗斗",
+    "difficulty": 8,
+    "rank": 17941,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɪnfˈaɪtɪŋ/",
+    "synonyms": []
+  },
+  {
+    "id": "recliner",
+    "word": "recliner",
+    "pronunciationUs": "/ɹɪˈkɫaɪnɝ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 躺椅",
+    "difficulty": 8,
+    "rank": 17943,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "recline",
+        "meaningZh": "vt. 使斜靠\nvi. 靠, 斜倚, 依赖",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɹɪklˈaɪnɐ/",
+    "synonyms": []
+  },
+  {
+    "id": "lithe",
+    "word": "lithe",
+    "pronunciationUs": "/ˈɫaɪð/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 柔软的",
+    "difficulty": 8,
+    "rank": 17946,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "blithe",
+        "meaningZh": "a. 愉快的, 高兴的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：∅ → b。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "lite",
+        "meaningZh": "a. 低盐的；清淡的；简化的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置4：h → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "elite",
+        "meaningZh": "n. 精华, 精锐, 中坚分子",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：∅ → e；位置4：h → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/lˈaɪð/",
+    "synonyms": [
+      {
+        "word": "slender",
+        "meaningZh": "a. 苗条的, 纤弱的, 微少的, 微薄的",
+        "senseEn": "moving and bending with ease",
+        "source": "Princeton WordNet 3.0 synset 01140290-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "supple",
+        "meaningZh": "a. 柔软的, 逢迎的, 顺从的\nvt. 使柔软, 使顺从",
+        "senseEn": "moving and bending with ease",
+        "source": "Princeton WordNet 3.0 synset 01140290-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "accede",
+    "word": "accede",
+    "pronunciationUs": "/ækˈsid/",
+    "partOfSpeech": "vi.",
+    "meaningZh": "vi. 同意, 正式加入, 就任, 继任",
+    "difficulty": 8,
+    "rank": 17950,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "accession",
+        "meaningZh": "n. 到达, 即位, 增加, 同意, 发作, 正式接受\nvt. 登记入册",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "acceded",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "acceding",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "accedes",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/ɐksˈiːd/",
+    "synonyms": [
+      {
+        "word": "enter",
+        "meaningZh": "vt. 进入, 参加, 开始, 输入, 回车\nvi. 进去, 参加",
+        "senseEn": "take on duties or office",
+        "source": "Princeton WordNet 3.0 synset 02381397-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "submit",
+        "meaningZh": "vt. 使服从, 使受到, 委托, 提交, 认为\nvi. 屈服, 服从",
+        "senseEn": "yield to another's wish or opinion",
+        "source": "Princeton WordNet 3.0 synset 00878348-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "bow",
+        "meaningZh": "n. 弓, 眼睛框\nv. 用弓拉琴, 弯成弓形\nn. 鞠躬, 屈服",
+        "senseEn": "yield to another's wish or opinion",
+        "source": "Princeton WordNet 3.0 synset 00878348-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "defer",
+        "meaningZh": "vi. 推迟, 延期, 听从\nvt. 使推迟, 使延期",
+        "senseEn": "yield to another's wish or opinion",
+        "source": "Princeton WordNet 3.0 synset 00878348-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "acquiesce",
+        "meaningZh": "vi. 默许, 默然同意",
+        "senseEn": "to agree or express agreement",
+        "source": "Princeton WordNet 3.0 synset 00804139-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "filet",
+    "word": "filet",
+    "pronunciationUs": "/fɪˈɫeɪ/",
+    "partOfSpeech": "n. / vt.",
+    "meaningZh": "n. 头带, 轮廓线, 带状物, 带子, 束发带, 肉片, 鱼片, 襻, 嵌条, 丘带, (内)圆角\nvt. 用带缚, 把(肉/鱼)切成片, 用饰带装饰",
+    "difficulty": 8,
+    "rank": 17951,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "fish filet",
+        "zh": "鱼片；舫鱼排；薄鱼排",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "filet mignon",
+        "zh": "包有猪肉或腌肉的牛肉卷",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "fillet",
+        "meaningZh": "n. 鱼片；肉片；去骨的鱼肉或肉块；带子；头带\nvt. 把鱼或肉去骨切片；用带缚",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置4：∅ → l。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "file",
+        "meaningZh": "n. 档案, 公文箱, 文件夹, 文件, 卷宗, 锉刀\nvi. 列队行进, 用锉刀做\nvt. 归档, 申请, 锉, 琢磨",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置5：t → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "fleet",
+        "meaningZh": "n. 舰队, 港湾, 小河\na. 快速的, 敏捷的, 浅的, 短暂的\nadv. 浅\nvi. 疾驰, 飞逝, 掠过\nvt. 消磨, 变换船(或船员)的位置",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：i → ∅；位置5：∅ → e。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "filets",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ˈfɪlɪt/",
+    "synonyms": [
+      {
+        "word": "fillet",
+        "meaningZh": "n. 鱼片；肉片；去骨的鱼肉或肉块；带子；头带\nvt. 把鱼或肉去骨切片；用带缚",
+        "senseEn": "a longitudinal slice or boned side of a fish",
+        "source": "Princeton WordNet 3.0 synset 07655337-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "cinch",
+    "word": "cinch",
+    "pronunciationUs": "/ˈsɪntʃ/",
+    "partOfSpeech": "n. / vt.",
+    "meaningZh": "n. 肚带, 紧握, 必然(发生)的事情\nvt. 给...系肚带, 紧握住, 抓牢",
+    "difficulty": 8,
+    "rank": 17965,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "clinch",
+        "meaningZh": "n. 钉牢\nv. 敲弯, 用臂钳住",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：∅ → l。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "inch",
+        "meaningZh": "n. 英寸, 身高, 小岛\nvi. 慢慢前进, 慢慢移动\nvt. 使缓慢地移动",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：c → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "pinch",
+        "meaningZh": "n. 捏, 拧, 撮, 少量, 收缩, 挤压, 夹痛, 苦恼, 逮捕, 指控, 匮乏, 紧急关头\nvt. 捏, 拧, 掐, 挤压, 修剪, 使困苦, 使萎缩, 节制, 少量加入, 逮捕, 勒索\nvi. 收缩, 节省, 挤压, 引起苦恼",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：c → p。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "cinched",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "cinching",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "cinches",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/sˈɪntʃ/",
+    "synonyms": [
+      {
+        "word": "snap",
+        "meaningZh": "vt. 使突然中断, 猛咬, 争夺, 拉断, 使有啪啪声, 厉声说, 突然射击, 用快照拍摄\nvi. 咬, 扑, 抓, 折断, 劈啪地响, 厉声说, 砰然关上\nn. 猛咬, 猛扑, 劈啪声, 申斥, 快照, 活力, 一般时期的寒冷天气, 揿钮\na. 突然的, 装搭扣的\nadv. 猛地",
+        "senseEn": "any undertaking that is easy to do",
+        "source": "Princeton WordNet 3.0 synset 00575365-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "breeze",
+        "meaningZh": "n. 微风, 煤屑, 轻而易举的事\nvi. 吹微风, 逃走",
+        "senseEn": "any undertaking that is easy to do",
+        "source": "Princeton WordNet 3.0 synset 00575365-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "picnic",
+        "meaningZh": "n. 野餐, 远足, 愉快的经历\nvi. 去野餐, 远足",
+        "senseEn": "any undertaking that is easy to do",
+        "source": "Princeton WordNet 3.0 synset 00575365-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "girth",
+        "meaningZh": "n. (树的)干围, 周长, 肚带\nvt. 围绕, 包围\nvi. 围长为",
+        "senseEn": "stable gear consisting of a band around a horse's belly that holds the saddle in place",
+        "source": "Princeton WordNet 3.0 synset 03031756-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "pushover",
+        "meaningZh": "n. 容易做的工作, 易被劝服的人, 易被击败的人",
+        "senseEn": "any undertaking that is easy to do",
+        "source": "Princeton WordNet 3.0 synset 00575365-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "ransack",
+    "word": "ransack",
+    "pronunciationUs": "/ˈɹænˌsæk/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 到处搜索, 遍寻, 掠夺, 洗劫",
+    "difficulty": 8,
+    "rank": 17967,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "ransacking",
+        "meaningZh": "v. 彻底搜查( ransack的现在分词 ); 抢劫, 掠夺",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "ransacked",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "ransacking",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "ransacks",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/ɹˈænsæk/",
+    "synonyms": [
+      {
+        "word": "strip",
+        "meaningZh": "n. 长条, 条状, 带, 脱衣舞\nvt. 脱衣, 被剥去, 剥夺, 拆卸\nvi. 脱衣服",
+        "senseEn": "steal goods; take as spoils",
+        "source": "Princeton WordNet 3.0 synset 02344568-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "rifle",
+        "meaningZh": "n. 来复枪, 步枪\nvt. 用步枪射击, 抢夺\nvi. (抱有不良意图)迅速翻查",
+        "senseEn": "steal goods; take as spoils",
+        "source": "Princeton WordNet 3.0 synset 02344568-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "comb",
+        "meaningZh": "n. 头梳, 鸡冠\nvt. 梳头发, 梳毛\nvi. (浪)涌起",
+        "senseEn": "search thoroughly",
+        "source": "Princeton WordNet 3.0 synset 01319193-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "foray",
+        "meaningZh": "vi. 侵略, 劫掠, 袭击\nn. 侵掠, 侵略, 攻击",
+        "senseEn": "steal goods; take as spoils",
+        "source": "Princeton WordNet 3.0 synset 02344568-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "loot",
+        "meaningZh": "n. 赃物, 洗劫, 抢夺\nv. 洗劫, 抢夺",
+        "senseEn": "steal goods; take as spoils",
+        "source": "Princeton WordNet 3.0 synset 02344568-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "upriver",
+    "word": "upriver",
+    "pronunciationUs": "/ˌəˈpɹɪvɝ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 上游的, 向水源的",
+    "difficulty": 8,
+    "rank": 17971,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ˈʌpɹɪvɐ/",
+    "synonyms": [
+      {
+        "word": "upstream",
+        "meaningZh": "adv. 向上游, 逆流地\na. 向上游的, 逆流而上的",
+        "senseEn": "toward the source or against the current",
+        "source": "Princeton WordNet 3.0 synset 00097108-adv",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "tribesman",
+    "word": "tribesman",
+    "pronunciationUs": "/ˈtɹaɪbzmæn/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 部落男子",
+    "difficulty": 8,
+    "rank": 17981,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "tribesmen",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/tɹˈaɪbsmən/",
+    "synonyms": []
+  },
+  {
+    "id": "frothy",
+    "word": "frothy",
+    "pronunciationUs": "/ˈfɹɔθi/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 有泡的, 起泡的, 多泡的",
+    "difficulty": 8,
+    "rank": 17982,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "froth",
+        "meaningZh": "n. 泡, 泡沫, 琐物\nvt. 使生泡沫\nvi. 发泡, 吹泡",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "frothiness",
+        "meaningZh": "起泡沫性",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "frothily",
+        "meaningZh": "词族关联 · adv. 起泡地, 如泡地, 浅薄地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "frosty",
+        "meaningZh": "a. 霜冻的, 严寒的, 冷淡的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置4：∅ → s；位置5：h → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "frothiest",
+        "meaningZh": "最高级"
+      },
+      {
+        "word": "frothier",
+        "meaningZh": "比较级"
+      }
+    ],
+    "pronunciationUk": "/fɹˈɒθi/",
+    "synonyms": [
+      {
+        "word": "bubbly",
+        "meaningZh": "a. 多泡的, 起泡的\nn. 香槟酒",
+        "senseEn": "emitting or filled with bubbles as from carbonation or fermentation",
+        "source": "Princeton WordNet 3.0 synset 02276305-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "foamy",
+        "meaningZh": "a. 全是泡沫的, 起泡沫的, 泡沫的",
+        "senseEn": "emitting or filled with bubbles as from carbonation or fermentation",
+        "source": "Princeton WordNet 3.0 synset 02276305-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "effervescent",
+        "meaningZh": "a. 冒泡的, 兴奋的, 泡腾的",
+        "senseEn": "marked by high spirits or excitement",
+        "source": "Princeton WordNet 3.0 synset 00805810-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "recollect",
+    "word": "recollect",
+    "pronunciationUs": "/ˌɹɛkəˈɫɛkt/, /ˌɹikəˈɫɛkt/",
+    "partOfSpeech": "vt. / vi.",
+    "meaningZh": "vt. 回忆, 回想, 忆起\nvi. 回忆",
+    "difficulty": 8,
+    "rank": 17984,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "recollection",
+        "meaningZh": "n. 记忆, 回想, 回忆",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "recollected",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "recollects",
+        "meaningZh": "第三人称单数"
+      },
+      {
+        "word": "recollecting",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "/ɹɛkəˈlɛkt/, /ɹiːkəˈlɛkt/",
+    "synonyms": [
+      {
+        "word": "think",
+        "meaningZh": "vt. 想, 考虑, 想起, 想像, 打算, 认为\nvi. 思考, 料想\nn. 想法\na. 思想的",
+        "senseEn": "recall knowledge from memory; have a recollection",
+        "source": "Princeton WordNet 3.0 synset 00607780-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "remember",
+        "meaningZh": "vt. 记得, 回忆起, 记住, 铭记, 纪念\nvi. 记得",
+        "senseEn": "recall knowledge from memory; have a recollection",
+        "source": "Princeton WordNet 3.0 synset 00607780-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "recall",
+        "meaningZh": "n. 回忆, 召回, 撤消\nvt. 回想, 回忆, 召回, 撤消, 使恢复",
+        "senseEn": "recall knowledge from memory; have a recollection",
+        "source": "Princeton WordNet 3.0 synset 00607780-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "retrieve",
+        "meaningZh": "vt. 取回, 挽回, 弥补, 恢复, 补偿, 回忆, 检索\nvi. 找回猎物\nn. 取回, 恢复, 救险球",
+        "senseEn": "recall knowledge from memory; have a recollection",
+        "source": "Princeton WordNet 3.0 synset 00607780-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "recalcitrant",
+    "word": "recalcitrant",
+    "pronunciationUs": "/ɹɪˈkæɫsɪtɹənt/",
+    "partOfSpeech": "adj. / n.",
+    "meaningZh": "a. 反抗的, 反对的, 顽抗的\nn. 反抗者, 顽抗者",
+    "difficulty": 8,
+    "rank": 17985,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "recalcitrancy",
+        "meaningZh": "n. 反抗, 不顺从",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "recalcitrants",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɹɪkˈælsɪtɹənt/",
+    "synonyms": [
+      {
+        "word": "fractious",
+        "meaningZh": "a. 易怒的, 倔强的, 脾气不好的",
+        "senseEn": "stubbornly resistant to authority or control",
+        "source": "Princeton WordNet 3.0 synset 01614127-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "refractory",
+        "meaningZh": "a. 不听话的, 执拗的, 难治疗的, 耐火的",
+        "senseEn": "stubbornly resistant to authority or control",
+        "source": "Princeton WordNet 3.0 synset 01614127-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "heh",
+    "word": "heh",
+    "pronunciationUs": "/ˈhɛ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 嗨！（表示惊异质问）",
+    "difficulty": 8,
+    "rank": 17987,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "",
+    "synonyms": []
+  },
+  {
+    "id": "drooping",
+    "word": "drooping",
+    "pronunciationUs": "/ˈdɹupɪŋ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 下垂的,无力的",
+    "difficulty": 8,
+    "rank": 17992,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "drooping juniper",
+        "zh": "墨西哥垂桧",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "dropping",
+        "meaningZh": "n. 点滴, 滴下, 落下",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置4：o → p。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/dɹˈuːpɪŋ/",
+    "synonyms": [
+      {
+        "word": "weeping",
+        "meaningZh": "n. 哭泣, 流泪\na. 哭泣的, 滴水的, 泪汪汪的, 下雨的, 多雨的, 垂枝的",
+        "senseEn": "having branches or flower heads that bend downward",
+        "source": "Princeton WordNet 3.0 synset 01238486-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "droopy",
+        "meaningZh": "a. 下垂的；没有精神的",
+        "senseEn": "hanging down (as from exhaustion or weakness)",
+        "source": "Princeton WordNet 3.0 synset 02403944-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "flagging",
+        "meaningZh": "n. 铺砌石板, 铺石材料, 石板路\na. 下垂的, 衰弱的, 萎靡不振的",
+        "senseEn": "weak from exhaustion",
+        "source": "Princeton WordNet 3.0 synset 02433365-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "pendulous",
+        "meaningZh": "a. 下垂的, 摇摆的, 摇摆不定的, 动荡的",
+        "senseEn": "having branches or flower heads that bend downward",
+        "source": "Princeton WordNet 3.0 synset 01238486-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "nodding",
+        "meaningZh": "a. 点头的, 低垂的；昏昏欲睡的",
+        "senseEn": "having branches or flower heads that bend downward",
+        "source": "Princeton WordNet 3.0 synset 01238486-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "gumbo",
+    "word": "gumbo",
+    "pronunciationUs": "/ˈɡəmboʊ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 大杂烩",
+    "difficulty": 8,
+    "rank": 17993,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "gumbo soil",
+        "zh": "强黏土，坚硬黏土",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "jumbo",
+        "meaningZh": "n. 庞然大物\na. 巨大的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：g → j。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/ɡˈʌmbəʊ/",
+    "synonyms": [
+      {
+        "word": "okra",
+        "meaningZh": "n. 秋葵, 秋葵荚, 羊角豆",
+        "senseEn": "long mucilaginous green pods; may be simmered or sauteed but used especially in soups and stews",
+        "source": "Princeton WordNet 3.0 synset 07733394-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "libido",
+    "word": "libido",
+    "pronunciationUs": "/ɫəˈbidoʊ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 性的冲动, 性欲",
+    "difficulty": 8,
+    "rank": 17995,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "libidinal",
+        "meaningZh": "a. 性欲的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "libidinous",
+        "meaningZh": "a. 好色的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "libidos",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/lɪbˈiːdəʊ/",
+    "synonyms": []
+  },
+  {
+    "id": "scrunch",
+    "word": "scrunch",
+    "pronunciationUs": "/ˈskɹəntʃ/",
+    "partOfSpeech": "vt. / vi. / n.",
+    "meaningZh": "vt. 碾碎, 缩紧\nvi. 嘎吱地响, 蜷缩\nn. 嘎嘎响声",
+    "difficulty": 8,
+    "rank": 18003,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "scrunch up",
+        "zh": "n. 喀嚓声; 把…揉成小团; 扭曲（面部）",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "crunch",
+        "meaningZh": "v. 嘎吱嘎吱的咬嚼, 压碎, 嘎吱嘎吱地踏过\nn. 咬碎, 咬碎声",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：s → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "crunchy",
+        "meaningZh": "a. 发嘎吱嘎吱声的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：s → ∅；位置8：∅ → y。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "scrunched",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "scrunching",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "scrunches",
+        "meaningZh": "第三人称单数 / 复数"
+      }
+    ],
+    "pronunciationUk": "/skɹˈʌntʃ/",
+    "synonyms": [
+      {
+        "word": "crisp",
+        "meaningZh": "a. 脆的, 新鲜的, 活泼的\nv. (使)烘脆, (使)拳曲, (使)起皱\nn. 松脆物",
+        "senseEn": "make wrinkles or creases on a smooth surface; make a pressed, folded or wrinkled line in",
+        "source": "Princeton WordNet 3.0 synset 01278427-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "crouch",
+        "meaningZh": "n. 蹲伏, 蜷缩\nvi. 蹲下, 蜷着, 缩着\nvt. 低头",
+        "senseEn": "sit on one's heels",
+        "source": "Princeton WordNet 3.0 synset 01545314-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "wrinkle",
+        "meaningZh": "n. 皱纹, 妙计, 方法, 技巧\nvi. 起皱\nvt. 使起皱纹",
+        "senseEn": "make wrinkles or creases on a smooth surface; make a pressed, folded or wrinkled line in",
+        "source": "Princeton WordNet 3.0 synset 01278427-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "squat",
+        "meaningZh": "n. 蹲, 窝\na. 蹲着的, 矮胖的\nvi. 蹲下, 蹲坐, 蹲伏\nvt. 使蹲下, 擅自占有",
+        "senseEn": "sit on one's heels",
+        "source": "Princeton WordNet 3.0 synset 01545314-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "crease",
+        "meaningZh": "n. 皱痕, 折痕\nv. (使)起皱痕",
+        "senseEn": "make wrinkles or creases on a smooth surface; make a pressed, folded or wrinkled line in",
+        "source": "Princeton WordNet 3.0 synset 01278427-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "intergroup",
+    "word": "intergroup",
+    "pronunciationUs": "/ˌɪntɝˈɡɹup/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 团体之间的",
+    "difficulty": 8,
+    "rank": 18004,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "intergroups",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "",
+    "synonyms": []
+  },
+  {
+    "id": "franchisee",
+    "word": "franchisee",
+    "pronunciationUs": "/ˈfɹænˌtʃaɪˈzi/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 有代销权的人(或团体)",
+    "difficulty": 8,
+    "rank": 18008,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "franchise",
+        "meaningZh": "n. 公民权, 特权, 特许经营权, 免赔额\nvt. 给以特权, 给以...公民权",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置10：e → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "franchised",
+        "meaningZh": "v. 给…以特许权, 出售特许权( franchise的过去式和过去分词 )",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置10：e → d。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "franchisees",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/fɹˈɑːntʃɪsˌiː/",
+    "synonyms": []
+  },
+  {
+    "id": "shanty",
+    "word": "shanty",
+    "pronunciationUs": "/ˈʃænti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 棚屋",
+    "difficulty": 8,
+    "rank": 18013,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "sanity",
+        "meaningZh": "n. 神智健全, 头脑清楚, 通情达理",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：h → ∅；位置5：∅ → i。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "scanty",
+        "meaningZh": "a. 缺乏的, 仅有的, 不够的, 狭小的, 吝啬的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：h → c。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "shanties",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ʃˈɑːnti/",
+    "synonyms": [
+      {
+        "word": "hut",
+        "meaningZh": "n. 小屋, 茅舍, 临时军营\nv. (使)住在茅舍",
+        "senseEn": "small crude shelter used as a dwelling",
+        "source": "Princeton WordNet 3.0 synset 03547054-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "shack",
+        "meaningZh": "n. 陋屋, 棚屋\nvi. 居住, 暂住",
+        "senseEn": "small crude shelter used as a dwelling",
+        "source": "Princeton WordNet 3.0 synset 03547054-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "hutch",
+        "meaningZh": "n. 箱, 厨, 笼, 小屋\nvt. 把...装箱",
+        "senseEn": "small crude shelter used as a dwelling",
+        "source": "Princeton WordNet 3.0 synset 03547054-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "hovel",
+        "meaningZh": "n. 简陋小屋, 杂物间, 家畜小屋",
+        "senseEn": "small crude shelter used as a dwelling",
+        "source": "Princeton WordNet 3.0 synset 03547054-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "branching",
+    "word": "branching",
+    "pronunciationUs": "/ˈbɹæntʃɪŋ/",
+    "partOfSpeech": "n. / adj.",
+    "meaningZh": "n. 分歧\na. 发枝的, 分歧的",
+    "difficulty": 8,
+    "rank": 18017,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "ranching",
+        "meaningZh": "n. 经营大牧场",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：b → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "breaching",
+        "meaningZh": "v. 攻破( breach的过去式 ); 破坏, 违反",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：∅ → e；位置4：n → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "branchings",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/bɹˈɑːntʃɪŋ/",
+    "synonyms": [
+      {
+        "word": "fork",
+        "meaningZh": "n. 叉子, 叉状物, 分岔\nvi. 分支, 分歧\nvt. 做成叉形, 叉起",
+        "senseEn": "the act of branching out or dividing into branches",
+        "source": "Princeton WordNet 3.0 synset 00388392-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "ramification",
+        "meaningZh": "n. 分枝, 分叉, 枝状物, 支脉, 支流, 衍生物",
+        "senseEn": "the act of branching out or dividing into branches",
+        "source": "Princeton WordNet 3.0 synset 00388392-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "branched",
+        "meaningZh": "a. 分枝的；枝状的；有枝的",
+        "senseEn": "having branches",
+        "source": "Princeton WordNet 3.0 synset 00613866-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "boarder",
+    "word": "boarder",
+    "pronunciationUs": "/ˈbɔɹdɝ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 寄膳者, 寄膳宿者",
+    "difficulty": 8,
+    "rank": 18018,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "day boarder",
+        "zh": "n. 搭伙走读生",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "board",
+        "meaningZh": "n. 木板, 甲板, 膳食, 会议桌\nvt. 乘船, 供膳食, 用板覆盖\nvi. 搭伙",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "border",
+        "meaningZh": "n. 边缘, 边境, 边界, 花坛\nvt. 在...上镶边, 接近\nvi. 接界, 近似",
+        "note": "同音对照：美式词典中至少一个读音相同；注意区分拼写及各自词义。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "boarders",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/bˈɔːdɐ/",
+    "synonyms": []
+  },
+  {
+    "id": "tumbling",
+    "word": "tumbling",
+    "pronunciationUs": "/ˈtəmbəɫɪŋ/, /ˈtəmbɫɪŋ/",
+    "partOfSpeech": "n. / adj.",
+    "meaningZh": "n. 摔跤, 翻筋斗\na. 斜的",
+    "difficulty": 8,
+    "rank": 18022,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "tumble",
+        "meaningZh": "n. 跌倒, 摔跤, 翻斤斗\nvi. 翻倒, 摔倒, 倒塌, 滚动, 翻斤斗, 仓促地行动\nvt. 使摔倒, 使滚翻, 弄乱",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "stumbling",
+        "meaningZh": "adj. 绊绊跌跌的；结结巴巴的\nv. 绊倒；蹒跚；结巴（stumble 的现在分词）；stumbling block：障碍",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：∅ → s。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "rumbling",
+        "meaningZh": "n. 隆隆声, 辘辘声",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：t → r。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "humbling",
+        "meaningZh": "a. 令人羞辱的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：t → h。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/tˈʌmblɪŋ/",
+    "synonyms": [
+      {
+        "word": "acrobatics",
+        "meaningZh": "n. 杂技, 杂技表演",
+        "senseEn": "the gymnastic moves of an acrobat",
+        "source": "Princeton WordNet 3.0 synset 00434075-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "smokestack",
+    "word": "smokestack",
+    "pronunciationUs": "/ˈsmoʊkˌstæk/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 烟囱",
+    "difficulty": 8,
+    "rank": 18023,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "smokestacks",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/smˈəʊkstæk/",
+    "synonyms": [
+      {
+        "word": "stack",
+        "meaningZh": "n. 堆叠, 堆, 大量, 书库, 枪架, 烟囱, 堆积, 存贮栈\nvt. 堆积, 堆满, 暗中对...做手脚\nvi. 堆起",
+        "senseEn": "a large tall chimney through which combustion gases and smoke can be evacuated",
+        "source": "Princeton WordNet 3.0 synset 04247175-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "disenchanted",
+    "word": "disenchanted",
+    "pronunciationUs": "/dɪsɪnˈtʃænɪd/, /dɪsɪnˈtʃæntɪd/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 感到幻灭的, 不再抱幻想的, 不再着迷的",
+    "difficulty": 8,
+    "rank": 18035,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/dˌɪsɛntʃˈɑːntɪd/",
+    "synonyms": []
+  },
+  {
+    "id": "downtime",
+    "word": "downtime",
+    "pronunciationUs": "/ˈdaʊnˌtaɪm/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 停工期",
+    "difficulty": 8,
+    "rank": 18043,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/dˈaʊntaɪm/",
+    "synonyms": []
+  },
+  {
+    "id": "hoopla",
+    "word": "hoopla",
+    "pronunciationUs": "/ˈhuˌpɫɑ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 喧闹, 大吹大擂的宣传, 投环套物游戏",
+    "difficulty": 8,
+    "rank": 18047,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/hˈuːplɐ/",
+    "synonyms": [
+      {
+        "word": "plug",
+        "meaningZh": "n. 塞子, 栓, 插头\nvt. 插入, 塞住, 接插头\nvi. 被塞住",
+        "senseEn": "blatant or sensational promotion",
+        "source": "Princeton WordNet 3.0 synset 07248507-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "hype",
+        "meaningZh": "n. 大肆宣传；皮下注射",
+        "senseEn": "blatant or sensational promotion",
+        "source": "Princeton WordNet 3.0 synset 07248507-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "ballyhoo",
+        "meaningZh": "n. 大肆宣传, 大吹大擂, 喧噪\nv. 大肆宣传, 大吹大擂",
+        "senseEn": "blatant or sensational promotion",
+        "source": "Princeton WordNet 3.0 synset 07248507-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "irritant",
+    "word": "irritant",
+    "pronunciationUs": "/ˈɪɹətənt/",
+    "partOfSpeech": "adj. / n.",
+    "meaningZh": "a. 刺激的, 刺激性的\nn. 刺激物, 刺激剂",
+    "difficulty": 8,
+    "rank": 18052,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "chemical irritant",
+        "zh": "化学刺激物",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "irritate",
+        "meaningZh": "vt. 激怒, 使发怒, 使兴奋, 使发炎\nvi. 引起不快",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "irritants",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ˈɪɹɪtənt/",
+    "synonyms": [
+      {
+        "word": "thorn",
+        "meaningZh": "n. 刺, 棘, 荆棘",
+        "senseEn": "something that causes irritation and annoyance",
+        "source": "Princeton WordNet 3.0 synset 05831784-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "prescient",
+    "word": "prescient",
+    "pronunciationUs": "/ˈpɹɛsiənt/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 预知的, 有先见之明的",
+    "difficulty": 8,
+    "rank": 18054,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "prescience",
+        "meaningZh": "n. 预知, 先见",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "presciently",
+        "meaningZh": "词族关联 · adv. 预见性地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "president",
+        "meaningZh": "n. 总统, 总裁, 董事长, (学院)院长, (大学)校长, 主管人, 主持人",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置5：c → ∅；位置7：∅ → d。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/pɹˈiːsiənt/",
+    "synonyms": []
+  },
+  {
+    "id": "radon",
+    "word": "radon",
+    "pronunciationUs": "/ˈɹeɪˌdɑn/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 氡",
+    "difficulty": 8,
+    "rank": 18058,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "radio",
+        "meaningZh": "n. 无线电, 收音机, 无线电报, 无线电广播, 无线电台\nv. 用无线电发送",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置4：∅ → i；位置5：n → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "adorn",
+        "meaningZh": "vt. 装饰, 使生色",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：r → ∅；位置5：∅ → r。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "rayon",
+        "meaningZh": "n. 人造丝",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：d → y。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/ɹˈeɪdɒn/",
+    "synonyms": []
+  },
+  {
+    "id": "newsman",
+    "word": "newsman",
+    "pronunciationUs": "/ˈnuzˌmæn/, /ˈnuzmən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 报童, 送报人, 新闻记者",
+    "difficulty": 8,
+    "rank": 18063,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "newsmen",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/njˈuːzmæn/",
+    "synonyms": [
+      {
+        "word": "reporter",
+        "meaningZh": "n. 记者, 报告者",
+        "senseEn": "a person who investigates and reports or edits news stories",
+        "source": "Princeton WordNet 3.0 synset 10521662-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "cheater",
+    "word": "cheater",
+    "pronunciationUs": "/ˈtʃitɝ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 骗子, 诈手",
+    "difficulty": 8,
+    "rank": 18078,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "cheat",
+        "meaningZh": "n. 欺骗, 作弊, 骗子\nv. 欺骗, 逃脱, 骗取",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "heater",
+        "meaningZh": "n. 加热器, 灯丝, 加热工",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：c → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "theater",
+        "meaningZh": "n. 戏院, 电影院, 剧场, 全体观众, 戏剧, 戏剧效果, 阶梯式讲堂, 场所",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：c → t。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "chapter",
+        "meaningZh": "n. 章, 篇, 重要章节",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：e → ∅；位置5：∅ → p。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "cheaters",
+        "meaningZh": "复数"
+      },
+      {
+        "word": "cheatering",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "/tʃˈiːtɐ/",
+    "synonyms": [
+      {
+        "word": "cheat",
+        "meaningZh": "n. 欺骗, 作弊, 骗子\nv. 欺骗, 逃脱, 骗取",
+        "senseEn": "someone who leads you to believe something that is not true",
+        "source": "Princeton WordNet 3.0 synset 09998101-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "trickster",
+        "meaningZh": "n. 骗子, 魔术师",
+        "senseEn": "someone who leads you to believe something that is not true",
+        "source": "Princeton WordNet 3.0 synset 09998101-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "slicker",
+        "meaningZh": "n. 防水衣, 雨衣, 骗子",
+        "senseEn": "someone who leads you to believe something that is not true",
+        "source": "Princeton WordNet 3.0 synset 09998101-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "aftershock",
+    "word": "aftershock",
+    "pronunciationUs": "/ˈæftɝˌʃɑk/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 余震",
+    "difficulty": 8,
+    "rank": 18079,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "aftershocks",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ˈɑːftəʃˌɒk/",
+    "synonyms": []
+  },
+  {
+    "id": "vanquished",
+    "word": "vanquished",
+    "pronunciationUs": "/ˈvæŋkwɪʃt/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 被征服的",
+    "difficulty": 8,
+    "rank": 18087,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/vˈænkwɪʃt/",
+    "synonyms": []
+  },
+  {
+    "id": "underbrush",
+    "word": "underbrush",
+    "pronunciationUs": "/ˈəndɝˌbɹəʃ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 林下灌丛",
+    "difficulty": 8,
+    "rank": 18089,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "",
+    "synonyms": [
+      {
+        "word": "undergrowth",
+        "meaningZh": "n. 下层丛林, 生于大树下的矮树, 发育不全",
+        "senseEn": "the brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest",
+        "source": "Princeton WordNet 3.0 synset 08439476-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "buzzword",
+    "word": "buzzword",
+    "pronunciationUs": "/ˈbəzwɝd/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 流行词",
+    "difficulty": 8,
+    "rank": 18093,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "buzzwords",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/bˈʌzwɜːd/",
+    "synonyms": [
+      {
+        "word": "cant",
+        "meaningZh": "n. 伪善之言, 黑话, 斜面, 角落\nvi. 讲黑话, 倾斜",
+        "senseEn": "stock phrases that have become nonsense through endless repetition",
+        "source": "Princeton WordNet 3.0 synset 06608277-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "arugula",
+    "word": "arugula",
+    "pronunciationUs": "/ˌɑˈɹuɡuɫə/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. [植]芝麻菜",
+    "difficulty": 8,
+    "rank": 18096,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/æɹˈuːɡjʊlɐ/",
+    "synonyms": [
+      {
+        "word": "rocket",
+        "meaningZh": "n. 火箭, 烟火\nvi. 急升, 猛涨, 飞驰\nvt. 用火箭运载",
+        "senseEn": "erect European annual often grown as a salad crop to be harvested when young and tender",
+        "source": "Princeton WordNet 3.0 synset 11886537-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "lewd",
+    "word": "lewd",
+    "pronunciationUs": "/ˈɫud/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 淫荡的",
+    "difficulty": 8,
+    "rank": 18097,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "lewdly",
+        "meaningZh": "词族关联 · adv. 淫荡地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "lead",
+        "meaningZh": "n. 铅, 铅条, 领导, 超前量, 领引, 榜样, 主角, 导线\nvt. 引导, 带领, 领导, 指挥, 致使, 加铅于, 用铅包\nvi. 领导, 带头, 导致, 用测深锤测深, 被铅覆盖\na. 带头的, 最重要的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：w → a。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "lend",
+        "meaningZh": "vt. 借, 贷款给, 增添, 提供, 出租\nvi. 贷款",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：w → n。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "sled",
+        "meaningZh": "n. 雪撬\nvt. 用雪撬搬运\nvi. 乘雪撬",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：∅ → s；位置3：w → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/lˈuːd/",
+    "synonyms": [
+      {
+        "word": "obscene",
+        "meaningZh": "a. 淫秽的, 猥亵的, 讨人厌的, 可憎的",
+        "senseEn": "suggestive of or tending to moral looseness",
+        "source": "Princeton WordNet 3.0 synset 00425740-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "salacious",
+        "meaningZh": "a. 好色的, 猥亵的, 黄色的",
+        "senseEn": "suggestive of or tending to moral looseness",
+        "source": "Princeton WordNet 3.0 synset 00425740-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "raunchy",
+        "meaningZh": "a. 不整洁的, 不修边幅的, 肮脏的, 淫秽的",
+        "senseEn": "suggestive of or tending to moral looseness",
+        "source": "Princeton WordNet 3.0 synset 00425740-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "lascivious",
+        "meaningZh": "a. 好色的",
+        "senseEn": "driven by lust; preoccupied with or exhibiting lustful desires",
+        "source": "Princeton WordNet 3.0 synset 02133207-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "lustful",
+        "meaningZh": "a. 贪欲的, 好色的",
+        "senseEn": "driven by lust; preoccupied with or exhibiting lustful desires",
+        "source": "Princeton WordNet 3.0 synset 02133207-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "trawler",
+    "word": "trawler",
+    "pronunciationUs": "/ˈtɹɔɫɝ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 拖网渔船",
+    "difficulty": 8,
+    "rank": 18109,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "trailer",
+        "meaningZh": "n. 追踪者, 拖车",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置4：w → i。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "crawler",
+        "meaningZh": "n. 爬行者, 蠕动的东西, 虱, (澳)马屁精, 奴颜婢膝的人, 婴儿的罩衣",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：t → c。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "trawlers",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/tɹˈɔːlɐ/",
+    "synonyms": []
+  },
+  {
+    "id": "esophagus",
+    "word": "esophagus",
+    "pronunciationUs": "/ɪˈsɑfəɡəs/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 食道",
+    "difficulty": 8,
+    "rank": 18110,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "esophageal",
+        "meaningZh": "a. 食管",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "esophagi",
+        "meaningZh": "名词词形（OEWN 明示）"
+      },
+      {
+        "word": "oesophagi",
+        "meaningZh": "名词词形（OEWN 明示）"
+      }
+    ],
+    "pronunciationUk": "",
+    "synonyms": [
+      {
+        "word": "gorge",
+        "meaningZh": "n. 峡谷, 凹槽, 塞饱, 咽喉\nvi. 狼吞虎咽\nvt. 塞饱, 狼吞虎咽地吃",
+        "senseEn": "the passage between the pharynx and the stomach",
+        "source": "Princeton WordNet 3.0 synset 05533948-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "gullet",
+        "meaningZh": "n. 食道, 咽喉, 排水沟, 海峡",
+        "senseEn": "the passage between the pharynx and the stomach",
+        "source": "Princeton WordNet 3.0 synset 05533948-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "goatee",
+    "word": "goatee",
+    "pronunciationUs": "/ˈɡoʊˈti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 山羊胡子",
+    "difficulty": 8,
+    "rank": 18111,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɡəʊtˈiː/",
+    "synonyms": []
+  },
+  {
+    "id": "dioxin",
+    "word": "dioxin",
+    "pronunciationUs": "/ˌdaɪˈɑksɪn/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. [化]二氧(杂)芑",
+    "difficulty": 8,
+    "rank": 18120,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "dioxins",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/daɪˈɒksɪn/",
+    "synonyms": []
+  },
+  {
+    "id": "upkeep",
+    "word": "upkeep",
+    "pronunciationUs": "/ˈəpˌkip/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 维持, 维修费",
+    "difficulty": 8,
+    "rank": 18132,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ˈʌpkiːp/",
+    "synonyms": [
+      {
+        "word": "care",
+        "meaningZh": "n. 小心, 照料, 忧虑\nvi. 关心, 介意\nvt. 在意, 喜欢",
+        "senseEn": "activity involved in maintaining something in good working order",
+        "source": "Princeton WordNet 3.0 synset 00267522-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "maintenance",
+        "meaningZh": "n. 维护, 保持, 维修, 生活费用, 坚持, 扶养",
+        "senseEn": "activity involved in maintaining something in good working order",
+        "source": "Princeton WordNet 3.0 synset 00267522-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "sustenance",
+        "meaningZh": "n. 生活资料, 生计, 食物, 支持",
+        "senseEn": "the act of sustaining life by food or providing a means of subsistence",
+        "source": "Princeton WordNet 3.0 synset 01216191-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "manhunt",
+    "word": "manhunt",
+    "pronunciationUs": "/ˈmænˌhənt/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 搜捕",
+    "difficulty": 8,
+    "rank": 18133,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "manhunts",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/mˈænhʌnt/",
+    "synonyms": []
+  },
+  {
+    "id": "amok",
+    "word": "amok",
+    "pronunciationUs": "/əˈmək/",
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 乱砍乱杀, 杀气腾腾地横冲直撞",
+    "difficulty": 8,
+    "rank": 18140,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "monk",
+        "meaningZh": "n. 修道士, 僧侣, 和尚",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：a → ∅；位置4：∅ → n。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "mock",
+        "meaningZh": "n. 嘲笑, 戏弄, 模仿\na. 假的, 伪造的, 模拟的\nadv. 虚伪地\nvt. 嘲弄, 模仿, 使失望, 欺骗, 挫败\nvi. 嘲弄",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：a → ∅；位置4：∅ → c。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "ammo",
+        "meaningZh": "n. 军火, 弹药",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：∅ → m；位置4：k → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/ɐmˈɒk/",
+    "synonyms": [
+      {
+        "word": "possessed",
+        "meaningZh": "a. 中邪魔的, 被妖魔缠住的",
+        "senseEn": "frenzied as if possessed by a demon",
+        "source": "Princeton WordNet 3.0 synset 02074673-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "cluck",
+    "word": "cluck",
+    "pronunciationUs": "/ˈkɫək/",
+    "partOfSpeech": "n. / v.",
+    "meaningZh": "n. 咯咯的叫声\nv. 咯咯叫",
+    "difficulty": 8,
+    "rank": 18143,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "luck",
+        "meaningZh": "n. 运气, 幸运, 好运, 侥幸\nvi. 靠好运成功",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：c → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "lucky",
+        "meaningZh": "a. 幸运的, 吉祥的, 好运的, 侥幸的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：c → ∅；位置6：∅ → y。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "clock",
+        "meaningZh": "n. 时钟, 计时器, (袜子上的)绣花边花\nvt. 绣花样, 记时, 记录\nvi. 记录时间",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：u → o。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "clucked",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "clucking",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "clucks",
+        "meaningZh": "第三人称单数 / 复数"
+      }
+    ],
+    "pronunciationUk": "/klˈʌk/",
+    "synonyms": [
+      {
+        "word": "click",
+        "meaningZh": "n. 咔哒声, 啪嗒声\nvi. 作咔哒声\nvt. 使发咔哒声",
+        "senseEn": "make a clucking sounds, characteristic of hens",
+        "source": "Princeton WordNet 3.0 synset 01054849-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "clack",
+        "meaningZh": "v. 噼啪响\nn. 噼啪响",
+        "senseEn": "make a clucking sounds, characteristic of hens",
+        "source": "Princeton WordNet 3.0 synset 01054849-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "clucking",
+        "meaningZh": "v. （母鸡）咯咯声( cluck的现在分词 ); <俚>傻瓜, 笨蛋",
+        "senseEn": "the sound made by a hen (as in calling her chicks)",
+        "source": "Princeton WordNet 3.0 synset 07381100-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "repulse",
+    "word": "repulse",
+    "pronunciationUs": "/ɹiˈpəɫs/",
+    "partOfSpeech": "n. / vt.",
+    "meaningZh": "n. 击退, 拒绝\nvt. 厌恶, 击退, 拒绝",
+    "difficulty": 8,
+    "rank": 18145,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "repulsion",
+        "meaningZh": "n. 击退, 排斥力, 反感",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "repulsed",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "repulsing",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "repulses",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/ɹɪpˈʌls/",
+    "synonyms": [
+      {
+        "word": "drive",
+        "meaningZh": "n. 驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器\nvt. 开车, 驱使, 推动, 驾驶\nvi. 开车, 猛击, 飞跑",
+        "senseEn": "cause to move back by force or influence",
+        "source": "Princeton WordNet 3.0 synset 01506157-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "repel",
+        "meaningZh": "vt. 逐退, 抵制, 使厌恶, 抗御\nvi. 使厌恶, 相互排斥",
+        "senseEn": "force or drive back",
+        "source": "Princeton WordNet 3.0 synset 01131197-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "rebuff",
+        "meaningZh": "n. 断然拒绝, 严厉拒绝, 漠不关心\nvt. 严厉拒绝",
+        "senseEn": "an instance of driving away or warding off",
+        "source": "Princeton WordNet 3.0 synset 07208000-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "snub",
+        "meaningZh": "n. 冷落, 怠慢, 斥责, 制止\na. 制动用的, 短而扁的\nvt. 冷落, 怠慢, 制止, 使...停住, 掐灭",
+        "senseEn": "an instance of driving away or warding off",
+        "source": "Princeton WordNet 3.0 synset 07208000-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "stricture",
+    "word": "stricture",
+    "pronunciationUs": "/ˈstɹɪktʃɝ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 狭窄, 指责, 束缚",
+    "difficulty": 8,
+    "rank": 18158,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "structure",
+        "meaningZh": "n. 结构, 构造, 建筑物\nvt. 构成, 组织",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置4：i → u。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "strictures",
+        "meaningZh": "复数"
+      },
+      {
+        "word": "stricturing",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "strictured",
+        "meaningZh": "过去式"
+      }
+    ],
+    "pronunciationUk": "/stɹˈɪktʃɐ/",
+    "synonyms": [
+      {
+        "word": "stenosis",
+        "meaningZh": "n. 狭窄",
+        "senseEn": "abnormal narrowing of a bodily canal or passageway",
+        "source": "Princeton WordNet 3.0 synset 14107374-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "mesquite",
+    "word": "mesquite",
+    "pronunciationUs": "/ˈmɛsˌkit/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 豆科灌木（产于美国西南部和墨西哥）",
+    "difficulty": 8,
+    "rank": 18168,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "honey mesquite",
+        "zh": "牧豆树（Prosopis juliflora,产于西印度群岛的多刺灌木）",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "mesquite gum",
+        "zh": "甜荚豆胶, 墨西哥胶",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/mɛskˈiːt/",
+    "synonyms": []
+  },
+  {
+    "id": "artifice",
+    "word": "artifice",
+    "pronunciationUs": "/ˈɑɹtəfɪs/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 诡计, 技巧, 巧妙",
+    "difficulty": 8,
+    "rank": 18184,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "artifices",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ˈɑːtɪfɪs/",
+    "synonyms": [
+      {
+        "word": "ruse",
+        "meaningZh": "n. 计策, 谋略, 诡计",
+        "senseEn": "a deceptive maneuver (especially to avoid capture)",
+        "source": "Princeton WordNet 3.0 synset 00172598-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "compendium",
+    "word": "compendium",
+    "pronunciationUs": "/kəmˈpɛndiəm/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 纲要, 概略",
+    "difficulty": 8,
+    "rank": 18189,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "compendious",
+        "meaningZh": "a. 扼要的, 简明的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "compendia",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/kəmpˈɛndiəm/",
+    "synonyms": [
+      {
+        "word": "collection",
+        "meaningZh": "n. 收集, 采集, (一批)收藏品, 募捐",
+        "senseEn": "a publication containing a variety of works",
+        "source": "Princeton WordNet 3.0 synset 06591442-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "souffle",
+    "word": "souffle",
+    "pronunciationUs": "/suˈfɫeɪ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 杂音",
+    "difficulty": 8,
+    "rank": 18199,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "cheese souffle",
+        "zh": "奶酪蛋奶酥",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "shuffle",
+        "meaningZh": "n. 拖着脚走, 曳步, 混乱, 蒙混, 洗纸牌\nv. 拖曳, 马虎地做, 笨手笨脚地穿(脱)衣, 推诿, 洗牌",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：o → h。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "scuffle",
+        "meaningZh": "vi. 扭打, 混战, 拖着脚走, 敷衍了事\nn. 扭打, 混战, 拖着脚走",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：o → c。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "souffles",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "",
+    "synonyms": []
+  },
+  {
+    "id": "unquestioned",
+    "word": "unquestioned",
+    "pronunciationUs": "/ənˈkwɛstʃənd/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 未经审问的, 未经调查的, 无异议的, 不被怀疑的",
+    "difficulty": 8,
+    "rank": 18205,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ʌnkwˈɛstʃənd/",
+    "synonyms": [
+      {
+        "word": "undisputed",
+        "meaningZh": "a. 无可争辩的, 无异议的",
+        "senseEn": "generally agreed upon; not subject to dispute",
+        "source": "Princeton WordNet 3.0 synset 00603039-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "unchallenged",
+        "meaningZh": "a. 未引起争论的, 未受到挑战的, 毫无疑问的",
+        "senseEn": "generally agreed upon; not subject to dispute",
+        "source": "Princeton WordNet 3.0 synset 00603039-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "cropped",
+    "word": "cropped",
+    "pronunciationUs": "/ˈkɹɑpt/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 裁切不正的",
+    "difficulty": 8,
+    "rank": 18211,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "chopped",
+        "meaningZh": "v. 砍；斩碎；大量削减（chop的过去分词）",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：r → h。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "dropped",
+        "meaningZh": "a. 抛踢球得分的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：c → d。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "cropper",
+        "meaningZh": "n. 种植者, 农作物",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置7：d → r。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/kɹˈɒpt/",
+    "synonyms": []
+  },
+  {
+    "id": "scuff",
+    "word": "scuff",
+    "pronunciationUs": "/ˈskəf/",
+    "partOfSpeech": "vi. / vt. / n.",
+    "meaningZh": "vi. 拖着脚走, 磨损\nvt. 拳打, 攻击, 用足尖触, 使磨损\nn. 拖着脚走, 磨损, 家用平底拖鞋",
+    "difficulty": 8,
+    "rank": 18214,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "scuffer",
+        "meaningZh": "vt. 拖着(脚)走路：；(因不安等)用脚擦(地)：\nvi. 拖着脚步：；磨损, 磨坏：\nn. 拖着脚行走；拖着脚行走发出的声音, 嚓嚓声",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "cuff",
+        "meaningZh": "n. 袖口, 一巴掌\nvt. 用巴掌打\nvi. 殴斗",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：s → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "stuff",
+        "meaningZh": "n. 原料, 要素, 东西, 材料, 素质, 织品, 废物, 废话\nvt. 装填\nvi. 狼吞虎咽",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：c → t。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "scoff",
+        "meaningZh": "n. 嘲笑, 愚弄, 笑柄, 食品\nv. 嘲笑, 嘲弄, 贪吃, 狼吞虎咽地吃",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：u → o。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "scuffed",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "scuffing",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "scuffs",
+        "meaningZh": "复数 / 第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/skˈʌf/",
+    "synonyms": [
+      {
+        "word": "drag",
+        "meaningZh": "n. 拖, 拖累\nv. 拖累, 拖拉, 沉重缓慢地走, 拖动",
+        "senseEn": "walk without lifting the feet",
+        "source": "Princeton WordNet 3.0 synset 01917845-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "mule",
+        "meaningZh": "n. 骡, 倔强之人",
+        "senseEn": "a slipper that has no fitting around the heel",
+        "source": "Princeton WordNet 3.0 synset 03798061-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "frill",
+    "word": "frill",
+    "pronunciationUs": "/ˈfɹɪɫ/",
+    "partOfSpeech": "n. / vi. / vt.",
+    "meaningZh": "n. (衣饰上的)皱边, 皱边纸饰\nvi. 起边皱\nvt. 折成皱边",
+    "difficulty": 8,
+    "rank": 18219,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "frilly",
+        "meaningZh": "a. 有饰边的, 多饰边的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "fill",
+        "meaningZh": "vt. 装满, 填充, 弥漫, 供给, 满足, 供应\nvi. 充满, 变得沉重\nn. 满足, 装满, 充分, 填方\nvt. 填充\nvi. 填充",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：r → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "rill",
+        "meaningZh": "n. 小河, 细流, 小溪\nvi. 潺潺流",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：f → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "drill",
+        "meaningZh": "n. 钻孔机, 钻子, 播种机, 粗斜纹布\nv. 训练, 钻孔",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：f → d。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "frills",
+        "meaningZh": "复数"
+      },
+      {
+        "word": "frilling",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "/fɹˈɪl/",
+    "synonyms": [
+      {
+        "word": "nonsense",
+        "meaningZh": "n. 无意义的事, 荒谬言行, 荒唐",
+        "senseEn": "ornamental objects of no great value",
+        "source": "Princeton WordNet 3.0 synset 03376438-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "ruffle",
+        "meaningZh": "n. 皱褶, 波纹, 生气, 混乱\nvt. 弄皱, 触怒, 洗(牌), 连续轻擂(鼓)\nvi. 起皱, 发脾气, 连续轻擂",
+        "senseEn": "a strip of pleated material used as a decoration or a trim",
+        "source": "Princeton WordNet 3.0 synset 03397532-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "flounce",
+        "meaningZh": "n. (衣裙上的)荷边装饰, 挣扎, 挣脱\nvt. 饰以荷叶边\nvi. 跳动, 突然离去, 挣扎",
+        "senseEn": "a strip of pleated material used as a decoration or a trim",
+        "source": "Princeton WordNet 3.0 synset 03397532-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "ruff",
+        "meaningZh": "n. 出王牌, 轮状皱领, 梅花鲈\nv. 出王牌(胜过)",
+        "senseEn": "an external body part consisting of feathers or hair about the neck of a bird or other animal",
+        "source": "Princeton WordNet 3.0 synset 05546997-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "askew",
+    "word": "askew",
+    "pronunciationUs": "/əˈskju/",
+    "partOfSpeech": "adj. / adv.",
+    "meaningZh": "a. 歪斜的\nadv. 歪斜地",
+    "difficulty": 8,
+    "rank": 18225,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "skew",
+        "meaningZh": "a. 斜的, 歪的\nn. 歪斜, 偏态家庭关系\nvi. 歪斜, 侧转\nvt. 使歪斜, 曲解",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：a → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/ɐskjˈuː/",
+    "synonyms": [
+      {
+        "word": "awry",
+        "meaningZh": "a. 歪的, 错误的\nadv. 歪斜地, 错地",
+        "senseEn": "turned or twisted toward one side",
+        "source": "Princeton WordNet 3.0 synset 02312450-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "lopsided",
+        "meaningZh": "a. 倾向一方的, 不平衡的",
+        "senseEn": "turned or twisted toward one side",
+        "source": "Princeton WordNet 3.0 synset 02312450-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "cockeyed",
+        "meaningZh": "a. 斗鸡眼的, 歪的, 荒唐的",
+        "senseEn": "turned or twisted toward one side",
+        "source": "Princeton WordNet 3.0 synset 02312450-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "jubilant",
+    "word": "jubilant",
+    "pronunciationUs": "/ˈdʒubəɫənt/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 欢呼的, 喜洋洋的",
+    "difficulty": 8,
+    "rank": 18234,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "jubilance",
+        "meaningZh": "n. 欢呼, 喜洋洋",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "jubilancy",
+        "meaningZh": "n. 欢呼，喜气洋洋",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "jubilate",
+        "meaningZh": "vi. 欢呼, 欢喜\nn. 欢呼",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "jubilantly",
+        "meaningZh": "词族关联 · adv. 欢欣地, 喜气洋洋地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/dʒˈuːbɪlənt/",
+    "synonyms": [
+      {
+        "word": "triumphant",
+        "meaningZh": "a. 得胜的, 得意洋洋的",
+        "senseEn": "joyful and proud especially because of triumph or success",
+        "source": "Princeton WordNet 3.0 synset 00704898-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "joyful",
+        "meaningZh": "a. 欢喜的, 高兴的, 令人高兴的",
+        "senseEn": "full of high-spirited delight",
+        "source": "Princeton WordNet 3.0 synset 01367211-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "elated",
+        "meaningZh": "a. 兴高采烈的",
+        "senseEn": "full of high-spirited delight",
+        "source": "Princeton WordNet 3.0 synset 01367211-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "gleeful",
+        "meaningZh": "a. 愉快的",
+        "senseEn": "full of high-spirited delight",
+        "source": "Princeton WordNet 3.0 synset 01367211-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "triumphal",
+        "meaningZh": "a. 胜利的, 凯旋的",
+        "senseEn": "joyful and proud especially because of triumph or success",
+        "source": "Princeton WordNet 3.0 synset 00704898-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "abut",
+    "word": "abut",
+    "pronunciationUs": "/əˈbət/",
+    "partOfSpeech": "v.",
+    "meaningZh": "v. 邻接, 毗邻",
+    "difficulty": 8,
+    "rank": 18235,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "abutment",
+        "meaningZh": "n. 邻接, 接界, 桥台",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "abutter",
+        "meaningZh": "n. 毗邻业主",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "about",
+        "meaningZh": "prep. 在...周围, 大约, 有关, 关于\nadv. 大约, 四处, 在附近, 周围",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：∅ → o。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "auto",
+        "meaningZh": "n. 汽车\npref. 表示\"自己\"、\"本身\", 表示\"自己的\", 表示\"自动的\"",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：b → ∅；位置5：∅ → o。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "aunt",
+        "meaningZh": "n. 阿姨, 姨妈, 舅妈, 姑妈, 伯母",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：b → ∅；位置4：∅ → n。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "abutting",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "abuts",
+        "meaningZh": "第三人称单数"
+      },
+      {
+        "word": "abutted",
+        "meaningZh": "过去式 / 过去分词"
+      }
+    ],
+    "pronunciationUk": "/ɐbˈʌt/",
+    "synonyms": [
+      {
+        "word": "edge",
+        "meaningZh": "n. 边缘, 尖锐, 刀刃, 优势\nvt. 使锐利, 挤进, 镶边\nvi. 缓缓移动",
+        "senseEn": "lie adjacent to another or share a boundary",
+        "source": "Princeton WordNet 3.0 synset 01466978-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "border",
+        "meaningZh": "n. 边缘, 边境, 边界, 花坛\nvt. 在...上镶边, 接近\nvi. 接界, 近似",
+        "senseEn": "lie adjacent to another or share a boundary",
+        "source": "Princeton WordNet 3.0 synset 01466978-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "march",
+        "meaningZh": "行军；游行；进行曲；齐步前进（月份名称写作 March）",
+        "senseEn": "lie adjacent to another or share a boundary",
+        "source": "Princeton WordNet 3.0 synset 01466978-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "butt",
+        "meaningZh": "n. 粗大的一头, 烟头, 靶, 笑柄",
+        "senseEn": "lie adjacent to another or share a boundary",
+        "source": "Princeton WordNet 3.0 synset 01466978-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "adjoin",
+        "meaningZh": "v. 邻接, 毗连",
+        "senseEn": "lie adjacent to another or share a boundary",
+        "source": "Princeton WordNet 3.0 synset 01466978-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "driftwood",
+    "word": "driftwood",
+    "pronunciationUs": "/ˈdɹɪftˌwʊd/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 漂流木, 浮木",
+    "difficulty": 8,
+    "rank": 18250,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/dɹˈɪftwʊd/",
+    "synonyms": []
+  },
+  {
+    "id": "coffeehouse",
+    "word": "coffeehouse",
+    "pronunciationUs": "/ˈkɔfiˌhaʊs/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 咖啡馆",
+    "difficulty": 8,
+    "rank": 18252,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "",
+    "synonyms": [
+      {
+        "word": "cafe",
+        "meaningZh": "n. 咖啡馆, 酒店",
+        "senseEn": "a small restaurant where drinks and snacks are sold",
+        "source": "Princeton WordNet 3.0 synset 02935658-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "juggernaut",
+    "word": "juggernaut",
+    "pronunciationUs": "/ˈdʒəɡɝˌnɔt/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 世界主宰",
+    "difficulty": 8,
+    "rank": 18257,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "juggernauts",
+        "meaningZh": "复数 / 第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/dʒˈʌɡənˌɔːt/",
+    "synonyms": [
+      {
+        "word": "steamroller",
+        "meaningZh": "vt.vi. 压垮, 压服\nn. 蒸汽压路机, 高压力量, 高压手段",
+        "senseEn": "a massive inexorable force that seems to crush everything in its way",
+        "source": "Princeton WordNet 3.0 synset 10226556-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "jaunt",
+    "word": "jaunt",
+    "pronunciationUs": "/ˈdʒɔnt/",
+    "partOfSpeech": "n. / vi.",
+    "meaningZh": "n. 远足, 徒步旅游\nvi. 远足, 徒步旅游",
+    "difficulty": 8,
+    "rank": 18264,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "jaunty",
+        "meaningZh": "a. 快活的, 活泼的, 轻快的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置6：∅ → y。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "aunt",
+        "meaningZh": "n. 阿姨, 姨妈, 舅妈, 姑妈, 伯母",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：j → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "haunt",
+        "meaningZh": "n. 常到的地方, 生息地\nvt. 常到, 出没于, 萦绕于\nvi. 出没, 作祟",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：j → h。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "jaunts",
+        "meaningZh": "复数 / 第三人称单数"
+      },
+      {
+        "word": "jaunted",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "jaunting",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "/dʒˈɔːnt/",
+    "synonyms": [
+      {
+        "word": "trip",
+        "meaningZh": "n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程\nvt. 使跌倒, 使犯错, 使失败\nvi. 轻快地走, 绊倒, 失误, 犯错, 结巴, 旅行, 远足",
+        "senseEn": "make a trip for pleasure",
+        "source": "Princeton WordNet 3.0 synset 01843055-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "travel",
+        "meaningZh": "n. 旅行, 游历, 行进\nvi. 旅行, 行进, 移动, 被传播\nvt. 旅行, 通过, 使移动",
+        "senseEn": "make a trip for pleasure",
+        "source": "Princeton WordNet 3.0 synset 01843055-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "expedition",
+        "meaningZh": "n. 远征, 探险队, 迅速",
+        "senseEn": "a journey taken for pleasure",
+        "source": "Princeton WordNet 3.0 synset 00311809-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "outing",
+        "meaningZh": "短途出游；外出活动",
+        "senseEn": "a journey taken for pleasure",
+        "source": "Princeton WordNet 3.0 synset 00311809-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "excursion",
+        "meaningZh": "n. 远足, 游览圆, 短程旅行",
+        "senseEn": "a journey taken for pleasure",
+        "source": "Princeton WordNet 3.0 synset 00311809-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "unabashed",
+    "word": "unabashed",
+    "pronunciationUs": "/ˌənəˈbæʃt/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 不脸红的, 不害羞的, 脸皮厚的",
+    "difficulty": 8,
+    "rank": 18291,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ˌʌnɐbˈæʃt/",
+    "synonyms": []
+  },
+  {
+    "id": "verdant",
+    "word": "verdant",
+    "pronunciationUs": "/ˈvɝdənt/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 翠绿的, 青翠的, 无经验的, 不老练的",
+    "difficulty": 8,
+    "rank": 18292,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "verdancy",
+        "meaningZh": "n. 翠绿, 新绿, 未成熟, 稚嫩, 不老练",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/vˈɜːdənt/",
+    "synonyms": []
+  },
+  {
+    "id": "sorbet",
+    "word": "sorbet",
+    "pronunciationUs": "/ˈsɔɹbɛt/, /ˌsɔɹˈbeɪ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 加果汁的冰水",
+    "difficulty": 8,
+    "rank": 18299,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "sorbets",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/sˈɔːbeɪ/",
+    "synonyms": []
+  },
+  {
+    "id": "wiretap",
+    "word": "wiretap",
+    "pronunciationUs": "/ˈwaɪɝˌtæp/",
+    "partOfSpeech": "v. / n.",
+    "meaningZh": "v. 搭线窃听\nn. 窃听",
+    "difficulty": 8,
+    "rank": 18310,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "wiretapper",
+        "meaningZh": "n. (对电话等)搭线窃听者, 窃听器",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "wiretaps",
+        "meaningZh": "复数 / 第三人称单数"
+      },
+      {
+        "word": "wiretapping",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "wiretapped",
+        "meaningZh": "过去式 / 过去分词"
+      }
+    ],
+    "pronunciationUk": "/wˈaɪətæp/",
+    "synonyms": [
+      {
+        "word": "tap",
+        "meaningZh": "n. 轻打, 水龙头\nvt. 轻打, 轻敲, 敲打出, 选择, 装上嘴子, 使流出, 开发, 分接, 向...乞讨\nvi. 轻叩, 轻拍, 啪塔啪塔地走",
+        "senseEn": "the act of tapping a telephone or telegraph line to get information",
+        "source": "Princeton WordNet 3.0 synset 00654400-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "bug",
+        "meaningZh": "n. 错误, 虫, 病菌, 缺陷, 窃听器, 癖好, 防盗报警器, 双座小汽车, 要人\nvt. 装防盗报警器, 装窃听器, 激怒\nvi. 捉虫, 暴突",
+        "senseEn": "tap a telephone or telegraph wire to get information",
+        "source": "Princeton WordNet 3.0 synset 02188848-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "intercept",
+        "meaningZh": "n. 截取, 妨碍, 截距\nvt. 拦截, 阻止, 截取",
+        "senseEn": "tap a telephone or telegraph wire to get information",
+        "source": "Princeton WordNet 3.0 synset 02188848-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "cobweb",
+    "word": "cobweb",
+    "pronunciationUs": "/ˈkɑbˌwɛb/",
+    "partOfSpeech": "n. / vt.",
+    "meaningZh": "n. 蜘蛛网, 蛛丝, 混乱\nvt. 使布满蛛网",
+    "difficulty": 8,
+    "rank": 18317,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "cobwebby",
+        "meaningZh": "a. 蛛网似的, 蛛网密布的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "cobwebs",
+        "meaningZh": "复数"
+      },
+      {
+        "word": "cobwebbed",
+        "meaningZh": "过去式"
+      }
+    ],
+    "pronunciationUk": "/kˈɒbwɛb/",
+    "synonyms": [
+      {
+        "word": "gossamer",
+        "meaningZh": "n. 小蜘蛛网, 蛛丝, 薄纱\na. 薄弱的, 轻飘飘的",
+        "senseEn": "filaments from a web that was spun by a spider",
+        "source": "Princeton WordNet 3.0 synset 03059806-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "blacktop",
+    "word": "blacktop",
+    "pronunciationUs": "/ˈbɫækˌtɑp/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 沥青, 柏油路",
+    "difficulty": 8,
+    "rank": 18319,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "blacktopping",
+        "meaningZh": "建筑黑色面层；用沥青铺路面",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "backstop",
+        "meaningZh": "n. 挡球网, 接球手",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：l → ∅；位置6：∅ → s。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/blˈæktɒp/",
+    "synonyms": []
+  },
+  {
+    "id": "parlay",
+    "word": "parlay",
+    "pronunciationUs": "/ˈpɑɹɫeɪ/",
+    "partOfSpeech": "n. / vt.",
+    "meaningZh": "n. 连本带利的赌\nvt. 连本带利的赌, 使增值, 成功地利用",
+    "difficulty": 8,
+    "rank": 18331,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "partly",
+        "meaningZh": "adv. 部分地, 在一定程度上",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置4：∅ → t；位置5：a → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "pearly",
+        "meaningZh": "a. 珍珠似的, 产珍珠的, 用珍珠装饰的, 用珠母装饰的, 珍贵的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：∅ → e；位置5：a → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "parley",
+        "meaningZh": "n. 会谈, 谈判\nvi. 会谈, 谈判\nvt. 讲",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置5：a → e。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "parlaying",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "parlayed",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "parlays",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/pˈɑːleɪ/",
+    "synonyms": []
+  },
+  {
+    "id": "sweltering",
+    "word": "sweltering",
+    "pronunciationUs": "/ˈswɛɫtɝɪŋ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 闷热的, 热得难受的, 中暑的",
+    "difficulty": 8,
+    "rank": 18335,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "sheltering",
+        "meaningZh": "vt. 掩蔽（shelter的现在分词形式）",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：w → h。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/swˈɛltəɹɪŋ/",
+    "synonyms": []
+  },
+  {
+    "id": "invigorating",
+    "word": "invigorating",
+    "pronunciationUs": "/ˌɪnˈvɪɡɝˌeɪtɪŋ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 精力充沛的, 生气勃勃的",
+    "difficulty": 8,
+    "rank": 18351,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɪnvˈɪɡəɹˌeɪtɪŋ/",
+    "synonyms": []
+  },
+  {
+    "id": "primeval",
+    "word": "primeval",
+    "pronunciationUs": "/pɹaɪˈmivəɫ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 初期的, 原始的, 远古的",
+    "difficulty": 8,
+    "rank": 18353,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/pɹaɪmˈiːvəl/",
+    "synonyms": [
+      {
+        "word": "aboriginal",
+        "meaningZh": "a. 原始的, 土著的\nn. 土著居民, 土生生物",
+        "senseEn": "having existed from the beginning; in an earliest or original stage or state",
+        "source": "Princeton WordNet 3.0 synset 00813589-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "primal",
+        "meaningZh": "a. 主要的, 最初的, 原始的",
+        "senseEn": "having existed from the beginning; in an earliest or original stage or state",
+        "source": "Princeton WordNet 3.0 synset 00813589-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "primordial",
+        "meaningZh": "a. 原始的, 自原始时代的",
+        "senseEn": "having existed from the beginning; in an earliest or original stage or state",
+        "source": "Princeton WordNet 3.0 synset 00813589-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "breathlessly",
+    "word": "breathlessly",
+    "pronunciationUs": "/ˈbɹɛθɫəsɫi/",
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 气喘地, 屏息地",
+    "difficulty": 8,
+    "rank": 18358,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "breathless",
+        "meaningZh": "词族关联 · a. 喘不过气来的, 屏气的, 气喘吁吁的, 无风的, 死的",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/bɹˈɛθləsli/",
+    "synonyms": []
+  },
+  {
+    "id": "uncertainly",
+    "word": "uncertainly",
+    "pronunciationUs": "/ənˈsɝtənɫi/",
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 没把握地；犹豫地；不确定地",
+    "difficulty": 8,
+    "rank": 18364,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "uncertain",
+        "meaningZh": "词族关联 · a. 不确定的, 无常的, 不确信的, 不可预测的",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "uncertainty",
+        "meaningZh": "n. 不确定, 不可靠, 不确定的事物",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置10：l → t。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/ʌnsˈɜːtənli/",
+    "synonyms": []
+  },
+  {
+    "id": "archway",
+    "word": "archway",
+    "pronunciationUs": "/ˈɑɹtʃˌweɪ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 拱门, 拱道",
+    "difficulty": 8,
+    "rank": 18366,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "archways",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ˈɑːtʃweɪ/",
+    "synonyms": [
+      {
+        "word": "arch",
+        "meaningZh": "n. 拱门, 拱形, 足弓\nvt. 使成弓形\nvi. 拱起, 成弓形\na. 主要的, 调皮的, 傲慢无礼的, 狡猾的",
+        "senseEn": "a passageway under a curved masonry construction",
+        "source": "Princeton WordNet 3.0 synset 02734217-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "nightmarish",
+    "word": "nightmarish",
+    "pronunciationUs": "/ˈnaɪtˌmɛɹɪʃ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 梦魇似的, 可怕的, 经常使人恐惧的",
+    "difficulty": 8,
+    "rank": 18373,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/nˈaɪtmeəɹɪʃ/",
+    "synonyms": []
+  },
+  {
+    "id": "hew",
+    "word": "hew",
+    "pronunciationUs": "/ˈhju/",
+    "partOfSpeech": "vt. / vi.",
+    "meaningZh": "vt. 砍, 砍倒, 砍成\nvi. 砍, 劈, 坚持",
+    "difficulty": 8,
+    "rank": 18374,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "hew out",
+        "zh": "开辟",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "hewer",
+        "meaningZh": "n. 砍伐者, 煤矿工",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "hue",
+        "meaningZh": "n. 样子, 色度, 色彩, 叫声, 色调",
+        "note": "同音对照：美式词典中至少一个读音相同；注意区分拼写及各自词义。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "hewing",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "hewed",
+        "meaningZh": "过去式"
+      },
+      {
+        "word": "hews",
+        "meaningZh": "第三人称单数"
+      },
+      {
+        "word": "hewn",
+        "meaningZh": "过去分词"
+      }
+    ],
+    "pronunciationUk": "/hjˈuː/",
+    "synonyms": []
+  },
+  {
+    "id": "impinge",
+    "word": "impinge",
+    "pronunciationUs": "/ˌɪmˈpɪndʒ/",
+    "partOfSpeech": "vi. / vt.",
+    "meaningZh": "vi. 撞击, 起作用, 侵犯\nvt. 撞击",
+    "difficulty": 8,
+    "rank": 18394,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "impinge on",
+        "zh": "撞击, 侵犯, 紧密接触",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "impinging",
+        "meaningZh": "碰撞",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "impinges",
+        "meaningZh": "第三人称单数"
+      },
+      {
+        "word": "impinged",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "impinging",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "/ɪmpˈɪndʒ/",
+    "synonyms": [
+      {
+        "word": "trench",
+        "meaningZh": "n. 渠, 沟渠, 战壕\nvt. 在...开沟, 挖战壕于, 用战壕围住\nvi. 挖战壕, 开沟",
+        "senseEn": "impinge or infringe upon",
+        "source": "Princeton WordNet 3.0 synset 02569790-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "entrench",
+        "meaningZh": "vt. 围以壕沟, 防护, 保卫, 使处于牢固地位\nvi. 掘壕, 侵犯",
+        "senseEn": "impinge or infringe upon",
+        "source": "Princeton WordNet 3.0 synset 02569790-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "infringe",
+        "meaningZh": "v. 破坏, 侵犯, 违反",
+        "senseEn": "advance beyond the usual limit",
+        "source": "Princeton WordNet 3.0 synset 01993352-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "encroach",
+        "meaningZh": "vi. 侵犯, 侵蚀, 蚕食",
+        "senseEn": "advance beyond the usual limit",
+        "source": "Princeton WordNet 3.0 synset 01993352-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "washcloth",
+    "word": "washcloth",
+    "pronunciationUs": "/ˈwɑʃˌkɫɔθ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 毛巾, 浴巾",
+    "difficulty": 8,
+    "rank": 18398,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ˈwɒʃklɒθ/",
+    "synonyms": [
+      {
+        "word": "flannel",
+        "meaningZh": "n. 法兰绒, 法兰绒衣服",
+        "senseEn": "bath linen consisting of a piece of cloth used to wash the face and body",
+        "source": "Princeton WordNet 3.0 synset 04554523-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "jay",
+    "word": "jay",
+    "pronunciationUs": "/ˈdʒeɪ/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 鸟, 喋喋不休的人, 傻瓜",
+    "difficulty": 8,
+    "rank": 18401,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "blue jay",
+        "zh": "冠蓝鸦",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "gray jay",
+        "zh": "灰色的jay",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "grey jay",
+        "zh": "灰鸦；灰松鸦",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "jays",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/dʒˈeɪ/",
+    "synonyms": [
+      {
+        "word": "ignoramus",
+        "meaningZh": "n. 不学无术的人, 无知识的人",
+        "senseEn": "公开词典同义关联；具体使用须结合语境"
+      }
+    ]
+  },
+  {
+    "id": "wrack",
+    "word": "wrack",
+    "pronunciationUs": "/ˈɹæk/",
+    "partOfSpeech": "n. / vt.",
+    "meaningZh": "n. 漂积海草, 失事船只, 破坏\nvt. 严重伤害",
+    "difficulty": 8,
+    "rank": 18410,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "grass wrack",
+        "zh": "大叶藻",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "sea wrack",
+        "zh": "(被大浪冲上岸的)海草, (尤指)大叶藻",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "serrated wrack",
+        "zh": "锯齿状的",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "rack",
+        "meaningZh": "n. 架, 行李架, 饲草架, 搁物架, 痛苦, 折磨, 齿条, 行云团\nvt. 把...放在架上, 在架上制作, 折磨, 使痛苦, 压榨, 榨取, 猛烈撕拉, 拷问\nvi. 变形, 倾斜, (云)随风飘, (马)小步跑",
+        "note": "同音对照：美式词典中至少一个读音相同；注意区分拼写及各自词义。"
+      },
+      {
+        "word": "wack",
+        "meaningZh": "n. 古怪的人, 怪人, 朋友",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：r → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "track",
+        "meaningZh": "n. 轨迹, 足迹, 径迹, 小道, 轨道, 磁轨, 途径\nvt. 循路而行, 追踪, 通过, 用纤拉\nvi. 追踪, 留下足迹, 沿轨道运行",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：w → t。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "wracked",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "wracking",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "wracks",
+        "meaningZh": "复数 / 第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/ɹˈæk/",
+    "synonyms": [
+      {
+        "word": "rack",
+        "meaningZh": "n. 架, 行李架, 饲草架, 搁物架, 痛苦, 折磨, 齿条, 行云团\nvt. 把...放在架上, 在架上制作, 折磨, 使痛苦, 压榨, 榨取, 猛烈撕拉, 拷问\nvi. 变形, 倾斜, (云)随风飘, (马)小步跑",
+        "senseEn": "the destruction or collapse of something",
+        "source": "Princeton WordNet 3.0 synset 07335581-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "wreck",
+        "meaningZh": "n. 失事, 残骸, 破坏\nvt. 使失事, 拆毁, 破坏\nvi. (船)失事, 营救失事船只",
+        "senseEn": "smash or break forcefully",
+        "source": "Princeton WordNet 3.0 synset 01566185-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "portend",
+    "word": "portend",
+    "pronunciationUs": "/pɔɹˈtɛnd/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 成为...的前兆, 预知, 给与...的警告",
+    "difficulty": 8,
+    "rank": 18414,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "portent",
+        "meaningZh": "n. 前兆, 预示, 异常之物",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "pretend",
+        "meaningZh": "v. 假装, 伪称, 自命, 自称",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：o → ∅；位置4：∅ → e。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "portended",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "portends",
+        "meaningZh": "第三人称单数"
+      },
+      {
+        "word": "portending",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "/pɔːtˈɛnd/",
+    "synonyms": [
+      {
+        "word": "predict",
+        "meaningZh": "示意；用信号表示",
+        "senseEn": "indicate by signs",
+        "source": "Princeton WordNet 3.0 synset 00871942-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "forecast",
+        "meaningZh": "示意；用信号表示",
+        "senseEn": "indicate by signs",
+        "source": "Princeton WordNet 3.0 synset 00871942-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "omen",
+        "meaningZh": "示意；用信号表示",
+        "senseEn": "indicate by signs",
+        "source": "Princeton WordNet 3.0 synset 00871942-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "bode",
+        "meaningZh": "示意；用信号表示",
+        "senseEn": "indicate by signs",
+        "source": "Princeton WordNet 3.0 synset 00871942-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "foreshadow",
+        "meaningZh": "示意；用信号表示",
+        "senseEn": "indicate by signs",
+        "source": "Princeton WordNet 3.0 synset 00871942-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      }
+    ]
+  },
+  {
+    "id": "hotshot",
+    "word": "hotshot",
+    "pronunciationUs": "/ˈhɑˌʃɑt/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 艺高而自负的人, 货物快车, 快速交通工具, 大人物",
+    "difficulty": 8,
+    "rank": 18429,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "hotspot",
+        "meaningZh": "n. 热区；热点",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置5：h → p。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "potshot",
+        "meaningZh": "n. 乱射, 射击, 肆意抨击\nv. 乱射, 射击, 肆意抨击",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：h → p。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "hotshots",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/hˈɒtʃɒt/",
+    "synonyms": [
+      {
+        "word": "star",
+        "meaningZh": "高手；某领域技艺出众的人",
+        "senseEn": "someone who is dazzlingly skilled in any field",
+        "source": "Princeton WordNet 3.0 synset 09762509-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "champion",
+        "meaningZh": "高手；某领域技艺出众的人",
+        "senseEn": "someone who is dazzlingly skilled in any field",
+        "source": "Princeton WordNet 3.0 synset 09762509-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "genius",
+        "meaningZh": "高手；某领域技艺出众的人",
+        "senseEn": "someone who is dazzlingly skilled in any field",
+        "source": "Princeton WordNet 3.0 synset 09762509-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "sensation",
+        "meaningZh": "高手；某领域技艺出众的人",
+        "senseEn": "someone who is dazzlingly skilled in any field",
+        "source": "Princeton WordNet 3.0 synset 09762509-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "superstar",
+        "meaningZh": "高手；某领域技艺出众的人",
+        "senseEn": "someone who is dazzlingly skilled in any field",
+        "source": "Princeton WordNet 3.0 synset 09762509-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      }
+    ]
+  },
+  {
+    "id": "militancy",
+    "word": "militancy",
+    "pronunciationUs": "/ˈmɪɫətənsi/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 战斗性",
+    "difficulty": 8,
+    "rank": 18430,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "militant",
+        "meaningZh": "a. 好战的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/mˈɪlɪtənsi/",
+    "synonyms": [
+      {
+        "word": "combativeness",
+        "meaningZh": "n. 斗志；好斗性",
+        "senseEn": "a militant aggressiveness",
+        "source": "Princeton WordNet 3.0 synset 04837615-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "stringy",
+    "word": "stringy",
+    "pronunciationUs": "/ˈstɹɪŋi/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 线, 绳的, 纤维的, 粘性的",
+    "difficulty": 8,
+    "rank": 18434,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "string",
+        "meaningZh": "n. 线, 细绳, 一串, 字符串\nvt. 串起, 成串, 收紧, 缚, 扎\nvi. 成一串",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置7：y → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "stingy",
+        "meaningZh": "a. 小气的, 吝啬的, 缺乏的, 有刺的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：r → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "staring",
+        "meaningZh": "a. 凝视的, 瞪着眼的, 显眼的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：∅ → a；位置7：y → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "stringier",
+        "meaningZh": "比较级"
+      }
+    ],
+    "pronunciationUk": "/stɹˈɪŋi/",
+    "synonyms": [
+      {
+        "word": "wiry",
+        "meaningZh": "a. 金属线制的, 瘦长结实的",
+        "senseEn": "lean and sinewy",
+        "source": "Princeton WordNet 3.0 synset 00991584-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "fibrous",
+        "meaningZh": "a. 纤维的, 纤维性的",
+        "senseEn": "(of meat) full of sinews; especially impossible to chew",
+        "source": "Princeton WordNet 3.0 synset 02446239-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "sinewy",
+        "meaningZh": "a. 强壮的, 结实的, 多腱的",
+        "senseEn": "(of meat) full of sinews; especially impossible to chew",
+        "source": "Princeton WordNet 3.0 synset 02446239-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "strapping",
+    "word": "strapping",
+    "pronunciationUs": "/ˈstɹæpɪŋ/",
+    "partOfSpeech": "adj. / n.",
+    "meaningZh": "a. 魁伟的, 巨大的\nn. 绑扎法, 裹伤胶带, 鞭打",
+    "difficulty": 8,
+    "rank": 18438,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "trappings",
+        "meaningZh": "n. 马饰, 服饰, 礼服, 装饰品, 外部标志",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：s → ∅；位置10：∅ → s。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "strappings",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/stɹˈæpɪŋ/",
+    "synonyms": [
+      {
+        "word": "burly",
+        "meaningZh": "a. 结实的, 粗壮的, 率直的",
+        "senseEn": "muscular and heavily built",
+        "source": "Princeton WordNet 3.0 synset 02038126-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "husky",
+        "meaningZh": "n. 强壮结实之人, 爱斯基摩人\na. 有壳的, 声音沙哑的, 强壮的",
+        "senseEn": "muscular and heavily built",
+        "source": "Princeton WordNet 3.0 synset 02038126-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "beefy",
+        "meaningZh": "a. (牛)多肉的, 象牛肉的, 粗壮的, 结实的",
+        "senseEn": "muscular and heavily built",
+        "source": "Princeton WordNet 3.0 synset 02038126-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "evince",
+    "word": "evince",
+    "pronunciationUs": "/ɪˈvɪns/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 表明(感情等), 表示出(特性等)",
+    "difficulty": 8,
+    "rank": 18444,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "device",
+        "meaningZh": "n. 装置, 设计, 策略, 发明物, 设备",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：∅ → d；位置4：n → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "evinced",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "evinces",
+        "meaningZh": "第三人称单数"
+      },
+      {
+        "word": "evincing",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "/ɪvˈɪns/",
+    "synonyms": [
+      {
+        "word": "show",
+        "meaningZh": "n. 显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相\nvt. 表示, 显示, 展现, 陈列, 演出, 表明, 指出, 带领\nvi. 露面, 显现, 演出",
+        "senseEn": "give expression to",
+        "source": "Princeton WordNet 3.0 synset 00943837-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "express",
+        "meaningZh": "n. 快车, 快递, 专使\na. 明确的, 丝毫不差的, 专门的, 快的\nvt. 表达, 表示, 表露",
+        "senseEn": "give expression to",
+        "source": "Princeton WordNet 3.0 synset 00943837-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "rubbery",
+    "word": "rubbery",
+    "pronunciationUs": "/ˈɹəbɝi/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 橡胶似的, 有弹力的",
+    "difficulty": 8,
+    "rank": 18446,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "rubber",
+        "meaningZh": "n. 橡皮, 橡胶, 做摩擦动作的人, 按摩师, 决胜盘\nvt. 用橡胶制造, 涂橡胶于",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "robbery",
+        "meaningZh": "n. 抢掠, 抢夺",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：u → o。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/ɹˈʌbəɹi/",
+    "synonyms": []
+  },
+  {
+    "id": "glitzy",
+    "word": "glitzy",
+    "pronunciationUs": "/ˈɡɫɪtsi/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. <美><加> 闪光的, 耀眼的, 眩目的",
+    "difficulty": 8,
+    "rank": 18447,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "glitz",
+        "meaningZh": "n. 闪光, 炫目, 浮华",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置6：y → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "glitziest",
+        "meaningZh": "最高级"
+      },
+      {
+        "word": "glitzier",
+        "meaningZh": "比较级"
+      }
+    ],
+    "pronunciationUk": "/ɡlˈɪtsi/",
+    "synonyms": []
+  },
+  {
+    "id": "startlingly",
+    "word": "startlingly",
+    "pronunciationUs": "/ˈstɑɹtɫɪŋˌɫi/",
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 惊人地",
+    "difficulty": 8,
+    "rank": 18467,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "startling",
+        "meaningZh": "词族关联 · a. 令人吃惊的",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/stˈɑːtəlɪŋli/",
+    "synonyms": []
+  },
+  {
+    "id": "abysmal",
+    "word": "abysmal",
+    "pronunciationUs": "/əˈbɪzməɫ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 深不可测的, 无底的",
+    "difficulty": 8,
+    "rank": 18494,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "abysm",
+        "meaningZh": "n. 深渊, 无底洞",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɐbˈɪsməl/",
+    "synonyms": [
+      {
+        "word": "unfathomable",
+        "meaningZh": "a. 莫测高深的, 深不可测的, 无底的",
+        "senseEn": "resembling an abyss in depth; so deep as to be unmeasurable",
+        "source": "Princeton WordNet 3.0 synset 00690683-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "headwaters",
+    "word": "headwaters",
+    "pronunciationUs": "/ˈhɛdˌwɔtɝz/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 源头, 上游",
+    "difficulty": 8,
+    "rank": 18502,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/hˈɛdwɔːtəz/",
+    "synonyms": []
+  },
+  {
+    "id": "disembark",
+    "word": "disembark",
+    "pronunciationUs": "/dɪsɛmˈbɑɹk/",
+    "partOfSpeech": "v.",
+    "meaningZh": "v. (使)上岸, (使)登陆",
+    "difficulty": 8,
+    "rank": 18513,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "disembarkation",
+        "meaningZh": "n. 上岸, 登陆",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "disembarkment",
+        "meaningZh": "n. 上岸; 登陆; 离船",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "disembarked",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "disembarking",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "disembarks",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/dˌɪsɛmbˈɑːk/",
+    "synonyms": []
+  },
+  {
+    "id": "gravestone",
+    "word": "gravestone",
+    "pronunciationUs": "/ˈɡɹeɪvˌstoʊn/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 墓石, 墓碑",
+    "difficulty": 8,
+    "rank": 18519,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "gravestones",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɡɹˈeɪvstəʊn/",
+    "synonyms": [
+      {
+        "word": "tombstone",
+        "meaningZh": "n. 墓石, 墓碑",
+        "senseEn": "a stone that is used to mark a grave",
+        "source": "Princeton WordNet 3.0 synset 03455488-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "headstone",
+        "meaningZh": "n. 墓石, 基石",
+        "senseEn": "a stone that is used to mark a grave",
+        "source": "Princeton WordNet 3.0 synset 03455488-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "detritus",
+    "word": "detritus",
+    "pronunciationUs": "/ˈdɛtɹətəs/, /dɪˈtɹaɪtəs/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 碎石",
+    "difficulty": 8,
+    "rank": 18523,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/dɪtɹˈaɪtəs/",
+    "synonyms": [
+      {
+        "word": "dust",
+        "meaningZh": "n. 灰尘, 尘埃, 粉末, 花粉, 土, 骚乱\nvt. 拂去灰尘, 撒, 弄成粉末\nvi. 拂去灰尘, 化为粉末",
+        "senseEn": "the remains of something that has been destroyed or broken up",
+        "source": "Princeton WordNet 3.0 synset 14857897-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "debris",
+        "meaningZh": "n. 碎片, 残骸",
+        "senseEn": "the remains of something that has been destroyed or broken up",
+        "source": "Princeton WordNet 3.0 synset 14857897-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "junk",
+        "meaningZh": "n. 垃圾, 乌七八糟的东西, 舢板",
+        "senseEn": "the remains of something that has been destroyed or broken up",
+        "source": "Princeton WordNet 3.0 synset 14857897-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "rubble",
+        "meaningZh": "n. 粗石, 碎砖, 粗石堆",
+        "senseEn": "the remains of something that has been destroyed or broken up",
+        "source": "Princeton WordNet 3.0 synset 14857897-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "undertone",
+    "word": "undertone",
+    "pronunciationUs": "/ˈəndɝˌtoʊn/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 低音, 浅色, 小声",
+    "difficulty": 8,
+    "rank": 18524,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "undertones",
+        "meaningZh": "复数 / 第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/ˌʌndətˈəʊn/",
+    "synonyms": [
+      {
+        "word": "tinge",
+        "meaningZh": "n. 色调, 色彩, 气味, 气息\nvt. 染, 使带气息",
+        "senseEn": "a pale or subdued color",
+        "source": "Princeton WordNet 3.0 synset 04959567-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "undercurrent",
+        "meaningZh": "n. 暗流, 潜流, 电流不足",
+        "senseEn": "a subdued emotional quality underlying an utterance; implicit meaning",
+        "source": "Princeton WordNet 3.0 synset 05922809-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "clemency",
+    "word": "clemency",
+    "pronunciationUs": "/ˈkɫɛmənsi/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 仁慈, 宽厚, 仁厚",
+    "difficulty": 8,
+    "rank": 18529,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "executive clemency",
+        "zh": "行政长官的恩慈，(美国)总统(或州长)的宽恕(对已定罪者给以减刑的做法)，(总统或州长的)特赦权，总统特许从宽，州长特许减刑",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "clement",
+        "meaningZh": "a. 仁慈的, 宽厚的, 温和的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/klˈɛmənsi/",
+    "synonyms": [
+      {
+        "word": "mercy",
+        "meaningZh": "n. 仁慈, 宽恕, 慈悲, 怜悯, 幸运",
+        "senseEn": "leniency and compassion shown toward offenders by a person or agency charged with administering justice",
+        "source": "Princeton WordNet 3.0 synset 01071411-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  }
+]

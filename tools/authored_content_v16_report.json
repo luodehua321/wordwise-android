@@ -1,0 +1,154 @@
+{
+  "patchWords": 560,
+  "explicitTranslationMappings": 392,
+  "authoredExampleItems": 24,
+  "displayedAuthoredTranslations": 399,
+  "authoredCollocations": 150,
+  "replacedExampleEntries": 18,
+  "meaningUpdatedEntries": 12,
+  "removedExamplesArchived": 20,
+  "before": {
+    "1": {
+      "words": 1063,
+      "missingExamples": 0,
+      "missingAnyBilingual": 0,
+      "untranslatedItems": 0,
+      "missingCollocations": 2
+    },
+    "2": {
+      "words": 896,
+      "missingExamples": 0,
+      "missingAnyBilingual": 0,
+      "untranslatedItems": 0,
+      "missingCollocations": 136
+    },
+    "3": {
+      "words": 1218,
+      "missingExamples": 0,
+      "missingAnyBilingual": 0,
+      "untranslatedItems": 0,
+      "missingCollocations": 258
+    },
+    "4": {
+      "words": 1364,
+      "missingExamples": 0,
+      "missingAnyBilingual": 0,
+      "untranslatedItems": 703,
+      "missingCollocations": 396
+    },
+    "5": {
+      "words": 1905,
+      "missingExamples": 0,
+      "missingAnyBilingual": 869,
+      "untranslatedItems": 1820,
+      "missingCollocations": 723
+    },
+    "6": {
+      "words": 2935,
+      "missingExamples": 704,
+      "missingAnyBilingual": 2163,
+      "untranslatedItems": 2719,
+      "missingCollocations": 1669
+    },
+    "7": {
+      "words": 3600,
+      "missingExamples": 1616,
+      "missingAnyBilingual": 3158,
+      "untranslatedItems": 2571,
+      "missingCollocations": 2466
+    },
+    "8": {
+      "words": 4165,
+      "missingExamples": 2473,
+      "missingAnyBilingual": 3882,
+      "untranslatedItems": 2162,
+      "missingCollocations": 3121
+    },
+    "9": {
+      "words": 4166,
+      "missingExamples": 2810,
+      "missingAnyBilingual": 3977,
+      "untranslatedItems": 1654,
+      "missingCollocations": 3404
+    },
+    "10": {
+      "words": 6855,
+      "missingExamples": 5380,
+      "missingAnyBilingual": 6672,
+      "untranslatedItems": 1767,
+      "missingCollocations": 5951
+    }
+  },
+  "after": {
+    "1": {
+      "words": 1063,
+      "missingExamples": 0,
+      "missingAnyBilingual": 0,
+      "untranslatedItems": 0,
+      "missingCollocations": 0
+    },
+    "2": {
+      "words": 896,
+      "missingExamples": 0,
+      "missingAnyBilingual": 0,
+      "untranslatedItems": 0,
+      "missingCollocations": 0
+    },
+    "3": {
+      "words": 1218,
+      "missingExamples": 0,
+      "missingAnyBilingual": 0,
+      "untranslatedItems": 0,
+      "missingCollocations": 246
+    },
+    "4": {
+      "words": 1364,
+      "missingExamples": 0,
+      "missingAnyBilingual": 0,
+      "untranslatedItems": 703,
+      "missingCollocations": 396
+    },
+    "5": {
+      "words": 1905,
+      "missingExamples": 0,
+      "missingAnyBilingual": 469,
+      "untranslatedItems": 1412,
+      "missingCollocations": 723
+    },
+    "6": {
+      "words": 2935,
+      "missingExamples": 704,
+      "missingAnyBilingual": 2162,
+      "untranslatedItems": 2716,
+      "missingCollocations": 1669
+    },
+    "7": {
+      "words": 3600,
+      "missingExamples": 1616,
+      "missingAnyBilingual": 3155,
+      "untranslatedItems": 2567,
+      "missingCollocations": 2466
+    },
+    "8": {
+      "words": 4165,
+      "missingExamples": 2473,
+      "missingAnyBilingual": 3882,
+      "untranslatedItems": 2162,
+      "missingCollocations": 3121
+    },
+    "9": {
+      "words": 4166,
+      "missingExamples": 2810,
+      "missingAnyBilingual": 3976,
+      "untranslatedItems": 1652,
+      "missingCollocations": 3404
+    },
+    "10": {
+      "words": 6855,
+      "missingExamples": 5380,
+      "missingAnyBilingual": 6672,
+      "untranslatedItems": 1767,
+      "missingCollocations": 5951
+    }
+  }
+}

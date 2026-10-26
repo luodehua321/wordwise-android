@@ -1,0 +1,1762 @@
+{
+  "I": {
+    "partOfSpeech": "pron.",
+    "meaningZh": "我",
+    "examples": [
+      {
+        "en": "I am ready to help.",
+        "zh": "我准备好帮忙了。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "I think so",
+        "zh": "我认为是这样",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "internet": {
+    "partOfSpeech": "n.",
+    "meaningZh": "互联网；因特网",
+    "examples": [
+      {
+        "en": "We use the internet to find information.",
+        "zh": "我们用互联网查找信息。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "internet access",
+        "zh": "互联网接入",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "email": {
+    "partOfSpeech": "n. / v.",
+    "meaningZh": "电子邮件；发送电子邮件",
+    "examples": [
+      {
+        "en": "Please send me an email.",
+        "zh": "请给我发一封电子邮件。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "send an email",
+        "zh": "发送电子邮件",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "online": {
+    "partOfSpeech": "adj. / adv.",
+    "meaningZh": "在线的；在网上",
+    "examples": [
+      {
+        "en": "You can buy the tickets online.",
+        "zh": "你可以在网上买票。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "online shopping",
+        "zh": "网上购物",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "data": {
+    "partOfSpeech": "n.",
+    "meaningZh": "数据；资料（通常作不可数名词，也可作 datum 的复数）",
+    "examples": [
+      {
+        "en": "The data shows a clear pattern.",
+        "zh": "这些数据显示出明显的规律。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "collect data",
+        "zh": "收集数据",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "agenda": {
+    "partOfSpeech": "n.",
+    "meaningZh": "议程；待办事项",
+    "examples": [
+      {
+        "en": "What is on the agenda today?",
+        "zh": "今天的议程有哪些内容？",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "set the agenda",
+        "zh": "确定议程",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "percent": {
+    "partOfSpeech": "n. / adj. / adv.",
+    "meaningZh": "百分之……；百分比",
+    "examples": [
+      {
+        "en": "Ten percent of the seats are empty.",
+        "zh": "百分之十的座位是空的。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "ten percent",
+        "zh": "百分之十",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "dollar": {
+    "partOfSpeech": "n.",
+    "meaningZh": "美元；元（加拿大、澳大利亚等国的货币单位）",
+    "examples": [
+      {
+        "en": "This notebook costs one dollar.",
+        "zh": "这本笔记本售价一美元。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "one dollar",
+        "zh": "一美元",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "cent": {
+    "partOfSpeech": "n.",
+    "meaningZh": "分（美元、欧元等货币单位的百分之一）",
+    "examples": [
+      {
+        "en": "One dollar is equal to one hundred cents.",
+        "zh": "一美元等于一百分。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "one cent",
+        "zh": "一分",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "mile": {
+    "partOfSpeech": "n.",
+    "meaningZh": "英里（约合1.609千米）",
+    "examples": [
+      {
+        "en": "The station is one mile away.",
+        "zh": "车站在一英里外。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "a mile away",
+        "zh": "一英里远",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "criterion": {
+    "partOfSpeech": "n.",
+    "meaningZh": "标准；准则（复数 criteria）",
+    "examples": [
+      {
+        "en": "Safety is the main criterion.",
+        "zh": "安全是主要标准。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "selection criterion",
+        "zh": "选择标准",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "bin": {
+    "partOfSpeech": "n. / v.",
+    "meaningZh": "垃圾箱；容器；把……扔进垃圾箱",
+    "examples": [
+      {
+        "en": "Put the empty bottle in the recycling bin.",
+        "zh": "把空瓶子放进回收箱。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "recycling bin",
+        "zh": "回收箱",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "core": {
+    "partOfSpeech": "n. / adj.",
+    "meaningZh": "核心；果核；核心的",
+    "examples": [
+      {
+        "en": "Trust is at the core of our relationship.",
+        "zh": "信任是我们关系的核心。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "core values",
+        "zh": "核心价值观",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "north": {
+    "partOfSpeech": "n. / adj. / adv.",
+    "meaningZh": "北；北方；北方的；向北",
+    "examples": [
+      {
+        "en": "The wind is coming from the north.",
+        "zh": "风从北方吹来。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "north of the city",
+        "zh": "城市以北",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "conservative": {
+    "partOfSpeech": "adj. / n.",
+    "meaningZh": "保守的；谨慎的；保守派人士",
+    "examples": [
+      {
+        "en": "The estimate is deliberately conservative.",
+        "zh": "这个估计有意采取了谨慎的数值。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "a conservative estimate",
+        "zh": "保守估计",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "god": {
+    "partOfSpeech": "n.",
+    "meaningZh": "神；神灵（大写 God 通常指上帝）",
+    "examples": [
+      {
+        "en": "The story is about a Greek god.",
+        "zh": "这个故事讲的是一位希腊神灵。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "a Greek god",
+        "zh": "一位希腊神灵",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "app": {
+    "partOfSpeech": "n.",
+    "meaningZh": "应用程序；手机应用",
+    "examples": [
+      {
+        "en": "Open the app on your phone.",
+        "zh": "打开手机上的应用。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "mobile app",
+        "zh": "手机应用",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "smartphone": {
+    "partOfSpeech": "n.",
+    "meaningZh": "智能手机",
+    "examples": [
+      {
+        "en": "You can read the map on your smartphone.",
+        "zh": "你可以在智能手机上查看地图。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "smartphone screen",
+        "zh": "智能手机屏幕",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "grandpa": {
+    "partOfSpeech": "n.",
+    "meaningZh": "爷爷；外公（口语）",
+    "examples": [
+      {
+        "en": "My grandpa grows vegetables in his garden.",
+        "zh": "我爷爷在花园里种菜。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "my grandpa",
+        "zh": "我的爷爷或外公",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "socks": {
+    "partOfSpeech": "n.",
+    "meaningZh": "短袜；袜子（sock 的复数）",
+    "examples": [
+      {
+        "en": "I need a clean pair of socks.",
+        "zh": "我需要一双干净的袜子。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "a pair of socks",
+        "zh": "一双袜子",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "trousers": {
+    "partOfSpeech": "n.",
+    "meaningZh": "裤子；长裤（通常用复数）",
+    "examples": [
+      {
+        "en": "These trousers are too long for me.",
+        "zh": "这条裤子对我来说太长了。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "a pair of trousers",
+        "zh": "一条裤子",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "pence": {
+    "partOfSpeech": "n.",
+    "meaningZh": "便士（penny 的复数，常用于表示金额）",
+    "examples": [
+      {
+        "en": "The stamp costs fifty pence.",
+        "zh": "这张邮票售价五十便士。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "fifty pence",
+        "zh": "五十便士",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "kilogram": {
+    "partOfSpeech": "n.",
+    "meaningZh": "千克；公斤",
+    "examples": [
+      {
+        "en": "The bag weighs one kilogram.",
+        "zh": "这个袋子重一千克。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "a kilogram of rice",
+        "zh": "一公斤大米",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "kilometre": {
+    "partOfSpeech": "n.",
+    "meaningZh": "千米；公里（美式拼写 kilometer）",
+    "examples": [
+      {
+        "en": "The school is one kilometre from here.",
+        "zh": "学校离这里一千米。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "one kilometre away",
+        "zh": "一千米远",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "metre": {
+    "partOfSpeech": "n.",
+    "meaningZh": "米；公尺；格律（美式拼写 meter）",
+    "examples": [
+      {
+        "en": "The table is one metre long.",
+        "zh": "这张桌子长一米。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "one metre long",
+        "zh": "一米长",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "colour": {
+    "partOfSpeech": "n. / v.",
+    "meaningZh": "颜色；给……着色（美式拼写 color）",
+    "examples": [
+      {
+        "en": "What colour is your new bag?",
+        "zh": "你的新书包是什么颜色的？",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "bright colour",
+        "zh": "鲜艳的颜色",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "centre": {
+    "partOfSpeech": "n. / v.",
+    "meaningZh": "中心；中央；使集中（美式拼写 center）",
+    "examples": [
+      {
+        "en": "The bus stops in the city centre.",
+        "zh": "公共汽车在市中心停靠。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "city centre",
+        "zh": "市中心",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "neighbour": {
+    "partOfSpeech": "n.",
+    "meaningZh": "邻居（美式拼写 neighbor）",
+    "examples": [
+      {
+        "en": "Our neighbour has a friendly dog.",
+        "zh": "我们的邻居有一只友善的狗。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "next-door neighbour",
+        "zh": "隔壁邻居",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "programme": {
+    "partOfSpeech": "n. / v.",
+    "meaningZh": "节目；计划；安排（美式常用 program）",
+    "examples": [
+      {
+        "en": "The programme starts at eight tonight.",
+        "zh": "这个节目今晚八点开始。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "television programme",
+        "zh": "电视节目",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "theatre": {
+    "partOfSpeech": "n.",
+    "meaningZh": "剧院；戏剧；手术室（美式拼写 theater）",
+    "examples": [
+      {
+        "en": "We are going to the theatre tonight.",
+        "zh": "我们今晚要去剧院。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "go to the theatre",
+        "zh": "去看戏",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "realise": {
+    "partOfSpeech": "v.",
+    "meaningZh": "意识到；实现（美式拼写 realize）",
+    "examples": [
+      {
+        "en": "I did not realise how late it was.",
+        "zh": "我没有意识到已经这么晚了。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "realise a dream",
+        "zh": "实现梦想",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "penny": {
+    "partOfSpeech": "n.",
+    "meaningZh": "便士；一分硬币",
+    "examples": [
+      {
+        "en": "I found a penny on the floor.",
+        "zh": "我在地板上发现了一枚一分硬币。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "every penny",
+        "zh": "每一分钱",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "kilo": {
+    "partOfSpeech": "n.",
+    "meaningZh": "千克；公斤（kilogram 的口语形式）",
+    "examples": [
+      {
+        "en": "We bought a kilo of rice.",
+        "zh": "我们买了一公斤大米。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "a kilo of flour",
+        "zh": "一公斤面粉",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "ton": {
+    "partOfSpeech": "n.",
+    "meaningZh": "吨（美吨约907千克，英吨约1016千克；公吨为 tonne）",
+    "examples": [
+      {
+        "en": "The truck can carry a ton of sand.",
+        "zh": "这辆卡车能运载一吨沙子。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "a ton of sand",
+        "zh": "一吨沙子",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "yourselves": {
+    "partOfSpeech": "pron.",
+    "meaningZh": "你们自己",
+    "examples": [
+      {
+        "en": "Please help yourselves to some fruit.",
+        "zh": "请你们随意吃些水果。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "help yourselves",
+        "zh": "请随意取用",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "airhead": {
+    "partOfSpeech": "n.",
+    "meaningZh": "笨蛋；没头脑的人（非正式）；空降场",
+    "examples": [
+      {
+        "en": "Calling someone an airhead can be rude.",
+        "zh": "说别人没头脑可能很无礼。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "a complete airhead",
+        "zh": "一个十足的笨蛋",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "run": {
+    "partOfSpeech": "v. / n.",
+    "meaningZh": "跑；奔跑；经营；运行；跑步；一段连续时间",
+    "examples": [
+      {
+        "en": "She runs a small shop near the station.",
+        "zh": "她在车站附近经营一家小店。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "run a business",
+        "zh": "经营企业",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "past": {
+    "partOfSpeech": "adj. / prep. / adv. / n.",
+    "meaningZh": "过去的；经过；超过；在另一边；过去",
+    "examples": [
+      {
+        "en": "We walked past the library.",
+        "zh": "我们从图书馆旁边走过。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "in the past",
+        "zh": "在过去",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "radium": {
+    "partOfSpeech": "n.",
+    "meaningZh": "镭（化学元素，符号 Ra）",
+    "examples": [
+      {
+        "en": "Radium is a radioactive element.",
+        "zh": "镭是一种放射性元素。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "radium isotope",
+        "zh": "镭同位素",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "photosynthesis": {
+    "partOfSpeech": "n.",
+    "meaningZh": "光合作用",
+    "examples": [
+      {
+        "en": "Plants use sunlight for photosynthesis.",
+        "zh": "植物利用阳光进行光合作用。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "the process of photosynthesis",
+        "zh": "光合作用的过程",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "banana": {
+    "partOfSpeech": "n.",
+    "meaningZh": "香蕉",
+    "examples": [
+      {
+        "en": "There is a banana in my lunch box.",
+        "zh": "我的午餐盒里有一根香蕉。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "a ripe banana",
+        "zh": "一根熟香蕉",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "hello": {
+    "partOfSpeech": "interj.",
+    "meaningZh": "喂；你好（用于问候或接电话）",
+    "examples": [
+      {
+        "en": "Say hello to your new neighbour.",
+        "zh": "向你的新邻居问好。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "say hello",
+        "zh": "打招呼",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "mum": {
+    "partOfSpeech": "n.",
+    "meaningZh": "妈妈（英式口语）；沉默（keep mum：保密）",
+    "examples": [
+      {
+        "en": "My mum is making dinner.",
+        "zh": "我妈妈正在做晚饭。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "my mum",
+        "zh": "我的妈妈",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "English": {
+    "partOfSpeech": "n. / adj.",
+    "meaningZh": "英语；英语的；英格兰的",
+    "examples": [
+      {
+        "en": "We speak English in this class.",
+        "zh": "我们在这节课上说英语。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "speak English",
+        "zh": "说英语",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "Chinese": {
+    "partOfSpeech": "n. / adj.",
+    "meaningZh": "中文；汉语；中国人；中国的",
+    "examples": [
+      {
+        "en": "She can read and write Chinese.",
+        "zh": "她能读写中文。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "learn Chinese",
+        "zh": "学习中文",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "French": {
+    "partOfSpeech": "n. / adj.",
+    "meaningZh": "法语；法国的；法语的",
+    "examples": [
+      {
+        "en": "He is learning French at school.",
+        "zh": "他正在学校学习法语。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "speak French",
+        "zh": "说法语",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "Spanish": {
+    "partOfSpeech": "n. / adj.",
+    "meaningZh": "西班牙语；西班牙的；西班牙语的",
+    "examples": [
+      {
+        "en": "They speak Spanish at home.",
+        "zh": "他们在家说西班牙语。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "learn Spanish",
+        "zh": "学习西班牙语",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "Christmas": {
+    "partOfSpeech": "n.",
+    "meaningZh": "圣诞节",
+    "examples": [
+      {
+        "en": "We visit our family at Christmas.",
+        "zh": "我们在圣诞节探望家人。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "Christmas tree",
+        "zh": "圣诞树",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "Easter": {
+    "partOfSpeech": "n.",
+    "meaningZh": "复活节",
+    "examples": [
+      {
+        "en": "The children painted eggs for Easter.",
+        "zh": "孩子们为复活节彩绘鸡蛋。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全库审查：修正常用义、词性或补足过滤规则遗漏的基础词。",
+    "collocations": [
+      {
+        "en": "Easter egg",
+        "zh": "复活节彩蛋",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "January": {
+    "partOfSpeech": "n.",
+    "meaningZh": "一月（月份名称，首字母大写）",
+    "examples": [
+      {
+        "en": "The new term starts in January.",
+        "zh": "新学期在一月开始。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的月份名称；与小写 may 等不同义项分开。",
+    "collocations": [
+      {
+        "en": "in January",
+        "zh": "在一月",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "February": {
+    "partOfSpeech": "n.",
+    "meaningZh": "二月（月份名称，首字母大写）",
+    "examples": [
+      {
+        "en": "February is the shortest month of the year.",
+        "zh": "二月是一年中最短的月份。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的月份名称；与小写 may 等不同义项分开。",
+    "collocations": [
+      {
+        "en": "in February",
+        "zh": "在二月",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "March": {
+    "partOfSpeech": "n.",
+    "meaningZh": "三月（月份名称，首字母大写）",
+    "examples": [
+      {
+        "en": "The flowers start to bloom in March.",
+        "zh": "花儿在三月开始绽放。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的月份名称；与小写 may 等不同义项分开。",
+    "collocations": [
+      {
+        "en": "in March",
+        "zh": "在三月",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "April": {
+    "partOfSpeech": "n.",
+    "meaningZh": "四月（月份名称，首字母大写）",
+    "examples": [
+      {
+        "en": "We moved into this house in April.",
+        "zh": "我们在四月搬进了这所房子。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的月份名称；与小写 may 等不同义项分开。",
+    "collocations": [
+      {
+        "en": "in April",
+        "zh": "在四月",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "May": {
+    "partOfSpeech": "n.",
+    "meaningZh": "五月（月份名称，首字母大写）",
+    "examples": [
+      {
+        "en": "My birthday is in May.",
+        "zh": "我的生日在五月。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的月份名称；与小写 may 等不同义项分开。",
+    "collocations": [
+      {
+        "en": "in May",
+        "zh": "在五月",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "June": {
+    "partOfSpeech": "n.",
+    "meaningZh": "六月（月份名称，首字母大写）",
+    "examples": [
+      {
+        "en": "The school year ends in June.",
+        "zh": "学年在六月结束。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的月份名称；与小写 may 等不同义项分开。",
+    "collocations": [
+      {
+        "en": "in June",
+        "zh": "在六月",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "July": {
+    "partOfSpeech": "n.",
+    "meaningZh": "七月（月份名称，首字母大写）",
+    "examples": [
+      {
+        "en": "We are going on holiday in July.",
+        "zh": "我们七月要去度假。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的月份名称；与小写 may 等不同义项分开。",
+    "collocations": [
+      {
+        "en": "in July",
+        "zh": "在七月",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "August": {
+    "partOfSpeech": "n.",
+    "meaningZh": "八月（月份名称，首字母大写）",
+    "examples": [
+      {
+        "en": "It is often very hot in August.",
+        "zh": "八月常常很热。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的月份名称；与小写 may 等不同义项分开。",
+    "collocations": [
+      {
+        "en": "in August",
+        "zh": "在八月",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "September": {
+    "partOfSpeech": "n.",
+    "meaningZh": "九月（月份名称，首字母大写）",
+    "examples": [
+      {
+        "en": "The children return to school in September.",
+        "zh": "孩子们在九月返校。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的月份名称；与小写 may 等不同义项分开。",
+    "collocations": [
+      {
+        "en": "in September",
+        "zh": "在九月",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "October": {
+    "partOfSpeech": "n.",
+    "meaningZh": "十月（月份名称，首字母大写）",
+    "examples": [
+      {
+        "en": "The leaves change colour in October.",
+        "zh": "树叶在十月变色。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的月份名称；与小写 may 等不同义项分开。",
+    "collocations": [
+      {
+        "en": "in October",
+        "zh": "在十月",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "November": {
+    "partOfSpeech": "n.",
+    "meaningZh": "十一月（月份名称，首字母大写）",
+    "examples": [
+      {
+        "en": "The days get shorter in November.",
+        "zh": "十一月的白天变短了。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的月份名称；与小写 may 等不同义项分开。",
+    "collocations": [
+      {
+        "en": "in November",
+        "zh": "在十一月",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "December": {
+    "partOfSpeech": "n.",
+    "meaningZh": "十二月（月份名称，首字母大写）",
+    "examples": [
+      {
+        "en": "December is the last month of the year.",
+        "zh": "十二月是一年的最后一个月。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的月份名称；与小写 may 等不同义项分开。",
+    "collocations": [
+      {
+        "en": "in December",
+        "zh": "在十二月",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "Monday": {
+    "partOfSpeech": "n.",
+    "meaningZh": "星期一（星期名称，首字母大写）",
+    "examples": [
+      {
+        "en": "I have a piano lesson on Monday.",
+        "zh": "我星期一有一节钢琴课。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的星期名称。",
+    "collocations": [
+      {
+        "en": "on Monday",
+        "zh": "在星期一",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "Tuesday": {
+    "partOfSpeech": "n.",
+    "meaningZh": "星期二（星期名称，首字母大写）",
+    "examples": [
+      {
+        "en": "The library is closed on Tuesday.",
+        "zh": "图书馆星期二闭馆。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的星期名称。",
+    "collocations": [
+      {
+        "en": "on Tuesday",
+        "zh": "在星期二",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "Wednesday": {
+    "partOfSpeech": "n.",
+    "meaningZh": "星期三（星期名称，首字母大写）",
+    "examples": [
+      {
+        "en": "Our team meets every Wednesday.",
+        "zh": "我们团队每周三开会。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的星期名称。",
+    "collocations": [
+      {
+        "en": "on Wednesday",
+        "zh": "在星期三",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "Thursday": {
+    "partOfSpeech": "n.",
+    "meaningZh": "星期四（星期名称，首字母大写）",
+    "examples": [
+      {
+        "en": "The package will arrive on Thursday.",
+        "zh": "包裹将于星期四送达。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的星期名称。",
+    "collocations": [
+      {
+        "en": "on Thursday",
+        "zh": "在星期四",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "Friday": {
+    "partOfSpeech": "n.",
+    "meaningZh": "星期五（星期名称，首字母大写）",
+    "examples": [
+      {
+        "en": "We finish work early on Friday.",
+        "zh": "我们星期五提前下班。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的星期名称。",
+    "collocations": [
+      {
+        "en": "on Friday",
+        "zh": "在星期五",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "Saturday": {
+    "partOfSpeech": "n.",
+    "meaningZh": "星期六（星期名称，首字母大写）",
+    "examples": [
+      {
+        "en": "I play football on Saturday mornings.",
+        "zh": "我星期六上午踢足球。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的星期名称。",
+    "collocations": [
+      {
+        "en": "on Saturday",
+        "zh": "在星期六",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "Sunday": {
+    "partOfSpeech": "n.",
+    "meaningZh": "星期日；星期天（星期名称，首字母大写）",
+    "examples": [
+      {
+        "en": "We usually visit Grandma on Sunday.",
+        "zh": "我们通常星期天去看奶奶。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "补足被大小写或零词频过滤掉的星期名称。",
+    "collocations": [
+      {
+        "en": "on Sunday",
+        "zh": "在星期日；星期天",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "drunk": {
+    "partOfSpeech": "adj. / n. / v.",
+    "meaningZh": "醉的；醉汉；drink 的过去分词",
+    "examples": [
+      {
+        "en": "He was too drunk to drive.",
+        "zh": "他醉得无法开车。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/drunk",
+    "collocations": [
+      {
+        "en": "get drunk",
+        "zh": "喝醉",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "dispiriting": {
+    "partOfSpeech": "adj. / v.",
+    "meaningZh": "令人沮丧的；使失去信心（dispirit 的现在分词）",
+    "examples": [
+      {
+        "en": "It was dispiriting to hear the news.",
+        "zh": "听到这个消息令人沮丧。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/dispiriting",
+    "collocations": [
+      {
+        "en": "a dispiriting experience",
+        "zh": "一次令人沮丧的经历",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "biscuit": {
+    "partOfSpeech": "n.",
+    "meaningZh": "饼干（英式）；松软小面包（美式）",
+    "examples": [
+      {
+        "en": "Would you like a biscuit with your tea?",
+        "zh": "喝茶时你想吃块饼干吗？",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "a chocolate biscuit",
+        "zh": "一块巧克力饼干",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "lorry": {
+    "partOfSpeech": "n.",
+    "meaningZh": "卡车；货车（英式，美式常用 truck）",
+    "examples": [
+      {
+        "en": "A lorry delivered the furniture this morning.",
+        "zh": "一辆货车今天早上送来了家具。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "lorry driver",
+        "zh": "货车司机",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "labour": {
+    "partOfSpeech": "n. / v.",
+    "meaningZh": "劳动；劳动力；分娩；努力工作（美式拼写 labor）",
+    "examples": [
+      {
+        "en": "The work requires a lot of manual labour.",
+        "zh": "这项工作需要大量体力劳动。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "manual labour",
+        "zh": "体力劳动",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "defence": {
+    "partOfSpeech": "n.",
+    "meaningZh": "防御；保卫；辩护（美式拼写 defense）",
+    "examples": [
+      {
+        "en": "The castle was built for defence.",
+        "zh": "这座城堡是为防御而建的。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "self-defence",
+        "zh": "自卫",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "mama": {
+    "partOfSpeech": "n.",
+    "meaningZh": "妈妈（口语）",
+    "examples": [
+      {
+        "en": "The baby smiled at her mama.",
+        "zh": "婴儿对着妈妈笑了。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "my mama",
+        "zh": "我的妈妈",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "papa": {
+    "partOfSpeech": "n.",
+    "meaningZh": "爸爸（口语）",
+    "examples": [
+      {
+        "en": "The little boy ran to his papa.",
+        "zh": "小男孩跑向了爸爸。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "my papa",
+        "zh": "我的爸爸",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "outing": {
+    "partOfSpeech": "n.",
+    "meaningZh": "短途出游；外出活动",
+    "examples": [
+      {
+        "en": "We went on a family outing to the beach.",
+        "zh": "我们全家去海滩游玩了一趟。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "a family outing",
+        "zh": "一次家庭出游",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "gaming": {
+    "partOfSpeech": "n.",
+    "meaningZh": "电子游戏活动；赌博（视语境而定）",
+    "examples": [
+      {
+        "en": "He uses this computer for gaming.",
+        "zh": "他用这台电脑玩电子游戏。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "gaming console",
+        "zh": "游戏机",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "dogged": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "顽强的；坚持不懈的",
+    "examples": [
+      {
+        "en": "Her dogged determination helped her succeed.",
+        "zh": "她坚持不懈的决心帮助她取得了成功。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "dogged determination",
+        "zh": "顽强的决心",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "learned": {
+    "partOfSpeech": "adj. / v.",
+    "meaningZh": "博学的（/ˈlɜːnɪd/）；learn 的过去式和过去分词（/lɜːnd/）",
+    "examples": [
+      {
+        "en": "She is a learned professor of history.",
+        "zh": "她是一位博学的历史学教授。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "a learned scholar",
+        "zh": "一位博学的学者",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "queen": {
+    "partOfSpeech": "n. / v.",
+    "meaningZh": "女王；王后；国际象棋中的后；使兵升变为后",
+    "examples": [
+      {
+        "en": "The queen waved to the crowd.",
+        "zh": "女王向人群挥手。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "the reigning queen",
+        "zh": "在位女王",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "eagle": {
+    "partOfSpeech": "n.",
+    "meaningZh": "鹰；高尔夫球中低于标准杆两杆的成绩",
+    "examples": [
+      {
+        "en": "An eagle flew over the mountains.",
+        "zh": "一只鹰飞过群山。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "bald eagle",
+        "zh": "白头海雕",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "centimetre": {
+    "partOfSpeech": "n.",
+    "meaningZh": "厘米；公分（美式拼写 centimeter）",
+    "examples": [
+      {
+        "en": "The plant grew one centimetre this week.",
+        "zh": "这株植物这周长高了一厘米。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "one centimetre thick",
+        "zh": "一厘米厚",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "tyre": {
+    "partOfSpeech": "n.",
+    "meaningZh": "轮胎（英式，美式拼写 tire）",
+    "examples": [
+      {
+        "en": "We need to change the flat tyre.",
+        "zh": "我们需要更换漏气的轮胎。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "a flat tyre",
+        "zh": "漏气的轮胎",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "harbour": {
+    "partOfSpeech": "n. / v.",
+    "meaningZh": "港口；庇护；心怀（美式拼写 harbor）",
+    "examples": [
+      {
+        "en": "The boats returned to the harbour.",
+        "zh": "船只返回了港口。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "a sheltered harbour",
+        "zh": "一个有遮蔽的港口",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "cosy": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "温暖舒适的；惬意的（美式拼写 cozy）",
+    "examples": [
+      {
+        "en": "The room is small but cosy.",
+        "zh": "房间虽小却很舒适。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "a cosy room",
+        "zh": "一间舒适的房间",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "woollen": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "羊毛制的（美式拼写 woolen）",
+    "examples": [
+      {
+        "en": "She wore a warm woollen sweater.",
+        "zh": "她穿了一件暖和的羊毛衫。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "a woollen sweater",
+        "zh": "一件羊毛衫",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "humour": {
+    "partOfSpeech": "n. / v.",
+    "meaningZh": "幽默；心情；迁就（美式拼写 humor）",
+    "examples": [
+      {
+        "en": "I like his sense of humour.",
+        "zh": "我喜欢他的幽默感。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "a sense of humour",
+        "zh": "幽默感",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "gram": {
+    "partOfSpeech": "n.",
+    "meaningZh": "克（质量单位）",
+    "examples": [
+      {
+        "en": "The scale can measure a single gram.",
+        "zh": "这台秤可以测出一克的重量。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "全量审查：常用义、语法角色或地区用法复核；例句为项目原创。",
+    "reference": "ECDICT",
+    "collocations": [
+      {
+        "en": "one gram of salt",
+        "zh": "一克盐",
+        "source": "项目原创实用搭配 v10 · CC0"
+      }
+    ]
+  },
+  "may": {
+    "partOfSpeech": "aux.",
+    "meaningZh": "可以；可能；但愿（情态动词；月份名称写作 May）",
+    "examples": [
+      {
+        "en": "You may use my phone.",
+        "zh": "你可以用我的手机。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "区分同形异义与词性，避免月份大写义和动词形式互相污染。"
+  },
+  "march": {
+    "partOfSpeech": "n. / v.",
+    "meaningZh": "行军；游行；进行曲；齐步前进（月份名称写作 March）",
+    "examples": [
+      {
+        "en": "The soldiers began to march.",
+        "zh": "士兵们开始行军。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "区分同形异义与词性，避免月份大写义和动词形式互相污染。"
+  },
+  "august": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "威严的；令人敬畏的（月份名称写作 August，读音不同）",
+    "examples": [
+      {
+        "en": "They gathered in the august hall.",
+        "zh": "他们聚集在庄严的大厅里。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "区分同形异义与词性，避免月份大写义和动词形式互相污染。"
+  },
+  "fell": {
+    "partOfSpeech": "v. / n. / adj.",
+    "meaningZh": "砍倒；击倒；山丘（尤见于英国北部）；凶猛的；fall 的过去式",
+    "examples": [
+      {
+        "en": "They had to fell the damaged tree.",
+        "zh": "他们不得不砍倒那棵受损的树。",
+        "source": "项目原创语境 v10 · CC0"
+      }
+    ],
+    "reason": "区分同形异义与词性，避免月份大写义和动词形式互相污染。"
+  }
+}

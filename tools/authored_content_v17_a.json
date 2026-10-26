@@ -1,0 +1,1880 @@
+{
+  "version": "v17-a",
+  "license": "CC0 1.0",
+  "words": {
+    "practise": {
+      "examples": [
+        {
+          "en": "I practise the piano for twenty minutes each day.",
+          "zh": "我每天练习二十分钟钢琴。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "practise the piano",
+          "zh": "练习弹钢琴",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "behaviour": {
+      "examples": [
+        {
+          "en": "The teacher praised the children's thoughtful behaviour.",
+          "zh": "老师表扬了孩子们体贴他人的行为。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "polite behaviour",
+          "zh": "礼貌的举止",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "neighbourhood": {
+      "examples": [
+        {
+          "en": "There is a small library in our neighbourhood.",
+          "zh": "我们街区有一家小图书馆。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a quiet neighbourhood",
+          "zh": "安静的街区",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "honour": {
+      "examples": [
+        {
+          "en": "The award was presented in honour of her work.",
+          "zh": "颁发这个奖项是为了表彰她的工作。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "in honour of",
+          "zh": "为纪念；为向……表示敬意",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "lastly": {
+      "examples": [
+        {
+          "en": "Lastly, remember to save a copy of the document.",
+          "zh": "最后，记得保存一份文件副本。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "lastly but importantly",
+          "zh": "最后但同样重要的是",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "counsellor": {
+      "examples": [
+        {
+          "en": "The school counsellor helped him plan his next steps.",
+          "zh": "学校辅导员帮助他规划了接下来的行动。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a school counsellor",
+          "zh": "学校辅导员",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "fibre": {
+      "examples": [
+        {
+          "en": "The fabric contains a mixture of cotton and synthetic fibre.",
+          "zh": "这种织物由棉和合成纤维混纺而成。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "synthetic fibre",
+          "zh": "合成纤维",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "draught": {
+      "examples": [
+        {
+          "en": "A cold draught came through the gap under the door.",
+          "zh": "一股冷风从门下的缝隙吹了进来。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a cold draught",
+          "zh": "一股冷风",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "policewoman": {
+      "examples": [
+        {
+          "en": "A policewoman helped the lost child find his family.",
+          "zh": "一位女警察帮助迷路的孩子找到了家人。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a policewoman on duty",
+          "zh": "一名值勤的女警察",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "neighbouring": {
+      "examples": [
+        {
+          "en": "We visited a neighbouring town during the holiday.",
+          "zh": "假期里，我们去了邻近的一个小镇。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a neighbouring town",
+          "zh": "邻近的小镇",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "storey": {
+      "examples": [
+        {
+          "en": "Their flat is on the top storey of the building.",
+          "zh": "他们的公寓位于这座楼的顶层。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a three-storey building",
+          "zh": "一栋三层楼的建筑",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "dishwashing": {
+      "examples": [
+        {
+          "en": "We take turns doing the dishwashing after dinner.",
+          "zh": "晚饭后我们轮流洗碗。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "dishwashing liquid",
+          "zh": "洗洁精",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "chemist": {
+      "examples": [
+        {
+          "en": "The chemist carefully labelled each bottle in the laboratory.",
+          "zh": "化学家仔细地给实验室里的每个瓶子贴上了标签。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a research chemist",
+          "zh": "研究化学家",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "receptionist": {
+      "examples": [
+        {
+          "en": "The receptionist asked us to sign the visitors' book.",
+          "zh": "接待员请我们在访客登记簿上签名。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a hotel receptionist",
+          "zh": "酒店接待员",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "campsite": {
+      "examples": [
+        {
+          "en": "We reached the campsite just before sunset.",
+          "zh": "我们在日落前刚好到达营地。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a lakeside campsite",
+          "zh": "湖边的营地",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "campground": {
+      "examples": [
+        {
+          "en": "The campground has drinking water and shared showers.",
+          "zh": "这个露营地提供饮用水和公用淋浴设施。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a forest campground",
+          "zh": "森林露营地",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "sweetly": {
+      "examples": [
+        {
+          "en": "She smiled sweetly and thanked us for coming.",
+          "zh": "她甜甜地笑了笑，感谢我们前来。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "smile sweetly",
+          "zh": "甜甜地微笑",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "junction": {
+      "examples": [
+        {
+          "en": "Turn left at the next road junction.",
+          "zh": "到下一个道路交叉口向左转。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a road junction",
+          "zh": "道路交叉口",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "inactive": {
+      "examples": [
+        {
+          "en": "The account becomes inactive after a long period without use.",
+          "zh": "账户长时间不使用就会进入停用状态。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "an inactive account",
+          "zh": "停用的账户",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "leaflet": {
+      "examples": [
+        {
+          "en": "The nurse gave me a leaflet about the new service.",
+          "zh": "护士给了我一份介绍这项新服务的传单。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "an information leaflet",
+          "zh": "资料传单",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "gratefully": {
+      "examples": [
+        {
+          "en": "He gratefully accepted the offer of a lift home.",
+          "zh": "他感激地接受了搭车回家的邀请。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "gratefully accept",
+          "zh": "感激地接受",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "lavatory": {
+      "examples": [
+        {
+          "en": "The lavatory is at the end of the corridor.",
+          "zh": "厕所在走廊尽头。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a public lavatory",
+          "zh": "公共厕所",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "petrol": {
+      "examples": [
+        {
+          "en": "We stopped to fill the car with petrol.",
+          "zh": "我们停下来给汽车加汽油。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a petrol station",
+          "zh": "加油站",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "expensively": {
+      "examples": [
+        {
+          "en": "The lobby was expensively furnished but felt unwelcoming.",
+          "zh": "大堂装饰得十分昂贵，却让人觉得不够亲切。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "expensively dressed",
+          "zh": "衣着昂贵的",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "speciality": {
+      "examples": [
+        {
+          "en": "Homemade noodles are this restaurant's speciality.",
+          "zh": "手工面是这家餐馆的特色菜。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a local speciality",
+          "zh": "当地特产",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "crossroad": {
+      "examples": [
+        {
+          "en": "A small shop stood beside the crossroad.",
+          "zh": "十字路口旁边有一家小店。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a busy crossroad",
+          "zh": "繁忙的十字路口",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "kerb": {
+      "examples": [
+        {
+          "en": "Please keep the wheels clear of the kerb.",
+          "zh": "请不要让车轮碰到路缘石。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "the edge of the kerb",
+          "zh": "路缘石的边沿",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "troublesome": {
+      "examples": [
+        {
+          "en": "The loose cable caused a troublesome fault.",
+          "zh": "松动的电缆引发了一个棘手的故障。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a troublesome problem",
+          "zh": "棘手的问题",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "principally": {
+      "examples": [
+        {
+          "en": "The museum is funded principally by donations.",
+          "zh": "这家博物馆的经费主要来自捐款。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "principally concerned with",
+          "zh": "主要关注……",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "reassurance": {
+      "examples": [
+        {
+          "en": "She needed reassurance that her application had arrived.",
+          "zh": "她需要得到确认，才能放心自己的申请已经送达。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "offer reassurance",
+          "zh": "给予安慰；让人安心",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "manageable": {
+      "examples": [
+        {
+          "en": "We divided the work into manageable tasks.",
+          "zh": "我们把工作分成了容易处理的小任务。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a manageable workload",
+          "zh": "可以应付的工作量",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "militarily": {
+      "examples": [
+        {
+          "en": "The historian compared how the two states cooperated militarily.",
+          "zh": "历史学家比较了两国在军事上如何合作。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "militarily significant",
+          "zh": "具有军事重要性的",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "medically": {
+      "examples": [
+        {
+          "en": "The report described which expenses were medically necessary.",
+          "zh": "报告说明了哪些开支属于医疗必需费用。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "medically necessary",
+          "zh": "医疗上必要的",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "biologically": {
+      "examples": [
+        {
+          "en": "The researchers asked whether the change was biologically significant.",
+          "zh": "研究人员提出了这一变化是否具有生物学意义的问题。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "biologically significant",
+          "zh": "具有生物学意义的",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "chemically": {
+      "examples": [
+        {
+          "en": "The two substances behave differently when treated chemically.",
+          "zh": "这两种物质在经过化学处理时表现不同。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "chemically treated",
+          "zh": "经过化学处理的",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "enlargement": {
+      "examples": [
+        {
+          "en": "The photographer made an enlargement of the family portrait.",
+          "zh": "摄影师把那张全家福放大了。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a photographic enlargement",
+          "zh": "放大的照片",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "externally": {
+      "examples": [
+        {
+          "en": "The house looks traditional externally, but the interior is modern.",
+          "zh": "这栋房子的外观很传统，内部却很现代。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "externally funded",
+          "zh": "由外部提供资金的",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "refrigeration": {
+      "examples": [
+        {
+          "en": "The label says that the product requires refrigeration.",
+          "zh": "标签上写着这种产品需要冷藏。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "require refrigeration",
+          "zh": "需要冷藏",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "diarrhoea": {
+      "examples": [
+        {
+          "en": "The doctor asked how long the diarrhoea had lasted.",
+          "zh": "医生询问了腹泻持续了多久。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "severe diarrhoea",
+          "zh": "严重腹泻",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "armour": {
+      "examples": [
+        {
+          "en": "The museum displayed a suit of medieval armour.",
+          "zh": "博物馆展出了一套中世纪盔甲。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a suit of armour",
+          "zh": "一套盔甲",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "sustainability": {
+      "examples": [
+        {
+          "en": "The project measures the environmental sustainability of different designs.",
+          "zh": "这个项目衡量不同设计的环境可持续性。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "environmental sustainability",
+          "zh": "环境可持续性",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "authoritative": {
+      "examples": [
+        {
+          "en": "We need an authoritative guide rather than an anonymous online comment.",
+          "zh": "我们需要一份权威指南，而不是一条匿名网络评论。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "an authoritative source",
+          "zh": "权威来源",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "electronically": {
+      "examples": [
+        {
+          "en": "Applicants can submit their forms electronically.",
+          "zh": "申请人可以通过电子方式提交表格。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "submit electronically",
+          "zh": "以电子方式提交",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "strategically": {
+      "examples": [
+        {
+          "en": "The company positioned its warehouses strategically near major roads.",
+          "zh": "公司经过战略考量，把仓库设在主要道路附近。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "strategically located",
+          "zh": "位置具有战略优势的",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "hysteria": {
+      "examples": [
+        {
+          "en": "The report questioned the sudden public hysteria surrounding the event.",
+          "zh": "报告对围绕这件事突然出现的公众狂热提出了质疑。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "mass hysteria",
+          "zh": "群体性的狂热或恐慌",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "inspiring": {
+      "examples": [
+        {
+          "en": "The teacher gave an inspiring account of her early research.",
+          "zh": "老师讲述了她早期研究的经历，很鼓舞人心。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "an inspiring story",
+          "zh": "鼓舞人心的故事",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "slowdown": {
+      "examples": [
+        {
+          "en": "The company reported a slowdown in sales growth.",
+          "zh": "公司报告称销售增长有所放缓。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "an economic slowdown",
+          "zh": "经济放缓",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "ion": {
+      "examples": [
+        {
+          "en": "The diagram shows an ion with a positive charge.",
+          "zh": "示意图显示了一个带正电荷的离子。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a positive ion",
+          "zh": "正离子",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "curricular": {
+      "examples": [
+        {
+          "en": "The school is reviewing its curricular requirements.",
+          "zh": "学校正在修订课程要求。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "curricular requirements",
+          "zh": "课程要求",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "wares": {
+      "examples": [
+        {
+          "en": "The market traders displayed their wares on wooden tables.",
+          "zh": "市场上的商贩把商品摆在木桌上展示。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "sell one's wares",
+          "zh": "出售自己的商品",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "polymer": {
+      "examples": [
+        {
+          "en": "The researchers tested the strength of the new polymer.",
+          "zh": "研究人员测试了这种新型聚合物的强度。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a synthetic polymer",
+          "zh": "合成聚合物",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "ascent": {
+      "examples": [
+        {
+          "en": "The final ascent to the summit was steep and rocky.",
+          "zh": "最后通往山顶的上坡路又陡峭又多岩石。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a steep ascent",
+          "zh": "陡峭的上升路段",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "seedling": {
+      "examples": [
+        {
+          "en": "We planted each seedling in a separate pot.",
+          "zh": "我们把每株幼苗分别种在一个花盆里。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a young seedling",
+          "zh": "幼苗",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "anecdotal": {
+      "examples": [
+        {
+          "en": "The proposal relies on anecdotal evidence rather than a systematic study.",
+          "zh": "这项提案依据的是个别经历，而不是系统研究。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "anecdotal evidence",
+          "zh": "轶事证据；个别经历形成的证据",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "tapestry": {
+      "examples": [
+        {
+          "en": "A large tapestry hung behind the wooden table.",
+          "zh": "木桌后面挂着一幅大挂毯。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a woven tapestry",
+          "zh": "编织挂毯",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "oasis": {
+      "examples": [
+        {
+          "en": "The travelers rested beside a small oasis.",
+          "zh": "旅人在一小片绿洲旁歇息。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a desert oasis",
+          "zh": "沙漠绿洲",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "scarlet": {
+      "examples": [
+        {
+          "en": "She wore a scarlet scarf over a dark coat.",
+          "zh": "她在深色大衣外围着一条鲜红色围巾。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a scarlet scarf",
+          "zh": "鲜红色的围巾",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "abuser": {
+      "examples": [
+        {
+          "en": "The support worker helped her find protection from her abuser.",
+          "zh": "援助人员帮助她寻求保护，远离施虐者。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a drug abuser",
+          "zh": "药物滥用者",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "unintended": {
+      "examples": [
+        {
+          "en": "The new rule had an unintended effect on small businesses.",
+          "zh": "这条新规定对小企业产生了意想不到的影响。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "an unintended consequence",
+          "zh": "非预期的后果",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "jihad": {
+      "examples": [
+        {
+          "en": "The historian examined how the term jihad was used in different periods.",
+          "zh": "历史学家考察了 jihad 这一宗教术语在不同时期的用法。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "the concept of jihad",
+          "zh": "jihad 这一宗教概念",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ],
+      "meaningZh": "n. （伊斯兰教用语）为信仰而奋斗；（特定语境中的）圣战"
+    },
+    "moratorium": {
+      "examples": [
+        {
+          "en": "The council announced a temporary moratorium on new construction.",
+          "zh": "市议会宣布暂时停止新建工程。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a temporary moratorium",
+          "zh": "临时暂停令",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "monologue": {
+      "examples": [
+        {
+          "en": "The actor delivered a moving monologue at the end of the play.",
+          "zh": "演员在戏剧结尾表演了一段动人的独白。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a dramatic monologue",
+          "zh": "戏剧独白",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "grad": {
+      "examples": [
+        {
+          "en": "She is a recent grad looking for her first job.",
+          "zh": "她是一名刚毕业不久、正在找第一份工作的人。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a recent grad",
+          "zh": "刚毕业不久的人",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "pixel": {
+      "examples": [
+        {
+          "en": "One damaged pixel remained visible on the screen.",
+          "zh": "屏幕上有一个损坏的像素始终清晰可见。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "pixel density",
+          "zh": "像素密度",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "fledgling": {
+      "examples": [
+        {
+          "en": "The fledgling waited on the branch while its parents brought food.",
+          "zh": "那只刚长羽毛的雏鸟等在树枝上，亲鸟则为它送来食物。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a fledgling business",
+          "zh": "刚起步的企业",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "anew": {
+      "examples": [
+        {
+          "en": "After the storm, the villagers began to build anew.",
+          "zh": "暴风雨过后，村民们开始重新建设家园。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "begin anew",
+          "zh": "重新开始",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "tendon": {
+      "examples": [
+        {
+          "en": "The scan showed an injury to a tendon near the ankle.",
+          "zh": "扫描显示脚踝附近的一条肌腱受了伤。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a damaged tendon",
+          "zh": "受损的肌腱",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "plaid": {
+      "examples": [
+        {
+          "en": "He wore a plaid shirt and dark jeans.",
+          "zh": "他穿着一件格子衬衫和深色牛仔裤。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a plaid shirt",
+          "zh": "格子衬衫",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "aye": {
+      "examples": [
+        {
+          "en": "When the vote was called, she answered aye.",
+          "zh": "表决时，她回答“赞成”。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "vote aye",
+          "zh": "投赞成票",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "forestry": {
+      "examples": [
+        {
+          "en": "She studied forestry before working in conservation.",
+          "zh": "她在从事自然保护工作之前学过林业。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "sustainable forestry",
+          "zh": "可持续林业",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "rover": {
+      "examples": [
+        {
+          "en": "The documentary followed a rover moving across the desert.",
+          "zh": "纪录片跟拍了一辆穿越沙漠的探测车。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a lunar rover",
+          "zh": "月球探测车",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ],
+      "meaningZh": "n. 漂泊者；流浪者；漫游者；（行星或月球等表面的）探测车"
+    },
+    "grieving": {
+      "examples": [
+        {
+          "en": "The community offered support to the grieving family.",
+          "zh": "社区向那个悲痛的家庭提供了帮助。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a grieving family",
+          "zh": "悲痛中的家庭",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "cutback": {
+      "examples": [
+        {
+          "en": "The budget cutback meant that the project had to be delayed.",
+          "zh": "预算削减意味着这个项目必须延期。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a spending cutback",
+          "zh": "开支削减",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "biopsy": {
+      "examples": [
+        {
+          "en": "The doctor explained why a biopsy had been requested.",
+          "zh": "医生解释了为什么需要进行活组织检查。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a tissue biopsy",
+          "zh": "组织活检",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "biomass": {
+      "examples": [
+        {
+          "en": "The team estimated the biomass of plants in the study area.",
+          "zh": "团队估算了研究区域内植物的生物量。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "plant biomass",
+          "zh": "植物生物量",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "adrenaline": {
+      "examples": [
+        {
+          "en": "She felt a rush of adrenaline before the race.",
+          "zh": "比赛前，她感到肾上腺素突然上涌。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a rush of adrenaline",
+          "zh": "一阵肾上腺素激增",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "heartland": {
+      "examples": [
+        {
+          "en": "The railway passes through the country's agricultural heartland.",
+          "zh": "铁路穿过这个国家的农业核心地区。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "the industrial heartland",
+          "zh": "工业核心地区",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "sparse": {
+      "examples": [
+        {
+          "en": "Vegetation was sparse on the dry hillside.",
+          "zh": "干燥的山坡上植被稀疏。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "sparse vegetation",
+          "zh": "稀疏的植被",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "beacon": {
+      "examples": [
+        {
+          "en": "The lighthouse served as a beacon for ships approaching the harbor.",
+          "zh": "那座灯塔为驶近港口的船只指引方向。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a beacon of hope",
+          "zh": "希望的灯塔",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "tattered": {
+      "examples": [
+        {
+          "en": "He took a tattered notebook from his pocket.",
+          "zh": "他从口袋里拿出一本破旧的笔记本。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a tattered notebook",
+          "zh": "破旧的笔记本",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "delta": {
+      "examples": [
+        {
+          "en": "Several small fishing villages stand in the river delta.",
+          "zh": "河流三角洲上分布着几个小渔村。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a river delta",
+          "zh": "河流三角洲",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "preseason": {
+      "examples": [
+        {
+          "en": "The team played three preseason matches.",
+          "zh": "这支球队打了三场赛季前的比赛。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "preseason training",
+          "zh": "赛季前训练",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "orgasm": {
+      "examples": [
+        {
+          "en": "The medical textbook discusses orgasm as part of human sexual response.",
+          "zh": "这本医学教科书把性高潮作为人类性反应的一部分进行讨论。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "sexual orgasm",
+          "zh": "性高潮",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ],
+      "meaningZh": "n. 性高潮；强烈兴奋的顶点"
+    },
+    "gracefully": {
+      "examples": [
+        {
+          "en": "The dancer turned gracefully across the stage.",
+          "zh": "舞者在舞台上优雅地转身。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "move gracefully",
+          "zh": "优雅地移动",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "shortfall": {
+      "examples": [
+        {
+          "en": "The charity faces a shortfall in funding this year.",
+          "zh": "这家慈善机构今年面临资金缺口。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a funding shortfall",
+          "zh": "资金缺口",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "cubicle": {
+      "examples": [
+        {
+          "en": "She works in a small cubicle near the window.",
+          "zh": "她在靠窗的一小间隔间里办公。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "an office cubicle",
+          "zh": "办公室隔间",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "lookout": {
+      "examples": [
+        {
+          "en": "A sailor stood on lookout near the bow.",
+          "zh": "一名水手在船头附近站岗瞭望。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "keep a lookout",
+          "zh": "留意；警戒",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "affidavit": {
+      "examples": [
+        {
+          "en": "The witness signed an affidavit describing what she had seen.",
+          "zh": "证人签署了一份宣誓书，说明她所看到的事情。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a sworn affidavit",
+          "zh": "宣誓书",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "neural": {
+      "examples": [
+        {
+          "en": "The experiment examined neural activity during a simple task.",
+          "zh": "这项实验考察了执行一个简单任务时的神经活动。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "neural activity",
+          "zh": "神经活动",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "makeover": {
+      "examples": [
+        {
+          "en": "The old station received a complete makeover.",
+          "zh": "这座旧车站经过了彻底改造。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a complete makeover",
+          "zh": "彻底改造",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "caste": {
+      "examples": [
+        {
+          "en": "The novel explores how caste affected the characters' opportunities.",
+          "zh": "这部小说探讨了种姓如何影响人物的机会。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "the caste system",
+          "zh": "种姓制度",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "humanities": {
+      "examples": [
+        {
+          "en": "The university offers courses in both science and the humanities.",
+          "zh": "这所大学同时开设科学和人文学科课程。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "the humanities department",
+          "zh": "人文学科系",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "biographer": {
+      "examples": [
+        {
+          "en": "Her biographer interviewed friends and former colleagues.",
+          "zh": "为她写传记的作者采访了她的朋友和以前的同事。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "an official biographer",
+          "zh": "获正式授权的传记作者",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "paranoia": {
+      "examples": [
+        {
+          "en": "The character's growing paranoia affects every relationship in the story.",
+          "zh": "这个人物日益加重的猜疑影响了故事中的每一段人际关系。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a sense of paranoia",
+          "zh": "偏执多疑的感觉",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "emeritus": {
+      "examples": [
+        {
+          "en": "The professor emeritus still attends the department's seminars.",
+          "zh": "那位荣休教授仍然参加系里的研讨会。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a professor emeritus",
+          "zh": "荣休教授",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "surreal": {
+      "examples": [
+        {
+          "en": "The empty streets gave the city a surreal atmosphere.",
+          "zh": "空荡荡的街道让这座城市显得如梦似幻。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a surreal experience",
+          "zh": "超现实般的经历",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "cadre": {
+      "examples": [
+        {
+          "en": "A small cadre of trained volunteers coordinated the response.",
+          "zh": "一小批受过训练的志愿者组织协调了应对工作。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a cadre of specialists",
+          "zh": "一批专业骨干",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "encircle": {
+      "examples": [
+        {
+          "en": "Tall trees encircle the quiet pond.",
+          "zh": "高大的树木环绕着那片宁静的池塘。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "encircle the area",
+          "zh": "环绕该区域",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "coroner": {
+      "examples": [
+        {
+          "en": "The coroner requested further information about the death.",
+          "zh": "验尸官要求提供有关这起死亡的更多资料。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a coroner's report",
+          "zh": "验尸官的报告",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "amnesty": {
+      "examples": [
+        {
+          "en": "The government announced an amnesty for certain minor offenses.",
+          "zh": "政府宣布对某些轻微违法行为实行赦免。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "grant an amnesty",
+          "zh": "给予赦免",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "thee": {
+      "examples": [
+        {
+          "en": "The old poem includes the phrase I love thee.",
+          "zh": "这首古诗中有“I love thee”这句话，意思是“我爱你”。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "I thank thee",
+          "zh": "我感谢你（古体用法）",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "rafter": {
+      "examples": [
+        {
+          "en": "The carpenter examined each rafter in the roof.",
+          "zh": "木匠检查了屋顶上的每一根椽子。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a roof rafter",
+          "zh": "屋顶的椽子",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "neuron": {
+      "examples": [
+        {
+          "en": "The diagram shows how one neuron connects with another.",
+          "zh": "示意图展示了一个神经元如何与另一个神经元连接。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a sensory neuron",
+          "zh": "感觉神经元",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ],
+      "meaningZh": "n. 神经元；神经细胞"
+    },
+    "resilience": {
+      "examples": [
+        {
+          "en": "The community showed remarkable resilience after the flood.",
+          "zh": "洪水过后，这个社区表现出了非凡的恢复力。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "emotional resilience",
+          "zh": "情绪恢复力",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "downright": {
+      "examples": [
+        {
+          "en": "His reply was not merely unhelpful; it was downright rude.",
+          "zh": "他的回答不只是毫无帮助，简直就是无礼。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "downright rude",
+          "zh": "极其无礼的",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "buttocks": {
+      "examples": [
+        {
+          "en": "The exercise diagram shows the position of the buttocks and thighs.",
+          "zh": "这张运动示意图标出了臀部和大腿的位置。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "the buttocks and thighs",
+          "zh": "臀部和大腿",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "menopause": {
+      "examples": [
+        {
+          "en": "The course includes a session on health during menopause.",
+          "zh": "这门课程包含一节关于更年期健康的课。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "the onset of menopause",
+          "zh": "绝经期的开始",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "yugoslav": {
+      "examples": [
+        {
+          "en": "The archive contains several Yugoslav films.",
+          "zh": "档案馆收藏了几部南斯拉夫电影。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "Yugoslav cinema",
+          "zh": "南斯拉夫电影",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "steward": {
+      "examples": [
+        {
+          "en": "A steward directed us to our seats.",
+          "zh": "一位乘务员引导我们就座。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "an airline steward",
+          "zh": "航空公司的男乘务员",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    },
+    "watery": {
+      "examples": [
+        {
+          "en": "The soup was too watery and needed more vegetables.",
+          "zh": "这汤太稀了，需要再加些蔬菜。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "watery soup",
+          "zh": "稀汤",
+          "source": "项目原创搭配 v17 · CC0"
+        }
+      ]
+    }
+  }
+}

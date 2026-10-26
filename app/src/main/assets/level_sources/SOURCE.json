@@ -1,0 +1,13 @@
+{
+  "project": "New General Service List (2801-headword mirror, pre-1.2)",
+  "authors": "Charles Browne, Brent Culligan, Joseph Phillips",
+  "url": "https://www.newgeneralservicelist.com/new-general-service-list",
+  "mirrorUrl": "https://github.com/lpmi-13/machine_readable_wordlists/blob/972b751ef6bcc9bd71d0fbc4146174fc8bdfd49c/General/NGSL/NGSL.json",
+  "sha256": "70c1e37fb3feacc95d28aca8c1d7b6fc29960de8572b9912cc4fbbec806809d2",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "fields": [
+    "difficulty auxiliary membership ceiling"
+  ],
+  "note": "Mirror headword bands only; not the official 2023 NGSL1.2; not CEFR. No family arrays used."
+}

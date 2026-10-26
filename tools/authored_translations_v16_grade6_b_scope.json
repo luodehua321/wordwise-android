@@ -1,0 +1,7106 @@
+{
+  "version": "v16-grade6-b",
+  "wordIds": [
+    "litter",
+    "automated",
+    "exquisite",
+    "immerse",
+    "infected",
+    "bodyguard",
+    "swap",
+    "consciously",
+    "aura",
+    "honeymoon",
+    "flap",
+    "farewell",
+    "cookbook",
+    "striped",
+    "eighteenth",
+    "softball",
+    "moderately",
+    "poker",
+    "seam",
+    "restructure",
+    "shortcoming",
+    "sandal",
+    "longing",
+    "idle",
+    "pinpoint",
+    "mince",
+    "pivotal",
+    "haze",
+    "anatomy",
+    "dissent",
+    "cinema",
+    "ragged",
+    "celery",
+    "sculptor",
+    "lavender",
+    "disconnect",
+    "trivial",
+    "porcelain",
+    "scanner",
+    "inventor",
+    "reinvent",
+    "fines",
+    "buzz",
+    "boxer",
+    "famine",
+    "socket",
+    "eerie",
+    "nebula",
+    "liaison",
+    "colon",
+    "cassette",
+    "dwelling",
+    "sage",
+    "burner",
+    "decidedly",
+    "carving",
+    "frank",
+    "hack",
+    "clamp",
+    "hinder",
+    "irrational",
+    "patiently",
+    "paperback",
+    "diver",
+    "alpine",
+    "plaster",
+    "abnormal",
+    "creditor",
+    "bamboo",
+    "prosper",
+    "heartbeat",
+    "downward",
+    "tread",
+    "stifle",
+    "sentimental",
+    "pilgrimage",
+    "monumental",
+    "superficial",
+    "puff",
+    "snort",
+    "rig",
+    "cucumber",
+    "backing",
+    "nightclub",
+    "sharpen",
+    "crooked",
+    "asphalt",
+    "mortar",
+    "savor",
+    "demonstrator",
+    "microscope",
+    "spear",
+    "weekday",
+    "broadcasting",
+    "ledge",
+    "chimney",
+    "aroma",
+    "packed",
+    "relay",
+    "thwart",
+    "curved",
+    "stint",
+    "fin",
+    "dispense",
+    "cruelty",
+    "slaughter",
+    "heroine",
+    "retrospect",
+    "recommended",
+    "trot",
+    "damaging",
+    "mingle",
+    "pony",
+    "peripheral",
+    "grapple",
+    "centerpiece",
+    "indifferent",
+    "railway",
+    "impoverished",
+    "respectful",
+    "martyr",
+    "synagogue",
+    "howl",
+    "pod",
+    "cricket",
+    "coating",
+    "farmhouse",
+    "hype",
+    "faded",
+    "crow",
+    "churn",
+    "unfinished",
+    "irregular",
+    "decree",
+    "transitional",
+    "collaborator",
+    "downturn",
+    "indefinitely",
+    "commanding",
+    "butcher",
+    "thankful",
+    "muster",
+    "cannon",
+    "bodily",
+    "vault",
+    "chilly",
+    "performing",
+    "degrade",
+    "cloak",
+    "drummer",
+    "playful",
+    "mildly",
+    "lag",
+    "mixing",
+    "flank",
+    "diploma",
+    "lash",
+    "outskirts",
+    "abide",
+    "enclose",
+    "darken",
+    "imprison",
+    "flare",
+    "momentarily",
+    "cape",
+    "unpopular",
+    "worsen",
+    "devour",
+    "thicken",
+    "curiously",
+    "dresser",
+    "bitterly",
+    "boycott",
+    "skim",
+    "referee",
+    "pudding",
+    "digit",
+    "alas",
+    "deceased",
+    "granddaughter",
+    "silicon",
+    "transparency",
+    "overhear",
+    "entertainer",
+    "guided",
+    "stink",
+    "overthrow",
+    "tempting",
+    "grumble",
+    "quake",
+    "drawback",
+    "freight",
+    "clout",
+    "glossy",
+    "heavyweight",
+    "ape",
+    "moth",
+    "lighten",
+    "ghetto",
+    "rooftop",
+    "handicap",
+    "housewife",
+    "apprentice",
+    "cavalry",
+    "supernatural",
+    "allude",
+    "furnishings",
+    "seduce",
+    "zoom",
+    "coax",
+    "seating",
+    "climber",
+    "meteor",
+    "minus",
+    "rein",
+    "attest",
+    "pneumonia",
+    "duct",
+    "uniquely",
+    "monarch",
+    "helm",
+    "pulp",
+    "woo",
+    "stomp",
+    "nostril",
+    "crank",
+    "crook",
+    "paranoid",
+    "scalp",
+    "relish",
+    "cherish",
+    "unravel",
+    "thou",
+    "eyelid",
+    "smuggle",
+    "commonplace",
+    "mislead",
+    "boredom",
+    "mint",
+    "avid",
+    "soothing",
+    "classified",
+    "nanny",
+    "groom",
+    "filthy",
+    "attacker",
+    "outweigh",
+    "abrupt",
+    "downside",
+    "nestle",
+    "stylish",
+    "shred",
+    "tabloid",
+    "refreshing",
+    "gunfire",
+    "whore",
+    "tier",
+    "amazingly",
+    "recorded",
+    "versatile",
+    "battalion",
+    "unchanged",
+    "dizzy",
+    "rumble",
+    "juicy",
+    "contestant",
+    "intentional",
+    "vomit",
+    "mike",
+    "sag",
+    "endlessly",
+    "delightful",
+    "wrongdoing",
+    "anticipated",
+    "facet",
+    "beckon",
+    "slipper",
+    "challenger",
+    "quiz",
+    "handgun",
+    "chuck",
+    "suicidal",
+    "mole",
+    "impede",
+    "wince",
+    "subside",
+    "needy",
+    "outspoken",
+    "antibody",
+    "graffiti",
+    "cliche",
+    "hinge",
+    "forefront",
+    "bob",
+    "restricted",
+    "raspberry",
+    "prudent",
+    "spokesperson",
+    "wreckage",
+    "assassin",
+    "etch",
+    "flute",
+    "nightly",
+    "dangerously",
+    "smear",
+    "preoccupied",
+    "inspired",
+    "intellect",
+    "outright",
+    "flex",
+    "infuse",
+    "rake",
+    "coping",
+    "trickle",
+    "chestnut",
+    "differing",
+    "perennial",
+    "overlap",
+    "handler",
+    "muse",
+    "obsolete",
+    "culprit",
+    "recycled",
+    "anomaly",
+    "variant",
+    "insignificant",
+    "wail",
+    "watcher",
+    "overtake",
+    "cache",
+    "zip",
+    "bunk",
+    "sweaty",
+    "jointly",
+    "greedy",
+    "salvage",
+    "bedside",
+    "shepherd",
+    "yearly",
+    "negotiating",
+    "entree",
+    "token",
+    "anecdote",
+    "soybean",
+    "frail",
+    "trumpet",
+    "rash",
+    "disgusting",
+    "apparel",
+    "intently",
+    "hone",
+    "gunshot",
+    "babe",
+    "revolt",
+    "sever",
+    "pamphlet",
+    "buckle",
+    "cocoa",
+    "participating",
+    "discredit",
+    "bun",
+    "freak",
+    "salute",
+    "oriental",
+    "swarm",
+    "stepfather",
+    "raisin",
+    "unrest",
+    "soothe",
+    "clasp",
+    "tow",
+    "blush",
+    "asbestos",
+    "grit",
+    "peninsula",
+    "puddle",
+    "fend",
+    "shutter",
+    "doubtful",
+    "outgoing",
+    "intruder",
+    "clone",
+    "jelly",
+    "logging",
+    "bladder",
+    "refrain",
+    "untouched",
+    "lavish",
+    "knuckle",
+    "pointed",
+    "milestone",
+    "curtail",
+    "amusing",
+    "hamper",
+    "lineage",
+    "beta",
+    "motto",
+    "damned",
+    "herbal",
+    "fragrant",
+    "banquet",
+    "gravy",
+    "fireman",
+    "murky",
+    "sighting",
+    "sparkling",
+    "tuberculosis",
+    "demanding",
+    "lava",
+    "pineapple",
+    "bouquet",
+    "womb",
+    "tutor",
+    "depressing",
+    "chalk",
+    "trek",
+    "furnace",
+    "gadget",
+    "stunt",
+    "wisely",
+    "underwater",
+    "fortress",
+    "touching",
+    "binding",
+    "safeguard",
+    "larva",
+    "rapper",
+    "cartridge",
+    "heed",
+    "scam",
+    "malaria",
+    "unsafe",
+    "liken",
+    "licensed",
+    "lurch",
+    "rocker",
+    "ostensibly",
+    "flea",
+    "console",
+    "fatty",
+    "reaffirm",
+    "coma",
+    "hymn",
+    "jumper",
+    "tolerant",
+    "solemn",
+    "rainfall",
+    "heave",
+    "cranberry",
+    "disregard",
+    "glaze",
+    "hound",
+    "crib",
+    "dread",
+    "camper",
+    "outnumber",
+    "paddle",
+    "spaghetti",
+    "revealing",
+    "amused",
+    "sliding",
+    "prod",
+    "pollute",
+    "clumsy",
+    "singular",
+    "hypocrisy",
+    "outpost",
+    "belongings",
+    "coil",
+    "infer",
+    "portal",
+    "mourning",
+    "bedtime",
+    "curly",
+    "gin",
+    "germ",
+    "rename",
+    "reprint",
+    "drugstore",
+    "folly",
+    "strangle",
+    "unofficial",
+    "stray",
+    "hunch",
+    "elude",
+    "contingent",
+    "sprawl",
+    "firsthand",
+    "tanker",
+    "overflow",
+    "shoreline",
+    "dreadful",
+    "twitch",
+    "sponge",
+    "carton",
+    "suffice",
+    "preferably",
+    "cracked",
+    "nausea",
+    "menace",
+    "cactus",
+    "horseback",
+    "rewarding",
+    "hastily",
+    "editing",
+    "falter",
+    "fuss",
+    "warden",
+    "famously",
+    "orchid",
+    "pouch",
+    "willingly",
+    "unnoticed",
+    "tyranny",
+    "breadth",
+    "vividly",
+    "scurry",
+    "gangster",
+    "orphanage",
+    "extinct",
+    "plump",
+    "gorilla",
+    "residency",
+    "caring",
+    "futile",
+    "posit",
+    "idol",
+    "platoon",
+    "hustle",
+    "barefoot",
+    "upbeat",
+    "placebo",
+    "outlaw",
+    "cripple",
+    "shady",
+    "footing",
+    "waver",
+    "screenplay",
+    "radius",
+    "solving",
+    "banish",
+    "broom",
+    "candid",
+    "unison",
+    "beet",
+    "intimidating",
+    "gloom",
+    "framed",
+    "lining",
+    "waiver",
+    "tangle",
+    "rearrange",
+    "undertaking",
+    "digest",
+    "prolong",
+    "doughnut",
+    "relinquish",
+    "hesitant",
+    "flurry",
+    "clog",
+    "dismal",
+    "noteworthy",
+    "plume",
+    "unmarried",
+    "sloppy",
+    "override",
+    "notch",
+    "perish",
+    "donkey",
+    "caffeine",
+    "locus",
+    "anthem",
+    "mango",
+    "limp",
+    "tickle",
+    "wizard",
+    "freshwater",
+    "dilute",
+    "billionaire",
+    "compress",
+    "jockey",
+    "mortal",
+    "ascend",
+    "exempt",
+    "twig",
+    "downhill",
+    "ashore",
+    "rectangular",
+    "rum",
+    "alligator",
+    "overshadow",
+    "unhealthy",
+    "halo",
+    "intimately",
+    "bilingual",
+    "evade",
+    "sulfur",
+    "sane",
+    "robber",
+    "monarchy",
+    "unsettle",
+    "jeep",
+    "admirer",
+    "ascertain",
+    "malpractice",
+    "sinister",
+    "mower",
+    "auditorium",
+    "caretaker",
+    "juggle",
+    "plainly",
+    "limousine",
+    "plentiful",
+    "deflect",
+    "shear",
+    "lofty",
+    "foyer",
+    "staggering",
+    "snowy",
+    "rot",
+    "fume",
+    "meager",
+    "warranty",
+    "seeker",
+    "dent",
+    "pollen",
+    "remotely",
+    "rusty",
+    "terrestrial",
+    "jug",
+    "perk",
+    "swollen",
+    "grunt",
+    "loophole",
+    "bash",
+    "afflict",
+    "tan",
+    "browse",
+    "skater",
+    "implicitly",
+    "inefficient",
+    "soaring",
+    "unto",
+    "protector",
+    "thermometer"
+  ],
+  "entries": [
+    {
+      "id": "litter",
+      "rank": 8093,
+      "en": "How often should I change the cat litter?"
+    },
+    {
+      "id": "automated",
+      "rank": 8095,
+      "en": "This factory is almost fully automated."
+    },
+    {
+      "id": "automated",
+      "rank": 8095,
+      "en": "This train is fully automated."
+    },
+    {
+      "id": "exquisite",
+      "rank": 8096,
+      "en": "This is an exquisite little painting."
+    },
+    {
+      "id": "immerse",
+      "rank": 8097,
+      "en": "He immersed himself into his studies"
+    },
+    {
+      "id": "infected",
+      "rank": 8099,
+      "en": "Tom might not even be infected."
+    },
+    {
+      "id": "bodyguard",
+      "rank": 8100,
+      "en": "Do you want me to be your bodyguard?"
+    },
+    {
+      "id": "swap",
+      "rank": 8106,
+      "en": "Never swap horses while crossing a stream."
+    },
+    {
+      "id": "consciously",
+      "rank": 8107,
+      "en": "she consciously played with the idea of inviting them"
+    },
+    {
+      "id": "aura",
+      "rank": 8108,
+      "en": "the place had an aura of romance"
+    },
+    {
+      "id": "honeymoon",
+      "rank": 8111,
+      "en": "Where did Tom and Mary go for their honeymoon?"
+    },
+    {
+      "id": "flap",
+      "rank": 8113,
+      "en": "Birds flap their wings to fly."
+    },
+    {
+      "id": "flap",
+      "rank": 8113,
+      "en": "The flag flapped in the wind."
+    },
+    {
+      "id": "farewell",
+      "rank": 8121,
+      "en": "We organized a farewell party for her."
+    },
+    {
+      "id": "cookbook",
+      "rank": 8124,
+      "en": "Tom has begun writing a cookbook."
+    },
+    {
+      "id": "cookbook",
+      "rank": 8124,
+      "en": "Tom is writing a cookbook."
+    },
+    {
+      "id": "striped",
+      "rank": 8125,
+      "en": "Tom wore a red and white striped tie."
+    },
+    {
+      "id": "striped",
+      "rank": 8125,
+      "en": "Do you know where my striped sweater is?"
+    },
+    {
+      "id": "eighteenth",
+      "rank": 8127,
+      "en": "Iran is the eighteenth largest country in the world."
+    },
+    {
+      "id": "eighteenth",
+      "rank": 8127,
+      "en": "In the late eighteenth century, a passport for an American was usually signed by the President of the United States."
+    },
+    {
+      "id": "softball",
+      "rank": 8130,
+      "en": "The boys played softball."
+    },
+    {
+      "id": "moderately",
+      "rank": 8132,
+      "en": "Here is a list of moderately priced restaurants."
+    },
+    {
+      "id": "poker",
+      "rank": 8134,
+      "en": "Tom said he wanted to play poker with us."
+    },
+    {
+      "id": "seam",
+      "rank": 8135,
+      "en": "A seam on the blanket has unraveled."
+    },
+    {
+      "id": "seam",
+      "rank": 8135,
+      "en": "The blanket's seam has unraveled."
+    },
+    {
+      "id": "restructure",
+      "rank": 8138,
+      "en": "If we don't restructure our business, we're going to go under."
+    },
+    {
+      "id": "restructure",
+      "rank": 8138,
+      "en": "After his accident, he had to restructure his life"
+    },
+    {
+      "id": "shortcoming",
+      "rank": 8140,
+      "en": "Tom is aware of his shortcomings."
+    },
+    {
+      "id": "shortcoming",
+      "rank": 8140,
+      "en": "This system has obvious shortcomings."
+    },
+    {
+      "id": "sandal",
+      "rank": 8141,
+      "en": "Tom likes wearing white socks with his sandals."
+    },
+    {
+      "id": "sandal",
+      "rank": 8141,
+      "en": "I bought a pair of sandals."
+    },
+    {
+      "id": "longing",
+      "rank": 8143,
+      "en": "He is longing for city life."
+    },
+    {
+      "id": "idle",
+      "rank": 8146,
+      "en": "The factory has been lying idle for a year."
+    },
+    {
+      "id": "idle",
+      "rank": 8146,
+      "en": "Tom is not an idle boy any longer."
+    },
+    {
+      "id": "pinpoint",
+      "rank": 8150,
+      "en": "I can't pinpoint the problem."
+    },
+    {
+      "id": "pinpoint",
+      "rank": 8150,
+      "en": "The cause hasn't been pinpointed."
+    },
+    {
+      "id": "mince",
+      "rank": 8153,
+      "en": "He doesn't mince words."
+    },
+    {
+      "id": "mince",
+      "rank": 8153,
+      "en": "She doesn't mince words."
+    },
+    {
+      "id": "pivotal",
+      "rank": 8154,
+      "en": "Tom played a pivotal role in the company's success."
+    },
+    {
+      "id": "pivotal",
+      "rank": 8154,
+      "en": "Its pivotal location has also exposed it to periodic invasions"
+    },
+    {
+      "id": "haze",
+      "rank": 8157,
+      "en": "Because of the dense haze, the road was hard to see."
+    },
+    {
+      "id": "anatomy",
+      "rank": 8160,
+      "en": "Every student of biology, anatomy, anthropology, ethnology or psychology is familiar with these facts."
+    },
+    {
+      "id": "anatomy",
+      "rank": 8160,
+      "en": "he studied the anatomy of crimes"
+    },
+    {
+      "id": "dissent",
+      "rank": 8162,
+      "en": "he expressed his dissent in a contrary opinion"
+    },
+    {
+      "id": "cinema",
+      "rank": 8165,
+      "en": "this story would be good cinema"
+    },
+    {
+      "id": "ragged",
+      "rank": 8166,
+      "en": "Truth has a good face, but ragged clothes."
+    },
+    {
+      "id": "celery",
+      "rank": 8168,
+      "en": "Why didn't you plant celery?"
+    },
+    {
+      "id": "celery",
+      "rank": 8168,
+      "en": "I don't like celery."
+    },
+    {
+      "id": "sculptor",
+      "rank": 8171,
+      "en": "Tom is a sculptor."
+    },
+    {
+      "id": "lavender",
+      "rank": 8172,
+      "en": "Nothing grew there besides wild lavender."
+    },
+    {
+      "id": "lavender",
+      "rank": 8172,
+      "en": "There was lavender in bloom as far as the eye could see."
+    },
+    {
+      "id": "disconnect",
+      "rank": 8173,
+      "en": "Disconnect the power cable from the modem, wait for approximately one minute, then reconnect the cable."
+    },
+    {
+      "id": "disconnect",
+      "rank": 8173,
+      "en": "I thought we got disconnected."
+    },
+    {
+      "id": "trivial",
+      "rank": 8180,
+      "en": "It is a trivial matter."
+    },
+    {
+      "id": "porcelain",
+      "rank": 8181,
+      "en": "The plates and cups are made of porcelain."
+    },
+    {
+      "id": "porcelain",
+      "rank": 8181,
+      "en": "The teapot is made of porcelain."
+    },
+    {
+      "id": "scanner",
+      "rank": 8184,
+      "en": "Tom, can you show Mary how to use the scanner?"
+    },
+    {
+      "id": "scanner",
+      "rank": 8184,
+      "en": "Tom, would you show Mary how to use the scanner?"
+    },
+    {
+      "id": "inventor",
+      "rank": 8188,
+      "en": "I wanted to be an inventor when I was young."
+    },
+    {
+      "id": "inventor",
+      "rank": 8188,
+      "en": "Tom was an inventor."
+    },
+    {
+      "id": "reinvent",
+      "rank": 8189,
+      "en": "You don't need to reinvent the wheel."
+    },
+    {
+      "id": "reinvent",
+      "rank": 8189,
+      "en": "The candidate reinvented the concept of national health care so that he would get elected"
+    },
+    {
+      "id": "fines",
+      "rank": 8190,
+      "en": "There are big fines for talking on a hand-held mobile phone while driving."
+    },
+    {
+      "id": "fines",
+      "rank": 8190,
+      "en": "I've paid parking fines a number of times myself."
+    },
+    {
+      "id": "buzz",
+      "rank": 8191,
+      "en": "Give me a buzz if you feel like going out tonight."
+    },
+    {
+      "id": "buzz",
+      "rank": 8191,
+      "en": "I was woken up by the buzzing of a bumblebee."
+    },
+    {
+      "id": "boxer",
+      "rank": 8192,
+      "en": "The boxer got up on the count of nine."
+    },
+    {
+      "id": "boxer",
+      "rank": 8192,
+      "en": "In what round was the boxer knocked out?"
+    },
+    {
+      "id": "famine",
+      "rank": 8193,
+      "en": "The long drought was followed by famine."
+    },
+    {
+      "id": "famine",
+      "rank": 8193,
+      "en": "Disease and famine go together."
+    },
+    {
+      "id": "socket",
+      "rank": 8195,
+      "en": "Tom stuck a fork into the electrical socket."
+    },
+    {
+      "id": "socket",
+      "rank": 8195,
+      "en": "Tom pushed the plug into the socket."
+    },
+    {
+      "id": "eerie",
+      "rank": 8199,
+      "en": "There was an eerie silence."
+    },
+    {
+      "id": "eerie",
+      "rank": 8199,
+      "en": "That's an eerie melody."
+    },
+    {
+      "id": "nebula",
+      "rank": 8201,
+      "en": "Do you know what a nebula is?"
+    },
+    {
+      "id": "liaison",
+      "rank": 8208,
+      "en": "he provided a liaison with the guerrillas"
+    },
+    {
+      "id": "colon",
+      "rank": 8209,
+      "en": "Tom was diagnosed with colon cancer in October of 2013."
+    },
+    {
+      "id": "colon",
+      "rank": 8209,
+      "en": "Bogdan Tanevich resigned because of colon cancer."
+    },
+    {
+      "id": "cassette",
+      "rank": 8210,
+      "en": "I want to have this cassette recorder fixed."
+    },
+    {
+      "id": "dwelling",
+      "rank": 8213,
+      "en": "he built a modest dwelling near the pond"
+    },
+    {
+      "id": "sage",
+      "rank": 8214,
+      "en": "Better to be a happy fool than an unhappy sage."
+    },
+    {
+      "id": "burner",
+      "rank": 8217,
+      "en": "I think we're going to need to put this project on the back burner for a little while."
+    },
+    {
+      "id": "burner",
+      "rank": 8217,
+      "en": "a diesel engine is an oil burner"
+    },
+    {
+      "id": "decidedly",
+      "rank": 8222,
+      "en": "it was decidedly too expensive"
+    },
+    {
+      "id": "carving",
+      "rank": 8224,
+      "en": "Tom won the pumpkin-carving contest."
+    },
+    {
+      "id": "frank",
+      "rank": 8225,
+      "en": "Do you really want me to be frank?"
+    },
+    {
+      "id": "frank",
+      "rank": 8225,
+      "en": "Do you want me to be frank?"
+    },
+    {
+      "id": "hack",
+      "rank": 8227,
+      "en": "We want to know who hacked into our system."
+    },
+    {
+      "id": "clamp",
+      "rank": 8228,
+      "en": "clamp the chair together until the glue has hardened"
+    },
+    {
+      "id": "hinder",
+      "rank": 8229,
+      "en": "There is nothing to hinder me."
+    },
+    {
+      "id": "hinder",
+      "rank": 8229,
+      "en": "The brace I have to wear is hindering my movements"
+    },
+    {
+      "id": "irrational",
+      "rank": 8231,
+      "en": "Tom is an irrational person."
+    },
+    {
+      "id": "patiently",
+      "rank": 8234,
+      "en": "He was angry, but he listened to me patiently."
+    },
+    {
+      "id": "patiently",
+      "rank": 8234,
+      "en": "Tom sat patiently for three hours, waiting for Mary."
+    },
+    {
+      "id": "paperback",
+      "rank": 8235,
+      "en": "Is there a paperback edition of this book?"
+    },
+    {
+      "id": "diver",
+      "rank": 8238,
+      "en": "Tom is a good diver."
+    },
+    {
+      "id": "diver",
+      "rank": 8238,
+      "en": "The divers didn't make it back."
+    },
+    {
+      "id": "alpine",
+      "rank": 8239,
+      "en": "I like Alpine skiing better than Nordic skiing."
+    },
+    {
+      "id": "plaster",
+      "rank": 8240,
+      "en": "there were cracks in the plaster"
+    },
+    {
+      "id": "plaster",
+      "rank": 8240,
+      "en": "She plastered warnings all over the wall"
+    },
+    {
+      "id": "abnormal",
+      "rank": 8241,
+      "en": "Her behavior is abnormal for a young girl."
+    },
+    {
+      "id": "creditor",
+      "rank": 8246,
+      "en": "Creditors have better memories than debtors."
+    },
+    {
+      "id": "creditor",
+      "rank": 8246,
+      "en": "I'm hiding from creditors here."
+    },
+    {
+      "id": "bamboo",
+      "rank": 8248,
+      "en": "This bamboo is too thin to bear much weight."
+    },
+    {
+      "id": "prosper",
+      "rank": 8251,
+      "en": "My business is prospering."
+    },
+    {
+      "id": "heartbeat",
+      "rank": 8254,
+      "en": "New York is the commercial heartbeat of America"
+    },
+    {
+      "id": "downward",
+      "rank": 8257,
+      "en": "he lay face downward"
+    },
+    {
+      "id": "tread",
+      "rank": 8263,
+      "en": "Tom is treading on very thin ice."
+    },
+    {
+      "id": "stifle",
+      "rank": 8265,
+      "en": "High taxes stifle economic growth."
+    },
+    {
+      "id": "sentimental",
+      "rank": 8266,
+      "en": "Tom is very romantic and sentimental."
+    },
+    {
+      "id": "sentimental",
+      "rank": 8266,
+      "en": "Tom is a sentimental person."
+    },
+    {
+      "id": "pilgrimage",
+      "rank": 8273,
+      "en": "Tom made a pilgrimage."
+    },
+    {
+      "id": "monumental",
+      "rank": 8275,
+      "en": "It's a monumental task."
+    },
+    {
+      "id": "superficial",
+      "rank": 8281,
+      "en": "He has only a superficial knowledge of the matter."
+    },
+    {
+      "id": "superficial",
+      "rank": 8281,
+      "en": "He has only a superficial knowledge of the subject."
+    },
+    {
+      "id": "puff",
+      "rank": 8283,
+      "en": "The man puffed smoke into her face."
+    },
+    {
+      "id": "snort",
+      "rank": 8284,
+      "en": "The little hedgehog snorted and curled up into a ball."
+    },
+    {
+      "id": "snort",
+      "rank": 8284,
+      "en": "The old man snorted contemptuously."
+    },
+    {
+      "id": "rig",
+      "rank": 8285,
+      "en": "Tom works on an oil rig."
+    },
+    {
+      "id": "rig",
+      "rank": 8285,
+      "en": "The game is rigged."
+    },
+    {
+      "id": "cucumber",
+      "rank": 8294,
+      "en": "I was as cool as a cucumber."
+    },
+    {
+      "id": "cucumber",
+      "rank": 8294,
+      "en": "I was cool as a cucumber."
+    },
+    {
+      "id": "backing",
+      "rank": 8295,
+      "en": "He has the backing of a certain politician."
+    },
+    {
+      "id": "nightclub",
+      "rank": 8297,
+      "en": "Tom works as a bouncer in a nightclub."
+    },
+    {
+      "id": "nightclub",
+      "rank": 8297,
+      "en": "Then we went to a nightclub."
+    },
+    {
+      "id": "sharpen",
+      "rank": 8298,
+      "en": "Could you sharpen this knife for me, please?"
+    },
+    {
+      "id": "sharpen",
+      "rank": 8298,
+      "en": "Could you sharpen my knife for me?"
+    },
+    {
+      "id": "crooked",
+      "rank": 8300,
+      "en": "The painting looks great, but you hung it a little crooked."
+    },
+    {
+      "id": "crooked",
+      "rank": 8300,
+      "en": "The picture is hung crooked."
+    },
+    {
+      "id": "asphalt",
+      "rank": 8302,
+      "en": "The asphalt is melting in the heat."
+    },
+    {
+      "id": "mortar",
+      "rank": 8303,
+      "en": "We can build a wall with bricks and mortar."
+    },
+    {
+      "id": "savor",
+      "rank": 8306,
+      "en": "Wine should be savored, not drunk in one gulp."
+    },
+    {
+      "id": "demonstrator",
+      "rank": 8307,
+      "en": "The demonstrators gathered in the square."
+    },
+    {
+      "id": "demonstrator",
+      "rank": 8307,
+      "en": "The police were accused of having used excessive force when arresting the demonstrators."
+    },
+    {
+      "id": "microscope",
+      "rank": 8309,
+      "en": "Tom looked at the sample with his microscope."
+    },
+    {
+      "id": "spear",
+      "rank": 8310,
+      "en": "Tom stabbed Mary with a spear."
+    },
+    {
+      "id": "weekday",
+      "rank": 8312,
+      "en": "On weekdays, there are always more people."
+    },
+    {
+      "id": "weekday",
+      "rank": 8312,
+      "en": "On weekdays, there are always fewer people."
+    },
+    {
+      "id": "broadcasting",
+      "rank": 8315,
+      "en": "The radio station resumed broadcasting soon after the storm."
+    },
+    {
+      "id": "broadcasting",
+      "rank": 8315,
+      "en": "The rebels have captured the broadcasting station."
+    },
+    {
+      "id": "ledge",
+      "rank": 8316,
+      "en": "Tom stepped away from the ledge."
+    },
+    {
+      "id": "chimney",
+      "rank": 8321,
+      "en": "The chimney sweep almost fell off the roof."
+    },
+    {
+      "id": "aroma",
+      "rank": 8323,
+      "en": "The aroma of coffee and croissants filled the kitchen."
+    },
+    {
+      "id": "aroma",
+      "rank": 8323,
+      "en": "I love the aroma of freshly brewed coffee."
+    },
+    {
+      "id": "packed",
+      "rank": 8324,
+      "en": "The place was packed to the brim last night."
+    },
+    {
+      "id": "packed",
+      "rank": 8324,
+      "en": "During the summer, the town is packed with tourists."
+    },
+    {
+      "id": "relay",
+      "rank": 8326,
+      "en": "I'll relay your message to Tom."
+    },
+    {
+      "id": "relay",
+      "rank": 8326,
+      "en": "I relayed the message to Tom."
+    },
+    {
+      "id": "thwart",
+      "rank": 8327,
+      "en": "Tom thought he could thwart my plans."
+    },
+    {
+      "id": "thwart",
+      "rank": 8327,
+      "en": "Tom tried to thwart their plans."
+    },
+    {
+      "id": "curved",
+      "rank": 8329,
+      "en": "his curved lips suggested a smile but his eyes were hard"
+    },
+    {
+      "id": "stint",
+      "rank": 8331,
+      "en": "Tom turned his life around after a stint in rehab."
+    },
+    {
+      "id": "fin",
+      "rank": 8333,
+      "en": "Shark fin soup is very popular in China."
+    },
+    {
+      "id": "fin",
+      "rank": 8333,
+      "en": "The sharks were finning near the surface"
+    },
+    {
+      "id": "dispense",
+      "rank": 8334,
+      "en": "Let's dispense with formalities."
+    },
+    {
+      "id": "dispense",
+      "rank": 8334,
+      "en": "I was dispensed from this terrible task"
+    },
+    {
+      "id": "cruelty",
+      "rank": 8337,
+      "en": "Human cruelty has no limits."
+    },
+    {
+      "id": "slaughter",
+      "rank": 8340,
+      "en": "The slaughter of the prisoners was a barbarous act."
+    },
+    {
+      "id": "heroine",
+      "rank": 8342,
+      "en": "The heroine of this story is a little girl."
+    },
+    {
+      "id": "heroine",
+      "rank": 8342,
+      "en": "The heroine of the novel committed suicide."
+    },
+    {
+      "id": "retrospect",
+      "rank": 8344,
+      "en": "In retrospect, Tom wishes he had spent more time studying."
+    },
+    {
+      "id": "retrospect",
+      "rank": 8344,
+      "en": "In retrospect, I should have treated her with more respect."
+    },
+    {
+      "id": "recommended",
+      "rank": 8346,
+      "en": "The doctor recommended that you should give up smoking."
+    },
+    {
+      "id": "recommended",
+      "rank": 8346,
+      "en": "Tom is the one who recommended this book."
+    },
+    {
+      "id": "trot",
+      "rank": 8347,
+      "en": "She trotted the horse home"
+    },
+    {
+      "id": "damaging",
+      "rank": 8349,
+      "en": "Pollution is damaging our earth."
+    },
+    {
+      "id": "mingle",
+      "rank": 8350,
+      "en": "He doesn't mingle with the villagers."
+    },
+    {
+      "id": "mingle",
+      "rank": 8350,
+      "en": "He was about to mingle in an unpleasant affair"
+    },
+    {
+      "id": "pony",
+      "rank": 8352,
+      "en": "Tom wants his father to buy him a pony."
+    },
+    {
+      "id": "pony",
+      "rank": 8352,
+      "en": "Tom wants his parents to buy him a pony."
+    },
+    {
+      "id": "peripheral",
+      "rank": 8353,
+      "en": "energy is far from a peripheral issue in the economy"
+    },
+    {
+      "id": "peripheral",
+      "rank": 8353,
+      "en": "disk drives and printers are important peripherals"
+    },
+    {
+      "id": "grapple",
+      "rank": 8354,
+      "en": "we watched his grappling and wrestling with the bully"
+    },
+    {
+      "id": "centerpiece",
+      "rank": 8358,
+      "en": "education was the centerpiece of the Democratic Party's political platform"
+    },
+    {
+      "id": "indifferent",
+      "rank": 8368,
+      "en": "This company is indifferent to the safety of its workers."
+    },
+    {
+      "id": "railway",
+      "rank": 8369,
+      "en": "Are we supposed to stop at a railway crossing?"
+    },
+    {
+      "id": "impoverished",
+      "rank": 8372,
+      "en": "Haiti is a nation that seems hopelessly impoverished."
+    },
+    {
+      "id": "respectful",
+      "rank": 8374,
+      "en": "You had better keep him at a respectful distance."
+    },
+    {
+      "id": "martyr",
+      "rank": 8377,
+      "en": "Tom is a martyr now."
+    },
+    {
+      "id": "martyr",
+      "rank": 8377,
+      "en": "Saint Sebastian was martyred"
+    },
+    {
+      "id": "synagogue",
+      "rank": 8378,
+      "en": "What happened to the synagogue?"
+    },
+    {
+      "id": "howl",
+      "rank": 8380,
+      "en": "If you live with wolves, you must howl like one."
+    },
+    {
+      "id": "howl",
+      "rank": 8380,
+      "en": "If you live with wolves, you will howl like one."
+    },
+    {
+      "id": "pod",
+      "rank": 8381,
+      "en": "The two brothers are like two peas in a pod."
+    },
+    {
+      "id": "cricket",
+      "rank": 8382,
+      "en": "Cricket is a game that takes skill."
+    },
+    {
+      "id": "coating",
+      "rank": 8389,
+      "en": "the surface was ready for a coating of paint"
+    },
+    {
+      "id": "farmhouse",
+      "rank": 8393,
+      "en": "We stopped at a farmhouse overnight."
+    },
+    {
+      "id": "hype",
+      "rank": 8395,
+      "en": "It was just hype."
+    },
+    {
+      "id": "faded",
+      "rank": 8401,
+      "en": "Faded jeans are still in fashion."
+    },
+    {
+      "id": "faded",
+      "rank": 8401,
+      "en": "Tom was wearing faded jeans."
+    },
+    {
+      "id": "crow",
+      "rank": 8402,
+      "en": "The bird on the roof is a crow."
+    },
+    {
+      "id": "churn",
+      "rank": 8407,
+      "en": "the sea was churning in the storm"
+    },
+    {
+      "id": "unfinished",
+      "rank": 8409,
+      "en": "I have some unfinished business to take care of."
+    },
+    {
+      "id": "irregular",
+      "rank": 8410,
+      "en": "The surface of the moon is irregular."
+    },
+    {
+      "id": "decree",
+      "rank": 8412,
+      "en": "The King only can decree"
+    },
+    {
+      "id": "decree",
+      "rank": 8412,
+      "en": "The King decreed that all firstborn males should be killed"
+    },
+    {
+      "id": "transitional",
+      "rank": 8414,
+      "en": "adolescence is a transitional stage between childhood and adulthood"
+    },
+    {
+      "id": "collaborator",
+      "rank": 8415,
+      "en": "Tom is a collaborator."
+    },
+    {
+      "id": "collaborator",
+      "rank": 8415,
+      "en": "the musician and the librettist were collaborators"
+    },
+    {
+      "id": "downturn",
+      "rank": 8416,
+      "en": "the market took a downturn"
+    },
+    {
+      "id": "indefinitely",
+      "rank": 8418,
+      "en": "The game has been indefinitely postponed."
+    },
+    {
+      "id": "indefinitely",
+      "rank": 8418,
+      "en": "We can't protect Tom indefinitely."
+    },
+    {
+      "id": "commanding",
+      "rank": 8420,
+      "en": "Tom was my commanding officer."
+    },
+    {
+      "id": "commanding",
+      "rank": 8420,
+      "en": "I'm not your commanding officer."
+    },
+    {
+      "id": "butcher",
+      "rank": 8421,
+      "en": "The bakery is located next to the butcher shop."
+    },
+    {
+      "id": "butcher",
+      "rank": 8421,
+      "en": "The bakery is near the butcher shop."
+    },
+    {
+      "id": "thankful",
+      "rank": 8424,
+      "en": "I was thankful for the chance to do that."
+    },
+    {
+      "id": "thankful",
+      "rank": 8424,
+      "en": "Tom is extremely thankful to Mary for her help."
+    },
+    {
+      "id": "muster",
+      "rank": 8426,
+      "en": "Tom tried to muster a smile."
+    },
+    {
+      "id": "muster",
+      "rank": 8426,
+      "en": "Tom finally mustered up the courage to tell Mary that he loved her."
+    },
+    {
+      "id": "cannon",
+      "rank": 8430,
+      "en": "The police used a water cannon."
+    },
+    {
+      "id": "cannon",
+      "rank": 8430,
+      "en": "The police employed a water cannon."
+    },
+    {
+      "id": "bodily",
+      "rank": 8434,
+      "en": "While you are asleep, the bodily functions slow down and body temperature falls."
+    },
+    {
+      "id": "vault",
+      "rank": 8437,
+      "en": "Tom vaulted over the wall."
+    },
+    {
+      "id": "chilly",
+      "rank": 8438,
+      "en": "Feeling chilly, I turned on the heater."
+    },
+    {
+      "id": "chilly",
+      "rank": 8438,
+      "en": "It was chilly that day."
+    },
+    {
+      "id": "performing",
+      "rank": 8439,
+      "en": "Tom has been performing before large audiences lately."
+    },
+    {
+      "id": "performing",
+      "rank": 8439,
+      "en": "The performing seals come on next."
+    },
+    {
+      "id": "degrade",
+      "rank": 8440,
+      "en": "There are songs that I find degrading as a woman."
+    },
+    {
+      "id": "cloak",
+      "rank": 8441,
+      "en": "It's a cloak-and-dagger operation."
+    },
+    {
+      "id": "drummer",
+      "rank": 8442,
+      "en": "Tom is the best drummer that I know."
+    },
+    {
+      "id": "drummer",
+      "rank": 8442,
+      "en": "Tom is the best drummer I know."
+    },
+    {
+      "id": "playful",
+      "rank": 8444,
+      "en": "Ferrets are playful and curious."
+    },
+    {
+      "id": "mildly",
+      "rank": 8445,
+      "en": "he was mildly interested"
+    },
+    {
+      "id": "lag",
+      "rank": 8448,
+      "en": "I'm still suffering from jet lag."
+    },
+    {
+      "id": "lag",
+      "rank": 8448,
+      "en": "The most recent report shows that we are lagging behind our competitors."
+    },
+    {
+      "id": "mixing",
+      "rank": 8451,
+      "en": "Tom is mixing flour with sugar."
+    },
+    {
+      "id": "mixing",
+      "rank": 8451,
+      "en": "You're mixing things up."
+    },
+    {
+      "id": "flank",
+      "rank": 8452,
+      "en": "The enemy attacked our left flank."
+    },
+    {
+      "id": "flank",
+      "rank": 8452,
+      "en": "they attacked the enemy's right flank"
+    },
+    {
+      "id": "diploma",
+      "rank": 8453,
+      "en": "My father died before I got my diploma."
+    },
+    {
+      "id": "diploma",
+      "rank": 8453,
+      "en": "Tom hung his diploma on the wall."
+    },
+    {
+      "id": "lash",
+      "rank": 8455,
+      "en": "Don't lash out at me just because my brother treated you badly."
+    },
+    {
+      "id": "lash",
+      "rank": 8455,
+      "en": "Tom lashed out at Mary."
+    },
+    {
+      "id": "outskirts",
+      "rank": 8456,
+      "en": "My house is on the outskirts of town."
+    },
+    {
+      "id": "abide",
+      "rank": 8457,
+      "en": "I hope that Japan will abide by its Constitution."
+    },
+    {
+      "id": "abide",
+      "rank": 8457,
+      "en": "Tom has never been a law-abiding citizen."
+    },
+    {
+      "id": "enclose",
+      "rank": 8459,
+      "en": "I have enclosed your order form."
+    },
+    {
+      "id": "darken",
+      "rank": 8464,
+      "en": "The sky suddenly began to darken."
+    },
+    {
+      "id": "darken",
+      "rank": 8464,
+      "en": "The sky started to darken."
+    },
+    {
+      "id": "imprison",
+      "rank": 8465,
+      "en": "The suspects were imprisoned without trial"
+    },
+    {
+      "id": "imprison",
+      "rank": 8465,
+      "en": "His daughters are virtually imprisoned in their own house: he does not let them go out without a chaperone"
+    },
+    {
+      "id": "flare",
+      "rank": 8467,
+      "en": "she could not control her flare of rage"
+    },
+    {
+      "id": "flare",
+      "rank": 8467,
+      "en": "infection can cause a lupus flare"
+    },
+    {
+      "id": "momentarily",
+      "rank": 8468,
+      "en": "I was momentarily blinded."
+    },
+    {
+      "id": "momentarily",
+      "rank": 8468,
+      "en": "Tom was momentarily silent."
+    },
+    {
+      "id": "cape",
+      "rank": 8474,
+      "en": "They passed the Cape of Good Hope."
+    },
+    {
+      "id": "cape",
+      "rank": 8474,
+      "en": "Our ship rounded the cape this morning."
+    },
+    {
+      "id": "unpopular",
+      "rank": 8474,
+      "en": "He is unpopular for some reason."
+    },
+    {
+      "id": "worsen",
+      "rank": 8475,
+      "en": "Could the situation worsen?"
+    },
+    {
+      "id": "devour",
+      "rank": 8478,
+      "en": "Fire had devoured our home"
+    },
+    {
+      "id": "thicken",
+      "rank": 8485,
+      "en": "Corn starch is good for thickening soup."
+    },
+    {
+      "id": "thicken",
+      "rank": 8485,
+      "en": "The fog was thickening quickly."
+    },
+    {
+      "id": "curiously",
+      "rank": 8495,
+      "en": "Everyone was looking at Tom curiously."
+    },
+    {
+      "id": "curiously",
+      "rank": 8495,
+      "en": "Tom looked at Mary curiously."
+    },
+    {
+      "id": "dresser",
+      "rank": 8499,
+      "en": "Tom put his wallet on top of the dresser."
+    },
+    {
+      "id": "dresser",
+      "rank": 8499,
+      "en": "The mirror is on top of the dresser."
+    },
+    {
+      "id": "bitterly",
+      "rank": 8508,
+      "en": "It was bitterly cold outside."
+    },
+    {
+      "id": "bitterly",
+      "rank": 8508,
+      "en": "I was bitterly disappointed."
+    },
+    {
+      "id": "boycott",
+      "rank": 8514,
+      "en": "He organized a boycott of the bus service."
+    },
+    {
+      "id": "boycott",
+      "rank": 8514,
+      "en": "Sixty-five countries boycotted the 1980 summer Olympics."
+    },
+    {
+      "id": "skim",
+      "rank": 8515,
+      "en": "I'll have skim milk."
+    },
+    {
+      "id": "referee",
+      "rank": 8516,
+      "en": "The hockey referee intervened to stop the fight."
+    },
+    {
+      "id": "referee",
+      "rank": 8516,
+      "en": "There was no referee on the field."
+    },
+    {
+      "id": "pudding",
+      "rank": 8518,
+      "en": "I had some pudding for an afternoon snack."
+    },
+    {
+      "id": "digit",
+      "rank": 8519,
+      "en": "It's a three-digit number."
+    },
+    {
+      "id": "digit",
+      "rank": 8519,
+      "en": "How many digits does that number have?"
+    },
+    {
+      "id": "alas",
+      "rank": 8520,
+      "en": "alas, I cannot stay"
+    },
+    {
+      "id": "deceased",
+      "rank": 8522,
+      "en": "The Emperor prayed for the souls of the deceased."
+    },
+    {
+      "id": "granddaughter",
+      "rank": 8528,
+      "en": "I have a granddaughter about your age."
+    },
+    {
+      "id": "granddaughter",
+      "rank": 8528,
+      "en": "Do you have a granddaughter?"
+    },
+    {
+      "id": "silicon",
+      "rank": 8531,
+      "en": "Tom works in Silicon Valley."
+    },
+    {
+      "id": "silicon",
+      "rank": 8531,
+      "en": "Silicon is a semiconductor."
+    },
+    {
+      "id": "transparency",
+      "rank": 8532,
+      "en": "The time for transparency has come."
+    },
+    {
+      "id": "overhear",
+      "rank": 8536,
+      "en": "I couldn't help but overhear your conversation with Tom."
+    },
+    {
+      "id": "overhear",
+      "rank": 8536,
+      "en": "I didn't want Tom to overhear our conversation."
+    },
+    {
+      "id": "entertainer",
+      "rank": 8547,
+      "en": "Tom is an entertainer."
+    },
+    {
+      "id": "guided",
+      "rank": 8550,
+      "en": "She guided me to the palace."
+    },
+    {
+      "id": "guided",
+      "rank": 8550,
+      "en": "Tom guided us through the woods."
+    },
+    {
+      "id": "stink",
+      "rank": 8551,
+      "en": "Fish and visitors stink after three days."
+    },
+    {
+      "id": "overthrow",
+      "rank": 8555,
+      "en": "The president was overthrown by the military."
+    },
+    {
+      "id": "overthrow",
+      "rank": 8555,
+      "en": "The Czar was overthrown."
+    },
+    {
+      "id": "tempting",
+      "rank": 8558,
+      "en": "The price is extremely tempting."
+    },
+    {
+      "id": "tempting",
+      "rank": 8558,
+      "en": "This is very tempting."
+    },
+    {
+      "id": "grumble",
+      "rank": 8559,
+      "en": "Tom grumbled about the way people treated him."
+    },
+    {
+      "id": "grumble",
+      "rank": 8559,
+      "en": "Tom is always grumbling about something."
+    },
+    {
+      "id": "quake",
+      "rank": 8561,
+      "en": "The quake damaged many old buildings."
+    },
+    {
+      "id": "quake",
+      "rank": 8561,
+      "en": "The earth was quaking"
+    },
+    {
+      "id": "drawback",
+      "rank": 8563,
+      "en": "he pointed out all the drawbacks to my plan"
+    },
+    {
+      "id": "freight",
+      "rank": 8566,
+      "en": "How much is the freight on this box?"
+    },
+    {
+      "id": "freight",
+      "rank": 8566,
+      "en": "Tom likes to ride freight trains."
+    },
+    {
+      "id": "clout",
+      "rank": 8570,
+      "en": "I gave him a clout on his nose"
+    },
+    {
+      "id": "clout",
+      "rank": 8570,
+      "en": "He clouted his attacker"
+    },
+    {
+      "id": "glossy",
+      "rank": 8572,
+      "en": "I like glossy paper."
+    },
+    {
+      "id": "heavyweight",
+      "rank": 8576,
+      "en": "He will fight the heavyweight champion tomorrow."
+    },
+    {
+      "id": "ape",
+      "rank": 8577,
+      "en": "When a big ape emerged from the cave, they got frightened and ran away."
+    },
+    {
+      "id": "ape",
+      "rank": 8577,
+      "en": "Apes rank above dogs in intelligence."
+    },
+    {
+      "id": "moth",
+      "rank": 8580,
+      "en": "Is it a butterfly or a moth?"
+    },
+    {
+      "id": "lighten",
+      "rank": 8581,
+      "en": "To lighten the mood, I told a joke."
+    },
+    {
+      "id": "ghetto",
+      "rank": 8584,
+      "en": "Tom grew up in the ghetto."
+    },
+    {
+      "id": "rooftop",
+      "rank": 8587,
+      "en": "From the rooftop terrace you can see the mountains."
+    },
+    {
+      "id": "rooftop",
+      "rank": 8587,
+      "en": "Last night, we looked at the stars from the rooftop."
+    },
+    {
+      "id": "handicap",
+      "rank": 8589,
+      "en": "Poor eyesight is a handicap to a sportsman."
+    },
+    {
+      "id": "handicap",
+      "rank": 8589,
+      "en": "She devoted her life to helping the handicapped."
+    },
+    {
+      "id": "housewife",
+      "rank": 8592,
+      "en": "My mother never wanted to be just a housewife."
+    },
+    {
+      "id": "housewife",
+      "rank": 8592,
+      "en": "I would hate to become just a housewife."
+    },
+    {
+      "id": "apprentice",
+      "rank": 8593,
+      "en": "Do you want to be my apprentice?"
+    },
+    {
+      "id": "apprentice",
+      "rank": 8593,
+      "en": "Would you like to be my apprentice?"
+    },
+    {
+      "id": "cavalry",
+      "rank": 8595,
+      "en": "The cavalry charged the enemy."
+    },
+    {
+      "id": "cavalry",
+      "rank": 8595,
+      "en": "Here comes the cavalry."
+    },
+    {
+      "id": "supernatural",
+      "rank": 8600,
+      "en": "He believes in the supernatural."
+    },
+    {
+      "id": "supernatural",
+      "rank": 8600,
+      "en": "Tom believes in the supernatural."
+    },
+    {
+      "id": "allude",
+      "rank": 8601,
+      "en": "You alluded to something else."
+    },
+    {
+      "id": "allude",
+      "rank": 8601,
+      "en": "He alluded to the problem but did not mention it"
+    },
+    {
+      "id": "furnishings",
+      "rank": 8603,
+      "en": "The curtains don't go with the other furnishings."
+    },
+    {
+      "id": "seduce",
+      "rank": 8606,
+      "en": "She was seduced by the temptation of easy money and started to work in a massage parlor"
+    },
+    {
+      "id": "zoom",
+      "rank": 8608,
+      "en": "This is the zoom button."
+    },
+    {
+      "id": "coax",
+      "rank": 8609,
+      "en": "Tom coaxed the mouse out of the hole in the wall with a piece of bread."
+    },
+    {
+      "id": "seating",
+      "rank": 8611,
+      "en": "there is seating for 40 students in this classroom"
+    },
+    {
+      "id": "climber",
+      "rank": 8618,
+      "en": "Tom is an avid rock climber."
+    },
+    {
+      "id": "climber",
+      "rank": 8618,
+      "en": "Tom is an experienced mountain climber."
+    },
+    {
+      "id": "meteor",
+      "rank": 8626,
+      "en": "Meteor strikes are a real threat."
+    },
+    {
+      "id": "meteor",
+      "rank": 8626,
+      "en": "A burning meteoroid produces a meteor."
+    },
+    {
+      "id": "minus",
+      "rank": 8628,
+      "en": "The temperature now is minus ten degrees."
+    },
+    {
+      "id": "minus",
+      "rank": 8628,
+      "en": "What is two minus two?"
+    },
+    {
+      "id": "rein",
+      "rank": 8629,
+      "en": "They reined in in front of the post office"
+    },
+    {
+      "id": "rein",
+      "rank": 8629,
+      "en": "He reined in his horses in front of the post office"
+    },
+    {
+      "id": "attest",
+      "rank": 8631,
+      "en": "I can attest to everything she just said."
+    },
+    {
+      "id": "attest",
+      "rank": 8631,
+      "en": "I attest this signature"
+    },
+    {
+      "id": "pneumonia",
+      "rank": 8632,
+      "en": "Tom died three years ago of pneumonia."
+    },
+    {
+      "id": "pneumonia",
+      "rank": 8632,
+      "en": "My wife is suffering from pneumonia."
+    },
+    {
+      "id": "duct",
+      "rank": 8636,
+      "en": "the tear duct was obstructed"
+    },
+    {
+      "id": "uniquely",
+      "rank": 8638,
+      "en": "he could determine uniquely the properties of the compound"
+    },
+    {
+      "id": "monarch",
+      "rank": 8640,
+      "en": "The monarch is supposed to attend the funeral."
+    },
+    {
+      "id": "helm",
+      "rank": 8641,
+      "en": "the President is at the helm of the Ship of State"
+    },
+    {
+      "id": "pulp",
+      "rank": 8643,
+      "en": "Tom was beat to a pulp by his father."
+    },
+    {
+      "id": "pulp",
+      "rank": 8643,
+      "en": "They beat the dog to a pulp."
+    },
+    {
+      "id": "woo",
+      "rank": 8645,
+      "en": "China is wooing Russia"
+    },
+    {
+      "id": "stomp",
+      "rank": 8646,
+      "en": "Tom stomped on the brake pedal and screeched to a halt."
+    },
+    {
+      "id": "stomp",
+      "rank": 8646,
+      "en": "Tom stomped his foot angrily."
+    },
+    {
+      "id": "nostril",
+      "rank": 8649,
+      "en": "Why do humans have two nostrils?"
+    },
+    {
+      "id": "crank",
+      "rank": 8650,
+      "en": "A person with a new idea is a crank until the idea succeeds."
+    },
+    {
+      "id": "crank",
+      "rank": 8650,
+      "en": "Crank up the heater."
+    },
+    {
+      "id": "crook",
+      "rank": 8651,
+      "en": "I know that Tom is a crook."
+    },
+    {
+      "id": "crook",
+      "rank": 8651,
+      "en": "I know Tom is a crook."
+    },
+    {
+      "id": "paranoid",
+      "rank": 8652,
+      "en": "Tom has been diagnosed paranoid schizophrenic."
+    },
+    {
+      "id": "scalp",
+      "rank": 8655,
+      "en": "The Native Americans scalped their enemies."
+    },
+    {
+      "id": "relish",
+      "rank": 8659,
+      "en": "She relished her fame and basked in her glory"
+    },
+    {
+      "id": "cherish",
+      "rank": 8660,
+      "en": "She cherishes the hope that he will return."
+    },
+    {
+      "id": "cherish",
+      "rank": 8660,
+      "en": "She cherished the memory of her dead husband."
+    },
+    {
+      "id": "unravel",
+      "rank": 8661,
+      "en": "can you unravel the mystery?"
+    },
+    {
+      "id": "thou",
+      "rank": 8663,
+      "en": "\"Thou shalt not steal\" is one of the Ten Commandments."
+    },
+    {
+      "id": "eyelid",
+      "rank": 8666,
+      "en": "She didn't bat an eyelid."
+    },
+    {
+      "id": "smuggle",
+      "rank": 8668,
+      "en": "Tom smuggled a bottle of whiskey into Mary's hospital room."
+    },
+    {
+      "id": "commonplace",
+      "rank": 8669,
+      "en": "air travel has now become commonplace"
+    },
+    {
+      "id": "commonplace",
+      "rank": 8669,
+      "en": "his remarks were trite and commonplace"
+    },
+    {
+      "id": "mislead",
+      "rank": 8670,
+      "en": "Are you trying to mislead me?"
+    },
+    {
+      "id": "boredom",
+      "rank": 8671,
+      "en": "I almost died of boredom."
+    },
+    {
+      "id": "boredom",
+      "rank": 8671,
+      "en": "Boredom, routine, and lack of curiosity are the greatest enemies of our brain."
+    },
+    {
+      "id": "mint",
+      "rank": 8674,
+      "en": "Have you tried mint tea yet?"
+    },
+    {
+      "id": "avid",
+      "rank": 8676,
+      "en": "Tom is an avid reader."
+    },
+    {
+      "id": "soothing",
+      "rank": 8678,
+      "en": "The sound of water is soothing."
+    },
+    {
+      "id": "classified",
+      "rank": 8685,
+      "en": "We can't reveal classified information."
+    },
+    {
+      "id": "nanny",
+      "rank": 8687,
+      "en": "Mary agreed to work for us as a nanny."
+    },
+    {
+      "id": "nanny",
+      "rank": 8687,
+      "en": "Are you the new nanny?"
+    },
+    {
+      "id": "groom",
+      "rank": 8693,
+      "en": "Do you know the groom?"
+    },
+    {
+      "id": "filthy",
+      "rank": 8696,
+      "en": "Get your filthy hands off of me."
+    },
+    {
+      "id": "filthy",
+      "rank": 8696,
+      "en": "Your hair is filthy."
+    },
+    {
+      "id": "attacker",
+      "rank": 8701,
+      "en": "Do you remember what the attacker looked like?"
+    },
+    {
+      "id": "attacker",
+      "rank": 8701,
+      "en": "Did you know the attacker?"
+    },
+    {
+      "id": "outweigh",
+      "rank": 8702,
+      "en": "The needs of the many outweigh the needs of the few."
+    },
+    {
+      "id": "outweigh",
+      "rank": 8702,
+      "en": "The advantages far outweigh the disadvantages."
+    },
+    {
+      "id": "abrupt",
+      "rank": 8703,
+      "en": "She looked puzzled at the abrupt question posed by a reporter."
+    },
+    {
+      "id": "abrupt",
+      "rank": 8703,
+      "en": "He made an abrupt departure."
+    },
+    {
+      "id": "downside",
+      "rank": 8709,
+      "en": "The downside of fame is scrutiny."
+    },
+    {
+      "id": "nestle",
+      "rank": 8710,
+      "en": "The puppies nestled against their mother."
+    },
+    {
+      "id": "stylish",
+      "rank": 8712,
+      "en": "Tom lives in a stylish apartment."
+    },
+    {
+      "id": "shred",
+      "rank": 8713,
+      "en": "There wasn't a single shred of evidence."
+    },
+    {
+      "id": "shred",
+      "rank": 8713,
+      "en": "Tom shredded the lettuce."
+    },
+    {
+      "id": "tabloid",
+      "rank": 8716,
+      "en": "Don't you read the tabloids?"
+    },
+    {
+      "id": "refreshing",
+      "rank": 8722,
+      "en": "It has a refreshing taste."
+    },
+    {
+      "id": "gunfire",
+      "rank": 8724,
+      "en": "I heard gunfire and shouting."
+    },
+    {
+      "id": "gunfire",
+      "rank": 8724,
+      "en": "Did you hear gunfire?"
+    },
+    {
+      "id": "whore",
+      "rank": 8725,
+      "en": "She whored herself to Hollywood"
+    },
+    {
+      "id": "tier",
+      "rank": 8726,
+      "en": "the sail is fastened to the yard with tiers"
+    },
+    {
+      "id": "amazingly",
+      "rank": 8727,
+      "en": "Prices went to amazingly low levels."
+    },
+    {
+      "id": "recorded",
+      "rank": 8732,
+      "en": "This moment will be recorded in history."
+    },
+    {
+      "id": "versatile",
+      "rank": 8734,
+      "en": "Tom is a versatile kid."
+    },
+    {
+      "id": "versatile",
+      "rank": 8734,
+      "en": "Swiss Army knives are versatile tools."
+    },
+    {
+      "id": "battalion",
+      "rank": 8735,
+      "en": "The battalion surrendered to the enemy."
+    },
+    {
+      "id": "battalion",
+      "rank": 8735,
+      "en": "The general ordered the deployment of two battalions."
+    },
+    {
+      "id": "unchanged",
+      "rank": 8737,
+      "en": "The situation remains unchanged."
+    },
+    {
+      "id": "unchanged",
+      "rank": 8737,
+      "en": "the causes that produced them have remained unchanged"
+    },
+    {
+      "id": "dizzy",
+      "rank": 8740,
+      "en": "I feel dizzy every time I get up."
+    },
+    {
+      "id": "dizzy",
+      "rank": 8740,
+      "en": "I feel dizzy every time I stand up."
+    },
+    {
+      "id": "rumble",
+      "rank": 8741,
+      "en": "From somewhere in the distance came an ominous rumble."
+    },
+    {
+      "id": "rumble",
+      "rank": 8741,
+      "en": "Did you hear the thunder rumbling?"
+    },
+    {
+      "id": "juicy",
+      "rank": 8742,
+      "en": "What I want is a big juicy steak."
+    },
+    {
+      "id": "juicy",
+      "rank": 8742,
+      "en": "The turkey was tender and juicy."
+    },
+    {
+      "id": "contestant",
+      "rank": 8743,
+      "en": "The contestant made two false starts."
+    },
+    {
+      "id": "contestant",
+      "rank": 8743,
+      "en": "Are you a contestant?"
+    },
+    {
+      "id": "intentional",
+      "rank": 8744,
+      "en": "I think what Tom did was intentional."
+    },
+    {
+      "id": "intentional",
+      "rank": 8744,
+      "en": "I think it was intentional."
+    },
+    {
+      "id": "vomit",
+      "rank": 8753,
+      "en": "You make me want to vomit."
+    },
+    {
+      "id": "vomit",
+      "rank": 8753,
+      "en": "Tom vomited on the bus."
+    },
+    {
+      "id": "mike",
+      "rank": 8754,
+      "en": "I handed the mike to Tom."
+    },
+    {
+      "id": "sag",
+      "rank": 8757,
+      "en": "there was a sag in the chair seat"
+    },
+    {
+      "id": "endlessly",
+      "rank": 8760,
+      "en": "I could talk endlessly about this topic."
+    },
+    {
+      "id": "endlessly",
+      "rank": 8760,
+      "en": "her nagging went on endlessly"
+    },
+    {
+      "id": "delightful",
+      "rank": 8762,
+      "en": "She has a delightful sense of humor."
+    },
+    {
+      "id": "wrongdoing",
+      "rank": 8769,
+      "en": "he denied any wrongdoing"
+    },
+    {
+      "id": "anticipated",
+      "rank": 8773,
+      "en": "Tom anticipated that there would be trouble."
+    },
+    {
+      "id": "anticipated",
+      "rank": 8773,
+      "en": "I ought to have anticipated this."
+    },
+    {
+      "id": "facet",
+      "rank": 8774,
+      "en": "he studied every facet of the question"
+    },
+    {
+      "id": "beckon",
+      "rank": 8776,
+      "en": "Tom beckoned me to come in."
+    },
+    {
+      "id": "slipper",
+      "rank": 8779,
+      "en": "Tom looked under the bed to see if the other slipper was there."
+    },
+    {
+      "id": "challenger",
+      "rank": 8781,
+      "en": "Challenger exploded on January 28th 1986."
+    },
+    {
+      "id": "quiz",
+      "rank": 8784,
+      "en": "We got quizzed on French irregular verbs"
+    },
+    {
+      "id": "handgun",
+      "rank": 8785,
+      "en": "Do you own a handgun?"
+    },
+    {
+      "id": "chuck",
+      "rank": 8786,
+      "en": "Chuck it in the washing machine."
+    },
+    {
+      "id": "chuck",
+      "rank": 8786,
+      "en": "How much wood would a woodchuck chuck if a woodchuck could chuck wood?"
+    },
+    {
+      "id": "suicidal",
+      "rank": 8788,
+      "en": "Tom never told me he was having suicidal thoughts."
+    },
+    {
+      "id": "suicidal",
+      "rank": 8788,
+      "en": "That would be suicidal."
+    },
+    {
+      "id": "mole",
+      "rank": 8789,
+      "en": "I have a mole on my cheek."
+    },
+    {
+      "id": "mole",
+      "rank": 8789,
+      "en": "The dead body was identified by a mole on the cheek."
+    },
+    {
+      "id": "impede",
+      "rank": 8791,
+      "en": "She is impeding the progress of our project"
+    },
+    {
+      "id": "wince",
+      "rank": 8792,
+      "en": "He winced as the nurse pushed the needle into his arm."
+    },
+    {
+      "id": "wince",
+      "rank": 8792,
+      "en": "Tom winced with pain."
+    },
+    {
+      "id": "subside",
+      "rank": 8793,
+      "en": "The noise gradually began to subside."
+    },
+    {
+      "id": "subside",
+      "rank": 8793,
+      "en": "The wind is subsiding."
+    },
+    {
+      "id": "needy",
+      "rank": 8796,
+      "en": "The city supplied the needy with blankets."
+    },
+    {
+      "id": "needy",
+      "rank": 8796,
+      "en": "We should help the needy."
+    },
+    {
+      "id": "outspoken",
+      "rank": 8801,
+      "en": "I think Tom is too outspoken."
+    },
+    {
+      "id": "outspoken",
+      "rank": 8801,
+      "en": "Tom used to be outspoken."
+    },
+    {
+      "id": "antibody",
+      "rank": 8806,
+      "en": "Antibodies fight off infections and viruses."
+    },
+    {
+      "id": "graffiti",
+      "rank": 8807,
+      "en": "The wall is covered with graffiti."
+    },
+    {
+      "id": "graffiti",
+      "rank": 8807,
+      "en": "The wall was covered with graffiti."
+    },
+    {
+      "id": "cliche",
+      "rank": 8808,
+      "en": "The word \"cliche\" comes from French."
+    },
+    {
+      "id": "cliche",
+      "rank": 8808,
+      "en": "It's a cliche, but it's true."
+    },
+    {
+      "id": "hinge",
+      "rank": 8810,
+      "en": "I need to replace the hinges on this door."
+    },
+    {
+      "id": "hinge",
+      "rank": 8810,
+      "en": "The hinges are really squeaky. Could you oil them please?"
+    },
+    {
+      "id": "forefront",
+      "rank": 8815,
+      "en": "he was in the forefront"
+    },
+    {
+      "id": "forefront",
+      "rank": 8815,
+      "en": "the idea of motion was always to the forefront of his mind and central to his philosophy"
+    },
+    {
+      "id": "bob",
+      "rank": 8817,
+      "en": "What's your favorite Bob Dylan song?"
+    },
+    {
+      "id": "bob",
+      "rank": 8817,
+      "en": "he gave me a short bob of acknowledgement"
+    },
+    {
+      "id": "restricted",
+      "rank": 8818,
+      "en": "Freedom of speech was tightly restricted."
+    },
+    {
+      "id": "raspberry",
+      "rank": 8821,
+      "en": "I was picking raspberries in the garden."
+    },
+    {
+      "id": "prudent",
+      "rank": 8823,
+      "en": "I know that Tom will be prudent."
+    },
+    {
+      "id": "spokesperson",
+      "rank": 8824,
+      "en": "the meeting was attended by spokespersons for all the major organs of government"
+    },
+    {
+      "id": "wreckage",
+      "rank": 8825,
+      "en": "Tom and Mary were pinned under the wreckage."
+    },
+    {
+      "id": "wreckage",
+      "rank": 8825,
+      "en": "The wreckage of the plane was found in the desert."
+    },
+    {
+      "id": "assassin",
+      "rank": 8830,
+      "en": "The assassin smothered his victim with a pillow."
+    },
+    {
+      "id": "assassin",
+      "rank": 8830,
+      "en": "Tom got killed by a hired assassin."
+    },
+    {
+      "id": "etch",
+      "rank": 8832,
+      "en": "He etched her image into the surface"
+    },
+    {
+      "id": "flute",
+      "rank": 8833,
+      "en": "I want to learn how to play the flute."
+    },
+    {
+      "id": "flute",
+      "rank": 8833,
+      "en": "The flute is more popular with girls than boys."
+    },
+    {
+      "id": "nightly",
+      "rank": 8835,
+      "en": "she checks on her roses nightly"
+    },
+    {
+      "id": "dangerously",
+      "rank": 8838,
+      "en": "We came dangerously close to freezing to death."
+    },
+    {
+      "id": "dangerously",
+      "rank": 8838,
+      "en": "Two men were arrested for driving dangerously."
+    },
+    {
+      "id": "smear",
+      "rank": 8842,
+      "en": "Tom's face was smeared with dirt."
+    },
+    {
+      "id": "smear",
+      "rank": 8842,
+      "en": "Mary's lipstick is smeared."
+    },
+    {
+      "id": "preoccupied",
+      "rank": 8846,
+      "en": "She was so preoccupied that she was oblivious of her surroundings."
+    },
+    {
+      "id": "preoccupied",
+      "rank": 8846,
+      "en": "Tom is preoccupied with something."
+    },
+    {
+      "id": "inspired",
+      "rank": 8847,
+      "en": "I wonder what inspired Tom to do that."
+    },
+    {
+      "id": "intellect",
+      "rank": 8849,
+      "en": "Tom is weak now, but his intellect is sound."
+    },
+    {
+      "id": "intellect",
+      "rank": 8849,
+      "en": "he has a keen intellect"
+    },
+    {
+      "id": "outright",
+      "rank": 8853,
+      "en": "she asked him outright for a divorce"
+    },
+    {
+      "id": "outright",
+      "rank": 8853,
+      "en": "he is outright dishonest"
+    },
+    {
+      "id": "flex",
+      "rank": 8856,
+      "en": "Tom flexed his muscles in front of the mirror."
+    },
+    {
+      "id": "flex",
+      "rank": 8856,
+      "en": "Tom flexed his biceps."
+    },
+    {
+      "id": "infuse",
+      "rank": 8860,
+      "en": "the mint tea is infusing"
+    },
+    {
+      "id": "rake",
+      "rank": 8861,
+      "en": "Tom is as thin as a rake."
+    },
+    {
+      "id": "rake",
+      "rank": 8861,
+      "en": "Tom stepped on the rake."
+    },
+    {
+      "id": "coping",
+      "rank": 8862,
+      "en": "Tom is having trouble coping with the fact that his son committed suicide."
+    },
+    {
+      "id": "trickle",
+      "rank": 8863,
+      "en": "A trickle of blood ran down his neck."
+    },
+    {
+      "id": "trickle",
+      "rank": 8863,
+      "en": "I felt the sweat trickle down my brow."
+    },
+    {
+      "id": "chestnut",
+      "rank": 8866,
+      "en": "Tom's hair is chestnut brown."
+    },
+    {
+      "id": "chestnut",
+      "rank": 8866,
+      "en": "Chestnuts have to be boiled for at least fifteen minutes."
+    },
+    {
+      "id": "differing",
+      "rank": 8868,
+      "en": "Draw two concentric circles of differing diameters."
+    },
+    {
+      "id": "differing",
+      "rank": 8868,
+      "en": "Work and play are words used to describe the same thing under differing conditions."
+    },
+    {
+      "id": "perennial",
+      "rank": 8869,
+      "en": "the common buttercup is a popular perennial plant"
+    },
+    {
+      "id": "overlap",
+      "rank": 8870,
+      "en": "Your goals overlap with mine."
+    },
+    {
+      "id": "overlap",
+      "rank": 8870,
+      "en": "there was no overlap between their proposals"
+    },
+    {
+      "id": "handler",
+      "rank": 8873,
+      "en": "The lion suddenly pounced on its handler."
+    },
+    {
+      "id": "handler",
+      "rank": 8873,
+      "en": "Tom is a snake handler."
+    },
+    {
+      "id": "muse",
+      "rank": 8874,
+      "en": "Euterpe was his muse"
+    },
+    {
+      "id": "obsolete",
+      "rank": 8876,
+      "en": "That's an obsolete model."
+    },
+    {
+      "id": "culprit",
+      "rank": 8877,
+      "en": "Was the culprit found?"
+    },
+    {
+      "id": "culprit",
+      "rank": 8877,
+      "en": "We haven't yet found the culprit."
+    },
+    {
+      "id": "recycled",
+      "rank": 8880,
+      "en": "This chair is made out of recycled materials."
+    },
+    {
+      "id": "recycled",
+      "rank": 8880,
+      "en": "We buy toilet paper made from recycled paper."
+    },
+    {
+      "id": "anomaly",
+      "rank": 8881,
+      "en": "We found an anomaly."
+    },
+    {
+      "id": "variant",
+      "rank": 8882,
+      "en": "There's one more variant."
+    },
+    {
+      "id": "variant",
+      "rank": 8882,
+      "en": "There may be several variants."
+    },
+    {
+      "id": "insignificant",
+      "rank": 8884,
+      "en": "Tom felt insignificant when he looked up at the night sky."
+    },
+    {
+      "id": "insignificant",
+      "rank": 8884,
+      "en": "It's an insignificant problem."
+    },
+    {
+      "id": "wail",
+      "rank": 8887,
+      "en": "The sirens are wailing."
+    },
+    {
+      "id": "wail",
+      "rank": 8887,
+      "en": "she wailed with pain"
+    },
+    {
+      "id": "watcher",
+      "rank": 8888,
+      "en": "I'm not a big TV watcher."
+    },
+    {
+      "id": "overtake",
+      "rank": 8889,
+      "en": "Supply will soon overtake demand."
+    },
+    {
+      "id": "cache",
+      "rank": 8893,
+      "en": "Try clearing your cache."
+    },
+    {
+      "id": "cache",
+      "rank": 8893,
+      "en": "Have you tried clearing your browser's cache?"
+    },
+    {
+      "id": "zip",
+      "rank": 8896,
+      "en": "Mary asked Tom to zip up her dress."
+    },
+    {
+      "id": "bunk",
+      "rank": 8899,
+      "en": "Bunk beds are a way to save space."
+    },
+    {
+      "id": "bunk",
+      "rank": 8899,
+      "en": "Tom fell out of the top bunk."
+    },
+    {
+      "id": "sweaty",
+      "rank": 8900,
+      "en": "When I run, I get sweaty."
+    },
+    {
+      "id": "sweaty",
+      "rank": 8900,
+      "en": "My hands are sweaty."
+    },
+    {
+      "id": "jointly",
+      "rank": 8902,
+      "en": "this paper was written jointly"
+    },
+    {
+      "id": "greedy",
+      "rank": 8908,
+      "en": "Greedy people always want more stuff."
+    },
+    {
+      "id": "salvage",
+      "rank": 8909,
+      "en": "I hope that we can salvage the situation."
+    },
+    {
+      "id": "salvage",
+      "rank": 8909,
+      "en": "I hope we can salvage the situation."
+    },
+    {
+      "id": "bedside",
+      "rank": 8910,
+      "en": "Tom switched off the lamp on the bedside table."
+    },
+    {
+      "id": "bedside",
+      "rank": 8910,
+      "en": "Tom turned on the small lamp on his bedside table."
+    },
+    {
+      "id": "shepherd",
+      "rank": 8911,
+      "en": "Is your dog a German shepherd?"
+    },
+    {
+      "id": "shepherd",
+      "rank": 8911,
+      "en": "It took me a lot less time to housebreak my German shepherd than it took to housebreak my other dog."
+    },
+    {
+      "id": "yearly",
+      "rank": 8913,
+      "en": "This has become a yearly tradition."
+    },
+    {
+      "id": "yearly",
+      "rank": 8913,
+      "en": "It's worth ten times my yearly salary."
+    },
+    {
+      "id": "negotiating",
+      "rank": 8921,
+      "en": "They are negotiating to reach a satisfactory compromise."
+    },
+    {
+      "id": "negotiating",
+      "rank": 8921,
+      "en": "Have you tried negotiating with Tom?"
+    },
+    {
+      "id": "entree",
+      "rank": 8922,
+      "en": "In many restaurants in Turkey, kebab is the main entree."
+    },
+    {
+      "id": "entree",
+      "rank": 8922,
+      "en": "she made a graceful entree into the ballroom"
+    },
+    {
+      "id": "token",
+      "rank": 8924,
+      "en": "He gave me this doll in token of his gratitude."
+    },
+    {
+      "id": "anecdote",
+      "rank": 8925,
+      "en": "I love my grandfather's anecdotes."
+    },
+    {
+      "id": "soybean",
+      "rank": 8928,
+      "en": "Chicken, tuna and soybeans are good sources of protein."
+    },
+    {
+      "id": "frail",
+      "rank": 8930,
+      "en": "My grandmother was gradually becoming forgetful and frail."
+    },
+    {
+      "id": "frail",
+      "rank": 8930,
+      "en": "The elderly woman was frail but feisty."
+    },
+    {
+      "id": "trumpet",
+      "rank": 8936,
+      "en": "I want to learn how to play the trumpet."
+    },
+    {
+      "id": "trumpet",
+      "rank": 8936,
+      "en": "Tom wants to learn how to play the trumpet."
+    },
+    {
+      "id": "rash",
+      "rank": 8937,
+      "en": "I got a rash on my hands from dishwasher detergent."
+    },
+    {
+      "id": "rash",
+      "rank": 8937,
+      "en": "I have a rash on my hand."
+    },
+    {
+      "id": "disgusting",
+      "rank": 8938,
+      "en": "Why do you think smoking is a disgusting habit?"
+    },
+    {
+      "id": "disgusting",
+      "rank": 8938,
+      "en": "Why are you eating this disgusting stuff?"
+    },
+    {
+      "id": "apparel",
+      "rank": 8945,
+      "en": "she was refined in her choice of apparel"
+    },
+    {
+      "id": "intently",
+      "rank": 8948,
+      "en": "What are you looking at so intently?"
+    },
+    {
+      "id": "intently",
+      "rank": 8948,
+      "en": "Everybody was listening intently to Tom."
+    },
+    {
+      "id": "hone",
+      "rank": 8949,
+      "en": "To be a good translator, I think Tom needs to hone his skills a bit more."
+    },
+    {
+      "id": "gunshot",
+      "rank": 8950,
+      "en": "The corpse has a gunshot wound in the chest."
+    },
+    {
+      "id": "babe",
+      "rank": 8951,
+      "en": "Who's this hot babe?"
+    },
+    {
+      "id": "revolt",
+      "rank": 8955,
+      "en": "The revolt was put down with little trouble."
+    },
+    {
+      "id": "revolt",
+      "rank": 8955,
+      "en": "The military quashed the revolt within a matter of hours."
+    },
+    {
+      "id": "sever",
+      "rank": 8957,
+      "en": "His head was severed from his body"
+    },
+    {
+      "id": "pamphlet",
+      "rank": 8959,
+      "en": "Tom handed Mary a pamphlet."
+    },
+    {
+      "id": "buckle",
+      "rank": 8961,
+      "en": "Buckle your seat belts."
+    },
+    {
+      "id": "buckle",
+      "rank": 8961,
+      "en": "Tom buckled his seat belt."
+    },
+    {
+      "id": "cocoa",
+      "rank": 8963,
+      "en": "Tom ordered coffee for himself and cocoa for Mary."
+    },
+    {
+      "id": "cocoa",
+      "rank": 8963,
+      "en": "How about a cup of cocoa?"
+    },
+    {
+      "id": "participating",
+      "rank": 8964,
+      "en": "Tom was able to talk Mary into participating."
+    },
+    {
+      "id": "participating",
+      "rank": 8964,
+      "en": "She tried to dissuade him from participating in the project."
+    },
+    {
+      "id": "discredit",
+      "rank": 8965,
+      "en": "Tom is trying to discredit us."
+    },
+    {
+      "id": "discredit",
+      "rank": 8965,
+      "en": "your actions will bring discredit to your name"
+    },
+    {
+      "id": "bun",
+      "rank": 8967,
+      "en": "Mary often wears her hair in a bun."
+    },
+    {
+      "id": "bun",
+      "rank": 8967,
+      "en": "Mary pulled her hair back in a bun."
+    },
+    {
+      "id": "freak",
+      "rank": 8971,
+      "en": "Tom got killed in a freak accident."
+    },
+    {
+      "id": "freak",
+      "rank": 8971,
+      "en": "You look like a freak."
+    },
+    {
+      "id": "salute",
+      "rank": 8974,
+      "en": "Tom forgot to salute."
+    },
+    {
+      "id": "oriental",
+      "rank": 8982,
+      "en": "As a student, I became interested in oriental languages."
+    },
+    {
+      "id": "swarm",
+      "rank": 8983,
+      "en": "A swarm of locusts descended on the cornfield."
+    },
+    {
+      "id": "stepfather",
+      "rank": 8985,
+      "en": "Tom never got along with his stepfather."
+    },
+    {
+      "id": "stepfather",
+      "rank": 8985,
+      "en": "My stepfather is a lawyer."
+    },
+    {
+      "id": "raisin",
+      "rank": 8989,
+      "en": "Why do you not eat raisins?"
+    },
+    {
+      "id": "raisin",
+      "rank": 8989,
+      "en": "Tom ate a handful of raisins."
+    },
+    {
+      "id": "unrest",
+      "rank": 8995,
+      "en": "The unrest lasted three days."
+    },
+    {
+      "id": "soothe",
+      "rank": 8996,
+      "en": "Music really can soothe the soul."
+    },
+    {
+      "id": "soothe",
+      "rank": 8996,
+      "en": "This medicine will soothe your headache."
+    },
+    {
+      "id": "clasp",
+      "rank": 8998,
+      "en": "The clasp on this necklace is broken."
+    },
+    {
+      "id": "clasp",
+      "rank": 8998,
+      "en": "The boy clasped the puppy to his chest."
+    },
+    {
+      "id": "tow",
+      "rank": 9000,
+      "en": "Tom had to wait three hours for a tow truck."
+    },
+    {
+      "id": "blush",
+      "rank": 9003,
+      "en": "I blush to think of what a fool I was then."
+    },
+    {
+      "id": "asbestos",
+      "rank": 9006,
+      "en": "Asbestos is a carcinogen."
+    },
+    {
+      "id": "grit",
+      "rank": 9008,
+      "en": "I admire your grit."
+    },
+    {
+      "id": "peninsula",
+      "rank": 9009,
+      "en": "The peninsula has been inhabited since prehistoric times."
+    },
+    {
+      "id": "peninsula",
+      "rank": 9009,
+      "en": "Have you ever been to the Korean Peninsula?"
+    },
+    {
+      "id": "puddle",
+      "rank": 9010,
+      "en": "Be careful not to step in the mud puddle."
+    },
+    {
+      "id": "puddle",
+      "rank": 9010,
+      "en": "The ice melted into a puddle of water."
+    },
+    {
+      "id": "fend",
+      "rank": 9011,
+      "en": "At a young age, I had to learn to fend for myself."
+    },
+    {
+      "id": "fend",
+      "rank": 9011,
+      "en": "The mountain climbers had to fend against the ice and snow"
+    },
+    {
+      "id": "shutter",
+      "rank": 9012,
+      "en": "I opened the shutters."
+    },
+    {
+      "id": "shutter",
+      "rank": 9012,
+      "en": "We shuttered the window to keep the house cool"
+    },
+    {
+      "id": "doubtful",
+      "rank": 9015,
+      "en": "It is doubtful whether she will come on time."
+    },
+    {
+      "id": "outgoing",
+      "rank": 9020,
+      "en": "Tom is very outgoing."
+    },
+    {
+      "id": "outgoing",
+      "rank": 9020,
+      "en": "Tom is really outgoing."
+    },
+    {
+      "id": "intruder",
+      "rank": 9021,
+      "en": "The intruder lunged at Tom with a knife."
+    },
+    {
+      "id": "intruder",
+      "rank": 9021,
+      "en": "The dogs barked furiously at the intruder."
+    },
+    {
+      "id": "clone",
+      "rank": 9023,
+      "en": "Is it ethical to clone humans?"
+    },
+    {
+      "id": "clone",
+      "rank": 9023,
+      "en": "I'm not a clone."
+    },
+    {
+      "id": "jelly",
+      "rank": 9024,
+      "en": "I had a peanut butter and jelly sandwich."
+    },
+    {
+      "id": "logging",
+      "rank": 9027,
+      "en": "When will they start logging?"
+    },
+    {
+      "id": "logging",
+      "rank": 9027,
+      "en": "Illegal logging has decreased considerably."
+    },
+    {
+      "id": "bladder",
+      "rank": 9028,
+      "en": "I have a weak bladder."
+    },
+    {
+      "id": "refrain",
+      "rank": 9029,
+      "en": "Please refrain from smoking in the elevator."
+    },
+    {
+      "id": "refrain",
+      "rank": 9029,
+      "en": "I prefer to refrain from discussing religion."
+    },
+    {
+      "id": "untouched",
+      "rank": 9030,
+      "en": "Both glasses remained untouched."
+    },
+    {
+      "id": "lavish",
+      "rank": 9031,
+      "en": "Tom lives a very lavish lifestyle."
+    },
+    {
+      "id": "lavish",
+      "rank": 9031,
+      "en": "the critics were lavish in their praise"
+    },
+    {
+      "id": "knuckle",
+      "rank": 9033,
+      "en": "You'd better knuckle down to work."
+    },
+    {
+      "id": "knuckle",
+      "rank": 9033,
+      "en": "I heard Tom cracking his knuckles."
+    },
+    {
+      "id": "pointed",
+      "rank": 9035,
+      "en": "Tom pointed to the empty seat next to him."
+    },
+    {
+      "id": "milestone",
+      "rank": 9040,
+      "en": "Another milestone has been passed."
+    },
+    {
+      "id": "curtail",
+      "rank": 9041,
+      "en": "Personal freedom is curtailed in many countries"
+    },
+    {
+      "id": "amusing",
+      "rank": 9042,
+      "en": "I told an amusing story to the children."
+    },
+    {
+      "id": "hamper",
+      "rank": 9044,
+      "en": "Tom tossed his dirty clothes in the hamper."
+    },
+    {
+      "id": "hamper",
+      "rank": 9044,
+      "en": "Heavy rain throughout the night has hampered efforts to rescue survivors from the stricken ferry."
+    },
+    {
+      "id": "lineage",
+      "rank": 9046,
+      "en": "his entire lineage has been warriors"
+    },
+    {
+      "id": "beta",
+      "rank": 9048,
+      "en": "the candidate, considered a beta male, was perceived to be unable to lead his party to victory"
+    },
+    {
+      "id": "motto",
+      "rank": 9048,
+      "en": "One for all, and all for one, this is our motto."
+    },
+    {
+      "id": "motto",
+      "rank": 9048,
+      "en": "Do you have a motto?"
+    },
+    {
+      "id": "damned",
+      "rank": 9051,
+      "en": "he felt he had visited the realm of the damned"
+    },
+    {
+      "id": "damned",
+      "rank": 9051,
+      "en": "I'll be damned (or blessed or darned or goddamned) if I'll do any such thing"
+    },
+    {
+      "id": "herbal",
+      "rank": 9052,
+      "en": "I like herbal tea."
+    },
+    {
+      "id": "herbal",
+      "rank": 9052,
+      "en": "This is herbal tea."
+    },
+    {
+      "id": "fragrant",
+      "rank": 9055,
+      "en": "The roses were fragrant."
+    },
+    {
+      "id": "fragrant",
+      "rank": 9055,
+      "en": "These flowers are not only beautiful but also fragrant."
+    },
+    {
+      "id": "banquet",
+      "rank": 9056,
+      "en": "Tom was unable to attend the banquet."
+    },
+    {
+      "id": "banquet",
+      "rank": 9056,
+      "en": "Tom won't be able to attend the banquet."
+    },
+    {
+      "id": "gravy",
+      "rank": 9062,
+      "en": "Tom likes mashed potatoes with gravy."
+    },
+    {
+      "id": "fireman",
+      "rank": 9069,
+      "en": "The brave fireman rescued a boy from the burning house."
+    },
+    {
+      "id": "murky",
+      "rank": 9073,
+      "en": "The water in the lake is murky."
+    },
+    {
+      "id": "murky",
+      "rank": 9073,
+      "en": "The water in the glass is murky."
+    },
+    {
+      "id": "sighting",
+      "rank": 9075,
+      "en": "several sightings of enemy troops were reported"
+    },
+    {
+      "id": "sparkling",
+      "rank": 9080,
+      "en": "I like sparkling and fruity wines."
+    },
+    {
+      "id": "sparkling",
+      "rank": 9080,
+      "en": "The bathroom was sparkling clean."
+    },
+    {
+      "id": "tuberculosis",
+      "rank": 9082,
+      "en": "Tom died in prison from tuberculosis."
+    },
+    {
+      "id": "tuberculosis",
+      "rank": 9082,
+      "en": "Tom was diagnosed with tuberculosis in 2013."
+    },
+    {
+      "id": "demanding",
+      "rank": 9084,
+      "en": "They are demanding shorter working hours."
+    },
+    {
+      "id": "demanding",
+      "rank": 9084,
+      "en": "His boss is very demanding."
+    },
+    {
+      "id": "lava",
+      "rank": 9085,
+      "en": "The lava flow destroyed everything in its path."
+    },
+    {
+      "id": "lava",
+      "rank": 9085,
+      "en": "The lava destroyed everything in its path."
+    },
+    {
+      "id": "pineapple",
+      "rank": 9086,
+      "en": "How can you tell if a pineapple is ripe?"
+    },
+    {
+      "id": "bouquet",
+      "rank": 9088,
+      "en": "They presented the singer with a bouquet of roses."
+    },
+    {
+      "id": "bouquet",
+      "rank": 9088,
+      "en": "Tom brought Mary a bouquet of roses."
+    },
+    {
+      "id": "womb",
+      "rank": 9091,
+      "en": "Babies grow up inside the amniotic fluid in the womb."
+    },
+    {
+      "id": "tutor",
+      "rank": 9093,
+      "en": "I hired a math tutor for Tom."
+    },
+    {
+      "id": "tutor",
+      "rank": 9093,
+      "en": "We hired Tom a chemistry tutor."
+    },
+    {
+      "id": "depressing",
+      "rank": 9094,
+      "en": "The economy of our country is in a depressing state."
+    },
+    {
+      "id": "chalk",
+      "rank": 9095,
+      "en": "Bring me some blue chalk from the next classroom."
+    },
+    {
+      "id": "trek",
+      "rank": 9100,
+      "en": "We spent the summer trekking in the foothills of the Himalayas"
+    },
+    {
+      "id": "trek",
+      "rank": 9100,
+      "en": "They trekked towards the North Pole with sleds and skis"
+    },
+    {
+      "id": "furnace",
+      "rank": 9102,
+      "en": "The heat of the furnace warmed the whole house."
+    },
+    {
+      "id": "gadget",
+      "rank": 9105,
+      "en": "This is a great time-saving gadget for the housewife."
+    },
+    {
+      "id": "gadget",
+      "rank": 9105,
+      "en": "What a useful gadget!"
+    },
+    {
+      "id": "stunt",
+      "rank": 9106,
+      "en": "A stunt double was injured during filming."
+    },
+    {
+      "id": "stunt",
+      "rank": 9106,
+      "en": "That's just a cheap publicity stunt."
+    },
+    {
+      "id": "wisely",
+      "rank": 9108,
+      "en": "You have to use the money wisely."
+    },
+    {
+      "id": "wisely",
+      "rank": 9108,
+      "en": "You must act more wisely."
+    },
+    {
+      "id": "underwater",
+      "rank": 9111,
+      "en": "Tom closes his eyes when he swims underwater."
+    },
+    {
+      "id": "fortress",
+      "rank": 9115,
+      "en": "The fortress was in the enemy's hands."
+    },
+    {
+      "id": "touching",
+      "rank": 9116,
+      "en": "You can be charged with criminal assault without actually touching the victim."
+    },
+    {
+      "id": "binding",
+      "rank": 9118,
+      "en": "the book had a leather binding"
+    },
+    {
+      "id": "safeguard",
+      "rank": 9121,
+      "en": "Free flow of information is the only safeguard against tyranny."
+    },
+    {
+      "id": "safeguard",
+      "rank": 9121,
+      "en": "an insurance policy is a good safeguard"
+    },
+    {
+      "id": "larva",
+      "rank": 9123,
+      "en": "Fish eat mosquito larvae."
+    },
+    {
+      "id": "rapper",
+      "rank": 9125,
+      "en": "Tom is a rapper."
+    },
+    {
+      "id": "cartridge",
+      "rank": 9132,
+      "en": "he loaded a cartridge of fresh tape into the tape deck"
+    },
+    {
+      "id": "heed",
+      "rank": 9134,
+      "en": "He doesn't heed any advice."
+    },
+    {
+      "id": "heed",
+      "rank": 9134,
+      "en": "Tom didn't heed the warning."
+    },
+    {
+      "id": "scam",
+      "rank": 9135,
+      "en": "That sounds like a scam."
+    },
+    {
+      "id": "scam",
+      "rank": 9135,
+      "en": "This is a scam."
+    },
+    {
+      "id": "malaria",
+      "rank": 9136,
+      "en": "He contracted malaria while living in the jungle."
+    },
+    {
+      "id": "unsafe",
+      "rank": 9139,
+      "en": "Tom told me the bridge was unsafe."
+    },
+    {
+      "id": "unsafe",
+      "rank": 9139,
+      "en": "Do you really think it would be unsafe to do that?"
+    },
+    {
+      "id": "liken",
+      "rank": 9141,
+      "en": "We often liken death to sleep."
+    },
+    {
+      "id": "licensed",
+      "rank": 9144,
+      "en": "He is licensed as a pharmacist."
+    },
+    {
+      "id": "lurch",
+      "rank": 9145,
+      "en": "The train lurched to a standstill."
+    },
+    {
+      "id": "rocker",
+      "rank": 9154,
+      "en": "Tom is off his rocker."
+    },
+    {
+      "id": "rocker",
+      "rank": 9154,
+      "en": "Are you off your rocker?"
+    },
+    {
+      "id": "ostensibly",
+      "rank": 9156,
+      "en": "had been ostensibly frank as to his purpose while really concealing it"
+    },
+    {
+      "id": "flea",
+      "rank": 9159,
+      "en": "Tom put a flea collar on his dog."
+    },
+    {
+      "id": "console",
+      "rank": 9160,
+      "en": "Several lights on the console started flashing."
+    },
+    {
+      "id": "fatty",
+      "rank": 9161,
+      "en": "The other children call him Fatty."
+    },
+    {
+      "id": "fatty",
+      "rank": 9161,
+      "en": "Tom is a fatty."
+    },
+    {
+      "id": "reaffirm",
+      "rank": 9162,
+      "en": "He reaffirmed his faith in the church"
+    },
+    {
+      "id": "coma",
+      "rank": 9163,
+      "en": "Tom has been in a coma for thirty days."
+    },
+    {
+      "id": "hymn",
+      "rank": 9164,
+      "en": "The morning service began with a hymn."
+    },
+    {
+      "id": "hymn",
+      "rank": 9164,
+      "en": "They hymned their love of God"
+    },
+    {
+      "id": "jumper",
+      "rank": 9166,
+      "en": "Tom always keeps a set of jumper cables in the trunk of his car."
+    },
+    {
+      "id": "jumper",
+      "rank": 9166,
+      "en": "as the jumper neared the ground he lost control"
+    },
+    {
+      "id": "tolerant",
+      "rank": 9167,
+      "en": "Tom is very tolerant in his attitude toward religion."
+    },
+    {
+      "id": "tolerant",
+      "rank": 9167,
+      "en": "You need to learn to be more tolerant."
+    },
+    {
+      "id": "solemn",
+      "rank": 9168,
+      "en": "the judge was solemn as he pronounced sentence"
+    },
+    {
+      "id": "rainfall",
+      "rank": 9169,
+      "en": "We anticipate a heavy rainfall tomorrow."
+    },
+    {
+      "id": "heave",
+      "rank": 9170,
+      "en": "She heaved a sigh of relief when she heard the good news."
+    },
+    {
+      "id": "heave",
+      "rank": 9170,
+      "en": "he gave it a mighty heave"
+    },
+    {
+      "id": "cranberry",
+      "rank": 9172,
+      "en": "There is cranberry juice in the fridge."
+    },
+    {
+      "id": "cranberry",
+      "rank": 9172,
+      "en": "There's some cranberry juice in the fridge."
+    },
+    {
+      "id": "disregard",
+      "rank": 9174,
+      "en": "Tom disregarded Mary's advice."
+    },
+    {
+      "id": "glaze",
+      "rank": 9176,
+      "en": "Her eyes glaze over when she is bored"
+    },
+    {
+      "id": "hound",
+      "rank": 9177,
+      "en": "The hounds are in pursuit of the fox."
+    },
+    {
+      "id": "hound",
+      "rank": 9177,
+      "en": "The hounds flushed the fox out of its hiding place."
+    },
+    {
+      "id": "crib",
+      "rank": 9179,
+      "en": "The baby is sleeping in the crib."
+    },
+    {
+      "id": "crib",
+      "rank": 9179,
+      "en": "Leave the baby in the crib."
+    },
+    {
+      "id": "dread",
+      "rank": 9181,
+      "en": "They live in constant dread of floods."
+    },
+    {
+      "id": "dread",
+      "rank": 9181,
+      "en": "Are you dreading this?"
+    },
+    {
+      "id": "camper",
+      "rank": 9182,
+      "en": "I heard that a South American camper was eaten by an anaconda."
+    },
+    {
+      "id": "camper",
+      "rank": 9182,
+      "en": "The campers sang songs around the campfire."
+    },
+    {
+      "id": "outnumber",
+      "rank": 9186,
+      "en": "The enemy's forces outnumber us ten to one."
+    },
+    {
+      "id": "outnumber",
+      "rank": 9186,
+      "en": "We're outnumbered three to one."
+    },
+    {
+      "id": "paddle",
+      "rank": 9187,
+      "en": "Tom dog paddled toward the shallow end of the pool."
+    },
+    {
+      "id": "paddle",
+      "rank": 9187,
+      "en": "Tom and Mary were paddling a canoe down the river the last time I saw them."
+    },
+    {
+      "id": "spaghetti",
+      "rank": 9189,
+      "en": "I want you to make spaghetti for dinner."
+    },
+    {
+      "id": "spaghetti",
+      "rank": 9189,
+      "en": "Tom makes the best spaghetti in the world."
+    },
+    {
+      "id": "revealing",
+      "rank": 9191,
+      "en": "Mary often wears revealing clothes."
+    },
+    {
+      "id": "revealing",
+      "rank": 9191,
+      "en": "In many languages, it is difficult to speak or write without revealing one's gender."
+    },
+    {
+      "id": "amused",
+      "rank": 9194,
+      "en": "He amused the children with the story."
+    },
+    {
+      "id": "amused",
+      "rank": 9194,
+      "en": "The children amused themselves by playing games."
+    },
+    {
+      "id": "sliding",
+      "rank": 9202,
+      "en": "The children were sliding on the ice."
+    },
+    {
+      "id": "sliding",
+      "rank": 9202,
+      "en": "When I was a child, I used to like sliding down the staircase banister."
+    },
+    {
+      "id": "prod",
+      "rank": 9206,
+      "en": "She prodded him to work harder."
+    },
+    {
+      "id": "prod",
+      "rank": 9206,
+      "en": "the ceaseless prodding got on his nerves"
+    },
+    {
+      "id": "pollute",
+      "rank": 9208,
+      "en": "Some factories pollute the environment."
+    },
+    {
+      "id": "clumsy",
+      "rank": 9209,
+      "en": "Why are you so clumsy?"
+    },
+    {
+      "id": "clumsy",
+      "rank": 9209,
+      "en": "Tom is very clumsy."
+    },
+    {
+      "id": "singular",
+      "rank": 9212,
+      "en": "A noun can be singular or plural."
+    },
+    {
+      "id": "singular",
+      "rank": 9212,
+      "en": "can the singular person be understood apart from his culture?"
+    },
+    {
+      "id": "hypocrisy",
+      "rank": 9213,
+      "en": "We tend to associate politicians with hypocrisy."
+    },
+    {
+      "id": "hypocrisy",
+      "rank": 9213,
+      "en": "Your hypocrisy is absolutely amazing."
+    },
+    {
+      "id": "outpost",
+      "rank": 9214,
+      "en": "How about building more outposts?"
+    },
+    {
+      "id": "belongings",
+      "rank": 9215,
+      "en": "Tom put all of his belongings in a box."
+    },
+    {
+      "id": "belongings",
+      "rank": 9215,
+      "en": "Tom lost most of his belongings in the fire."
+    },
+    {
+      "id": "coil",
+      "rank": 9217,
+      "en": "the muscles and nerves of his fine drawn body were coiling for action"
+    },
+    {
+      "id": "infer",
+      "rank": 9219,
+      "en": "She inferred from his silence that he was angry."
+    },
+    {
+      "id": "portal",
+      "rank": 9221,
+      "en": "Tom found a portal to another dimension."
+    },
+    {
+      "id": "portal",
+      "rank": 9221,
+      "en": "Portals are used in many computer games to instantly travel from one place to another."
+    },
+    {
+      "id": "mourning",
+      "rank": 9222,
+      "en": "The whole country is in mourning."
+    },
+    {
+      "id": "bedtime",
+      "rank": 9223,
+      "en": "My father used to read to me at bedtime."
+    },
+    {
+      "id": "curly",
+      "rank": 9234,
+      "en": "Tom has blue eyes and curly hair."
+    },
+    {
+      "id": "curly",
+      "rank": 9234,
+      "en": "Why do pigs have curly tails?"
+    },
+    {
+      "id": "gin",
+      "rank": 9235,
+      "en": "What do you need to make gin and tonic?"
+    },
+    {
+      "id": "gin",
+      "rank": 9235,
+      "en": "What I want is a gin and tonic."
+    },
+    {
+      "id": "germ",
+      "rank": 9241,
+      "en": "Germs can only be seen with the aid of a microscope."
+    },
+    {
+      "id": "rename",
+      "rank": 9242,
+      "en": "This street was renamed in the mid-nineties."
+    },
+    {
+      "id": "rename",
+      "rank": 9242,
+      "en": "In the last century, the city has been renamed several times."
+    },
+    {
+      "id": "reprint",
+      "rank": 9243,
+      "en": "The book has been reprinted several times, and is also available online."
+    },
+    {
+      "id": "reprint",
+      "rank": 9243,
+      "en": "They never reprinted the famous treatise"
+    },
+    {
+      "id": "drugstore",
+      "rank": 9245,
+      "en": "The drugstore is at the end of this road."
+    },
+    {
+      "id": "folly",
+      "rank": 9254,
+      "en": "That would be folly."
+    },
+    {
+      "id": "folly",
+      "rank": 9254,
+      "en": "trying to drive through a blizzard is the height of folly"
+    },
+    {
+      "id": "strangle",
+      "rank": 9255,
+      "en": "Tom tried to strangle Mary."
+    },
+    {
+      "id": "strangle",
+      "rank": 9255,
+      "en": "I didn't strangle Tom."
+    },
+    {
+      "id": "unofficial",
+      "rank": 9256,
+      "en": "he participated in an unofficial capacity"
+    },
+    {
+      "id": "unofficial",
+      "rank": 9256,
+      "en": "the early election returns are unofficial"
+    },
+    {
+      "id": "stray",
+      "rank": 9258,
+      "en": "Tom has been bitten by a stray dog."
+    },
+    {
+      "id": "stray",
+      "rank": 9258,
+      "en": "Tom came close to being killed by a stray arrow."
+    },
+    {
+      "id": "hunch",
+      "rank": 9261,
+      "en": "I had a hunch you would do that."
+    },
+    {
+      "id": "elude",
+      "rank": 9267,
+      "en": "Tom has been doing a pretty good job of eluding the police, but eventually he'll get caught."
+    },
+    {
+      "id": "elude",
+      "rank": 9267,
+      "en": "What you are seeing in him eludes me"
+    },
+    {
+      "id": "contingent",
+      "rank": 9268,
+      "en": "the results of confession were not contingent, they were certain"
+    },
+    {
+      "id": "contingent",
+      "rank": 9268,
+      "en": "they had to plan for contingent expenses"
+    },
+    {
+      "id": "sprawl",
+      "rank": 9269,
+      "en": "He is sprawled out on the sofa."
+    },
+    {
+      "id": "sprawl",
+      "rank": 9269,
+      "en": "Tom is sprawled out on the sofa."
+    },
+    {
+      "id": "firsthand",
+      "rank": 9274,
+      "en": "I got this information firsthand."
+    },
+    {
+      "id": "firsthand",
+      "rank": 9274,
+      "en": "I heard this story firsthand"
+    },
+    {
+      "id": "tanker",
+      "rank": 9275,
+      "en": "The tanker has only a small crew on board."
+    },
+    {
+      "id": "overflow",
+      "rank": 9278,
+      "en": "After the heavy rains, the river overflowed its banks."
+    },
+    {
+      "id": "overflow",
+      "rank": 9278,
+      "en": "The river overflowed because of the heavy rain."
+    },
+    {
+      "id": "shoreline",
+      "rank": 9279,
+      "en": "Tom and Mary walked along the shoreline."
+    },
+    {
+      "id": "dreadful",
+      "rank": 9280,
+      "en": "I have a feeling that something dreadful is going to happen."
+    },
+    {
+      "id": "dreadful",
+      "rank": 9280,
+      "en": "My little brother says that he had a dreadful dream last night."
+    },
+    {
+      "id": "twitch",
+      "rank": 9281,
+      "en": "I have a twitch in my right eye."
+    },
+    {
+      "id": "sponge",
+      "rank": 9290,
+      "en": "I saw the sponge in the sink."
+    },
+    {
+      "id": "carton",
+      "rank": 9292,
+      "en": "I bought some bread and a carton of milk."
+    },
+    {
+      "id": "carton",
+      "rank": 9292,
+      "en": "Tom bought a carton of cigarettes."
+    },
+    {
+      "id": "suffice",
+      "rank": 9294,
+      "en": "This will suffice for now."
+    },
+    {
+      "id": "suffice",
+      "rank": 9294,
+      "en": "A ‘B’ grade doesn't suffice to get me into medical school"
+    },
+    {
+      "id": "preferably",
+      "rank": 9307,
+      "en": "We want an assistant, preferably someone with experience."
+    },
+    {
+      "id": "preferably",
+      "rank": 9307,
+      "en": "clean it well, preferably with warm water"
+    },
+    {
+      "id": "cracked",
+      "rank": 9308,
+      "en": "Tom almost cracked my ribs when he hugged me."
+    },
+    {
+      "id": "nausea",
+      "rank": 9312,
+      "en": "Common side effects include nausea, abdominal pain, and constipation."
+    },
+    {
+      "id": "nausea",
+      "rank": 9312,
+      "en": "Tom complained of nausea."
+    },
+    {
+      "id": "menace",
+      "rank": 9314,
+      "en": "he spoke with desperate menace"
+    },
+    {
+      "id": "menace",
+      "rank": 9314,
+      "en": "he menaced the bank manager with a stick"
+    },
+    {
+      "id": "cactus",
+      "rank": 9315,
+      "en": "It looks like a cactus."
+    },
+    {
+      "id": "cactus",
+      "rank": 9315,
+      "en": "I bought a cactus."
+    },
+    {
+      "id": "horseback",
+      "rank": 9316,
+      "en": "Want to go horseback riding?"
+    },
+    {
+      "id": "rewarding",
+      "rank": 9319,
+      "en": "It was a very rewarding experience."
+    },
+    {
+      "id": "hastily",
+      "rank": 9320,
+      "en": "We hastily set up camp on the riverbank."
+    },
+    {
+      "id": "hastily",
+      "rank": 9320,
+      "en": "Tom hastily packed his suitcase."
+    },
+    {
+      "id": "editing",
+      "rank": 9321,
+      "en": "I need a video editing program."
+    },
+    {
+      "id": "falter",
+      "rank": 9324,
+      "en": "The speaker faltered when he saw his opponent enter the room"
+    },
+    {
+      "id": "falter",
+      "rank": 9324,
+      "en": "Their enthusiasm is faltering"
+    },
+    {
+      "id": "fuss",
+      "rank": 9325,
+      "en": "Stop making a fuss over nothing."
+    },
+    {
+      "id": "fuss",
+      "rank": 9325,
+      "en": "Stop making such a fuss!"
+    },
+    {
+      "id": "warden",
+      "rank": 9327,
+      "en": "I was a prison warden for ten years."
+    },
+    {
+      "id": "famously",
+      "rank": 9331,
+      "en": "we got along famously"
+    },
+    {
+      "id": "orchid",
+      "rank": 9332,
+      "en": "I grow orchids in my greenhouse."
+    },
+    {
+      "id": "orchid",
+      "rank": 9332,
+      "en": "Do you like orchids?"
+    },
+    {
+      "id": "pouch",
+      "rank": 9335,
+      "en": "A female kangaroo carries her young in her pouch."
+    },
+    {
+      "id": "pouch",
+      "rank": 9335,
+      "en": "A female kangaroo carries its young in its pouch."
+    },
+    {
+      "id": "willingly",
+      "rank": 9339,
+      "en": "Far from hesitating, she willingly offered to help me."
+    },
+    {
+      "id": "unnoticed",
+      "rank": 9341,
+      "en": "I hope the incident will go unnoticed."
+    },
+    {
+      "id": "tyranny",
+      "rank": 9346,
+      "en": "The people revolted against the tyranny."
+    },
+    {
+      "id": "breadth",
+      "rank": 9348,
+      "en": "a teacher must have a breadth of knowledge of the subject"
+    },
+    {
+      "id": "vividly",
+      "rank": 9349,
+      "en": "I can remember it very vividly."
+    },
+    {
+      "id": "vividly",
+      "rank": 9349,
+      "en": "I remember the event as vividly as if it were just yesterday."
+    },
+    {
+      "id": "scurry",
+      "rank": 9351,
+      "en": "so terrified by the extraordinary ebbing of the sea that they scurried to higher ground"
+    },
+    {
+      "id": "gangster",
+      "rank": 9353,
+      "en": "I watch a lot of gangster movies."
+    },
+    {
+      "id": "gangster",
+      "rank": 9353,
+      "en": "Tom is a gangster."
+    },
+    {
+      "id": "orphanage",
+      "rank": 9355,
+      "en": "Tom ran away from the orphanage when he was thirteen."
+    },
+    {
+      "id": "orphanage",
+      "rank": 9355,
+      "en": "Tom grew up in an orphanage."
+    },
+    {
+      "id": "extinct",
+      "rank": 9357,
+      "en": "Unless whales are protected, they will become extinct."
+    },
+    {
+      "id": "plump",
+      "rank": 9362,
+      "en": "We will plump out that poor starving child"
+    },
+    {
+      "id": "plump",
+      "rank": 9362,
+      "en": "we dropped the rock plump into the water"
+    },
+    {
+      "id": "gorilla",
+      "rank": 9367,
+      "en": "The gorilla was one year old at the time."
+    },
+    {
+      "id": "gorilla",
+      "rank": 9367,
+      "en": "Koko is a female gorilla."
+    },
+    {
+      "id": "residency",
+      "rank": 9370,
+      "en": "I don't have permanent residency."
+    },
+    {
+      "id": "caring",
+      "rank": 9373,
+      "en": "I stopped caring about what Tom thinks a long time ago."
+    },
+    {
+      "id": "caring",
+      "rank": 9373,
+      "en": "They accused the president of not caring about the common man."
+    },
+    {
+      "id": "futile",
+      "rank": 9374,
+      "en": "Your efforts are futile."
+    },
+    {
+      "id": "posit",
+      "rank": 9378,
+      "en": "He posited three basic laws of nature"
+    },
+    {
+      "id": "posit",
+      "rank": 9378,
+      "en": "She posited her hand on his shoulder"
+    },
+    {
+      "id": "idol",
+      "rank": 9381,
+      "en": "Tom is a teen idol."
+    },
+    {
+      "id": "idol",
+      "rank": 9381,
+      "en": "Tom is my idol."
+    },
+    {
+      "id": "platoon",
+      "rank": 9393,
+      "en": "Our platoon was ambushed."
+    },
+    {
+      "id": "hustle",
+      "rank": 9394,
+      "en": "Now I want you to hustle."
+    },
+    {
+      "id": "hustle",
+      "rank": 9394,
+      "en": "Even though Tom was brought up in the country, he loves the hustle and bustle of the city."
+    },
+    {
+      "id": "barefoot",
+      "rank": 9395,
+      "en": "He was so startled that he ran outside barefoot."
+    },
+    {
+      "id": "barefoot",
+      "rank": 9395,
+      "en": "I prefer to go barefoot in the house."
+    },
+    {
+      "id": "upbeat",
+      "rank": 9397,
+      "en": "What's your favorite upbeat song?"
+    },
+    {
+      "id": "upbeat",
+      "rank": 9397,
+      "en": "the town was finally on the upbeat after our recent troubles"
+    },
+    {
+      "id": "placebo",
+      "rank": 9399,
+      "en": "It's just a placebo."
+    },
+    {
+      "id": "placebo",
+      "rank": 9399,
+      "en": "It's only a placebo."
+    },
+    {
+      "id": "outlaw",
+      "rank": 9400,
+      "en": "Tom is an outlaw."
+    },
+    {
+      "id": "cripple",
+      "rank": 9401,
+      "en": "Tom is a cripple."
+    },
+    {
+      "id": "cripple",
+      "rank": 9401,
+      "en": "Tom was crippled by the accident."
+    },
+    {
+      "id": "shady",
+      "rank": 9404,
+      "en": "He got involved in shady business affairs."
+    },
+    {
+      "id": "shady",
+      "rank": 9404,
+      "en": "He established a dummy company through which he laundered vast sums of cash from shady middlemen and arms dealers"
+    },
+    {
+      "id": "footing",
+      "rank": 9406,
+      "en": "Tom lost his footing and fell off the pier."
+    },
+    {
+      "id": "footing",
+      "rank": 9406,
+      "en": "Tom lost his footing and fell into the water."
+    },
+    {
+      "id": "waver",
+      "rank": 9407,
+      "en": "My faith in you has never wavered."
+    },
+    {
+      "id": "screenplay",
+      "rank": 9412,
+      "en": "Tom wrote the screenplay."
+    },
+    {
+      "id": "radius",
+      "rank": 9413,
+      "en": "The radius of Earth is about 6,000 kilometers."
+    },
+    {
+      "id": "radius",
+      "rank": 9413,
+      "en": "Earth's radius is about 6,000 kilometers."
+    },
+    {
+      "id": "solving",
+      "rank": 9414,
+      "en": "No one has succeeded in solving the mystery."
+    },
+    {
+      "id": "banish",
+      "rank": 9415,
+      "en": "He was banished to an island for high treason."
+    },
+    {
+      "id": "banish",
+      "rank": 9415,
+      "en": "He was banished from the kingdom."
+    },
+    {
+      "id": "broom",
+      "rank": 9418,
+      "en": "She is as thin as a broom stick."
+    },
+    {
+      "id": "candid",
+      "rank": 9420,
+      "en": "Can I be candid with you?"
+    },
+    {
+      "id": "candid",
+      "rank": 9420,
+      "en": "I'm being candid with you."
+    },
+    {
+      "id": "unison",
+      "rank": 9423,
+      "en": "The flutes and violins are playing in unison."
+    },
+    {
+      "id": "unison",
+      "rank": 9423,
+      "en": "Tom and Mary sang in unison."
+    },
+    {
+      "id": "beet",
+      "rank": 9427,
+      "en": "Tom turned red as a beet."
+    },
+    {
+      "id": "beet",
+      "rank": 9427,
+      "en": "Tom's face turned red as a beet."
+    },
+    {
+      "id": "intimidating",
+      "rank": 9429,
+      "en": "I don't find it intimidating."
+    },
+    {
+      "id": "gloom",
+      "rank": 9432,
+      "en": "he struck a match to dispel the gloom"
+    },
+    {
+      "id": "framed",
+      "rank": 9433,
+      "en": "Tom told the police he had been framed."
+    },
+    {
+      "id": "framed",
+      "rank": 9433,
+      "en": "Tom framed the photograph and hung it over the bed."
+    },
+    {
+      "id": "lining",
+      "rank": 9435,
+      "en": "What are you lining up for?"
+    },
+    {
+      "id": "waiver",
+      "rank": 9438,
+      "en": "Tom signed a waiver."
+    },
+    {
+      "id": "tangle",
+      "rank": 9440,
+      "en": "The cat tangled up all the threads."
+    },
+    {
+      "id": "tangle",
+      "rank": 9440,
+      "en": "Her hair is tangled."
+    },
+    {
+      "id": "rearrange",
+      "rank": 9441,
+      "en": "Why did you rearrange the furniture?"
+    },
+    {
+      "id": "rearrange",
+      "rank": 9441,
+      "en": "Did you rearrange the furniture?"
+    },
+    {
+      "id": "undertaking",
+      "rank": 9442,
+      "en": "This is a huge undertaking."
+    },
+    {
+      "id": "digest",
+      "rank": 9447,
+      "en": "Rice gruel is easy to digest."
+    },
+    {
+      "id": "digest",
+      "rank": 9447,
+      "en": "Wine helps digest food."
+    },
+    {
+      "id": "prolong",
+      "rank": 9450,
+      "en": "The stock market is in a prolonged slump."
+    },
+    {
+      "id": "prolong",
+      "rank": 9450,
+      "en": "A prolonged silence followed."
+    },
+    {
+      "id": "doughnut",
+      "rank": 9451,
+      "en": "Tom ate a doughnut."
+    },
+    {
+      "id": "doughnut",
+      "rank": 9451,
+      "en": "Pour me another cup of coffee and I'll eat another doughnut."
+    },
+    {
+      "id": "relinquish",
+      "rank": 9453,
+      "en": "relinquish your grip on the rope — you won't fall"
+    },
+    {
+      "id": "relinquish",
+      "rank": 9453,
+      "en": "I am relinquishing my bedroom to the long-term house guest"
+    },
+    {
+      "id": "hesitant",
+      "rank": 9455,
+      "en": "Tom is hesitant to visit Mary in the hospital."
+    },
+    {
+      "id": "flurry",
+      "rank": 9456,
+      "en": "This provoked a flurry of criticism."
+    },
+    {
+      "id": "flurry",
+      "rank": 9456,
+      "en": "there was a flurry of chicken feathers"
+    },
+    {
+      "id": "clog",
+      "rank": 9458,
+      "en": "The bathroom pipes are clogged with sewage."
+    },
+    {
+      "id": "dismal",
+      "rank": 9459,
+      "en": "The house looked very dismal."
+    },
+    {
+      "id": "dismal",
+      "rank": 9459,
+      "en": "The prospects for Japan's future look dismal."
+    },
+    {
+      "id": "noteworthy",
+      "rank": 9460,
+      "en": "a noteworthy fact is that her students rarely complain"
+    },
+    {
+      "id": "plume",
+      "rank": 9461,
+      "en": "The chimneys were pluming the sky"
+    },
+    {
+      "id": "plume",
+      "rank": 9461,
+      "en": "The engine was pluming black smoke"
+    },
+    {
+      "id": "unmarried",
+      "rank": 9465,
+      "en": "He is unmarried and has no brothers or sisters."
+    },
+    {
+      "id": "sloppy",
+      "rank": 9466,
+      "en": "Tom did a sloppy job."
+    },
+    {
+      "id": "override",
+      "rank": 9471,
+      "en": "Use the manual override."
+    },
+    {
+      "id": "notch",
+      "rank": 9472,
+      "en": "Could you dumb it down a notch?"
+    },
+    {
+      "id": "notch",
+      "rank": 9472,
+      "en": "there were four notches in the handle of his revolver"
+    },
+    {
+      "id": "perish",
+      "rank": 9475,
+      "en": "If nuclear war broke out, mankind would perish."
+    },
+    {
+      "id": "perish",
+      "rank": 9475,
+      "en": "All those who take up the sword shall perish by the sword."
+    },
+    {
+      "id": "donkey",
+      "rank": 9477,
+      "en": "He insulted me by calling me a donkey."
+    },
+    {
+      "id": "donkey",
+      "rank": 9477,
+      "en": "We had a black donkey."
+    },
+    {
+      "id": "caffeine",
+      "rank": 9489,
+      "en": "How much caffeine is too much caffeine?"
+    },
+    {
+      "id": "caffeine",
+      "rank": 9489,
+      "en": "Caffeine can temporarily increase your blood pressure."
+    },
+    {
+      "id": "locus",
+      "rank": 9490,
+      "en": "the locus of points equidistant from a given point is a circle"
+    },
+    {
+      "id": "anthem",
+      "rank": 9491,
+      "en": "The program will finish with the national anthem."
+    },
+    {
+      "id": "anthem",
+      "rank": 9491,
+      "en": "The concert concluded with the national anthem."
+    },
+    {
+      "id": "mango",
+      "rank": 9494,
+      "en": "I have never eaten a mango before."
+    },
+    {
+      "id": "mango",
+      "rank": 9494,
+      "en": "I want to eat a mango."
+    },
+    {
+      "id": "limp",
+      "rank": 9496,
+      "en": "Why are you walking with a limp?"
+    },
+    {
+      "id": "limp",
+      "rank": 9496,
+      "en": "Tom walks with a limp."
+    },
+    {
+      "id": "tickle",
+      "rank": 9498,
+      "en": "Did you tickle Tom?"
+    },
+    {
+      "id": "tickle",
+      "rank": 9498,
+      "en": "Tom tried to tickle Mary, but found out she was much less ticklish than he was."
+    },
+    {
+      "id": "wizard",
+      "rank": 9502,
+      "en": "The wizard waved his magic wand and disappeared into thin air."
+    },
+    {
+      "id": "freshwater",
+      "rank": 9504,
+      "en": "I believe this fish is a freshwater fish."
+    },
+    {
+      "id": "freshwater",
+      "rank": 9504,
+      "en": "The trout is a species of freshwater fish."
+    },
+    {
+      "id": "dilute",
+      "rank": 9506,
+      "en": "It has to be diluted with water."
+    },
+    {
+      "id": "billionaire",
+      "rank": 9507,
+      "en": "I know that Tom is a billionaire."
+    },
+    {
+      "id": "compress",
+      "rank": 9510,
+      "en": "How can I compress a PDF file?"
+    },
+    {
+      "id": "compress",
+      "rank": 9510,
+      "en": "Send it to me as a compressed file."
+    },
+    {
+      "id": "jockey",
+      "rank": 9512,
+      "en": "he's a truck jockey"
+    },
+    {
+      "id": "mortal",
+      "rank": 9517,
+      "en": "We know all men are mortal."
+    },
+    {
+      "id": "ascend",
+      "rank": 9518,
+      "en": "The airplane ascended to four thousand feet."
+    },
+    {
+      "id": "ascend",
+      "rank": 9518,
+      "en": "The airplane ascended into the clouds."
+    },
+    {
+      "id": "exempt",
+      "rank": 9520,
+      "en": "only the very poorest citizens should be exempt from income taxes"
+    },
+    {
+      "id": "exempt",
+      "rank": 9520,
+      "en": "She exempted me from the exam"
+    },
+    {
+      "id": "twig",
+      "rank": 9522,
+      "en": "He cut a twig from the tree with his knife."
+    },
+    {
+      "id": "twig",
+      "rank": 9522,
+      "en": "I heard a twig crack."
+    },
+    {
+      "id": "downhill",
+      "rank": 9523,
+      "en": "Things just kept going downhill from there."
+    },
+    {
+      "id": "downhill",
+      "rank": 9523,
+      "en": "It's all downhill from here."
+    },
+    {
+      "id": "ashore",
+      "rank": 9526,
+      "en": "we invited them ashore"
+    },
+    {
+      "id": "rectangular",
+      "rank": 9527,
+      "en": "A soccer field is rectangular in shape."
+    },
+    {
+      "id": "rectangular",
+      "rank": 9527,
+      "en": "A soccer field is rectangular."
+    },
+    {
+      "id": "rum",
+      "rank": 9529,
+      "en": "Mix two parts of rum with one part of lemon juice."
+    },
+    {
+      "id": "rum",
+      "rank": 9529,
+      "en": "A Cuba Libre is a cocktail with a rum base."
+    },
+    {
+      "id": "alligator",
+      "rank": 9530,
+      "en": "The shoes are made of alligator skin."
+    },
+    {
+      "id": "alligator",
+      "rank": 9530,
+      "en": "The alligator ate the dog."
+    },
+    {
+      "id": "overshadow",
+      "rank": 9531,
+      "en": "My happiness is overshadowed by the thought that Tom is not with us."
+    },
+    {
+      "id": "unhealthy",
+      "rank": 9533,
+      "en": "Do you have any idea how unhealthy that is?"
+    },
+    {
+      "id": "unhealthy",
+      "rank": 9533,
+      "en": "Beer is not really so unhealthy, at least in moderation."
+    },
+    {
+      "id": "halo",
+      "rank": 9536,
+      "en": "Saints are always depicted with a halo over their heads."
+    },
+    {
+      "id": "intimately",
+      "rank": 9539,
+      "en": "the two phenomena are intimately connected"
+    },
+    {
+      "id": "bilingual",
+      "rank": 9541,
+      "en": "Tom was lucky to grow up bilingual."
+    },
+    {
+      "id": "bilingual",
+      "rank": 9541,
+      "en": "I grew up bilingual."
+    },
+    {
+      "id": "evade",
+      "rank": 9545,
+      "en": "The fog helped me evade my pursuers."
+    },
+    {
+      "id": "evade",
+      "rank": 9545,
+      "en": "Don't evade the question."
+    },
+    {
+      "id": "sulfur",
+      "rank": 9550,
+      "en": "Sulfur is used to make matches."
+    },
+    {
+      "id": "sane",
+      "rank": 9556,
+      "en": "I think that Tom is sane."
+    },
+    {
+      "id": "sane",
+      "rank": 9556,
+      "en": "Sane people are more of a threat to mentally ill people than vice versa."
+    },
+    {
+      "id": "robber",
+      "rank": 9557,
+      "en": "Did you get a good look at the robber?"
+    },
+    {
+      "id": "robber",
+      "rank": 9557,
+      "en": "The robber aimed his gun at the police officer."
+    },
+    {
+      "id": "monarchy",
+      "rank": 9558,
+      "en": "What's the difference between a dictatorship and a monarchy?"
+    },
+    {
+      "id": "unsettle",
+      "rank": 9564,
+      "en": "I feel very unsettled."
+    },
+    {
+      "id": "unsettle",
+      "rank": 9564,
+      "en": "We shouldn't leave the matter unsettled."
+    },
+    {
+      "id": "jeep",
+      "rank": 9569,
+      "en": "Tom got back in his Jeep and started the engine."
+    },
+    {
+      "id": "admirer",
+      "rank": 9570,
+      "en": "I think that Tom has a secret admirer."
+    },
+    {
+      "id": "admirer",
+      "rank": 9570,
+      "en": "Mary received a note from a secret admirer."
+    },
+    {
+      "id": "ascertain",
+      "rank": 9571,
+      "en": "It is difficult to ascertain what really happened."
+    },
+    {
+      "id": "ascertain",
+      "rank": 9571,
+      "en": "The readers cannot ascertain whether the news is true or not."
+    },
+    {
+      "id": "malpractice",
+      "rank": 9572,
+      "en": "The doctor who treated Tom should be sued for malpractice."
+    },
+    {
+      "id": "malpractice",
+      "rank": 9572,
+      "en": "he charged them with electoral malpractices"
+    },
+    {
+      "id": "sinister",
+      "rank": 9576,
+      "en": "Tom gave Mary a sinister look."
+    },
+    {
+      "id": "mower",
+      "rank": 9579,
+      "en": "The lawn mower needs gas to operate."
+    },
+    {
+      "id": "mower",
+      "rank": 9579,
+      "en": "Could I borrow your lawn mower?"
+    },
+    {
+      "id": "auditorium",
+      "rank": 9580,
+      "en": "We sat in the very back of the auditorium."
+    },
+    {
+      "id": "auditorium",
+      "rank": 9580,
+      "en": "I saw Tom leave the auditorium."
+    },
+    {
+      "id": "caretaker",
+      "rank": 9583,
+      "en": "The school caretaker was a very tall man."
+    },
+    {
+      "id": "caretaker",
+      "rank": 9583,
+      "en": "he acted as a caretaker until a new president could be elected"
+    },
+    {
+      "id": "juggle",
+      "rank": 9584,
+      "en": "Do you know how to juggle?"
+    },
+    {
+      "id": "juggle",
+      "rank": 9584,
+      "en": "Tom taught me how to juggle."
+    },
+    {
+      "id": "plainly",
+      "rank": 9585,
+      "en": "They were plainly dressed."
+    },
+    {
+      "id": "plainly",
+      "rank": 9585,
+      "en": "He couldn't have put it more plainly."
+    },
+    {
+      "id": "limousine",
+      "rank": 9586,
+      "en": "Tom wanted to work as a limousine driver."
+    },
+    {
+      "id": "limousine",
+      "rank": 9586,
+      "en": "Tom works part-time as a limousine driver."
+    },
+    {
+      "id": "plentiful",
+      "rank": 9587,
+      "en": "rhinoceroses were once plentiful here"
+    },
+    {
+      "id": "deflect",
+      "rank": 9591,
+      "en": "Tom deflected the blow by raising his right arm."
+    },
+    {
+      "id": "deflect",
+      "rank": 9591,
+      "en": "He deflected his competitors"
+    },
+    {
+      "id": "shear",
+      "rank": 9594,
+      "en": "He knows how to shear a sheep."
+    },
+    {
+      "id": "shear",
+      "rank": 9594,
+      "en": "They usually shear sheep in spring."
+    },
+    {
+      "id": "lofty",
+      "rank": 9596,
+      "en": "My goals are lofty."
+    },
+    {
+      "id": "lofty",
+      "rank": 9596,
+      "en": "We have lofty expectations."
+    },
+    {
+      "id": "foyer",
+      "rank": 9597,
+      "en": "I'll be waiting in the foyer."
+    },
+    {
+      "id": "staggering",
+      "rank": 9598,
+      "en": "The numbers are staggering."
+    },
+    {
+      "id": "staggering",
+      "rank": 9598,
+      "en": "The difference is staggering."
+    },
+    {
+      "id": "snowy",
+      "rank": 9600,
+      "en": "My grandfather has snowy white hair."
+    },
+    {
+      "id": "snowy",
+      "rank": 9600,
+      "en": "Snowy landscapes are beautiful."
+    },
+    {
+      "id": "rot",
+      "rank": 9603,
+      "en": "The meat has begun to rot."
+    },
+    {
+      "id": "rot",
+      "rank": 9603,
+      "en": "This apple has started to rot."
+    },
+    {
+      "id": "fume",
+      "rank": 9606,
+      "en": "The chimney was fuming"
+    },
+    {
+      "id": "meager",
+      "rank": 9607,
+      "en": "He fleeced three old ladies of their meager pensions."
+    },
+    {
+      "id": "warranty",
+      "rank": 9608,
+      "en": "Mary's washing machine broke down a week after the warranty had run out."
+    },
+    {
+      "id": "seeker",
+      "rank": 9609,
+      "en": "they are seekers after truth"
+    },
+    {
+      "id": "dent",
+      "rank": 9610,
+      "en": "The dent is huge."
+    },
+    {
+      "id": "pollen",
+      "rank": 9612,
+      "en": "There's a lot of pollen in the air."
+    },
+    {
+      "id": "remotely",
+      "rank": 9613,
+      "en": "I don't see anything remotely suspicious."
+    },
+    {
+      "id": "rusty",
+      "rank": 9614,
+      "en": "I found an old rusty key in that room."
+    },
+    {
+      "id": "terrestrial",
+      "rank": 9615,
+      "en": "he developed an immense terrestrial practicality"
+    },
+    {
+      "id": "jug",
+      "rank": 9618,
+      "en": "I filled the jug to the brim."
+    },
+    {
+      "id": "jug",
+      "rank": 9618,
+      "en": "The jug was very heavy."
+    },
+    {
+      "id": "perk",
+      "rank": 9621,
+      "en": "People drink coffee to perk themselves up."
+    },
+    {
+      "id": "perk",
+      "rank": 9621,
+      "en": "Tom will perk up."
+    },
+    {
+      "id": "swollen",
+      "rank": 9624,
+      "en": "Your feet are swollen because your shoes are too small."
+    },
+    {
+      "id": "grunt",
+      "rank": 9626,
+      "en": "Why do pigs grunt?"
+    },
+    {
+      "id": "grunt",
+      "rank": 9626,
+      "en": "he went from grunt to chairman in six years"
+    },
+    {
+      "id": "loophole",
+      "rank": 9628,
+      "en": "Tom took advantage of a tax loophole."
+    },
+    {
+      "id": "loophole",
+      "rank": 9628,
+      "en": "The new tax law is full of loopholes."
+    },
+    {
+      "id": "bash",
+      "rank": 9629,
+      "en": "The robber bashed her head in."
+    },
+    {
+      "id": "bash",
+      "rank": 9629,
+      "en": "he took a bash right in his face"
+    },
+    {
+      "id": "afflict",
+      "rank": 9633,
+      "en": "she was afflicted by the death of her parents"
+    },
+    {
+      "id": "tan",
+      "rank": 9634,
+      "en": "Tom was wearing baggy tan pants."
+    },
+    {
+      "id": "tan",
+      "rank": 9634,
+      "en": "He has a beautiful tan."
+    },
+    {
+      "id": "browse",
+      "rank": 9636,
+      "en": "There was so much food at the party that we quickly got sated just by browsing"
+    },
+    {
+      "id": "browse",
+      "rank": 9636,
+      "en": "I don't need help, I'm just browsing"
+    },
+    {
+      "id": "skater",
+      "rank": 9640,
+      "en": "My brother is a good skater."
+    },
+    {
+      "id": "skater",
+      "rank": 9640,
+      "en": "Tom is a figure skater."
+    },
+    {
+      "id": "implicitly",
+      "rank": 9641,
+      "en": "he implicitly assumes that you know the answer"
+    },
+    {
+      "id": "implicitly",
+      "rank": 9641,
+      "en": "I implicitly trust him"
+    },
+    {
+      "id": "inefficient",
+      "rank": 9644,
+      "en": "This is highly inefficient."
+    },
+    {
+      "id": "soaring",
+      "rank": 9645,
+      "en": "An eagle was soaring high up in the air."
+    },
+    {
+      "id": "unto",
+      "rank": 9648,
+      "en": "Do unto others as you would have them do unto you."
+    },
+    {
+      "id": "unto",
+      "rank": 9648,
+      "en": "Do unto others as you would have others do unto you."
+    },
+    {
+      "id": "protector",
+      "rank": 9650,
+      "en": "Tom was my protector."
+    },
+    {
+      "id": "thermometer",
+      "rank": 9651,
+      "en": "Tom looked at the thermometer on his dashboard."
+    },
+    {
+      "id": "thermometer",
+      "rank": 9651,
+      "en": "The nurse took his temperature with a thermometer."
+    }
+  ],
+  "excludedExactSentences": 988,
+  "matchingWordIdsAllGrades": [
+    "abdominal",
+    "abide",
+    "abiding",
+    "abnormal",
+    "abrupt",
+    "admirer",
+    "afflict",
+    "alas",
+    "alligator",
+    "allude",
+    "alpine",
+    "amazingly",
+    "amniotic",
+    "amused",
+    "amusing",
+    "anaconda",
+    "anatomy",
+    "anecdote",
+    "anomaly",
+    "anthem",
+    "anthropology",
+    "antibody",
+    "anticipated",
+    "ape",
+    "apparel",
+    "apprentice",
+    "aroma",
+    "arresting",
+    "asbestos",
+    "ascend",
+    "ascertain",
+    "ashore",
+    "asphalt",
+    "assassin",
+    "attacker",
+    "attest",
+    "auditorium",
+    "aura",
+    "automate",
+    "automated",
+    "avid",
+    "babe",
+    "backing",
+    "baggy",
+    "bamboo",
+    "banish",
+    "banished",
+    "banquet",
+    "barbarous",
+    "barefoot",
+    "bash",
+    "battalion",
+    "beckon",
+    "bedside",
+    "bedtime",
+    "beet",
+    "belongings",
+    "beta",
+    "biceps",
+    "bilingual",
+    "billionaire",
+    "binding",
+    "bitterly",
+    "bladder",
+    "blush",
+    "bob",
+    "bodily",
+    "bodyguard",
+    "boredom",
+    "bouncer",
+    "bouquet",
+    "boxer",
+    "boycott",
+    "breadth",
+    "brim",
+    "broadcasting",
+    "broom",
+    "browse",
+    "buckle",
+    "buckled",
+    "bumblebee",
+    "bun",
+    "bunk",
+    "burner",
+    "bustle",
+    "butcher",
+    "buzz",
+    "buzzing",
+    "cache",
+    "cactus",
+    "caffeine",
+    "camper",
+    "candid",
+    "cannon",
+    "cape",
+    "carcinogen",
+    "caretaker",
+    "caring",
+    "carton",
+    "cartridge",
+    "carving",
+    "cassette",
+    "cavalry",
+    "celery",
+    "centerpiece",
+    "chalk",
+    "challenger",
+    "cherish",
+    "cherished",
+    "chestnut",
+    "chilly",
+    "chimney",
+    "chuck",
+    "churn",
+    "cinema",
+    "clamp",
+    "clasp",
+    "clasped",
+    "classified",
+    "classify",
+    "cliche",
+    "climber",
+    "cloak",
+    "clog",
+    "clogged",
+    "clone",
+    "clout",
+    "clumsy",
+    "coating",
+    "coax",
+    "cocoa",
+    "coil",
+    "collaborator",
+    "collar",
+    "colon",
+    "coma",
+    "commanding",
+    "commandment",
+    "commonplace",
+    "compress",
+    "compressed",
+    "concentric",
+    "consciously",
+    "considerably",
+    "console",
+    "constipation",
+    "contemptuously",
+    "contestant",
+    "contingent",
+    "contracted",
+    "cookbook",
+    "coping",
+    "cornfield",
+    "corpse",
+    "cracked",
+    "cracking",
+    "cranberry",
+    "crank",
+    "creditor",
+    "crib",
+    "cricket",
+    "cripple",
+    "crippled",
+    "crook",
+    "crooked",
+    "crow",
+    "cruelty",
+    "cucumber",
+    "culprit",
+    "curiously",
+    "curl",
+    "curled",
+    "curly",
+    "curtail",
+    "curved",
+    "czar",
+    "damaging",
+    "damned",
+    "dangerously",
+    "darken",
+    "darned",
+    "dashboard",
+    "debtor",
+    "deceased",
+    "decidedly",
+    "decree",
+    "deflect",
+    "deflected",
+    "degrade",
+    "degrading",
+    "delightful",
+    "demanding",
+    "demonstrator",
+    "dent",
+    "depicted",
+    "depressing",
+    "descend",
+    "devour",
+    "differing",
+    "digest",
+    "digit",
+    "dilute",
+    "diluted",
+    "diploma",
+    "disconnect",
+    "disconnected",
+    "discredit",
+    "disgusting",
+    "dismal",
+    "dispense",
+    "disregard",
+    "dissent",
+    "dissuade",
+    "diver",
+    "divers",
+    "dizzy",
+    "donkey",
+    "doubtful",
+    "doughnut",
+    "downhill",
+    "downside",
+    "downturn",
+    "downward",
+    "drawback",
+    "dread",
+    "dreadful",
+    "dresser",
+    "drought",
+    "drugstore",
+    "drummer",
+    "duct",
+    "dwelling",
+    "editing",
+    "edition",
+    "eerie",
+    "eighteenth",
+    "elude",
+    "emperor",
+    "enclose",
+    "enclosed",
+    "endlessly",
+    "entertainer",
+    "entree",
+    "etch",
+    "ethical",
+    "ethnology",
+    "evade",
+    "exempt",
+    "exquisite",
+    "extinct",
+    "eyelid",
+    "facet",
+    "faded",
+    "falter",
+    "famine",
+    "famously",
+    "farewell",
+    "farmhouse",
+    "fatty",
+    "feisty",
+    "fend",
+    "ferret",
+    "filming",
+    "filthy",
+    "fin",
+    "fines",
+    "fireman",
+    "firsthand",
+    "flank",
+    "flap",
+    "flare",
+    "flashing",
+    "flea",
+    "flex",
+    "flurry",
+    "flushed",
+    "flute",
+    "folly",
+    "footing",
+    "forefront",
+    "fortress",
+    "foyer",
+    "fragrant",
+    "frail",
+    "framed",
+    "frank",
+    "freak",
+    "freezing",
+    "freight",
+    "freshwater",
+    "fruity",
+    "fume",
+    "furiously",
+    "furnace",
+    "furnishings",
+    "fuss",
+    "futile",
+    "gadget",
+    "gangster",
+    "germ",
+    "ghetto",
+    "gin",
+    "glaze",
+    "gloom",
+    "glossy",
+    "goddamned",
+    "gorilla",
+    "graffiti",
+    "granddaughter",
+    "grapple",
+    "gravy",
+    "greedy",
+    "grit",
+    "groom",
+    "gruel",
+    "grumble",
+    "grumbling",
+    "grunt",
+    "guided",
+    "gulp",
+    "gunfire",
+    "gunshot",
+    "hack",
+    "halo",
+    "hamper",
+    "handgun",
+    "handicap",
+    "handicapped",
+    "handler",
+    "hastily",
+    "haze",
+    "heartbeat",
+    "heave",
+    "heavyweight",
+    "hedgehog",
+    "heed",
+    "helm",
+    "herbal",
+    "heroine",
+    "hesitant",
+    "hinder",
+    "hinge",
+    "hone",
+    "honeymoon",
+    "horseback",
+    "hound",
+    "housewife",
+    "howl",
+    "hunch",
+    "hustle",
+    "hymn",
+    "hype",
+    "hypocrisy",
+    "idle",
+    "idol",
+    "immerse",
+    "impede",
+    "implicitly",
+    "impoverish",
+    "impoverished",
+    "imprison",
+    "indefinitely",
+    "indifferent",
+    "inefficient",
+    "infect",
+    "infected",
+    "infer",
+    "infuse",
+    "insignificant",
+    "inspired",
+    "insulted",
+    "intellect",
+    "intentional",
+    "intently",
+    "intimately",
+    "intimidating",
+    "intruder",
+    "inventor",
+    "irrational",
+    "irregular",
+    "jeep",
+    "jelly",
+    "jockey",
+    "jointly",
+    "jug",
+    "juggle",
+    "juicy",
+    "jumper",
+    "kangaroo",
+    "kebab",
+    "knuckle",
+    "lag",
+    "lagging",
+    "larva",
+    "lash",
+    "lava",
+    "lavender",
+    "lavish",
+    "ledge",
+    "liaison",
+    "licensed",
+    "lighten",
+    "liken",
+    "limousine",
+    "limp",
+    "lineage",
+    "lining",
+    "litter",
+    "locus",
+    "locust",
+    "lofty",
+    "logging",
+    "longing",
+    "loophole",
+    "lunge",
+    "lurch",
+    "malaria",
+    "malpractice",
+    "mango",
+    "martyr",
+    "meager",
+    "melting",
+    "menace",
+    "meteor",
+    "microscope",
+    "mike",
+    "mildly",
+    "milestone",
+    "mince",
+    "mingle",
+    "mint",
+    "minus",
+    "mislead",
+    "mixing",
+    "modem",
+    "moderately",
+    "moderation",
+    "mole",
+    "momentarily",
+    "monarch",
+    "monarchy",
+    "monumental",
+    "mortal",
+    "mortar",
+    "moth",
+    "motto",
+    "mourning",
+    "mower",
+    "murky",
+    "muse",
+    "muster",
+    "nanny",
+    "nausea",
+    "nebula",
+    "needy",
+    "negotiating",
+    "nestle",
+    "nestled",
+    "nightclub",
+    "nightly",
+    "nostril",
+    "notch",
+    "noteworthy",
+    "oblivious",
+    "obsolete",
+    "ominous",
+    "orchid",
+    "oriental",
+    "orphanage",
+    "ostensibly",
+    "outgoing",
+    "outlaw",
+    "outnumber",
+    "outnumbered",
+    "outpost",
+    "outright",
+    "outskirts",
+    "outspoken",
+    "outweigh",
+    "overflow",
+    "overhear",
+    "overlap",
+    "override",
+    "overshadow",
+    "overtake",
+    "overthrow",
+    "packed",
+    "paddle",
+    "pamphlet",
+    "paperback",
+    "paranoid",
+    "participating",
+    "patiently",
+    "pea",
+    "peninsula",
+    "perennial",
+    "performing",
+    "peripheral",
+    "perish",
+    "perk",
+    "pier",
+    "pilgrimage",
+    "pineapple",
+    "pinned",
+    "pinpoint",
+    "pivotal",
+    "placebo",
+    "plainly",
+    "plaster",
+    "platoon",
+    "playful",
+    "plentiful",
+    "plug",
+    "plume",
+    "plump",
+    "plural",
+    "pneumonia",
+    "pod",
+    "pointed",
+    "poker",
+    "pollen",
+    "pollute",
+    "pony",
+    "porcelain",
+    "portal",
+    "posed",
+    "posit",
+    "pouch",
+    "pounce",
+    "preferably",
+    "prehistoric",
+    "preoccupied",
+    "preoccupy",
+    "presented",
+    "priced",
+    "prod",
+    "prodding",
+    "prolong",
+    "prolonged",
+    "prosper",
+    "protected",
+    "protector",
+    "protein",
+    "prudent",
+    "pudding",
+    "puddle",
+    "puff",
+    "puffed",
+    "pulp",
+    "pursuer",
+    "quake",
+    "quash",
+    "quiz",
+    "radius",
+    "ragged",
+    "railway",
+    "rainfall",
+    "raisin",
+    "rake",
+    "rapper",
+    "rash",
+    "raspberry",
+    "reaffirm",
+    "rearrange",
+    "recommended",
+    "reconnect",
+    "recorded",
+    "rectangular",
+    "recycle",
+    "recycled",
+    "referee",
+    "refrain",
+    "refreshing",
+    "rehab",
+    "rein",
+    "reinvent",
+    "relay",
+    "relinquish",
+    "relish",
+    "remotely",
+    "rename",
+    "renamed",
+    "reprint",
+    "residency",
+    "respectful",
+    "restricted",
+    "restructure",
+    "retrospect",
+    "revealing",
+    "revolt",
+    "revolted",
+    "rewarding",
+    "rig",
+    "rigged",
+    "ripe",
+    "riverbank",
+    "robber",
+    "rocker",
+    "rooftop",
+    "rot",
+    "rounded",
+    "rum",
+    "rumble",
+    "rumbling",
+    "rusty",
+    "safeguard",
+    "sag",
+    "sage",
+    "salute",
+    "salvage",
+    "sandal",
+    "sane",
+    "savor",
+    "scalp",
+    "scam",
+    "scanner",
+    "screenplay",
+    "scrutiny",
+    "sculptor",
+    "scurry",
+    "seam",
+    "seating",
+    "seduce",
+    "seeker",
+    "semiconductor",
+    "sentimental",
+    "sever",
+    "sewage",
+    "shady",
+    "shallow",
+    "sharpen",
+    "shear",
+    "shepherd",
+    "shoreline",
+    "shortcoming",
+    "shred",
+    "shutter",
+    "sighting",
+    "silicon",
+    "singular",
+    "sinister",
+    "skater",
+    "skim",
+    "slaughter",
+    "sliding",
+    "slipper",
+    "sloppy",
+    "slump",
+    "smear",
+    "smeared",
+    "smother",
+    "smothered",
+    "smuggle",
+    "smuggled",
+    "snort",
+    "snowy",
+    "soaring",
+    "socket",
+    "softball",
+    "solemn",
+    "solving",
+    "soothe",
+    "soothing",
+    "soybean",
+    "spaghetti",
+    "sparkle",
+    "sparkling",
+    "spear",
+    "spokesperson",
+    "sponge",
+    "sportsman",
+    "sprawl",
+    "sprawled",
+    "squeaky",
+    "staggering",
+    "standstill",
+    "starch",
+    "startled",
+    "stepfather",
+    "stifle",
+    "stink",
+    "stint",
+    "stomp",
+    "strangle",
+    "stray",
+    "stricken",
+    "stripe",
+    "striped",
+    "stunt",
+    "stylish",
+    "subside",
+    "subsiding",
+    "suffice",
+    "suicidal",
+    "sulfur",
+    "superficial",
+    "supernatural",
+    "swap",
+    "swarm",
+    "sweaty",
+    "swollen",
+    "synagogue",
+    "tabloid",
+    "tan",
+    "tangle",
+    "tangled",
+    "tanker",
+    "temporarily",
+    "tempting",
+    "terrace",
+    "terrestrial",
+    "thankful",
+    "thermometer",
+    "thicken",
+    "thickening",
+    "thou",
+    "thwart",
+    "tickle",
+    "tier",
+    "token",
+    "tolerant",
+    "tonic",
+    "touching",
+    "tow",
+    "transitional",
+    "transparency",
+    "tread",
+    "treason",
+    "trek",
+    "trickle",
+    "trite",
+    "trivial",
+    "trot",
+    "trumpet",
+    "tuberculosis",
+    "tutor",
+    "twig",
+    "twitch",
+    "tyranny",
+    "unchanged",
+    "undertake",
+    "undertaking",
+    "underwater",
+    "unfinished",
+    "unhealthy",
+    "uniquely",
+    "unison",
+    "unmarried",
+    "unnoticed",
+    "unofficial",
+    "unpopular",
+    "unravel",
+    "unraveled",
+    "unrest",
+    "unsafe",
+    "unsettle",
+    "unsettled",
+    "unto",
+    "untouched",
+    "upbeat",
+    "variant",
+    "vault",
+    "vaulted",
+    "versatile",
+    "vividly",
+    "vomit",
+    "wail",
+    "wailing",
+    "waiver",
+    "wand",
+    "warden",
+    "warranty",
+    "watcher",
+    "waver",
+    "weekday",
+    "whore",
+    "willingly",
+    "wince",
+    "wisely",
+    "wizard",
+    "womb",
+    "woo",
+    "woodchuck",
+    "worsen",
+    "wreckage",
+    "wrongdoing",
+    "yearly",
+    "zip",
+    "zoom"
+  ],
+  "matchingGrade6WordIds": [
+    "abdominal",
+    "abide",
+    "abnormal",
+    "abrupt",
+    "admirer",
+    "afflict",
+    "alas",
+    "alligator",
+    "allude",
+    "alpine",
+    "amazingly",
+    "amused",
+    "amusing",
+    "anatomy",
+    "anecdote",
+    "anomaly",
+    "anthem",
+    "antibody",
+    "anticipated",
+    "ape",
+    "apparel",
+    "apprentice",
+    "aroma",
+    "asbestos",
+    "ascend",
+    "ascertain",
+    "ashore",
+    "asphalt",
+    "assassin",
+    "attacker",
+    "attest",
+    "auditorium",
+    "aura",
+    "automated",
+    "avid",
+    "babe",
+    "backing",
+    "baggy",
+    "bamboo",
+    "banish",
+    "banquet",
+    "barefoot",
+    "bash",
+    "battalion",
+    "beckon",
+    "bedside",
+    "bedtime",
+    "beet",
+    "belongings",
+    "beta",
+    "bilingual",
+    "billionaire",
+    "binding",
+    "bitterly",
+    "bladder",
+    "blush",
+    "bob",
+    "bodily",
+    "bodyguard",
+    "boredom",
+    "bouquet",
+    "boxer",
+    "boycott",
+    "breadth",
+    "broadcasting",
+    "broom",
+    "browse",
+    "buckle",
+    "bun",
+    "bunk",
+    "burner",
+    "butcher",
+    "buzz",
+    "cache",
+    "cactus",
+    "caffeine",
+    "camper",
+    "candid",
+    "cannon",
+    "cape",
+    "caretaker",
+    "caring",
+    "carton",
+    "cartridge",
+    "carving",
+    "cassette",
+    "cavalry",
+    "celery",
+    "centerpiece",
+    "chalk",
+    "challenger",
+    "cherish",
+    "chestnut",
+    "chilly",
+    "chimney",
+    "chuck",
+    "churn",
+    "cinema",
+    "clamp",
+    "clasp",
+    "classified",
+    "cliche",
+    "climber",
+    "cloak",
+    "clog",
+    "clone",
+    "clout",
+    "clumsy",
+    "coating",
+    "coax",
+    "cocoa",
+    "coil",
+    "collaborator",
+    "colon",
+    "coma",
+    "commanding",
+    "commonplace",
+    "compress",
+    "consciously",
+    "console",
+    "contestant",
+    "contingent",
+    "cookbook",
+    "coping",
+    "cracked",
+    "cranberry",
+    "crank",
+    "creditor",
+    "crib",
+    "cricket",
+    "cripple",
+    "crook",
+    "crooked",
+    "crow",
+    "cruelty",
+    "cucumber",
+    "culprit",
+    "curiously",
+    "curly",
+    "curtail",
+    "curved",
+    "czar",
+    "damaging",
+    "damned",
+    "dangerously",
+    "darken",
+    "deceased",
+    "decidedly",
+    "decree",
+    "deflect",
+    "degrade",
+    "delightful",
+    "demanding",
+    "demonstrator",
+    "dent",
+    "depressing",
+    "devour",
+    "differing",
+    "digest",
+    "digit",
+    "dilute",
+    "diploma",
+    "disconnect",
+    "discredit",
+    "disgusting",
+    "dismal",
+    "dispense",
+    "disregard",
+    "dissent",
+    "diver",
+    "dizzy",
+    "donkey",
+    "doubtful",
+    "doughnut",
+    "downhill",
+    "downside",
+    "downturn",
+    "downward",
+    "drawback",
+    "dread",
+    "dreadful",
+    "dresser",
+    "drugstore",
+    "drummer",
+    "duct",
+    "dwelling",
+    "editing",
+    "eerie",
+    "eighteenth",
+    "elude",
+    "enclose",
+    "enclosed",
+    "endlessly",
+    "entertainer",
+    "entree",
+    "etch",
+    "evade",
+    "exempt",
+    "exquisite",
+    "extinct",
+    "eyelid",
+    "facet",
+    "faded",
+    "falter",
+    "famine",
+    "famously",
+    "farewell",
+    "farmhouse",
+    "fatty",
+    "fend",
+    "filthy",
+    "fin",
+    "fines",
+    "fireman",
+    "firsthand",
+    "flank",
+    "flap",
+    "flare",
+    "flea",
+    "flex",
+    "flurry",
+    "flute",
+    "folly",
+    "footing",
+    "forefront",
+    "fortress",
+    "foyer",
+    "fragrant",
+    "frail",
+    "framed",
+    "frank",
+    "freak",
+    "freight",
+    "freshwater",
+    "fume",
+    "furiously",
+    "furnace",
+    "furnishings",
+    "fuss",
+    "futile",
+    "gadget",
+    "gangster",
+    "germ",
+    "ghetto",
+    "gin",
+    "glaze",
+    "gloom",
+    "glossy",
+    "gorilla",
+    "graffiti",
+    "granddaughter",
+    "grapple",
+    "gravy",
+    "greedy",
+    "grit",
+    "groom",
+    "grumble",
+    "grunt",
+    "guided",
+    "gulp",
+    "gunfire",
+    "gunshot",
+    "hack",
+    "halo",
+    "hamper",
+    "handgun",
+    "handicap",
+    "handler",
+    "hastily",
+    "haze",
+    "heartbeat",
+    "heave",
+    "heavyweight",
+    "heed",
+    "helm",
+    "herbal",
+    "heroine",
+    "hesitant",
+    "hinder",
+    "hinge",
+    "hone",
+    "honeymoon",
+    "horseback",
+    "hound",
+    "housewife",
+    "howl",
+    "hunch",
+    "hustle",
+    "hymn",
+    "hype",
+    "hypocrisy",
+    "idle",
+    "idol",
+    "immerse",
+    "impede",
+    "implicitly",
+    "impoverished",
+    "imprison",
+    "indefinitely",
+    "indifferent",
+    "inefficient",
+    "infected",
+    "infer",
+    "infuse",
+    "insignificant",
+    "inspired",
+    "intellect",
+    "intentional",
+    "intently",
+    "intimately",
+    "intimidating",
+    "intruder",
+    "inventor",
+    "irrational",
+    "irregular",
+    "jeep",
+    "jelly",
+    "jockey",
+    "jointly",
+    "jug",
+    "juggle",
+    "juicy",
+    "jumper",
+    "knuckle",
+    "lag",
+    "larva",
+    "lash",
+    "lava",
+    "lavender",
+    "lavish",
+    "ledge",
+    "liaison",
+    "licensed",
+    "lighten",
+    "liken",
+    "limousine",
+    "limp",
+    "lineage",
+    "lining",
+    "litter",
+    "locus",
+    "lofty",
+    "logging",
+    "longing",
+    "loophole",
+    "lunge",
+    "lurch",
+    "malaria",
+    "malpractice",
+    "mango",
+    "martyr",
+    "meager",
+    "melting",
+    "menace",
+    "meteor",
+    "microscope",
+    "mike",
+    "mildly",
+    "milestone",
+    "mince",
+    "mingle",
+    "mint",
+    "minus",
+    "mislead",
+    "mixing",
+    "moderately",
+    "mole",
+    "momentarily",
+    "monarch",
+    "monarchy",
+    "monumental",
+    "mortal",
+    "mortar",
+    "moth",
+    "motto",
+    "mourning",
+    "mower",
+    "murky",
+    "muse",
+    "muster",
+    "nanny",
+    "nausea",
+    "nebula",
+    "needy",
+    "negotiating",
+    "nestle",
+    "nightclub",
+    "nightly",
+    "nostril",
+    "notch",
+    "noteworthy",
+    "obsolete",
+    "orchid",
+    "oriental",
+    "orphanage",
+    "ostensibly",
+    "outgoing",
+    "outlaw",
+    "outnumber",
+    "outpost",
+    "outright",
+    "outskirts",
+    "outspoken",
+    "outweigh",
+    "overflow",
+    "overhear",
+    "overlap",
+    "override",
+    "overshadow",
+    "overtake",
+    "overthrow",
+    "packed",
+    "paddle",
+    "pamphlet",
+    "paperback",
+    "paranoid",
+    "participating",
+    "patiently",
+    "peninsula",
+    "perennial",
+    "performing",
+    "peripheral",
+    "perish",
+    "perk",
+    "pilgrimage",
+    "pineapple",
+    "pinpoint",
+    "pivotal",
+    "placebo",
+    "plainly",
+    "plaster",
+    "platoon",
+    "playful",
+    "plentiful",
+    "plume",
+    "plump",
+    "pneumonia",
+    "pod",
+    "pointed",
+    "poker",
+    "pollen",
+    "pollute",
+    "pony",
+    "porcelain",
+    "portal",
+    "posit",
+    "pouch",
+    "preferably",
+    "preoccupied",
+    "prod",
+    "prolong",
+    "prosper",
+    "protector",
+    "prudent",
+    "pudding",
+    "puddle",
+    "puff",
+    "pulp",
+    "quake",
+    "quiz",
+    "radius",
+    "ragged",
+    "railway",
+    "rainfall",
+    "raisin",
+    "rake",
+    "rapper",
+    "rash",
+    "raspberry",
+    "reaffirm",
+    "rearrange",
+    "recommended",
+    "recorded",
+    "rectangular",
+    "recycled",
+    "referee",
+    "refrain",
+    "refreshing",
+    "rehab",
+    "rein",
+    "reinvent",
+    "relay",
+    "relinquish",
+    "relish",
+    "remotely",
+    "rename",
+    "reprint",
+    "residency",
+    "respectful",
+    "restricted",
+    "restructure",
+    "retrospect",
+    "revealing",
+    "revolt",
+    "rewarding",
+    "rig",
+    "robber",
+    "rocker",
+    "rooftop",
+    "rot",
+    "rounded",
+    "rum",
+    "rumble",
+    "rusty",
+    "safeguard",
+    "sag",
+    "sage",
+    "salute",
+    "salvage",
+    "sandal",
+    "sane",
+    "savor",
+    "scalp",
+    "scam",
+    "scanner",
+    "screenplay",
+    "sculptor",
+    "scurry",
+    "seam",
+    "seating",
+    "seduce",
+    "seeker",
+    "sentimental",
+    "sever",
+    "shady",
+    "sharpen",
+    "shear",
+    "shepherd",
+    "shoreline",
+    "shortcoming",
+    "shred",
+    "shutter",
+    "sighting",
+    "silicon",
+    "singular",
+    "sinister",
+    "skater",
+    "skim",
+    "slaughter",
+    "sliding",
+    "slipper",
+    "sloppy",
+    "smear",
+    "smother",
+    "smuggle",
+    "snort",
+    "snowy",
+    "soaring",
+    "socket",
+    "softball",
+    "solemn",
+    "solving",
+    "soothe",
+    "soothing",
+    "soybean",
+    "spaghetti",
+    "sparkle",
+    "sparkling",
+    "spear",
+    "spokesperson",
+    "sponge",
+    "sprawl",
+    "staggering",
+    "startled",
+    "stepfather",
+    "stifle",
+    "stink",
+    "stint",
+    "stomp",
+    "strangle",
+    "stray",
+    "stricken",
+    "striped",
+    "stunt",
+    "stylish",
+    "subside",
+    "suffice",
+    "suicidal",
+    "sulfur",
+    "superficial",
+    "supernatural",
+    "swap",
+    "swarm",
+    "sweaty",
+    "swollen",
+    "synagogue",
+    "tabloid",
+    "tan",
+    "tangle",
+    "tangled",
+    "tanker",
+    "tempting",
+    "terrestrial",
+    "thankful",
+    "thermometer",
+    "thicken",
+    "thou",
+    "thwart",
+    "tickle",
+    "tier",
+    "token",
+    "tolerant",
+    "touching",
+    "tow",
+    "transitional",
+    "transparency",
+    "tread",
+    "trek",
+    "trickle",
+    "trivial",
+    "trot",
+    "trumpet",
+    "tuberculosis",
+    "tutor",
+    "twig",
+    "twitch",
+    "tyranny",
+    "unchanged",
+    "undertaking",
+    "underwater",
+    "unfinished",
+    "unhealthy",
+    "uniquely",
+    "unison",
+    "unmarried",
+    "unnoticed",
+    "unofficial",
+    "unpopular",
+    "unravel",
+    "unrest",
+    "unsafe",
+    "unsettle",
+    "unto",
+    "untouched",
+    "upbeat",
+    "variant",
+    "vault",
+    "versatile",
+    "vividly",
+    "vomit",
+    "wail",
+    "waiver",
+    "warden",
+    "warranty",
+    "watcher",
+    "waver",
+    "weekday",
+    "whore",
+    "willingly",
+    "wince",
+    "wisely",
+    "wizard",
+    "womb",
+    "woo",
+    "worsen",
+    "wreckage",
+    "wrongdoing",
+    "yearly",
+    "zip",
+    "zoom"
+  ]
+}

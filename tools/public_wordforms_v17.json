@@ -1,0 +1,414 @@
+{
+  "license": "CC BY-SA 4.0",
+  "words": {
+    "able": [
+      {
+        "word": "abler",
+        "meaningZh": "比较级"
+      },
+      {
+        "word": "ablest",
+        "meaningZh": "最高级"
+      }
+    ],
+    "subtle": [
+      {
+        "word": "subtler",
+        "meaningZh": "比较级"
+      },
+      {
+        "word": "subtlest",
+        "meaningZh": "最高级"
+      }
+    ],
+    "chicanery": [
+      {
+        "word": "chicaneries",
+        "meaningZh": "复数（可数义）"
+      }
+    ],
+    "coy": [
+      {
+        "word": "coyer",
+        "meaningZh": "比较级"
+      }
+    ],
+    "eerie": [
+      {
+        "word": "eeriest",
+        "meaningZh": "最高级"
+      }
+    ],
+    "falsetto": [
+      {
+        "word": "falsettos",
+        "meaningZh": "复数（可数义）"
+      }
+    ],
+    "gruel": [
+      {
+        "word": "gruels",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "gnarly": [
+      {
+        "word": "gnarliest",
+        "meaningZh": "最高级"
+      }
+    ],
+    "hiding": [
+      {
+        "word": "hidings",
+        "meaningZh": "复数（可数义）"
+      }
+    ],
+    "handball": [
+      {
+        "word": "handballs",
+        "meaningZh": "复数（可数义）"
+      }
+    ],
+    "honest": [
+      {
+        "word": "honester",
+        "meaningZh": "比较级"
+      }
+    ],
+    "inner": [
+      {
+        "word": "innermost",
+        "meaningZh": "最高级"
+      },
+      {
+        "word": "inmost",
+        "meaningZh": "最高级"
+      }
+    ],
+    "nosy": [
+      {
+        "word": "nosier",
+        "meaningZh": "比较级"
+      },
+      {
+        "word": "nosiest",
+        "meaningZh": "最高级"
+      }
+    ],
+    "prowess": [
+      {
+        "word": "prowesses",
+        "meaningZh": "复数（可数义）"
+      }
+    ],
+    "blithe": [
+      {
+        "word": "blither",
+        "meaningZh": "比较级"
+      }
+    ],
+    "stark": [
+      {
+        "word": "starker",
+        "meaningZh": "比较级"
+      },
+      {
+        "word": "starkest",
+        "meaningZh": "最高级"
+      }
+    ],
+    "manga": [
+      {
+        "word": "mangas",
+        "meaningZh": "复数（可数义）"
+      }
+    ],
+    "tacky": [
+      {
+        "word": "tackier",
+        "meaningZh": "比较级"
+      },
+      {
+        "word": "tackiest",
+        "meaningZh": "最高级"
+      }
+    ],
+    "teak": [
+      {
+        "word": "teaks",
+        "meaningZh": "复数（可数义）"
+      }
+    ],
+    "suffocation": [
+      {
+        "word": "suffocations",
+        "meaningZh": "复数（可数义）"
+      }
+    ]
+  },
+  "credits": [
+    {
+      "word": "able",
+      "form": "abler",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/able",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "able",
+      "form": "ablest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/able",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "subtle",
+      "form": "subtler",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/subtle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "subtle",
+      "form": "subtlest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/subtle",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "chicanery",
+      "form": "chicaneries",
+      "label": "复数（可数义）",
+      "tags": [
+        "plural"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/chicanery",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "coy",
+      "form": "coyer",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/coy",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "eerie",
+      "form": "eeriest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/eerie",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "falsetto",
+      "form": "falsettos",
+      "label": "复数（可数义）",
+      "tags": [
+        "plural"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/falsetto",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "gruel",
+      "form": "gruels",
+      "label": "第三人称单数",
+      "tags": [
+        "present",
+        "singular",
+        "third-person"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/gruel",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "gnarly",
+      "form": "gnarliest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/gnarly",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "hiding",
+      "form": "hidings",
+      "label": "复数（可数义）",
+      "tags": [
+        "plural"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/hiding",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "handball",
+      "form": "handballs",
+      "label": "复数（可数义）",
+      "tags": [
+        "plural"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/handball",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "honest",
+      "form": "honester",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/honest",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "inner",
+      "form": "innermost",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/inner",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "inner",
+      "form": "inmost",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/inner",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "nosy",
+      "form": "nosier",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/nosy",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "nosy",
+      "form": "nosiest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/nosy",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "prowess",
+      "form": "prowesses",
+      "label": "复数（可数义）",
+      "tags": [
+        "plural"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/prowess",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "blithe",
+      "form": "blither",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/blithe",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "stark",
+      "form": "starker",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/stark",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "stark",
+      "form": "starkest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/stark",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "manga",
+      "form": "mangas",
+      "label": "复数（可数义）",
+      "tags": [
+        "plural"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/manga",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "tacky",
+      "form": "tackier",
+      "label": "比较级",
+      "tags": [
+        "comparative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/tacky",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "tacky",
+      "form": "tackiest",
+      "label": "最高级",
+      "tags": [
+        "superlative"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/tacky",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "teak",
+      "form": "teaks",
+      "label": "复数（可数义）",
+      "tags": [
+        "plural"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/teak",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "word": "suffocation",
+      "form": "suffocations",
+      "label": "复数（可数义）",
+      "tags": [
+        "plural"
+      ],
+      "sourceUrl": "https://zh.wiktionary.org/wiki/suffocation",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "selectionPolicy": "Current matching senses only. Noun plurals require explicit countable-sense evidence; adjective single-word comparatives require independent pronunciation-dictionary attestation. No automatic more/most fill for arbitrary adjectives."
+}

@@ -1,0 +1,4774 @@
+{
+  "schemaVersion": 1,
+  "method": "learning-order-v4",
+  "corrections": {
+    "does": {
+      "difficulty": 1,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 做；工作；有用（do的第三人称单数形式）",
+        "relatedEntries": [
+          {
+            "word": "do",
+            "difficulty": 1,
+            "rank": 18,
+            "meaningZh": "v. 做, 进行, 完成"
+          }
+        ]
+      }
+    },
+    "liked": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 like.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 37974,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 喜欢（like的过去式）",
+        "relatedEntries": [
+          {
+            "word": "like",
+            "difficulty": 1,
+            "rank": 74,
+            "meaningZh": "v. 喜欢\nprep. 像\nadj. 相似的"
+          }
+        ]
+      }
+    },
+    "owned": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 own.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 23833,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 拥有；承认（own的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "own",
+            "difficulty": 1,
+            "rank": 148,
+            "meaningZh": "n. 自己的\na. 自己的, 嫡亲的, 同胞的\nvt. 拥有, 支配, 自认, 承认, 顺从于\nvi. 承认, 供认"
+          }
+        ]
+      }
+    },
+    "helped": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 help.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 22143,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 帮助（help的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "help",
+            "difficulty": 1,
+            "rank": 167,
+            "meaningZh": "n. 帮忙, 帮助者, 补救办法, 有益的东西\nvt. 帮助, 帮忙, 接济, 治疗, 款待\nvi. 有用, 救命, 招待"
+          }
+        ]
+      }
+    },
+    "questioned": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 question.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 36655,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 问（某人）问题( question的过去式和过去分词 ); 对（某事物）表示[感到]怀疑",
+        "relatedEntries": [
+          {
+            "word": "question",
+            "difficulty": 1,
+            "rank": 197,
+            "meaningZh": "n. 问题, 询问\nv. 询问, 审问, 怀疑"
+          }
+        ]
+      }
+    },
+    "played": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 play.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 22093,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 玩耍；演奏；播放；参加竞赛（play的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "play",
+            "difficulty": 1,
+            "rank": 200,
+            "meaningZh": "n. 游戏, 游玩, 玩笑, 运动, 比赛, 赌博, 跳动, 表演, 剧本\nv. 玩, 游戏, 假装, 开玩笑, 比赛, 扮演, 演奏, 演戏, 传摇曳, (使)跳动"
+          }
+        ]
+      }
+    },
+    "moved": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 move.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 36425,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 移动, 移动到；感动（move的过去式, 过去分词）",
+        "relatedEntries": [
+          {
+            "word": "move",
+            "difficulty": 1,
+            "rank": 207,
+            "meaningZh": "n. 移动, 迁居, 步骤\nvt. 移动, 开动, 感动, 搬(家)\nvi. 移动, 离开, 运行, 迁移, 摇动, 搬家, 交往, 进展, 脱手"
+          }
+        ]
+      }
+    },
+    "bringing": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 bring.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 35580,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 带来( bring的现在分词 ); 促使; 提供; 使朝（某方向或按某方式）移动",
+        "relatedEntries": [
+          {
+            "word": "bring",
+            "difficulty": 1,
+            "rank": 215,
+            "meaningZh": "vt. 带来, 产生, 促使, 提出\nvi. 生产"
+          }
+        ]
+      }
+    },
+    "studying": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 study.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 34385,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 学习；研究（study的ing形式）",
+        "relatedEntries": [
+          {
+            "word": "study",
+            "difficulty": 1,
+            "rank": 240,
+            "meaningZh": "n. 学习, 研究, 学科, 论文, 求学, 书房, 试作\nvt. 学习, 读书, 研究, 考虑, 计划\nvi. 学习, 思索"
+          }
+        ]
+      }
+    },
+    "watching": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 watch.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 26506,
+        "partOfSpeech": "vt.",
+        "meaningZh": "vt. 观看, 守望；监视, 注意（watch现在分词）",
+        "relatedEntries": [
+          {
+            "word": "watch",
+            "difficulty": 1,
+            "rank": 323,
+            "meaningZh": "n. 观察, 手表, 看守, 守护, 监视, 值班人\nvt. 看, 注视, 照顾, 看守, 守护, 监视\nvi. 观看, 注视, 守侯"
+          }
+        ]
+      }
+    },
+    "stopped": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 stop.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 19458,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 停止；停下来（stop的过去式和过去分词）",
+        "relatedEntries": [
+          {
+            "word": "stop",
+            "difficulty": 1,
+            "rank": 329,
+            "meaningZh": "n. 停止, 车站, 逗留, 填塞, 障碍, (风琴的)音栓\nvi. 停止, 被塞住\nvt. 塞住, 堵塞, 阻止, 击落, 停止, 终止, 断绝"
+          }
+        ]
+      }
+    },
+    "partying": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 party.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 28020,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 为…举行社交聚会（party的现在分词形式）",
+        "relatedEntries": [
+          {
+            "word": "party",
+            "difficulty": 1,
+            "rank": 351,
+            "meaningZh": "n. 宴会, 党, 政党, 团体, 当事人, 聚会\nv. 举办聚会"
+          }
+        ]
+      }
+    },
+    "opened": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 open.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 21943,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 打开, 开启（open过去分词形式）",
+        "relatedEntries": [
+          {
+            "word": "open",
+            "difficulty": 1,
+            "rank": 355,
+            "meaningZh": "n. 公开, 户外, 空旷\na. 开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的\nvt. 打开, 公开, 开放\nvi. 展开, 开始, 展现"
+          }
+        ]
+      }
+    },
+    "offered": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 offer.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 18648,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 提供, 提议；奉献（offer过去时态）",
+        "relatedEntries": [
+          {
+            "word": "offer",
+            "difficulty": 1,
+            "rank": 373,
+            "meaningZh": "n. 给予(物), 出价, 提议, 意图, 报价\nvt. 提供, 出价, 奉献, 试图, 使出现, 演出\nvi. 出现, 献祭, 提议, 求婚"
+          }
+        ]
+      }
+    },
+    "remembered": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 remember.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 22691,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 记得, 牢记( remember的过去式和过去分词 ); 纪念; 记着; 回想起",
+        "relatedEntries": [
+          {
+            "word": "remember",
+            "difficulty": 1,
+            "rank": 379,
+            "meaningZh": "vt. 记得, 回忆起, 记住, 铭记, 纪念\nvi. 记得"
+          }
+        ]
+      }
+    },
+    "loved": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 love.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 5,
+        "rank": 6694,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 热爱（love的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "love",
+            "difficulty": 1,
+            "rank": 390,
+            "meaningZh": "n. 爱, 恋爱, 爱情, 爱好, 性爱\nvt. 爱, 爱好, 爱慕\nvi. 爱"
+          }
+        ]
+      }
+    },
+    "reaching": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 reach.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 36103,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 到达( reach的现在分词 ); 联络; 伸出手臂, 延伸",
+        "relatedEntries": [
+          {
+            "word": "reach",
+            "difficulty": 1,
+            "rank": 422,
+            "meaningZh": "n. 伸出, 延伸, 区域, 范围, 流域, 岬\nvt. 到达, 达到, 伸出, 延伸, 影响\nvi. 达到, 延伸, 伸出手, 传到"
+          }
+        ]
+      }
+    },
+    "returning": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 return.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 14181,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 归还, 返回, 回复（return的ing形式）",
+        "relatedEntries": [
+          {
+            "word": "return",
+            "difficulty": 1,
+            "rank": 472,
+            "meaningZh": "n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书\na. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的\nvi. 返回, 归还, 回来\nvt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回"
+          }
+        ]
+      }
+    },
+    "explained": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 explain.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 29044,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 解释（explain的过去式及过去分词）",
+        "relatedEntries": [
+          {
+            "word": "explain",
+            "difficulty": 1,
+            "rank": 480,
+            "meaningZh": "v. 解释, 说明"
+          }
+        ]
+      }
+    },
+    "explaining": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 explain.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 28171,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 讲解, 解释( explain的现在分词 ); 说明…的原因, 辩解; 说明, 解释, 辩解",
+        "relatedEntries": [
+          {
+            "word": "explain",
+            "difficulty": 1,
+            "rank": 480,
+            "meaningZh": "v. 解释, 说明"
+          }
+        ]
+      }
+    },
+    "joined": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 join.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 21702,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 加入；连接；参加（join的过去式, 过去分词）",
+        "relatedEntries": [
+          {
+            "word": "join",
+            "difficulty": 1,
+            "rank": 505,
+            "meaningZh": "vi. 参加, 结合, 加入\nvt. 连接, 结合, 参加, 加入\nn. 连接, 结合, 接合点"
+          }
+        ]
+      }
+    },
+    "produced": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 produce.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 31642,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 创作；产生；制造（produce的过去式和过去分词）",
+        "relatedEntries": [
+          {
+            "word": "produce",
+            "difficulty": 1,
+            "rank": 542,
+            "meaningZh": "n. 生产品, 物产, 后代\nvt. 产生, 生产, 提出, 出示\nvi. 生产, 制造"
+          }
+        ]
+      }
+    },
+    "pictured": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 picture.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 22935,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 绘画( picture的过去式和过去分词 ); 描绘; 想像; 设想",
+        "relatedEntries": [
+          {
+            "word": "picture",
+            "difficulty": 1,
+            "rank": 562,
+            "meaningZh": "n. 图画, 照片, 景色, 美丽如画的人(或物), 化身, 生动的描述, 想像, 形象思维\nvt. 画, 拍摄, 用图说明, 描写, 想像"
+          }
+        ]
+      }
+    },
+    "cleared": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 clear.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 24276,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 使干净；清除（clear的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "clear",
+            "difficulty": 1,
+            "rank": 563,
+            "meaningZh": "a. 清楚的, 明确的, 澄清的\nadv. 清晰地\nvt. 澄清, 清除障碍\nvi. 放晴, 变清澈\nn. 空隙"
+          }
+        ]
+      }
+    },
+    "described": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 describe.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 30004,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 描述, 描写（describe的过去式）",
+        "relatedEntries": [
+          {
+            "word": "describe",
+            "difficulty": 1,
+            "rank": 568,
+            "meaningZh": "vt. 描述, 描绘, 画"
+          }
+        ]
+      }
+    },
+    "stepped": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 step.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 28584,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 踏；行走（step的过去式和过去分词）",
+        "relatedEntries": [
+          {
+            "word": "step",
+            "difficulty": 1,
+            "rank": 587,
+            "meaningZh": "n. 步骤, 步, 步幅, 脚步声, 踏级, 步伐, 短距离, 步态, 手段, 等级\nvt. 踏, 以步测量, 跨步, 使成阶梯状\nvi. 跨步, 轻快地走, 跳舞, 踩, 踏上, 行走"
+          }
+        ]
+      }
+    },
+    "typed": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 type.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 21833,
+        "partOfSpeech": "vt.",
+        "meaningZh": "vt. 打字（type的过去式和过去分词）",
+        "relatedEntries": [
+          {
+            "word": "type",
+            "difficulty": 1,
+            "rank": 590,
+            "meaningZh": "n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式\nvi. 打字\nvt. 作为代表, 测定类型, 用打字机打"
+          }
+        ]
+      }
+    },
+    "choosing": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 choose.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 13228,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 选择；决定（choose的ing形式）",
+        "relatedEntries": [
+          {
+            "word": "choose",
+            "difficulty": 1,
+            "rank": 600,
+            "meaningZh": "vt. 选择, 宁愿, 欲\nvi. 作出选择, 愿意"
+          }
+        ]
+      }
+    },
+    "protecting": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 protect.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 30415,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 保护( protect的现在分词 ); 防护; 投保; 关税保护",
+        "relatedEntries": [
+          {
+            "word": "protect",
+            "difficulty": 1,
+            "rank": 749,
+            "meaningZh": "vt. 防卫, 保护, 警戒"
+          }
+        ]
+      }
+    },
+    "approaching": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 approach.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 12934,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 进场；侵入；接近（approach的ing形式）",
+        "relatedEntries": [
+          {
+            "word": "approach",
+            "difficulty": 1,
+            "rank": 750,
+            "meaningZh": "n. 接近, 入门\nvt. 接近, 近似, 找...商量\nvi. 靠近"
+          }
+        ]
+      }
+    },
+    "answered": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 answer.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 37654,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 回答；回复（answer的过去式）",
+        "relatedEntries": [
+          {
+            "word": "answer",
+            "difficulty": 1,
+            "rank": 767,
+            "meaningZh": "n. 答案, 回答, 回报, 答辩\nvt. 回答, 反驳, 适应, 响应, 符合\nvi. 回答, 答应, 负责, 符合, 成功"
+          }
+        ]
+      }
+    },
+    "attacking": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 attack.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 21581,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 进攻；攻击（attack的现在分词）；攻球",
+        "relatedEntries": [
+          {
+            "word": "attack",
+            "difficulty": 1,
+            "rank": 791,
+            "meaningZh": "n. 攻击, 抨击\nvt. 攻击, 抨击, 动手干\nvi. 攻击"
+          }
+        ]
+      }
+    },
+    "traded": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 trade.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 29100,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 交易；贸易（trade的过去分词形式）",
+        "relatedEntries": [
+          {
+            "word": "trade",
+            "difficulty": 1,
+            "rank": 800,
+            "meaningZh": "n. 贸易, 商业, 交易, 生意, 职业, 顾客, 信风\nvi. 进行交易, 做买卖, 经商, 对换, 购物\nvt. 用...进行交换"
+          }
+        ]
+      }
+    },
+    "missed": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 miss.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 12396,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 投偏；未抓住；错过（miss的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "miss",
+            "difficulty": 1,
+            "rank": 833,
+            "meaningZh": "n. 失误, 避免, 失败, 小姐\nvt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念\nvi. 失败, 击不中"
+          }
+        ]
+      }
+    },
+    "discussed": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 discuss.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 39128,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 商讨；讨论（discuss的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "discuss",
+            "difficulty": 1,
+            "rank": 847,
+            "meaningZh": "vt. 讨论, 论述"
+          }
+        ]
+      }
+    },
+    "guessing": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 guess.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 23640,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 猜( guess的现在分词 ); （引出令人惊奇或激动的事）你猜; 猜对; 猜中",
+        "relatedEntries": [
+          {
+            "word": "guess",
+            "difficulty": 1,
+            "rank": 862,
+            "meaningZh": "n. 猜测, 臆测\nv. 猜测, 臆测"
+          }
+        ]
+      }
+    },
+    "avoided": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 avoid.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 41166,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 避免；回避；避免了；使无效（avoid的过去式）",
+        "relatedEntries": [
+          {
+            "word": "avoid",
+            "difficulty": 1,
+            "rank": 908,
+            "meaningZh": "vt. 避免, 防止, 撤消"
+          }
+        ]
+      }
+    },
+    "imagined": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 imagine.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 6,
+        "rank": 10038,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 想( imagine的过去式和过去分词 ); 想像; 料想; 误认为",
+        "relatedEntries": [
+          {
+            "word": "imagine",
+            "difficulty": 1,
+            "rank": 909,
+            "meaningZh": "vt. 想像, 设想, 猜测\nvi. 想像起来"
+          }
+        ]
+      }
+    },
+    "imagining": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 imagine.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 20374,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 想( imagine的现在分词 ); 想像; 料想; 误认为",
+        "relatedEntries": [
+          {
+            "word": "imagine",
+            "difficulty": 1,
+            "rank": 909,
+            "meaningZh": "vt. 想像, 设想, 猜测\nvi. 想像起来"
+          }
+        ]
+      }
+    },
+    "interviewed": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 interview.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 39814,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 面试( interview的过去式和过去分词 ); 访问; 会见; （私下）提问",
+        "relatedEntries": [
+          {
+            "word": "interview",
+            "difficulty": 1,
+            "rank": 944,
+            "meaningZh": "n. 面谈, 访问, 接见, 面试\nvt. 接见, 对...进行面谈(试)"
+          }
+        ]
+      }
+    },
+    "interviewing": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 interview.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 28513,
+        "partOfSpeech": "vi.",
+        "meaningZh": "vi. 面试；参加面试（interview的ing形式）",
+        "relatedEntries": [
+          {
+            "word": "interview",
+            "difficulty": 1,
+            "rank": 944,
+            "meaningZh": "n. 面谈, 访问, 接见, 面试\nvt. 接见, 对...进行面谈(试)"
+          }
+        ]
+      }
+    },
+    "discovered": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 discover.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 33435,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 发现, 找到（discover的过去形式）",
+        "relatedEntries": [
+          {
+            "word": "discover",
+            "difficulty": 1,
+            "rank": 956,
+            "meaningZh": "vt. 发现, 找到, 暴露\nvi. 发现"
+          }
+        ]
+      }
+    },
+    "treated": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 treat.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 15801,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 对待；招待；治疗（treat的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "treat",
+            "difficulty": 1,
+            "rank": 960,
+            "meaningZh": "n. 宴请, 款待\nvt. 视为, 对待, 论述, 治疗, 款待\nvi. 讨论, 谈判, 作东"
+          }
+        ]
+      }
+    },
+    "feared": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 fear.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 17669,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 畏惧( fear的过去式和过去分词 ); 为…忧虑（或担心、焦虑）; 敬畏（神等）; 感到害怕",
+        "relatedEntries": [
+          {
+            "word": "fear",
+            "difficulty": 1,
+            "rank": 985,
+            "meaningZh": "n. 恐怖, 害怕, 担心\nv. 害怕, 恐惧, 为...担心, 敬畏"
+          }
+        ]
+      }
+    },
+    "tended": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 tend.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 40884,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 照料( tend的过去式和过去分词 ); 照顾; 招待; 侍候",
+        "relatedEntries": [
+          {
+            "word": "tend",
+            "difficulty": 2,
+            "rank": 1039,
+            "meaningZh": "vi. 走向, 有某种的倾向, 易于, 照顾, 注意\nvt. 照料, 护理"
+          }
+        ]
+      }
+    },
+    "debating": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 debate.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 21745,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 辩论（debate的ing形式）",
+        "relatedEntries": [
+          {
+            "word": "debate",
+            "difficulty": 2,
+            "rank": 1082,
+            "meaningZh": "n. 辩论, 讨论\nv. 争论, 辩论"
+          }
+        ]
+      }
+    },
+    "admitting": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 admit.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 17479,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 承认（admit的ing形式）",
+        "relatedEntries": [
+          {
+            "word": "admit",
+            "difficulty": 2,
+            "rank": 1089,
+            "meaningZh": "vt. 承认, 接受, 允许进入, 容许\nvi. 开向, 容许, 承认"
+          }
+        ]
+      }
+    },
+    "judging": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 judge.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 21206,
+        "partOfSpeech": "vt.",
+        "meaningZh": "vt. 判断；审判（judge的现在分词）",
+        "relatedEntries": [
+          {
+            "word": "judge",
+            "difficulty": 2,
+            "rank": 1115,
+            "meaningZh": "n. 法官, 裁判员, 审判官, 鉴定人\nvt. 审理, 鉴定, 判断, 判决, 裁定\nvi. 下判断, 作评价"
+          }
+        ]
+      }
+    },
+    "released": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 release.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 16592,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 已发布；释放（release的过去式）",
+        "relatedEntries": [
+          {
+            "word": "release",
+            "difficulty": 2,
+            "rank": 1120,
+            "meaningZh": "n. 释放, 发泄, 豁免, 发行, 释放证书\nvt. 释放, 解除, 放松, 豁免, 免除, 发布, 放弃, 让与\nn. 发布"
+          }
+        ]
+      }
+    },
+    "recalled": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 recall.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 25295,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 回忆起( recall的过去式和过去分词 ); 使想起; 使想到; 勾起",
+        "relatedEntries": [
+          {
+            "word": "recall",
+            "difficulty": 2,
+            "rank": 1129,
+            "meaningZh": "n. 回忆, 召回, 撤消\nvt. 回想, 回忆, 召回, 撤消, 使恢复"
+          }
+        ]
+      }
+    },
+    "recalling": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 recall.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 41862,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 回忆起( recall的现在分词 ); 使想起; 使想到; 勾起",
+        "relatedEntries": [
+          {
+            "word": "recall",
+            "difficulty": 2,
+            "rank": 1129,
+            "meaningZh": "n. 回忆, 召回, 撤消\nvt. 回想, 回忆, 召回, 撤消, 使恢复"
+          }
+        ]
+      }
+    },
+    "hurting": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 hurt.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 35816,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 弄痛( hurt的现在分词 ); 使受伤; 使伤心; 使受皮肉之苦",
+        "relatedEntries": [
+          {
+            "word": "hurt",
+            "difficulty": 2,
+            "rank": 1140,
+            "meaningZh": "n. 伤害, 创伤, 损害\nv. 伤害, (使)伤心, 危害, 刺痛"
+          }
+        ]
+      }
+    },
+    "referred": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 refer.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 33641,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 归类, 谈及, 送交；参考, 查阅（refer的过去式）",
+        "relatedEntries": [
+          {
+            "word": "refer",
+            "difficulty": 2,
+            "rank": 1156,
+            "meaningZh": "vt. 提交, 归诸于, 把...提交, 使求助于\nvi. 提到, 涉及, 查阅, 查询, 咨询"
+          }
+        ]
+      }
+    },
+    "conflicted": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 conflict.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 20908,
+        "partOfSpeech": "vi.",
+        "meaningZh": "vi. 抵触（conflict的过去式与过去分词形式）",
+        "relatedEntries": [
+          {
+            "word": "conflict",
+            "difficulty": 2,
+            "rank": 1179,
+            "meaningZh": "n. 战斗, 冲突, 矛盾, 争执\nvi. 争执, 战斗, 冲突, 抵触"
+          }
+        ]
+      }
+    },
+    "replaced": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 replace.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 40971,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 取代；替换；放回（replace的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "replace",
+            "difficulty": 2,
+            "rank": 1182,
+            "meaningZh": "vt. 代替, 替换, 放回, 归还"
+          }
+        ]
+      }
+    },
+    "surveyed": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 survey.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 25961,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 调查( survey的过去式和过去分词 ); 测量; 检查; 眺望",
+        "relatedEntries": [
+          {
+            "word": "survey",
+            "difficulty": 2,
+            "rank": 1241,
+            "meaningZh": "n. 纵览, 视察, 测量, 俯瞰, 调查\nvt. 审视, 视察, 俯瞰, 通盘考虑\nvi. 测量土地"
+          }
+        ]
+      }
+    },
+    "farmed": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 farm.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 28086,
+        "partOfSpeech": "vt.",
+        "meaningZh": "vt. 耕种（farm的过去式与过去分词形式）",
+        "relatedEntries": [
+          {
+            "word": "farm",
+            "difficulty": 2,
+            "rank": 1258,
+            "meaningZh": "n. 农场, 农田\nvt. 耕种\nvi. 种田"
+          }
+        ]
+      }
+    },
+    "expressed": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 express.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 13929,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 表达( express的过去式和过去分词 ); （用符号等）表示; 榨; [express oneself]（如在说话、写作或绘画中）表达（自己）的意见",
+        "relatedEntries": [
+          {
+            "word": "express",
+            "difficulty": 2,
+            "rank": 1272,
+            "meaningZh": "n. 快车, 快递, 专使\na. 明确的, 丝毫不差的, 专门的, 快的\nvt. 表达, 表示, 表露"
+          }
+        ]
+      }
+    },
+    "averaged": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 average.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 20486,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 平均（average的过去式）",
+        "relatedEntries": [
+          {
+            "word": "average",
+            "difficulty": 2,
+            "rank": 1299,
+            "meaningZh": "n. 平均, 平均数, 一般水平, 海损\na. 平均的, 中等的, 平常的\nvt. 算出...平均数, 平均做, 均分, 使平衡\nvi. 平均为, 呈中间色"
+          }
+        ]
+      }
+    },
+    "collecting": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 collect.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 15658,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 收集( collect的现在分词 ); 收到; 收藏; 聚积",
+        "relatedEntries": [
+          {
+            "word": "collect",
+            "difficulty": 2,
+            "rank": 1318,
+            "meaningZh": "v. 收集, 聚集, 集中, 搜集\na. 由收到者付款的\nadv. 由收到者付款地"
+          }
+        ]
+      }
+    },
+    "marrying": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 marry.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 37246,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 证婚；结婚；合成（marry的现在分词形式）",
+        "relatedEntries": [
+          {
+            "word": "marry",
+            "difficulty": 2,
+            "rank": 1333,
+            "meaningZh": "vt. 与...结婚, 娶, 嫁\nvi. 结婚"
+          }
+        ]
+      }
+    },
+    "gathered": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 gather.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 13172,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. （使）聚集（ gather的过去式和过去分词 ）; 集合; 推断; 了解",
+        "relatedEntries": [
+          {
+            "word": "gather",
+            "difficulty": 2,
+            "rank": 1347,
+            "meaningZh": "n. 集合, 聚集\nvi. 聚集, 集合, 渐增\nvt. 使聚集, 搜集, 积聚"
+          }
+        ]
+      }
+    },
+    "warmed": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 warm.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 26441,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. （使）变暖, 被加热, 暖和起来( warm的过去式和过去分词 ); （使）变得更友好, 变得更可爱; 亲热",
+        "relatedEntries": [
+          {
+            "word": "warm",
+            "difficulty": 1,
+            "rank": 1356,
+            "meaningZh": "a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的\nvt. 使温暖, 弄热, 使兴奋, 使充满仇恨\nvi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好\nn. 暖, 保暖物"
+          }
+        ]
+      }
+    },
+    "ignored": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 ignore.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 36541,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 忽略；不理会；不顾（ignore的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "ignore",
+            "difficulty": 2,
+            "rank": 1375,
+            "meaningZh": "vt. 不理睬, 忽视, 驳回, 忽略"
+          }
+        ]
+      }
+    },
+    "ignoring": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 ignore.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 40542,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 不顾( ignore的现在分词 ); [法律]驳回（诉讼）; 对…不予理会; 佯装未见",
+        "relatedEntries": [
+          {
+            "word": "ignore",
+            "difficulty": 2,
+            "rank": 1375,
+            "meaningZh": "vt. 不理睬, 忽视, 驳回, 忽略"
+          }
+        ]
+      }
+    },
+    "demonstrated": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 demonstrate.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 19306,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 举行示威游行（或集会）( demonstrate的过去式和过去分词 ); 示范。展示; 显示; 论证",
+        "relatedEntries": [
+          {
+            "word": "demonstrate",
+            "difficulty": 2,
+            "rank": 1379,
+            "meaningZh": "vt. 示范, 证明\nvi. 示威"
+          }
+        ]
+      }
+    },
+    "reviewed": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 review.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 39602,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 评估；复习；评论；检讨（review的过去分词形式）",
+        "relatedEntries": [
+          {
+            "word": "review",
+            "difficulty": 2,
+            "rank": 1384,
+            "meaningZh": "n. 检讨, 复习, 回顾, 检阅, 评论\nvt. 温习, 检讨, 评论, 再检察, 复审\nvi. 复习功课, 写评论"
+          }
+        ]
+      }
+    },
+    "reviewing": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 review.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 23822,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 检验( review的现在分词 ); 复查; 写…的评论文章; 复习功课, 温习功课",
+        "relatedEntries": [
+          {
+            "word": "review",
+            "difficulty": 2,
+            "rank": 1384,
+            "meaningZh": "n. 检讨, 复习, 回顾, 检阅, 评论\nvt. 温习, 检讨, 评论, 再检察, 复审\nvi. 复习功课, 写评论"
+          }
+        ]
+      }
+    },
+    "denying": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 deny.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 38695,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 拒绝( deny的现在分词 ); 拒绝承认; 拒绝…占有; 否认知情",
+        "relatedEntries": [
+          {
+            "word": "deny",
+            "difficulty": 2,
+            "rank": 1406,
+            "meaningZh": "v. 否认, 拒绝"
+          }
+        ]
+      }
+    },
+    "promised": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 promise.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 6,
+        "rank": 10015,
+        "partOfSpeech": "vt. / v.",
+        "meaningZh": "vt.& vi. (promise的过去式或过去分词形式); 承诺; 允诺; 答应\nv. 允诺( promise的过去式和过去分词 ); 答应; 有…希望; 预示",
+        "relatedEntries": [
+          {
+            "word": "promise",
+            "difficulty": 2,
+            "rank": 1438,
+            "meaningZh": "n. 诺言, 约定的事情, 有指望\nvt. 允诺, 约定, 预示\nvi. 允诺, 有前途, 有指望"
+          }
+        ]
+      }
+    },
+    "grabbing": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 grab.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 41015,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 抓；夺走；强烈吸引（grab的ing形式）",
+        "relatedEntries": [
+          {
+            "word": "grab",
+            "difficulty": 2,
+            "rank": 1477,
+            "meaningZh": "n. 抓握, 掠夺, 强占, 东方沿岸帆船\nvi. 抓取, 抢去\nvt. 攫取, 捕获, 霸占"
+          }
+        ]
+      }
+    },
+    "exercising": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 exercise.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 41147,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 锻炼, 训练, 练习( exercise的现在分词 ); 锻炼（身体某部位）; 使焦虑; 发挥（作用）",
+        "relatedEntries": [
+          {
+            "word": "exercise",
+            "difficulty": 2,
+            "rank": 1487,
+            "meaningZh": "n. 行使, 执行, 运动, 练习, 作业\nvt. 运用, 练习, 运动\nvi. 练习, 锻炼"
+          }
+        ]
+      }
+    },
+    "hired": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 hire.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 6,
+        "rank": 8733,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 租用；雇用（hire的过去式及过去分词形式）",
+        "relatedEntries": [
+          {
+            "word": "hire",
+            "difficulty": 2,
+            "rank": 1491,
+            "meaningZh": "n. 租金, 租用, 雇用\nvt. 雇请, 出租\nvi. 受雇"
+          }
+        ]
+      }
+    },
+    "tied": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 tie.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 25004,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 系（tie的过去式和过去分词）",
+        "relatedEntries": [
+          {
+            "word": "tie",
+            "difficulty": 2,
+            "rank": 1501,
+            "meaningZh": "n. 带子, 线, 鞋带, 领带, 领结, 关系, 束缚, 平局, 不分胜负\nvt. 系, 打结, 扎, 约束, 与...成平局\nvi. 结合, 打结, 不分胜负"
+          }
+        ]
+      }
+    },
+    "exchanged": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 exchange.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 31818,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 换回( exchange的过去式和过去分词 ); 交换, 替换; 进行易货贸易, 作物物交换; [金融业]（货币）交换, 兑换",
+        "relatedEntries": [
+          {
+            "word": "exchange",
+            "difficulty": 2,
+            "rank": 1513,
+            "meaningZh": "n. 交换, (电话)交换局, 交换机, 汇兑, 交易所\nv. 交换, 交易, 兑换"
+          }
+        ]
+      }
+    },
+    "cleaned": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 clean.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 34719,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. （使）清洁( clean的过去式和过去分词 ); 变干净; 除去…的灰尘; 使…干净",
+        "relatedEntries": [
+          {
+            "word": "clean",
+            "difficulty": 1,
+            "rank": 1514,
+            "meaningZh": "a. 干净的, 清白的, 简洁的\nadv. 清洁地, 完全地\nvt. 清理, 使干净, 出空\nvi. 被搞干净\nn. 打扫"
+          }
+        ]
+      }
+    },
+    "hated": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 hate.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 16262,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 憎恨( hate的过去式和过去分词 ); 讨厌; 不愿; 为…感到抱歉",
+        "relatedEntries": [
+          {
+            "word": "hate",
+            "difficulty": 1,
+            "rank": 1526,
+            "meaningZh": "n. 憎恨, 恨, 厌恶\nvt. 憎恨, 憎恶\nvi. 仇恨"
+          }
+        ]
+      }
+    },
+    "mapped": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 map.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 40149,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 计划；绘制...之地图；映射（map的过去式和过去分词形式）",
+        "relatedEntries": [
+          {
+            "word": "map",
+            "difficulty": 2,
+            "rank": 1542,
+            "meaningZh": "n. 地图, 天体图, 映像\nvt. 映射, 绘制...地图, 计划"
+          }
+        ]
+      }
+    },
+    "welcoming": {
+      "difficulty": 2,
+      "category": "explicit-inflection",
+      "reason": "内部 welcome.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 6,
+        "rank": 10745,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 欢迎( welcome的现在分词 ); 迎接; 乐于接受; 希望有",
+        "relatedEntries": [
+          {
+            "word": "welcome",
+            "difficulty": 1,
+            "rank": 1545,
+            "meaningZh": "n. 欢迎, 欢迎词\na. 受欢迎的, 可随意的, 可喜的\nvt. 欢迎, 接待\ninterj. 欢迎"
+          }
+        ]
+      }
+    },
+    "disappearing": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 disappear.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 14969,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 不见, 消失( disappear的现在分词 ); 不复存在; 掩始; 隐显",
+        "relatedEntries": [
+          {
+            "word": "disappear",
+            "difficulty": 2,
+            "rank": 1578,
+            "meaningZh": "vi. 消失, 不见"
+          }
+        ]
+      }
+    },
+    "invited": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 invite.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 19498,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 邀请；引起, 招致（invite的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "invite",
+            "difficulty": 2,
+            "rank": 1601,
+            "meaningZh": "vt. 邀请, 请求, 引起, 招致\nn. 邀请"
+          }
+        ]
+      }
+    },
+    "predicted": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 predict.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 12346,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 预言, 预测, 预示( predict的过去式和过去分词 )",
+        "relatedEntries": [
+          {
+            "word": "predict",
+            "difficulty": 2,
+            "rank": 1613,
+            "meaningZh": "v. 预知, 预言, 预报"
+          }
+        ]
+      }
+    },
+    "thinned": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 thin.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 37090,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. （使）变稀薄, （使）变稀少, （使）变细( thin的过去式和过去分词 )",
+        "relatedEntries": [
+          {
+            "word": "thin",
+            "difficulty": 2,
+            "rank": 1621,
+            "meaningZh": "a. 薄的, 细的, 瘦的, 稀疏的, 稀薄的, 淡的, 弱的, 空洞的\nvt. 使变薄, 使变细, 使稀少, 使淡\nvi. 变薄, 变细, 变少, 变淡\nadv. 薄地, 稀疏地, 微弱地\nn. 细小部分"
+          }
+        ]
+      }
+    },
+    "defending": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 defend.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 11998,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 辩护( defend的现在分词 ); 保卫; （足球、曲棍球等）防守; 进行辩护",
+        "relatedEntries": [
+          {
+            "word": "defend",
+            "difficulty": 2,
+            "rank": 1750,
+            "meaningZh": "vt. 防护, 辩护, 防卫"
+          }
+        ]
+      }
+    },
+    "contrasting": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 contrast.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 11545,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. （靠近或作比较时）显出明显的差异, 形成对比( contrast的现在分词 ); 对比, 对照",
+        "relatedEntries": [
+          {
+            "word": "contrast",
+            "difficulty": 2,
+            "rank": 1762,
+            "meaningZh": "n. 差别, 对比, 对照物\nvt. 使对比\nvi. 成对照"
+          }
+        ]
+      }
+    },
+    "pursuing": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 pursue.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 28810,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 继续( pursue的现在分词 ); 追求; 进行; 追捕",
+        "relatedEntries": [
+          {
+            "word": "pursue",
+            "difficulty": 2,
+            "rank": 1785,
+            "meaningZh": "vt. 追赶, 追踪, 追随, 追求, 实行, 继续, 从事\nvi. 追赶, 继续"
+          }
+        ]
+      }
+    },
+    "mirrored": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 mirror.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 16722,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 反映( mirror的过去式和过去分词 ); 反射; 映照; 将（玻璃）喷镀成镜子",
+        "relatedEntries": [
+          {
+            "word": "mirror",
+            "difficulty": 2,
+            "rank": 1853,
+            "meaningZh": "n. 镜子, 写真, 典范\nvt. 反映, 映出"
+          }
+        ]
+      }
+    },
+    "granting": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 grant.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 19146,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. （退一步）承认( grant的现在分词 ); （尤指正式地或法律上）同意; 准许; 让渡",
+        "relatedEntries": [
+          {
+            "word": "grant",
+            "difficulty": 2,
+            "rank": 1907,
+            "meaningZh": "n. 授予, 授予物, 允许\nvt. 允许, 承认, 授与"
+          }
+        ]
+      }
+    },
+    "cited": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 cite.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 29691,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 引用（cite的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "cite",
+            "difficulty": 2,
+            "rank": 1932,
+            "meaningZh": "vt. 引用, 引证, 表彰"
+          }
+        ]
+      }
+    },
+    "employed": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 employ.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 20500,
+        "partOfSpeech": "vt.",
+        "meaningZh": "vt. 雇佣（employ的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "employ",
+            "difficulty": 2,
+            "rank": 1962,
+            "meaningZh": "n. 雇用\nvt. 雇用, 使用, 使从事于"
+          }
+        ]
+      }
+    },
+    "escaped": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 escape.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 19129,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 避开；泄出；逃离, 逃脱（escape的过去式, 过去分词）",
+        "relatedEntries": [
+          {
+            "word": "escape",
+            "difficulty": 2,
+            "rank": 2034,
+            "meaningZh": "n. 逃亡, 避难设备, 逃跑\nvi. 逃脱, 避开, 溜走\nvt. 逃避, 避免, 被...忘掉"
+          }
+        ]
+      }
+    },
+    "assessed": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 assess.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 26058,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 对…进行评估（assess过去时形式）",
+        "relatedEntries": [
+          {
+            "word": "assess",
+            "difficulty": 2,
+            "rank": 2042,
+            "meaningZh": "vt. 估定, 对...征税, 评定"
+          }
+        ]
+      }
+    },
+    "lowered": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 lower.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 13453,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 降低；削弱（lower的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "lower",
+            "difficulty": 2,
+            "rank": 2052,
+            "meaningZh": "a. 低的, 下级的, 下层的\nvi. 降低, 跌落, 减弱\nvt. 放下, 降下, 减弱, 贬低"
+          }
+        ]
+      }
+    },
+    "honoring": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 honor.wordForms 明确标为“现在分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 38714,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 尊敬, 给以荣誉( honor的现在分词 )",
+        "relatedEntries": [
+          {
+            "word": "honor",
+            "difficulty": 2,
+            "rank": 2057,
+            "meaningZh": "n. 荣誉, 头衔, 信用, 尊敬, 名誉, 阁下, 勋章\nvt. 尊敬, 授予荣誉, 承兑, 实践"
+          }
+        ]
+      }
+    },
+    "permitted": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 permit.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 25743,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 允许( permit的过去式和过去分词 ); 许可; 许用",
+        "relatedEntries": [
+          {
+            "word": "permit",
+            "difficulty": 2,
+            "rank": 2109,
+            "meaningZh": "n. 许可证, 许可, 执照, 通行证\nvt. 允许, 容许, 可能, 使放手做\nvi. 容许, 给以机会, 提供可能"
+          }
+        ]
+      }
+    },
+    "recovered": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 recover.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 20085,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 重新获得；恢复（recover的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "recover",
+            "difficulty": 2,
+            "rank": 2131,
+            "meaningZh": "vt. 重新获得, 恢复, 复原, 拯救\nvi. 痊愈, 复原, 胜诉"
+          }
+        ]
+      }
+    },
+    "posted": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 post.wordForms 明确标为“过去分词 / 过去式”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 22751,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 贴出；布置；通告（post的过去分词）",
+        "relatedEntries": [
+          {
+            "word": "post",
+            "difficulty": 2,
+            "rank": 2148,
+            "meaningZh": "n. 柱, 杆, 准星, 邮件, 邮政, 标竿, 职位, 岗位, 哨所, 兵营\nvt. 张帖, 邮递, 公布, 登入帐, 使熟悉, 布置\nvi. 快速行进\nadv. 急速地"
+          }
+        ]
+      }
+    },
+    "shouted": {
+      "difficulty": 3,
+      "category": "explicit-inflection",
+      "reason": "内部 shout.wordForms 明确标为“过去式 / 过去分词”，子词释义反向指向该原形，词性仅为动词；按基础原形+1安排，排除兼有独立名词/形容词义的同形词。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 29775,
+        "partOfSpeech": "v.",
+        "meaningZh": "v. 呼, 喊, 叫( shout的过去式和过去分词 ); 大声讲",
+        "relatedEntries": [
+          {
+            "word": "shout",
+            "difficulty": 2,
+            "rank": 2154,
+            "meaningZh": "n. 呼喊, 喊声\nvi. 呼喊, 喊叫, 嚷\nvt. 高喊"
+          }
+        ]
+      }
+    },
+    "centre": {
+      "difficulty": 1,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：centre/center；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n. / v.",
+        "meaningZh": "中心；中央；使集中（美式拼写 center）",
+        "relatedEntries": [
+          {
+            "word": "center",
+            "difficulty": 1,
+            "rank": 530,
+            "meaningZh": "n. 中心, 中心点, 中锋\na. 中央的, 位在正中的\nvt. 集中, 定中心\nvi. 居中"
+          }
+        ]
+      }
+    },
+    "favourite": {
+      "difficulty": 2,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：favourite/favorite；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 22274,
+        "partOfSpeech": "n. / adj.",
+        "meaningZh": "n. 喜欢的事物\na. 喜爱的, 宠爱的",
+        "relatedEntries": [
+          {
+            "word": "favorite",
+            "difficulty": 2,
+            "rank": 1593,
+            "meaningZh": "n. 喜欢的事物, 幸运儿\na. 特别受喜爱的, 喜爱的, 宠爱的, 中意的"
+          }
+        ]
+      }
+    },
+    "neighbour": {
+      "difficulty": 2,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：neighbour/neighbor；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "邻居（美式拼写 neighbor）",
+        "relatedEntries": [
+          {
+            "word": "neighbor",
+            "difficulty": 2,
+            "rank": 1424,
+            "meaningZh": "n. 邻居\nvt. 邻接\nvi. 毗邻而居, 友好\na. 邻近的"
+          }
+        ]
+      }
+    },
+    "recognise": {
+      "difficulty": 1,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：recognise/recognize；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "vt.",
+        "meaningZh": "vt. 认识, 辩认, 认出, 承认, 认可, 清楚地认识到, 自认, 公认, 赏识, 准许某人发言",
+        "relatedEntries": [
+          {
+            "word": "recognize",
+            "difficulty": 1,
+            "rank": 779,
+            "meaningZh": "vt. 认出, 认可, 承认, 公认, 识别, 赏识\nvi. 承认, 具结"
+          }
+        ]
+      }
+    },
+    "realise": {
+      "difficulty": 1,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：realise/realize；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "v.",
+        "meaningZh": "意识到；实现（美式拼写 realize）",
+        "relatedEntries": [
+          {
+            "word": "realize",
+            "difficulty": 1,
+            "rank": 616,
+            "meaningZh": "vt. 了解, 实现, 使显得逼真, 变卖\nvi. 变卖"
+          }
+        ]
+      }
+    },
+    "theatre": {
+      "difficulty": 2,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：theatre/theater；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "剧院；戏剧；手术室（美式拼写 theater）",
+        "relatedEntries": [
+          {
+            "word": "theater",
+            "difficulty": 2,
+            "rank": 1535,
+            "meaningZh": "n. 戏院, 电影院, 剧场, 全体观众, 戏剧, 戏剧效果, 阶梯式讲堂, 场所"
+          }
+        ]
+      }
+    },
+    "programme": {
+      "difficulty": 1,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：programme/program；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n. / v.",
+        "meaningZh": "节目；计划；安排（美式常用 program）",
+        "relatedEntries": [
+          {
+            "word": "program",
+            "difficulty": 1,
+            "rank": 194,
+            "meaningZh": "n. 节目, 节目单, 程序, 纲要, 大纲, 计划\nvt. 规划, 拟...计划\nvi. 安排节目, 编程序"
+          }
+        ]
+      }
+    },
+    "labour": {
+      "difficulty": 2,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：labour/labor；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 16348,
+        "partOfSpeech": "n. / v.",
+        "meaningZh": "劳动；劳动力；分娩；努力工作（美式拼写 labor）",
+        "relatedEntries": [
+          {
+            "word": "labor",
+            "difficulty": 2,
+            "rank": 1123,
+            "meaningZh": "n. 劳动, 努力, 工作, 劳工, 分娩\nvi. 劳动, 努力, 苦干\nvt. 详细分析, 使厌烦"
+          }
+        ]
+      }
+    },
+    "defence": {
+      "difficulty": 1,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：defence/defense；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 21674,
+        "partOfSpeech": "n.",
+        "meaningZh": "防御；保卫；辩护（美式拼写 defense）",
+        "relatedEntries": [
+          {
+            "word": "defense",
+            "difficulty": 1,
+            "rank": 657,
+            "meaningZh": "n. 防卫, 防卫物"
+          }
+        ]
+      }
+    },
+    "humour": {
+      "difficulty": 3,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：humour/humor；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n. / v.",
+        "meaningZh": "幽默；心情；迁就（美式拼写 humor）",
+        "relatedEntries": [
+          {
+            "word": "humor",
+            "difficulty": 3,
+            "rank": 3057,
+            "meaningZh": "n. 幽默, 诙谐, 心情\nvt. 迎合, 牵就, 顺应"
+          }
+        ]
+      }
+    },
+    "metre": {
+      "difficulty": 3,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：metre/meter；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "米；公尺；格律（美式拼写 meter）",
+        "relatedEntries": [
+          {
+            "word": "meter",
+            "difficulty": 3,
+            "rank": 3024,
+            "meaningZh": "n. 米, 公尺, 仪表, 计量器\nvt. 以仪表计量"
+          }
+        ]
+      }
+    },
+    "centimetre": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "厘米；公分（美式拼写 centimeter）"
+      }
+    },
+    "tyre": {
+      "difficulty": 3,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：tyre/tire；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "轮胎（英式，美式拼写 tire）",
+        "relatedEntries": [
+          {
+            "word": "tire",
+            "difficulty": 3,
+            "rank": 2850,
+            "meaningZh": "n. 轮胎, 头饰\nvt. 使疲倦, 使厌烦, 打扮\nvi. 疲劳, 厌倦"
+          }
+        ]
+      }
+    },
+    "cosy": {
+      "difficulty": 5,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：cosy/cozy；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 36003,
+        "partOfSpeech": "adj.",
+        "meaningZh": "温暖舒适的；惬意的（美式拼写 cozy）",
+        "relatedEntries": [
+          {
+            "word": "cozy",
+            "difficulty": 5,
+            "rank": 7168,
+            "meaningZh": "a. 舒适的, 安逸的, 惬意的\nn. (茶壶等的)保暖罩, 舒适的座位\nvt. 以假话使安心"
+          }
+        ]
+      }
+    },
+    "harbour": {
+      "difficulty": 4,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：harbour/harbor；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 36866,
+        "partOfSpeech": "n. / v.",
+        "meaningZh": "港口；庇护；心怀（美式拼写 harbor）",
+        "relatedEntries": [
+          {
+            "word": "harbor",
+            "difficulty": 4,
+            "rank": 5726,
+            "meaningZh": "n. 港, 避难所\nv. 庇护, 藏匿, (使)入港停泊"
+          }
+        ]
+      }
+    },
+    "woollen": {
+      "difficulty": 7,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：woollen/woolen；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 41582,
+        "partOfSpeech": "adj.",
+        "meaningZh": "羊毛制的（美式拼写 woolen）",
+        "relatedEntries": [
+          {
+            "word": "woolen",
+            "difficulty": 7,
+            "rank": 16629,
+            "meaningZh": "n. 毛制品\na. 羊毛的, 羊毛制的, 毛织的"
+          }
+        ]
+      }
+    },
+    "moustache": {
+      "difficulty": 6,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：moustache/mustache；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 16314,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 髭, 小胡子, 触须",
+        "relatedEntries": [
+          {
+            "word": "mustache",
+            "difficulty": 6,
+            "rank": 8105,
+            "meaningZh": "n. 髭, 胡子"
+          }
+        ]
+      }
+    },
+    "traveller": {
+      "difficulty": 3,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：traveller/traveler；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 20361,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 旅行者",
+        "relatedEntries": [
+          {
+            "word": "traveler",
+            "difficulty": 3,
+            "rank": 3795,
+            "meaningZh": "n. 旅行者, 游客, 旅客, 旅行推销员, 活动起重架, 行车, 临时记帐单"
+          }
+        ]
+      }
+    },
+    "licence": {
+      "difficulty": 3,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：licence/license；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 29631,
+        "partOfSpeech": "n. / vt.",
+        "meaningZh": "n. 执照, 许可证, 特许\nvt. 许可, 特许, 认可",
+        "relatedEntries": [
+          {
+            "word": "license",
+            "difficulty": 3,
+            "rank": 2872,
+            "meaningZh": "n. 执照, 许可证, 特许\nvt. 许可, 特许"
+          }
+        ]
+      }
+    },
+    "sulphur": {
+      "difficulty": 6,
+      "category": "reviewed-spelling-pair",
+      "reason": "人工明确配对的英美拼写：sulphur/sulfur；现有释义指向同一常用词义，采用库内对应词等级，避免低频拼写独立落入高档。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 22759,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 硫, 硫磺",
+        "relatedEntries": [
+          {
+            "word": "sulfur",
+            "difficulty": 6,
+            "rank": 9550,
+            "meaningZh": "n. 硫, 硫磺\nvt. 用硫磺处理"
+          }
+        ]
+      }
+    },
+    "acre": {
+      "difficulty": 5,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 英亩"
+      }
+    },
+    "bacterium": {
+      "difficulty": 6,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 细菌",
+        "relatedEntries": []
+      }
+    },
+    "centigrade": {
+      "difficulty": 4,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "adj.",
+        "meaningZh": "a. 百分度的, 摄氏的",
+        "relatedEntries": [
+          {
+            "word": "temperature",
+            "difficulty": 2,
+            "rank": 1622,
+            "meaningZh": "n. 温度, 发烧, 热度"
+          }
+        ]
+      }
+    },
+    "centimeter": {
+      "difficulty": 3,
+      "category": "reviewed-family-unit-consistency",
+      "reason": "与本轮明确复核的英美单位词或家庭/旅游单复数词保持一致：厘米单位共同3级、祖父母称谓共同2级、纪念品单复数共同5级；依据当前中文主释义，不改变公开频次。",
+      "evidence": {
+        "currentDifficulty": 6,
+        "rank": 10718,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 厘米"
+      }
+    },
+    "chips": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 炸土豆条；小木片；（作赌注用的）圆形筹码；缺口（chip的复数形式）",
+        "relatedEntries": [
+          {
+            "word": "chip",
+            "difficulty": 2,
+            "rank": 2159,
+            "meaningZh": "n. 屑片, 薄片, 碎片\nvt. 削, 切, 削成碎片, 使摔倒, 凿\nvi. 削下屑片"
+          },
+          {
+            "word": "potato",
+            "difficulty": 3,
+            "rank": 2253,
+            "meaningZh": "n. 马铃薯"
+          }
+        ]
+      }
+    },
+    "congratulation": {
+      "difficulty": 4,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 祝贺, 恭喜"
+      }
+    },
+    "customs": {
+      "difficulty": 4,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 海关, 关卡, 关税"
+      }
+    },
+    "firework": {
+      "difficulty": 4,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 烟火具, 烟火, 烟火信号弹, 焰火, 激情的表现"
+      }
+    },
+    "franc": {
+      "difficulty": 5,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 法郎"
+      }
+    },
+    "gallon": {
+      "difficulty": 5,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 加仑"
+      }
+    },
+    "goods": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 货物",
+        "relatedEntries": [
+          {
+            "word": "product",
+            "difficulty": 1,
+            "rank": 569,
+            "meaningZh": "n. 产品, 结果, 乘积"
+          }
+        ]
+      }
+    },
+    "gram": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "克（质量单位）"
+      }
+    },
+    "grandparents": {
+      "difficulty": 2,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 外祖父母；祖父母（grandparent的复数）",
+        "relatedEntries": [
+          {
+            "word": "grandparent",
+            "difficulty": 5,
+            "rank": 4679,
+            "meaningZh": "n. 祖父母"
+          },
+          {
+            "word": "grandmother",
+            "difficulty": 3,
+            "rank": 2495,
+            "meaningZh": "n. 祖母, 女祖先"
+          },
+          {
+            "word": "grandfather",
+            "difficulty": 3,
+            "rank": 2950,
+            "meaningZh": "n. 祖父, 始祖"
+          }
+        ]
+      }
+    },
+    "grandparent": {
+      "difficulty": 2,
+      "category": "reviewed-family-unit-consistency",
+      "reason": "与本轮明确复核的英美单位词或家庭/旅游单复数词保持一致：厘米单位共同3级、祖父母称谓共同2级、纪念品单复数共同5级；依据当前中文主释义，不改变公开频次。",
+      "evidence": {
+        "currentDifficulty": 5,
+        "rank": 4679,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 祖父母"
+      }
+    },
+    "grandmother": {
+      "difficulty": 2,
+      "category": "reviewed-family-unit-consistency",
+      "reason": "与本轮明确复核的英美单位词或家庭/旅游单复数词保持一致：厘米单位共同3级、祖父母称谓共同2级、纪念品单复数共同5级；依据当前中文主释义，不改变公开频次。",
+      "evidence": {
+        "currentDifficulty": 3,
+        "rank": 2495,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 祖母, 女祖先"
+      }
+    },
+    "grandfather": {
+      "difficulty": 2,
+      "category": "reviewed-family-unit-consistency",
+      "reason": "与本轮明确复核的英美单位词或家庭/旅游单复数词保持一致：厘米单位共同3级、祖父母称谓共同2级、纪念品单复数共同5级；依据当前中文主释义，不改变公开频次。",
+      "evidence": {
+        "currentDifficulty": 3,
+        "rank": 2950,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 祖父, 始祖"
+      }
+    },
+    "hardworking": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "adj.",
+        "meaningZh": "a. 苦干的, 不辞辛劳的",
+        "relatedEntries": [
+          {
+            "word": "hard",
+            "difficulty": 1,
+            "rank": 438,
+            "meaningZh": "a. 坚硬的, 硬的, 难的, 艰苦的, 困难的, 坚固的, 猛烈的, 艰难的, 结实的, 确实的\nadv. 坚硬地, 努力地, 辛苦地, 接近地, 猛烈地, 牢固地"
+          },
+          {
+            "word": "work",
+            "difficulty": 1,
+            "rank": 117,
+            "meaningZh": "n. 工作；作品\nv. 工作；运转；起作用"
+          }
+        ]
+      }
+    },
+    "kilo": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "千克；公斤（kilogram 的口语形式）",
+        "relatedEntries": [
+          {
+            "word": "kilogram",
+            "difficulty": 10,
+            "rank": 1000000,
+            "meaningZh": "千克；公斤"
+          }
+        ]
+      }
+    },
+    "kilogram": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "千克；公斤",
+        "relatedEntries": [
+          {
+            "word": "gram",
+            "difficulty": 10,
+            "rank": 1000000,
+            "meaningZh": "克（质量单位）"
+          }
+        ]
+      }
+    },
+    "kilometre": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "千米；公里（美式拼写 kilometer）",
+        "relatedEntries": [
+          {
+            "word": "meter",
+            "difficulty": 3,
+            "rank": 3024,
+            "meaningZh": "n. 米, 公尺, 仪表, 计量器\nvt. 以仪表计量"
+          },
+          {
+            "word": "metre",
+            "difficulty": 10,
+            "rank": 1000000,
+            "meaningZh": "米；公尺；格律（美式拼写 meter）"
+          }
+        ]
+      }
+    },
+    "latest": {
+      "difficulty": 2,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "adj.",
+        "meaningZh": "a. 最近的",
+        "relatedEntries": [
+          {
+            "word": "late",
+            "difficulty": 1,
+            "rank": 437,
+            "meaningZh": "a. 迟的, 晚的, 已故的\nadv. 很晚, 很迟, 晚"
+          }
+        ]
+      }
+    },
+    "means": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 方法, 手段, 工具, 财产, 收入",
+        "relatedEntries": [
+          {
+            "word": "method",
+            "difficulty": 1,
+            "rank": 998,
+            "meaningZh": "n. 方法, 办法, 条理, 秩序"
+          },
+          {
+            "word": "mean",
+            "difficulty": 1,
+            "rank": 154,
+            "meaningZh": "a. 低劣的, 卑贱的, 简陋的, 吝啬的, 惭愧的, 平均的, 中间的, 普通的\nvt. 意谓, 想要, 意欲, 预定\nvi. 用意, 有意义\nn. 平均数, 中间, 中庸"
+          }
+        ]
+      }
+    },
+    "oilfield": {
+      "difficulty": 7,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 油田",
+        "relatedEntries": [
+          {
+            "word": "oil",
+            "difficulty": 1,
+            "rank": 546,
+            "meaningZh": "n. 油, 石油, 油画颜料\nvt. 涂油于, 使融化成油状, 加油于\nvi. 加燃油, 融化"
+          },
+          {
+            "word": "field",
+            "difficulty": 1,
+            "rank": 439,
+            "meaningZh": "n. 领域, 田地, 场地, 战场, 场, 域\nvt. 使...晒在场上, 使上场\na. 田间的, 野生的, 野外的, 田赛的"
+          }
+        ]
+      }
+    },
+    "ox": {
+      "difficulty": 4,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 牛"
+      }
+    },
+    "pence": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "便士（penny 的复数，常用于表示金额）",
+        "relatedEntries": [
+          {
+            "word": "penny",
+            "difficulty": 10,
+            "rank": 1000000,
+            "meaningZh": "便士；一分硬币"
+          },
+          {
+            "word": "cent",
+            "difficulty": 2,
+            "rank": 1000000,
+            "meaningZh": "分（美元、欧元等货币单位的百分之一）"
+          }
+        ]
+      }
+    },
+    "penny": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "便士；一分硬币"
+      }
+    },
+    "pint": {
+      "difficulty": 5,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 品脱(干量或液量的单位)"
+      }
+    },
+    "refreshments": {
+      "difficulty": 5,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 茶点；点心；小吃"
+      }
+    },
+    "repairs": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 备件；修理；修理费；修理工作（repair的复数形式）",
+        "relatedEntries": [
+          {
+            "word": "repair",
+            "difficulty": 3,
+            "rank": 3874,
+            "meaningZh": "n. 修理, 补救, 修复\nvt. 修理, 修补, 补救, 恢复, 补偿\nvi. 修理, 修补, 补救, 恢复, 去, 常去, 集合"
+          }
+        ]
+      }
+    },
+    "scores": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 大量, 众多; 二十( score的名词复数 ); （游戏或比赛中的）得分; 大量; 百分数",
+        "relatedEntries": [
+          {
+            "word": "score",
+            "difficulty": 2,
+            "rank": 1070,
+            "meaningZh": "n. 得分, 抓痕, 二十个, 刻痕, 帐目, 乐谱, 起跑线, 终点线, 大量\nvt. 刻划, 划线, 获得, 评价, 把...记下\nvi. 刻痕, 记分, 得分"
+          }
+        ]
+      }
+    },
+    "secondhand": {
+      "difficulty": 4,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "adj. / adv.",
+        "meaningZh": "a. 间接获得的, 旧的, 二手的, 做旧货买卖的\nadv. 间接地, 间接听来, 以旧货",
+        "relatedEntries": [
+          {
+            "word": "used",
+            "difficulty": 2,
+            "rank": 1828,
+            "meaningZh": "a. 使用过的, 二手的, 习惯的"
+          }
+        ]
+      }
+    },
+    "smartphone": {
+      "difficulty": 2,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "智能手机",
+        "relatedEntries": [
+          {
+            "word": "phone",
+            "difficulty": 1,
+            "rank": 557,
+            "meaningZh": "n. 电话, 受话器, 耳机\nvt. 打电话给\nvi. 打电话"
+          },
+          {
+            "word": "computer",
+            "difficulty": 1,
+            "rank": 589,
+            "meaningZh": "n. 电脑, 电子计算机"
+          }
+        ]
+      }
+    },
+    "sneaker": {
+      "difficulty": 4,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 鬼鬼祟祟做事的人, 卑鄙者, 帆布胶底运动鞋",
+        "relatedEntries": [
+          {
+            "word": "shoe",
+            "difficulty": 1,
+            "rank": 1423,
+            "meaningZh": "n. 鞋, 靴, 外胎\nvt. 给...穿鞋, 为马钉蹄铁"
+          }
+        ]
+      }
+    },
+    "souvenirs": {
+      "difficulty": 5,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 纪念品( souvenir的名词复数 )",
+        "relatedEntries": [
+          {
+            "word": "souvenir",
+            "difficulty": 6,
+            "rank": 8063,
+            "meaningZh": "n. 纪念品"
+          }
+        ]
+      }
+    },
+    "souvenir": {
+      "difficulty": 5,
+      "category": "reviewed-family-unit-consistency",
+      "reason": "与本轮明确复核的英美单位词或家庭/旅游单复数词保持一致：厘米单位共同3级、祖父母称谓共同2级、纪念品单复数共同5级；依据当前中文主释义，不改变公开频次。",
+      "evidence": {
+        "currentDifficulty": 6,
+        "rank": 8063,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 纪念品"
+      }
+    },
+    "ton": {
+      "difficulty": 3,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "n.",
+        "meaningZh": "吨（美吨约907千克，英吨约1016千克；公吨为 tonne）"
+      }
+    },
+    "westwards": {
+      "difficulty": 4,
+      "category": "reviewed-unranked-word",
+      "reason": "该词现有rank为缺省值1000000，不能据此认定极难；依据库内中文释义的日常/单位/基本词形用途人工定级，不修改公开词频，也不伪造频次。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 1000000,
+        "partOfSpeech": "adv.",
+        "meaningZh": "adv. 向西"
+      }
+    },
+    "lorry": {
+      "difficulty": 3,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 24926,
+        "partOfSpeech": "n.",
+        "meaningZh": "卡车；货车（英式，美式常用 truck）",
+        "relatedEntries": [
+          {
+            "word": "truck",
+            "difficulty": 2,
+            "rank": 1237,
+            "meaningZh": "n. 卡车, 货车, 对...进行交易, 来往, 实物工资, (供应市场的)蔬菜, 废物, 废话\nvt. 对...进行交易, 交往, 以卡车运输\nvi. 驾驶卡车, 以物易物"
+          }
+        ]
+      }
+    },
+    "aubergine": {
+      "difficulty": 6,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 37328,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 茄子",
+        "relatedEntries": [
+          {
+            "word": "eggplant",
+            "difficulty": 6,
+            "rank": 10618,
+            "meaningZh": "n. 茄子"
+          }
+        ]
+      }
+    },
+    "spanner": {
+      "difficulty": 6,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 37163,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 扳手",
+        "relatedEntries": [
+          {
+            "word": "wrench",
+            "difficulty": 6,
+            "rank": 10376,
+            "meaningZh": "n. 扳钳, 扳手, 扭伤, 歪曲, 痛苦\nvt. 猛扭, 扭伤, 曲解, 折磨\nvi. 猛扭, 猛绞"
+          }
+        ]
+      }
+    },
+    "rubbish": {
+      "difficulty": 4,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 14955,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 废物, 垃圾, 胡说",
+        "relatedEntries": [
+          {
+            "word": "trash",
+            "difficulty": 4,
+            "rank": 4408,
+            "meaningZh": "n. 垃圾, 废物\nvt. 丢弃"
+          }
+        ]
+      }
+    },
+    "dustbin": {
+      "difficulty": 4,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 28258,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 垃圾箱",
+        "relatedEntries": [
+          {
+            "word": "bin",
+            "difficulty": 4,
+            "rank": 1000000,
+            "meaningZh": "垃圾箱；容器；把……扔进垃圾箱"
+          },
+          {
+            "word": "trash",
+            "difficulty": 4,
+            "rank": 4408,
+            "meaningZh": "n. 垃圾, 废物\nvt. 丢弃"
+          }
+        ]
+      }
+    },
+    "cheque": {
+      "difficulty": 3,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 31750,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 支票",
+        "relatedEntries": [
+          {
+            "word": "check",
+            "difficulty": 1,
+            "rank": 854,
+            "meaningZh": "n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军\nvt. 检查, 阻止, 核对, 寄存, 托运\nvi. 逐项相符, 开支票"
+          }
+        ]
+      }
+    },
+    "chopsticks": {
+      "difficulty": 3,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 17509,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 筷子",
+        "relatedEntries": [
+          {
+            "word": "spoon",
+            "difficulty": 4,
+            "rank": 4339,
+            "meaningZh": "n. 匙, 调羹, 匙形工具\nvt. 以匙舀起, 调情, 使成匙状"
+          },
+          {
+            "word": "fork",
+            "difficulty": 3,
+            "rank": 3758,
+            "meaningZh": "n. 叉子, 叉状物, 分岔\nvi. 分支, 分歧\nvt. 做成叉形, 叉起"
+          }
+        ]
+      }
+    },
+    "housework": {
+      "difficulty": 3,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 15787,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 家事, 家务",
+        "relatedEntries": [
+          {
+            "word": "home",
+            "difficulty": 1,
+            "rank": 224,
+            "meaningZh": "n. 家, 避难所, 故乡\na. 家庭的, 国内的, 打中目标的\nadv. 在家, 在本国, 打中目标地"
+          },
+          {
+            "word": "work",
+            "difficulty": 1,
+            "rank": 117,
+            "meaningZh": "n. 工作；作品\nv. 工作；运转；起作用"
+          }
+        ]
+      }
+    },
+    "workbook": {
+      "difficulty": 4,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 8,
+        "rank": 19444,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 辅助练习册, 工作规程书, 工作记事簿, 笔记本, 工作手册",
+        "relatedEntries": [
+          {
+            "word": "book",
+            "difficulty": 1,
+            "rank": 241,
+            "meaningZh": "n. 书, 书籍, 帐簿, 名册, 工作簿\nv. 登记, 预订"
+          },
+          {
+            "word": "homework",
+            "difficulty": 4,
+            "rank": 4778,
+            "meaningZh": "n. 家庭作业, 家里做的工作"
+          }
+        ]
+      }
+    },
+    "blackboard": {
+      "difficulty": 3,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 13322,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 黑板",
+        "relatedEntries": [
+          {
+            "word": "school",
+            "difficulty": 1,
+            "rank": 125,
+            "meaningZh": "n. 学校, 鱼群, 门派, 学派\nvt. 教育, 训练, 培养\nvi. 成群地游"
+          },
+          {
+            "word": "board",
+            "difficulty": 1,
+            "rank": 667,
+            "meaningZh": "n. 木板, 甲板, 膳食, 会议桌\nvt. 乘船, 供膳食, 用板覆盖\nvi. 搭伙"
+          }
+        ]
+      }
+    },
+    "eraser": {
+      "difficulty": 3,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 16590,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 擦子",
+        "relatedEntries": [
+          {
+            "word": "pencil",
+            "difficulty": 1,
+            "rank": 4410,
+            "meaningZh": "n. 铅笔, 色笔, 眉笔, 画笔, 光线束\nvt. 用铅笔写或涂, 草拟"
+          }
+        ]
+      }
+    },
+    "toothbrush": {
+      "difficulty": 3,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 13896,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 牙刷",
+        "relatedEntries": [
+          {
+            "word": "tooth",
+            "difficulty": 1,
+            "rank": 1854,
+            "meaningZh": "n. 牙齿, 齿状物, 爱好\nvt. 装以齿, 将...切成齿状\nvi. 啮合"
+          },
+          {
+            "word": "brush",
+            "difficulty": 3,
+            "rank": 3223,
+            "meaningZh": "n. 刷子, 毛笔, 争吵\nvt. 刷\nvi. 擦过, 掠过"
+          }
+        ]
+      }
+    },
+    "toothpaste": {
+      "difficulty": 3,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 7,
+        "rank": 14165,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 牙膏",
+        "relatedEntries": [
+          {
+            "word": "tooth",
+            "difficulty": 1,
+            "rank": 1854,
+            "meaningZh": "n. 牙齿, 齿状物, 爱好\nvt. 装以齿, 将...切成齿状\nvi. 啮合"
+          }
+        ]
+      }
+    },
+    "stapler": {
+      "difficulty": 5,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 28941,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 主要物产商, 把羊毛分级的人, 订书机",
+        "relatedEntries": [
+          {
+            "word": "paper",
+            "difficulty": 1,
+            "rank": 519,
+            "meaningZh": "n. 纸, 文件, 文章, 报纸, 证券, 证件\nvt. 用纸糊, 贴壁纸于, 用纸包装\nvi. 贴壁纸\na. 纸做的, 纸上的"
+          }
+        ]
+      }
+    },
+    "worse": {
+      "difficulty": 2,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 9,
+        "rank": 25899,
+        "partOfSpeech": "n. / adj. / adv.",
+        "meaningZh": "n. 更坏的事, 更恶劣的事, 败局\na. 更坏的, 更恶劣的\nadv. 更坏地, 更恶劣地",
+        "relatedEntries": [
+          {
+            "word": "bad",
+            "difficulty": 1,
+            "rank": 282,
+            "meaningZh": "a. 坏的\nn. 坏\nadv. 坏地"
+          }
+        ]
+      }
+    },
+    "worst": {
+      "difficulty": 2,
+      "category": "reviewed-daily-word",
+      "reason": "按现有中文主释义复核为日常物品、课堂词、英式日常词或基本比较级；参考内部相关词的学习带，避免单凭词长或美国语料低频判断为9/10级。",
+      "evidence": {
+        "currentDifficulty": 10,
+        "rank": 33505,
+        "partOfSpeech": "n. / adj. / adv.",
+        "meaningZh": "n. 最坏, 最坏的时候\na. 最坏的, 最恶劣的, 最不利的\nadv. 最坏, 最糟",
+        "relatedEntries": [
+          {
+            "word": "bad",
+            "difficulty": 1,
+            "rank": 282,
+            "meaningZh": "a. 坏的\nn. 坏\nadv. 坏地"
+          }
+        ]
+      }
+    },
+    "republican": {
+      "difficulty": 5,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 1,
+        "rank": 594,
+        "partOfSpeech": "n. / adj.",
+        "meaningZh": "n. 共和主义者, 共和党员\na. 共和政体的, 共和国的, 共和主义的"
+      }
+    },
+    "democrat": {
+      "difficulty": 5,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 1,
+        "rank": 903,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 民主人士, 民主主义者, 民主党党员"
+      }
+    },
+    "federal": {
+      "difficulty": 4,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 1,
+        "rank": 493,
+        "partOfSpeech": "adj.",
+        "meaningZh": "a. 联邦的, 联合的, 同盟的"
+      }
+    },
+    "congress": {
+      "difficulty": 4,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 1,
+        "rank": 638,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 国会, 会议, 讨论会"
+      }
+    },
+    "senate": {
+      "difficulty": 4,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 2,
+        "rank": 1111,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 参议院, 立法机构, 评议会"
+      }
+    },
+    "senator": {
+      "difficulty": 4,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 3,
+        "rank": 2769,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 参议员, (某些大学的)理事"
+      }
+    },
+    "executive": {
+      "difficulty": 4,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 1,
+        "rank": 863,
+        "partOfSpeech": "n. / adj.",
+        "meaningZh": "n. 执行部门, 执行委员会, 执行者, 经理主管人员\na. 执行的, 善于执行的, 善于经营的"
+      }
+    },
+    "regime": {
+      "difficulty": 4,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 2,
+        "rank": 1848,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 政权, 当权期间, 政体, 社会制度, 体制, 情态"
+      }
+    },
+    "fiscal": {
+      "difficulty": 5,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 3,
+        "rank": 3635,
+        "partOfSpeech": "adj.",
+        "meaningZh": "a. 财政的, 国库的"
+      }
+    },
+    "doctrine": {
+      "difficulty": 5,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 3,
+        "rank": 3746,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 教条, 学说"
+      }
+    },
+    "mortgage": {
+      "difficulty": 5,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 3,
+        "rank": 3215,
+        "partOfSpeech": "n. / vt.",
+        "meaningZh": "n. 抵押, 约束性义务, 抵押借款\nvt. 抵押, 以...作担保, 把...许给"
+      }
+    },
+    "sodium": {
+      "difficulty": 5,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 3,
+        "rank": 3783,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 钠"
+      }
+    },
+    "cholesterol": {
+      "difficulty": 5,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 3,
+        "rank": 3119,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 胆固醇"
+      }
+    },
+    "coalition": {
+      "difficulty": 4,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 3,
+        "rank": 2241,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 结合体, 结合, 联合"
+      }
+    },
+    "profound": {
+      "difficulty": 4,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 3,
+        "rank": 3735,
+        "partOfSpeech": "adj.",
+        "meaningZh": "a. 极深的, 深厚的, 深刻的, 渊博的"
+      }
+    },
+    "subtle": {
+      "difficulty": 4,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 3,
+        "rank": 3435,
+        "partOfSpeech": "adj.",
+        "meaningZh": "a. 敏锐的, 精细的, 狡猾的, 稀薄的, 灵巧的, 微妙的"
+      }
+    },
+    "strategy": {
+      "difficulty": 3,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 1,
+        "rank": 844,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 战略, 策略"
+      }
+    },
+    "analysis": {
+      "difficulty": 3,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 1,
+        "rank": 811,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 分析"
+      }
+    },
+    "institution": {
+      "difficulty": 3,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 1,
+        "rank": 987,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 机构, 惯例, 制度"
+      }
+    },
+    "property": {
+      "difficulty": 2,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 1,
+        "rank": 993,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 财产, 所有权, 性质, 属性"
+      }
+    },
+    "theory": {
+      "difficulty": 3,
+      "category": "reviewed-domain-floor",
+      "reason": "现有释义主要为抽象、政治新闻、金融或科学概念，频次靠前不等于初学者核心；沿用项目REVIEWED_FLOOR对congressional/legislation/hypothesis等的人工复核方式，建议适度提高学习带。",
+      "evidence": {
+        "currentDifficulty": 1,
+        "rank": 918,
+        "partOfSpeech": "n.",
+        "meaningZh": "n. 理论, 学说, 原理, 意见, 推测"
+      }
+    },
+    "rape": {
+      "difficulty": 6,
+      "category": "reviewed-domain-floor",
+      "reason": "现有主释义为强奸这一刑事犯罪义；与项目已经列为6级的assault采用同类学习顺序，保留词条，避免在初级学习流中作为普通中性词出现。",
+      "evidence": {
+        "currentDifficulty": 3,
+        "rank": 3416,
+        "partOfSpeech": "n. / vt.",
+        "meaningZh": "n. 抢夺, 掠夺, 强奸, 葡萄渣, 芸苔\nvt. 掠夺, 抢夺, 强奸",
+        "relatedEntries": [
+          {
+            "word": "assault",
+            "difficulty": 6,
+            "source": "tools/vocabulary_levels.py REVIEWED_FLOOR"
+          }
+        ]
+      }
+    },
+    "laptop": {
+      "difficulty": 2,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "upload": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "download": {
+      "difficulty": 2,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "offline": {
+      "difficulty": 2,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "username": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "login": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "logout": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "inbox": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "hyperlink": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "screenshot": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "selfie": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "emoji": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "smartwatch": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "touchscreen": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "ebook": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "audiobook": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "webcam": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "router": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "earbud": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "phishing": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "encryption": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "ransomware": {
+      "difficulty": 6,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "cybersecurity": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "chatbot": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "dataset": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "webinar": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "vlog": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "livestream": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "hashtag": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "influencer": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "blockchain": {
+      "difficulty": 6,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "bitcoin": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "cryptocurrency": {
+      "difficulty": 6,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "fintech": {
+      "difficulty": 6,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "broadband": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "reboot": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "multitask": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "cannot": {
+      "difficulty": 1,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "healthcare": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "childcare": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "skincare": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "skin",
+            "field": "derivatives",
+            "meaning": "a. 护理皮肤的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "skinny",
+            "field": "derivatives",
+            "meaning": "a. 护理皮肤的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "haircare": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "entrepreneurship": {
+      "difficulty": 6,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "usability": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "employability": {
+      "difficulty": 6,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "mindfulness": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "mindful",
+            "field": "derivatives",
+            "meaning": "n. 留心, 警觉",
+            "source": "WordNet 派生关系 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "wellbeing": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "contactless": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "overthink": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "troubleshoot": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "unsubscribe": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "unfollow": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "unfriend": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "tactics": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "tactical",
+            "field": "derivatives",
+            "meaning": "n. 用兵学, 战术, 兵法",
+            "source": "WordNet 派生关系 · ECDICT 中文"
+          },
+          {
+            "from": "tactician",
+            "field": "derivatives",
+            "meaning": "n. 用兵学, 战术, 兵法",
+            "source": "WordNet 派生关系 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "alsoMentionedAsFormOf": [
+          "tactic"
+        ],
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "grammatically": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "grammar",
+            "field": "derivatives",
+            "meaning": "adv. 符合语法规则地",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "grammatical",
+            "field": "derivatives",
+            "meaning": "词族关联 · adv. 符合语法规则地",
+            "source": "Open English WordNet 2025 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "acoustics": {
+      "difficulty": 6,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "acoustic",
+            "field": "derivatives",
+            "meaning": "n. 音响效果, 声学",
+            "source": "WordNet 派生关系 · ECDICT 中文"
+          },
+          {
+            "from": "acoustical",
+            "field": "derivatives",
+            "meaning": "n. 音响效果, 声学",
+            "source": "WordNet 派生关系 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "alsoMentionedAsFormOf": [
+          "acoustic"
+        ],
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "waterless": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "water",
+            "field": "derivatives",
+            "meaning": "a. 无水的, 干的, 不用水的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "watery",
+            "field": "derivatives",
+            "meaning": "a. 无水的, 干的, 不用水的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "waterproof",
+            "field": "derivatives",
+            "meaning": "a. 无水的, 干的, 不用水的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "friendless": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "friend",
+            "field": "derivatives",
+            "meaning": "a. 没有朋友的, 无依无靠的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "friendly",
+            "field": "derivatives",
+            "meaning": "a. 没有朋友的, 无依无靠的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "friendship",
+            "field": "derivatives",
+            "meaning": "a. 没有朋友的, 无依无靠的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "windless": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "wind",
+            "field": "derivatives",
+            "meaning": "a. 无风的, 平静的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "windy",
+            "field": "derivatives",
+            "meaning": "a. 无风的, 平静的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "sunless": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "sun",
+            "field": "derivatives",
+            "meaning": "a. 阳光照射不到的, 阴暗的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "sunny",
+            "field": "derivatives",
+            "meaning": "a. 阳光照射不到的, 阴暗的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "sunshine",
+            "field": "derivatives",
+            "meaning": "a. 阳光照射不到的, 阴暗的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "yoghurt": {
+      "difficulty": 3,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "nappy": {
+      "difficulty": 3,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "pram": {
+      "difficulty": 3,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "courgette": {
+      "difficulty": 4,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "schoolbag": {
+      "difficulty": 2,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "sunblock": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "handwash": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "sanitizer": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "sanitiser": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "moisturiser": {
+      "difficulty": 4,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "enrol": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "reviewed-spelling-variant",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "internalEquivalent": "enroll",
+        "ipaEvidence": "与内部已存在词明确为同一词的拼写变体，复用其已有美音；未用于英国音标。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "enrolment": {
+      "difficulty": 5,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "organise": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "reviewed-spelling-variant",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "internalEquivalent": "organize",
+        "ipaEvidence": "与内部已存在词明确为同一词的拼写变体，复用其已有美音；未用于英国音标。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "apologise": {
+      "difficulty": 3,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "colourless": {
+      "difficulty": 4,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "colourfully": {
+      "difficulty": 5,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "anticlockwise": {
+      "difficulty": 4,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "pragmatics": {
+      "difficulty": 7,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      }
+    },
+    "seahorse": {
+      "difficulty": 4,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "meerkat": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "gerbil": {
+      "difficulty": 5,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "stoat": {
+      "difficulty": 6,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "jackdaw": {
+      "difficulty": 6,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "macaque": {
+      "difficulty": 6,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      }
+    },
+    "pants": {
+      "difficulty": 1,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "glasses": {
+      "difficulty": 2,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "lexicalized-plural-or-spelling-variant",
+        "reason": "现有glass词头只释玻璃/杯/透镜；眼镜是词汇化复数义，需要明确呈现。",
+        "usReview": "项目离线逐词显式复核 v13",
+        "ukEvidence": "现有项目UK三表精确拼写匹配；未命中留空。"
+      }
+    },
+    "scissors": {
+      "difficulty": 2,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "lexicalized-plural-or-spelling-variant",
+        "reason": "现有scissor词形把scissors只标为动词第三单；常用剪刀为复数名词。",
+        "usReview": "项目离线逐词显式复核 v13",
+        "ukEvidence": "现有项目UK三表精确拼写匹配；未命中留空。"
+      }
+    },
+    "leggings": {
+      "difficulty": 3,
+      "category": "reviewed-new-headword",
+      "reason": "新词按常用语境与概念难度显式复核，不以无词频哨兵判10级。",
+      "evidence": {
+        "type": "lexicalized-plural-or-spelling-variant",
+        "reason": "现有legging仅释绑腿/裹腿；leggings常用服装义未正确呈现。",
+        "usReview": "项目离线逐词显式复核 v13",
+        "ukEvidence": "现有项目UK三表精确拼写匹配；未命中留空。"
+      }
+    },
+    "pyjamas": {
+      "difficulty": 3,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "yogurt": {
+      "difficulty": 3,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "diaper": {
+      "difficulty": 3,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "stroller": {
+      "difficulty": 3,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "zucchini": {
+      "difficulty": 4,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "moisturizer": {
+      "difficulty": 4,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "enrollment": {
+      "difficulty": 5,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "apologize": {
+      "difficulty": 3,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "colorless": {
+      "difficulty": 4,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "colorfully": {
+      "difficulty": 5,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "clockwise": {
+      "difficulty": 4,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "headphone": {
+      "difficulty": 3,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "earphone": {
+      "difficulty": 3,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "pajamas": {
+      "difficulty": 3,
+      "category": "reviewed-daily-counterpart",
+      "reason": "日常词显式复核：同义英美词/拼写变体保持相称难度；pants属于现有基础词核心。",
+      "evidence": {
+        "internalCounterpartReview": true
+      }
+    },
+    "grammatical": {
+      "difficulty": 5,
+      "category": "reviewed-counterpart-consistency",
+      "reason": "独立复核常见词族或英美对应词，使基础义与衍生义难度相称；不按后缀自动推断。",
+      "evidence": {
+        "finalInternalFamilyReview": true
+      }
+    },
+    "employable": {
+      "difficulty": 5,
+      "category": "reviewed-counterpart-consistency",
+      "reason": "独立复核常见词族或英美对应词，使基础义与衍生义难度相称；不按后缀自动推断。",
+      "evidence": {
+        "finalInternalFamilyReview": true
+      }
+    },
+    "usable": {
+      "difficulty": 5,
+      "category": "reviewed-counterpart-consistency",
+      "reason": "独立复核常见词族或英美对应词，使基础义与衍生义难度相称；不按后缀自动推断。",
+      "evidence": {
+        "finalInternalFamilyReview": true
+      }
+    },
+    "kilometer": {
+      "difficulty": 3,
+      "category": "reviewed-counterpart-consistency",
+      "reason": "独立复核常见词族或英美对应词，使基础义与衍生义难度相称；不按后缀自动推断。",
+      "evidence": {
+        "finalInternalFamilyReview": true
+      }
+    },
+    "litre": {
+      "difficulty": 3,
+      "category": "reviewed-counterpart-consistency",
+      "reason": "独立复核常见词族或英美对应词，使基础义与衍生义难度相称；不按后缀自动推断。",
+      "evidence": {
+        "finalInternalFamilyReview": true
+      }
+    },
+    "liter": {
+      "difficulty": 3,
+      "category": "reviewed-counterpart-consistency",
+      "reason": "独立复核常见词族或英美对应词，使基础义与衍生义难度相称；不按后缀自动推断。",
+      "evidence": {
+        "finalInternalFamilyReview": true
+      }
+    },
+    "analyse": {
+      "difficulty": 3,
+      "category": "reviewed-counterpart-consistency",
+      "reason": "独立复核常见词族或英美对应词，使基础义与衍生义难度相称；不按后缀自动推断。",
+      "evidence": {
+        "finalInternalFamilyReview": true
+      }
+    },
+    "aeroplane": {
+      "difficulty": 3,
+      "category": "reviewed-counterpart-consistency",
+      "reason": "独立复核常见词族或英美对应词，使基础义与衍生义难度相称；不按后缀自动推断。",
+      "evidence": {
+        "finalInternalFamilyReview": true
+      }
+    }
+  }
+}

@@ -1,0 +1,4451 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 20,
+  "wordCount": 28167,
+  "completeCoreWordCount": 3480,
+  "sources": {
+    "ecdict": {
+      "project": "ECDICT",
+      "repository": "https://github.com/skywind3000/ECDICT",
+      "commit": "bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+      "path": "ecdict.csv",
+      "sha256": "1a6947e04785db63613a92e14903cdae7954f7e84860b10e68e5c7cbb3f9c3cf",
+      "license": "MIT",
+      "fields": [
+        "word",
+        "partOfSpeech",
+        "meaningZh",
+        "rank",
+        "collocations",
+        "derivatives.meaningZh",
+        "wordForms"
+      ]
+    },
+    "ipa": {
+      "project": "ipa-dict, en_US (General American)",
+      "repository": "https://github.com/open-dict-data/ipa-dict",
+      "commit": "972cd67dd5f96bc5660e28070cde26e3928abcd7",
+      "path": "data/en_US.txt",
+      "sha256": "2af6f154a5c363275f052d1f85acedef38ed185ca9745aa4314be77f6b70de67",
+      "license": "MIT; includes CMUdict-derived data (BSD-style notice retained)",
+      "fields": [
+        "pronunciationUs"
+      ]
+    },
+    "ipaUk": {
+      "project": "ipa-dict, en_UK (Received Pronunciation)",
+      "repository": "https://github.com/open-dict-data/ipa-dict",
+      "commit": "972cd67dd5f96bc5660e28070cde26e3928abcd7",
+      "path": "data/en_UK.txt",
+      "sha256": "221394caef0cf723b4f2df81a98ac33191293257b88aed5b1fb89466d3a0dc77",
+      "license": "GPL-3.0; derived from ipacards, original notice retained separately from US IPA",
+      "licenseUrl": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "upstreamRepository": "https://github.com/melissaboiko/ipacards",
+      "upstreamCredit": "leoboiko (now melissaboiko), as credited by ipa-dict",
+      "fields": [
+        "pronunciationUk"
+      ],
+      "sourceAsset": "british_ipa/en_UK.txt",
+      "generationSourceAsset": "british_ipa/extract_british_ipa.py",
+      "licenseAsset": "british_ipa/LICENSE-GPL-3.0.txt"
+    },
+    "tatoeba": {
+      "project": "Tatoeba English–Mandarin sentence pairs, selected by ManyThings.org",
+      "url": "https://www.manythings.org/anki/cmn-eng.zip",
+      "snapshot": "2026-02-13",
+      "path": "cmn-eng.zip",
+      "sha256": "d606361aa7312dcdfb15ef4fc51cb1e7ed8bc2dc608a7b192626cd36e8403106",
+      "license": "CC BY 2.0 FR; per-sentence owner and ID retained",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/",
+      "fields": [
+        "examples"
+      ]
+    },
+    "wordnet": {
+      "project": "Princeton WordNet 3.0",
+      "url": "https://wordnetcode.princeton.edu/3.0/WNdb-3.0.tar.gz",
+      "path": "WNdb-3.0.tar.gz",
+      "sha256": "658b1ba191f5f98c2e9bae3e25c186013158f30ef779f191d2a44e5d25046dc8",
+      "license": "Princeton WordNet 3.0 license",
+      "licenseUrl": "https://wordnet.princeton.edu/license-and-commercial-use",
+      "fields": [
+        "collocations",
+        "derivatives"
+      ]
+    },
+    "oewn": {
+      "project": "Open English WordNet 2025, derived from Princeton WordNet",
+      "url": "https://en-word.net/static/english-wordnet-2025.xml.gz",
+      "repository": "https://github.com/globalwordnet/english-wordnet",
+      "release": "2025-edition",
+      "path": "english-wordnet-2025.xml.gz",
+      "sha256": "9ca6d1dcb75f822fdd66617f7d9da48142ace38dd544d6ad5e2feca1674ad3fe",
+      "license": "CC BY 4.0; underlying Princeton WordNet 3.1 notice retained",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "fields": [
+        "examples",
+        "derivatives"
+      ]
+    },
+    "tatoebaEnglish": {
+      "project": "Proofread English sentences from Tatoeba / ManyThings.org Russian–English archive (English side only)",
+      "url": "https://www.manythings.org/anki/rus-eng.zip",
+      "snapshot": "2026-02-13",
+      "path": "rus-eng.zip",
+      "sha256": "1534e267976f43ae97e966d2ac9dc1e9128fdd0efdf08eceee21cd88ff20682c",
+      "license": "CC BY 2.0 FR; English sentence owner and ID retained",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/",
+      "fields": [
+        "examples"
+      ]
+    },
+    "ngsl": {
+      "project": "New General Service List (2801-headword mirror, pre-1.2)",
+      "authors": "Charles Browne, Brent Culligan, Joseph Phillips",
+      "url": "https://www.newgeneralservicelist.com/new-general-service-list",
+      "mirrorUrl": "https://github.com/lpmi-13/machine_readable_wordlists/blob/972b751ef6bcc9bd71d0fbc4146174fc8bdfd49c/General/NGSL/NGSL.json",
+      "sha256": "70c1e37fb3feacc95d28aca8c1d7b6fc29960de8572b9912cc4fbbec806809d2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "fields": [
+        "difficulty auxiliary membership ceiling"
+      ],
+      "note": "Mirror headword bands only; not the official 2023 NGSL1.2; not CEFR. No family arrays used."
+    },
+    "wiktionaryIPA": {
+      "project": "Wiktionary / Kaikki, with dialect-labelled WikiPron corroboration for untagged readings",
+      "url": "https://kaikki.org/dictionary/English/",
+      "retrieved": "2026-10-26",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "creditsAsset": "public_pronunciations_v15.json",
+      "policy": "Exact spelling, explicit UK/US dialect tag or exact phoneme match to dialect-labelled WikiPron; existing readings unchanged; no inferred pronunciations."
+    }
+  },
+  "difficultyDescriptionZh": "学习顺序v5：在原分级基础上对504个具体词复核，修正日常词误判过难、同义英美拼写不一致及词族惩罚；保留同形异义词差别。这是项目内部学习顺序，不是CEFR或考试成绩。",
+  "levelMethod": {
+    "version": "learning-order-v5",
+    "descriptionZh": "学习顺序v5：在原分级基础上对504个具体词复核，修正日常词误判过难、同义英美拼写不一致及词族惩罚；保留同形异义词差别。这是项目内部学习顺序，不是CEFR或考试成绩。",
+    "frequencyThresholds": [
+      1000,
+      2200,
+      3800,
+      5500,
+      8000,
+      12000,
+      17000,
+      23000,
+      30000
+    ],
+    "ngslPromotionCeiling": {
+      "1000": 1800,
+      "2000": 3200,
+      "3000": 4500
+    },
+    "reviewedFloorCount": 53,
+    "reviewFile": "tools/vocabulary_levels.py",
+    "enrichmentFile": "tools/learner_enrichment_v11.json",
+    "validatedCefr": false,
+    "noteZh": "这是项目内部学习顺序，不是标准化等级。低等级更偏基础与日常，高等级保留大量低频词。",
+    "explicitCorrectionCount": 305,
+    "reviewInput": "tools/level_review_v16.json",
+    "explicitReviewCount": 504
+  },
+  "selectionDescriptionZh": "保留已有词头与学习ID，新增项目复核的日常及数字生活缺词。共28167词，均有美式音标、中文释义和词性；新增词的音标为显式项目复核记录。无语料词频时rank=1000000仅用于排序，不表示真实词频。",
+  "enhancementDescriptionZh": "保留原创核心例句与提示；Tatoeba/ManyThings 中英原句优先，缺口以其更大公开语料的英文原句及 Open English WordNet 2025 例句补充。英文原句没有中文时明确留空，不把提示当翻译；逐句保留作者、ID和许可。词形变化直接读取 ECDICT exchange 的明确屈折关系并标注过去式、过去分词、现在分词、第三人称单数、复数、比较级、最高级。搭配采用词典短语与原创实用组合；派生与词族使用明确 derivation 关系、人工词族，以及有 -ly 形态证据且中文词性对应的显式形容词/副词 pertainym 关系，不使用其他语义所属关系。",
+  "sentenceQualityDescriptionZh": "Tatoeba / ManyThings 英文语料经过源站校对，仍可能有原句、翻译或义项差异。OEWN 例句取其原始文本，要求词条或词典屈折形实际出现，并排除未含分句线索的短语；不是逐句人工语法和义项审核。中文原文含简繁体，不自动改写。",
+  "collocationDescriptionZh": "搭配含词典收录的固定短语和复合词，不等同于基于语料频率统计的完整搭配词典。",
+  "tatoebaSentencePairCount": 6255,
+  "additionalEnglishSentenceCount": 13796,
+  "bilingualExampleWordCount": 21381,
+  "englishOnlyExampleWordCount": 2088,
+  "derivativeDescriptionZh": "派生与词族包含明确派生关系、人工词族，以及有形态证据的显式形容词/副词 pertainym，后者标注“词族关联”；排除语义所属关系与中文词性不对应的同形异义关系。单复数及动词时态不冒充派生词。没有常见派生或未覆盖关系可为空，不保证每个词都有派生。",
+  "originalEnrichmentDescriptionZh": "v4 原创输入含 335 条项目原创中英语境、459 条搭配、111 组人工词族和 50 组常见易混词辨析；并人工修正 23 词常用中文义项及相关词提示。各词条按展示上限合并，实际覆盖数量见 enhancedCounts。项目原创内容为 CC0；人工词族中文仍取自 ECDICT（MIT）。",
+  "originalInputSha256": {
+    "core_enrichment.json": "0545d457c9bf92da23df06dad6a86025ff57a02d6ffea48aa5fcef22aadfdf4c",
+    "advanced_enrichment.json": "fa0ef7babd6c4044f792fe711fbe9e7d944160176b3ba5a3a77f4e3bfa5d3e12",
+    "practical_enrichment_v3.json": "faf57d5f51a0d6993ff5f2fc659ce8e99a6ac963471dda7cd8425a367c843008",
+    "practical_enrichment_v4.json": "d2069588a6e206e082cf2c7fcd2782e1e0980209b72e0172d78022c8f8a056f5",
+    "meaning_corrections_v4.json": "c70ea3440688c717d1e0c5e02b6e6fa688d71232557cac15e0eef0e35e904c8c",
+    "phrase_corrections.json": "3feb6f86c4331e73a07b1c528fef97e0f445d192c999b544130b21e36a2876a8",
+    "sentence_exclusions.json": "efc89b35612c56f26857abfbf4b257905fdf2f92d551d1495f76b7b1b47131cd",
+    "word_form_corrections.json": "4aacedc81f2bcb1eb78be1ef2bf8efd712857bd62a60220082005b66f02090ab",
+    "level_corrections.json": "ebe0c19414bc5540f4e64b8142633ee72ebb12311d8da4aa3ca379b7c4a08762",
+    "practical_enrichment_v8.json": "d7a57cab7ba24ce1db7117f79d7371b995df7794f520629cbd52e712442a57d7",
+    "practical_enrichment_v9.json": "7c31145ce13d1b8ce8f16510e4bdcc11b0a3107bd940886410879fb7de38666d",
+    "content_review_v10.json": "56fd3917967be5825777578e63d2b254856fa4249c57d3d6a99657a5bc831c47",
+    "american_ipa_corrections.json": "0ee8a454e8e6c8a4302b7bbd25af81d27d0f554228376762cec07deecfbed9af",
+    "vocabulary_levels.py": "b1da20f7934ec935fc31518b7830244337b4f31a7151574cc10c60b4d8b6c0a0",
+    "data/retained-word-ids-v9.json": "5b36c0ede6883fa4708c52bdb7d2c64a5c174ee421162f8de5505c12e1fe8e84",
+    "learner_enrichment_v11.json": "aed86ddc639867ed18c45984490a8e24583996cd7bd907bdab0785fdfef5047a",
+    "internal_content_v12.json": "66ee6aa3361d02f2308370e85c6dd16b0dbe6a71fc3ca71ca2562dac0a95259d",
+    "confirmed_content_fixes_v12.json": "92362b40c8dfa409a12eefabacf99d7384c769939dd88a575d6296d1bb8cfbb3",
+    "apply_internal_review.py": "a70afc4d1b8c1bcd3d39a4164dc58278012591ae84b4c1c94a1ad31828b06dc7",
+    "internal_content_v13.json": "5e17179b85d4da53159bbd4d3c503067ee9c3456f3807cf8d3c219248c2c70d1",
+    "missing_words_v13.json": "5a80b3ce58a028d0663143fa061ebd0081e5156241195683d9d40f9d97d3f59c",
+    "level_review_v13.json": "aeb4da6b5d02516b737124931958a1eb5cf7321f1f497e455c1729a7e9dac8ed",
+    "apply_complete_review.py": "bd68b6456f588a11d74d3732b64df0e1e1c0151c1ec21dd91cf64a63e0bc7288",
+    "learning_content_v14.json": "706704b0b0432cea3e4b28bf7cec43866528c7638c9aad3d7a4cad33e384e595",
+    "related_pronunciations_v14.json": "0b90e7297b79931f85c251e3130f8dfbaf9f7f35b3c63a5ee33ff7b0874b9ea8",
+    "related_ipa_review_v14.json": "684a9c06873200e74ccde89695927cc7c61830a7cb8937ddfd1269808e6a49ab",
+    "complete_learning_content.py": "30f04e0e670418a388536ddffb13a1f5158ececfdf49f2834911bb963fbc25a4",
+    "authored_content_v16.json": "5dd4063010b609c7625082575e2928ed2a47d74f2f0dcb670a9a18a3cce0d99e",
+    "semantic_example_fixes_v16.json": "76afbdbbc1f59ac317aadc0f4895642368a600c0b26bc8a54bd2e9a251b3e6c8",
+    "authored_examples_v16_grade6.json": "64faa697cc60ff729d5e0066656be2079c96690086ab29b624dfd9b955023707",
+    "authored_examples_v16_root_a.json": "5f33b9bc0771bfa29843aae473c0641ee52e4d6193c63edf85ba3bbb1ed3f033",
+    "authored_translations_v16_grade45_b.json": "f823df109471f25cc3d5b0346660972b972b80795d3855df5fd960db289c2510",
+    "authored_translations_v16_grade6_a.json": "a5d6869cf39bf77c2e535625206c52a651712916e2f2bd8339d63bc3a6d83e25",
+    "level_review_v16.json": "b5aa779351101725378e6b7048ae3d1c03b5a2ceb11840929d0ef4be48bb89ec",
+    "authored_content_v17_a.json": "5c05fdc840ad659514abb408dd5652a021d6662a9bc4870d3e83e0c905b07744",
+    "authored_examples_v17_advanced_a.json": "f0d5f75708406c8f3836ac06edb2dad966350f796cfff0f3253dab0270f1d7cb",
+    "authored_examples_v17_grade6_remaining.json": "01ab12dc3474eaab69f2624fce7013bdd7c05007062f3c971b03425963ffc83c",
+    "authored_examples_v17_grade7_a.json": "01991834530e9415e23775303bffd5a1546ad601d4fa35a8a7e9b020a56c5311",
+    "authored_examples_v17_grade7_tail.json": "4606edcc68e71243d2a2b4c29f7b03086f5b3724bd9496eae6bdfb8728591ab4",
+    "authored_examples_v17_grade7_remaining.json": "061cb13252134b697347177dbd5a217d4fb46975ebf83445d722ca91b2fbeb0c",
+    "authored_examples_v17_grade8_a.json": "060d75e13548d04f329e00adb276d5397e8b2339267c4ea11497ae84ce74aae3",
+    "authored_examples_v17_grade8_b.json": "9023d7757f427404a52667b2cbc00d28962d3aefdbaa42939aff6446407e6880",
+    "authored_examples_v17_grade8_c.json": "dcf64fd87e89b9007126bd89fa8de807e2ebe53b53cdaabc19c13e9790bb99ce",
+    "authored_examples_v17_grade8_d.json": "990d124ca9b8ba217af233230fe57995e093d310b3fa3a0708a846057ed2402c",
+    "authored_examples_v17_grade8_e.json": "7d0b2208d7a3877a5d5dc9034298d852d8dd19723d61a165e067ae430df415b2",
+    "authored_examples_v17_grade8_f.json": "532990fc49adac7810f4349349ffbe8f1039b42abd04977c45a2e13f2e25c6e4",
+    "authored_examples_v17_grade8_g.json": "3bb8c21bf1cf8d58b3eb316403d8525f21cc0d7154fbdc1e2da083ac66460ced",
+    "authored_examples_v17_grade8_h.json": "6327a4ddde7ed7c7ffa168ffd46434993ca69b1e497deca0af8b66a805b28afd",
+    "authored_examples_v17_grade8_i.json": "115936b531c8cb4c51e09e6ac28cf517a89324aaf12b56d821c9b6071d9129a5",
+    "authored_examples_v17_grade9_a.json": "a62f5d625da0e209775939889fbbc80a3317348e1b5ec28ea52254f5cea8220d",
+    "authored_examples_v17_grade9_b.json": "4e265358a6c91c1bb044eeeabcca27a1e574c6be64ad0f4e14b23f803b0cc89c",
+    "authored_examples_v17_grade9_c.json": "891206eec3a87808ba5c841052f73edbd34879b883d9f3460097ca648a7fd5f8",
+    "authored_examples_v17_grade9_d.json": "ffb6c83ee212373ce87da672282e1a07eafd771e2e058c497ebffdcb27042f3e",
+    "authored_examples_v17_grade9_e.json": "d1e01613ff940b6309da985a156c67c32cf0fe5b0e7b01d19c902d5c424b8359",
+    "authored_examples_v17_grade9_f.json": "2a34ff57fc60d09e1ca39214ca52394389df9f6c6f256752030fd25a7ca00652",
+    "authored_relations_v17.json": "c3f951c61a93ebe3ba72811fdac63b078fb93a6000fe655a376113beca728326",
+    "authored_meaning_references_v17.json": "b7e9a5a2246e7e7fe6df5a2180cda30d2d107717f7d4d2efd4f4b4164da81f5b",
+    "authored_translations_v16_grade6_b.json": "6d0aafebd1236668fe744e1fa2b9e889d233f66d0acb066677bead0a1e7f8b3e",
+    "authored_translations_v17_grade45_c.json": "43fd41f74a4401d3422d6c6aedeabf566c6b891bacf2a18d0bd51656cdf35389",
+    "authored_translations_v17_a.json": "7c81f4cd5be5b6b491352929515a62cbf54187ee69ea51646c645c3cfe90f860",
+    "authored_translations_v17_core_remaining.json": "5afdaf68aba3cbfdfda6ea5cb3137c41a9bb2eb91dfb5fdad340b87a24108d42",
+    "authored_translations_v16_grade45_b_replacements.json": "195d8c5f8154f98696bfa67afd515a97495e32ba601ada5604b9cc61e447f0e5",
+    "authored_translations_v17_core_remaining_replacements.json": "b2f2b708cf8fe17f4c46629366ed6743f0e920597015a10b8a369634e721aa4a",
+    "authored_translations_v17_grade45_c_replacements.json": "4064b77518b1a1eae0d0adaced82644dd7c6ee9e5ada353c15bf16237e84d01a",
+    "public_content_v17.json": "fb421b8f45f8d4581fd480d3475a85e97d8db64556d6b66f7d1deb818cb868fb",
+    "public_wordforms_v17.json": "94353f9cda72766beb24de87b766b563cf5650b32cb92cdbc48e2c271aa569c7",
+    "public_bilingual_corpus_v17.json": "ba3805269668d9e4f2fb55454dd0ca41988297b720e496a9a918730fdf8ad1d3",
+    "data/open-dictionary-v2.0.jsonl.gz": "69af69cdc685b5dce465613d1cc8fffb598eb46714f57cf73bd6606c2ceb7e43"
+  },
+  "meaningCorrectionWordCount": 24,
+  "exampleItemCount": 33597,
+  "collocationItemCount": 24651,
+  "derivativeItemCount": 21063,
+  "wordFormItemCount": 29419,
+  "difficultyCounts": {
+    "1": 1062,
+    "2": 939,
+    "3": 1370,
+    "4": 1474,
+    "5": 1881,
+    "6": 2891,
+    "7": 3548,
+    "8": 4112,
+    "9": 4107,
+    "10": 6783
+  },
+  "enhancedCountsByDifficulty": {
+    "1": 1062,
+    "2": 939,
+    "3": 1370,
+    "4": 1474,
+    "5": 1881,
+    "6": 2891,
+    "7": 3548,
+    "8": 4112,
+    "9": 3481,
+    "10": 2711
+  },
+  "enhancedCounts": {
+    "examples": 23469,
+    "collocations": 10268,
+    "derivatives": 14461,
+    "confusables": 12549,
+    "wordForms": 16712
+  },
+  "vocabularySha256": "a60e333b4617a11f25ca3f6f1784fd99e26e75bf1a47531e5bb2aa25bbbac45b",
+  "licenseNoticeAsset": "dictionary_licenses.txt",
+  "sentenceAttributionAsset": "tatoeba_attribution.tsv",
+  "additionalEnglishAttributionAsset": "english_examples_attribution.tsv",
+  "britishSupplementWordCount": 236,
+  "britishSupplementSha256": "e27f048a67ca59ef2ab7479d545cc5d7d71a7bdb5d7397fb5cf990812562b0a2",
+  "britishPronunciationWordCount": 27071,
+  "missingBritishPronunciationWordCount": 1096,
+  "britishPronunciationDescriptionZh": "英式音标取自独立 en_UK Received Pronunciation 数据集，原文不改写。复核的大写学习词可匹配相同小写拼写，月份等独立读音使用明确补充项。补充表包含236个项目复核词（参考ECDICT及词典），随包保留补充表；其余缺失时留空，不用美式音标替代，不机械转换。英国数据源自 ipacards，遵循 GPL-3.0；与美式数据的 MIT/BSD 许可分别保留。完整原始快照、上游说明、GPL原文及可复现抽取代码随包放在 british_ipa/。缺口另以Open English WordNet 2025中明确标记variety=GB的发音补充；不将未标地区的音标当英式。",
+  "automaticDetailCompletions": [
+    {
+      "word": "abacus",
+      "field": "wordForms",
+      "value": "abaci",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "addendum",
+      "field": "wordForms",
+      "value": "addenda",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "adieu",
+      "field": "wordForms",
+      "value": "adieux",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "agora",
+      "field": "wordForms",
+      "value": "agorae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "alkali",
+      "field": "wordForms",
+      "value": "alkalies",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "alumna",
+      "field": "wordForms",
+      "value": "alumnae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "alumnus",
+      "field": "wordForms",
+      "value": "alumni",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "amniocentesis",
+      "field": "wordForms",
+      "value": "amniocenteses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "amygdala",
+      "field": "wordForms",
+      "value": "amygdalae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "antenna",
+      "field": "wordForms",
+      "value": "antennae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "anthrax",
+      "field": "wordForms",
+      "value": "anthraces",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "anus",
+      "field": "wordForms",
+      "value": "anus",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "aorta",
+      "field": "wordForms",
+      "value": "aortae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "apotheosis",
+      "field": "wordForms",
+      "value": "apotheoses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "apparatus",
+      "field": "wordForms",
+      "value": "apparatus",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "arboretum",
+      "field": "wordForms",
+      "value": "arboreta",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "archipelago",
+      "field": "wordForms",
+      "value": "archipelagoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "arteriosclerosis",
+      "field": "wordForms",
+      "value": "arterioscleroses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "atherosclerosis",
+      "field": "wordForms",
+      "value": "atheroscleroses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "atrium",
+      "field": "wordForms",
+      "value": "atria",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "auditorium",
+      "field": "wordForms",
+      "value": "auditoria",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "aura",
+      "field": "wordForms",
+      "value": "aurae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "aurora",
+      "field": "wordForms",
+      "value": "aurorae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "auspice",
+      "field": "wordForms",
+      "value": "auspices",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "automaton",
+      "field": "wordForms",
+      "value": "automata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "axis",
+      "field": "wordForms",
+      "value": "axes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "bacillus",
+      "field": "wordForms",
+      "value": "bacilli",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "ban",
+      "field": "wordForms",
+      "value": "bani",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "bandit",
+      "field": "wordForms",
+      "value": "banditti",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "banjo",
+      "field": "wordForms",
+      "value": "banjoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "basis",
+      "field": "wordForms",
+      "value": "bases",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "basso",
+      "field": "wordForms",
+      "value": "bassi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "beau",
+      "field": "wordForms",
+      "value": "beaux",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "beef",
+      "field": "wordForms",
+      "value": "beeves",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "bicentennial",
+      "field": "wordForms",
+      "value": "bicennaries",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "bimbo",
+      "field": "wordForms",
+      "value": "bimboes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "blowfish",
+      "field": "wordForms",
+      "value": "blowfishes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "bongo",
+      "field": "wordForms",
+      "value": "bongoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "bonito",
+      "field": "wordForms",
+      "value": "bonitoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "bookshelf",
+      "field": "wordForms",
+      "value": "bookshelves",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "borax",
+      "field": "wordForms",
+      "value": "boraces",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "brainchild",
+      "field": "wordForms",
+      "value": "brainchildren",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "bravado",
+      "field": "wordForms",
+      "value": "bravadoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "bravo",
+      "field": "wordForms",
+      "value": "bravoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "brother",
+      "field": "wordForms",
+      "value": "brethren",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "buffalo",
+      "field": "wordForms",
+      "value": "buffaloes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "bulla",
+      "field": "wordForms",
+      "value": "bullae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "calculus",
+      "field": "wordForms",
+      "value": "calculi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "calico",
+      "field": "wordForms",
+      "value": "calicoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "callus",
+      "field": "wordForms",
+      "value": "calli",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "calyx",
+      "field": "wordForms",
+      "value": "calyces",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "camera",
+      "field": "wordForms",
+      "value": "camerae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "carcinoma",
+      "field": "wordForms",
+      "value": "carcinomata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cervix",
+      "field": "wordForms",
+      "value": "cervices",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "chateau",
+      "field": "wordForms",
+      "value": "chateaux",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cherub",
+      "field": "wordForms",
+      "value": "cherubim",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "chrysalis",
+      "field": "wordForms",
+      "value": "chrysalides",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cicada",
+      "field": "wordForms",
+      "value": "cicadae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cirrus",
+      "field": "wordForms",
+      "value": "cirri",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cisco",
+      "field": "wordForms",
+      "value": "ciscoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "claro",
+      "field": "wordForms",
+      "value": "claroes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cloverleaf",
+      "field": "wordForms",
+      "value": "cloverleaves",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cochlea",
+      "field": "wordForms",
+      "value": "cochleae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "colloquium",
+      "field": "wordForms",
+      "value": "colloquia",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "colon",
+      "field": "wordForms",
+      "value": "cola",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "colon",
+      "field": "wordForms",
+      "value": "colones",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "colossus",
+      "field": "wordForms",
+      "value": "colossi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "coma",
+      "field": "wordForms",
+      "value": "comae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "commando",
+      "field": "wordForms",
+      "value": "commandoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "concerto",
+      "field": "wordForms",
+      "value": "concerti",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "concha",
+      "field": "wordForms",
+      "value": "conchae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "consortium",
+      "field": "wordForms",
+      "value": "consortia",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "continuum",
+      "field": "wordForms",
+      "value": "continua",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cornea",
+      "field": "wordForms",
+      "value": "corneae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "corona",
+      "field": "wordForms",
+      "value": "coronae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "corpus",
+      "field": "wordForms",
+      "value": "corpora",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cortex",
+      "field": "wordForms",
+      "value": "cortices",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cranium",
+      "field": "wordForms",
+      "value": "crania",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "crescendo",
+      "field": "wordForms",
+      "value": "crescendi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "crux",
+      "field": "wordForms",
+      "value": "cruces",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cry",
+      "field": "wordForms",
+      "value": "cryings",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cuttlefish",
+      "field": "wordForms",
+      "value": "cuttlefishes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "cyclops",
+      "field": "wordForms",
+      "value": "cyclopes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "dado",
+      "field": "wordForms",
+      "value": "dadoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "datum",
+      "field": "wordForms",
+      "value": "data",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "dialysis",
+      "field": "wordForms",
+      "value": "dialyses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "dingo",
+      "field": "wordForms",
+      "value": "dingoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "discus",
+      "field": "wordForms",
+      "value": "disci",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "diva",
+      "field": "wordForms",
+      "value": "dive",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "dodo",
+      "field": "wordForms",
+      "value": "dodoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "dogfish",
+      "field": "wordForms",
+      "value": "dogfishes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "dogma",
+      "field": "wordForms",
+      "value": "dogmata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "duo",
+      "field": "wordForms",
+      "value": "dui",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "duodenum",
+      "field": "wordForms",
+      "value": "duodena",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "duodenum",
+      "field": "wordForms",
+      "value": "duodenums",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "dwarf",
+      "field": "wordForms",
+      "value": "dwarves",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "edema",
+      "field": "wordForms",
+      "value": "edemata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "edema",
+      "field": "wordForms",
+      "value": "oedemata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "emphasis",
+      "field": "wordForms",
+      "value": "emphases",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "encephalitis",
+      "field": "wordForms",
+      "value": "encephalitides",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "encomium",
+      "field": "wordForms",
+      "value": "encomia",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "enema",
+      "field": "wordForms",
+      "value": "enemata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "epithelium",
+      "field": "wordForms",
+      "value": "epithelia",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "equilibrium",
+      "field": "wordForms",
+      "value": "equilibria",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "esophagus",
+      "field": "wordForms",
+      "value": "esophagi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "esophagus",
+      "field": "wordForms",
+      "value": "oesophagi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "eucalyptus",
+      "field": "wordForms",
+      "value": "eucalypti",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "fauna",
+      "field": "wordForms",
+      "value": "faunae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "femur",
+      "field": "wordForms",
+      "value": "femora",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "fez",
+      "field": "wordForms",
+      "value": "fezzes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "fiasco",
+      "field": "wordForms",
+      "value": "fiascoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "fibula",
+      "field": "wordForms",
+      "value": "fibulae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "flamingo",
+      "field": "wordForms",
+      "value": "flamingoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "flatfish",
+      "field": "wordForms",
+      "value": "flatfishes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "flora",
+      "field": "wordForms",
+      "value": "florae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "forceps",
+      "field": "wordForms",
+      "value": "forceps",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "forefoot",
+      "field": "wordForms",
+      "value": "forefeet",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "forum",
+      "field": "wordForms",
+      "value": "fora",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "fulcrum",
+      "field": "wordForms",
+      "value": "fulcra",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "gas",
+      "field": "wordForms",
+      "value": "gas",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "gecko",
+      "field": "wordForms",
+      "value": "geckoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "genesis",
+      "field": "wordForms",
+      "value": "geneses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "genius",
+      "field": "wordForms",
+      "value": "genii",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "genus",
+      "field": "wordForms",
+      "value": "genus",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "ghetto",
+      "field": "wordForms",
+      "value": "ghettoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "gingko",
+      "field": "wordForms",
+      "value": "gingkoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "gladiolus",
+      "field": "wordForms",
+      "value": "gladioli",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "glottis",
+      "field": "wordForms",
+      "value": "glottides",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "goy",
+      "field": "wordForms",
+      "value": "goyim",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "grandchild",
+      "field": "wordForms",
+      "value": "grandchildren",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "grotto",
+      "field": "wordForms",
+      "value": "grottoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "gymnasium",
+      "field": "wordForms",
+      "value": "gymnasia",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "hajj",
+      "field": "wordForms",
+      "value": "hajjes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "halter",
+      "field": "wordForms",
+      "value": "halteres",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "helix",
+      "field": "wordForms",
+      "value": "helices",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "hernia",
+      "field": "wordForms",
+      "value": "herniae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "hippocampus",
+      "field": "wordForms",
+      "value": "hippocampi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "hippopotamus",
+      "field": "wordForms",
+      "value": "hippopotami",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "hobo",
+      "field": "wordForms",
+      "value": "hoboes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "honorarium",
+      "field": "wordForms",
+      "value": "honoraria",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "humerus",
+      "field": "wordForms",
+      "value": "humeri",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "hydra",
+      "field": "wordForms",
+      "value": "hydrae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "hypnosis",
+      "field": "wordForms",
+      "value": "hypnoses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "hypothalamus",
+      "field": "wordForms",
+      "value": "hypothalami",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "ibex",
+      "field": "wordForms",
+      "value": "ibices",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "indigo",
+      "field": "wordForms",
+      "value": "indigoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "innuendo",
+      "field": "wordForms",
+      "value": "innuendoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "intaglio",
+      "field": "wordForms",
+      "value": "intagli",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "interregnum",
+      "field": "wordForms",
+      "value": "interregna",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "iris",
+      "field": "wordForms",
+      "value": "irides",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "isthmus",
+      "field": "wordForms",
+      "value": "isthmi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "kibbutz",
+      "field": "wordForms",
+      "value": "kibbutzim",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "kohlrabi",
+      "field": "wordForms",
+      "value": "kohlrabies",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "lamina",
+      "field": "wordForms",
+      "value": "laminae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "larynx",
+      "field": "wordForms",
+      "value": "larynges",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "lasso",
+      "field": "wordForms",
+      "value": "lassoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "lat",
+      "field": "wordForms",
+      "value": "lati",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "lat",
+      "field": "wordForms",
+      "value": "latu",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "latex",
+      "field": "wordForms",
+      "value": "latices",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "lemma",
+      "field": "wordForms",
+      "value": "lemmata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "libretto",
+      "field": "wordForms",
+      "value": "libretti",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "lingo",
+      "field": "wordForms",
+      "value": "lingoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "lingua",
+      "field": "wordForms",
+      "value": "linguae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "locus",
+      "field": "wordForms",
+      "value": "loci",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "loggia",
+      "field": "wordForms",
+      "value": "loggie",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "lumen",
+      "field": "wordForms",
+      "value": "lumina",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "lustre",
+      "field": "wordForms",
+      "value": "lustra",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "lymphoma",
+      "field": "wordForms",
+      "value": "lymphomata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "lysis",
+      "field": "wordForms",
+      "value": "lyses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "macaroni",
+      "field": "wordForms",
+      "value": "macaronies",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "madame",
+      "field": "wordForms",
+      "value": "mesdames",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "maestro",
+      "field": "wordForms",
+      "value": "maestri",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "magma",
+      "field": "wordForms",
+      "value": "magmata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "magus",
+      "field": "wordForms",
+      "value": "magi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "mamma",
+      "field": "wordForms",
+      "value": "mammae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "manifesto",
+      "field": "wordForms",
+      "value": "manifestoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "mantis",
+      "field": "wordForms",
+      "value": "mantes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "mausoleum",
+      "field": "wordForms",
+      "value": "mausolea",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "maxilla",
+      "field": "wordForms",
+      "value": "maxillae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "medium",
+      "field": "wordForms",
+      "value": "media",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "medulla",
+      "field": "wordForms",
+      "value": "medullae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "meiosis",
+      "field": "wordForms",
+      "value": "meioses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "melanoma",
+      "field": "wordForms",
+      "value": "melanomata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "mestizo",
+      "field": "wordForms",
+      "value": "mestizoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "metamorphosis",
+      "field": "wordForms",
+      "value": "metamorphoses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "metastasis",
+      "field": "wordForms",
+      "value": "metastases",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "miasma",
+      "field": "wordForms",
+      "value": "miasmata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "midwife",
+      "field": "wordForms",
+      "value": "midwives",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "milieu",
+      "field": "wordForms",
+      "value": "milieux",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "millennium",
+      "field": "wordForms",
+      "value": "millennia",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "mina",
+      "field": "wordForms",
+      "value": "minae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "mitzvah",
+      "field": "wordForms",
+      "value": "mitzvoth",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "momentum",
+      "field": "wordForms",
+      "value": "momenta",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "monad",
+      "field": "wordForms",
+      "value": "monades",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "moratorium",
+      "field": "wordForms",
+      "value": "moratoria",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "mosquito",
+      "field": "wordForms",
+      "value": "mosquitoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "motto",
+      "field": "wordForms",
+      "value": "mottoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "mulatto",
+      "field": "wordForms",
+      "value": "mulattoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "narcissus",
+      "field": "wordForms",
+      "value": "narcissi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "nautilus",
+      "field": "wordForms",
+      "value": "nautili",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "necropolis",
+      "field": "wordForms",
+      "value": "necropoleis",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "nemesis",
+      "field": "wordForms",
+      "value": "nemeses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "nimbus",
+      "field": "wordForms",
+      "value": "nimbi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "no",
+      "field": "wordForms",
+      "value": "noes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "nova",
+      "field": "wordForms",
+      "value": "novae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "novella",
+      "field": "wordForms",
+      "value": "novelle",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "octopus",
+      "field": "wordForms",
+      "value": "octopi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "optimum",
+      "field": "wordForms",
+      "value": "optima",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "ovum",
+      "field": "wordForms",
+      "value": "ova",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "oxymoron",
+      "field": "wordForms",
+      "value": "oxymora",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "palmetto",
+      "field": "wordForms",
+      "value": "palmettoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "patella",
+      "field": "wordForms",
+      "value": "patellae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "patina",
+      "field": "wordForms",
+      "value": "patinae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "pea",
+      "field": "wordForms",
+      "value": "pease",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "pelvis",
+      "field": "wordForms",
+      "value": "pelves",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "penis",
+      "field": "wordForms",
+      "value": "penes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "penny",
+      "field": "wordForms",
+      "value": "pence",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "penumbra",
+      "field": "wordForms",
+      "value": "penumbrae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "persona",
+      "field": "wordForms",
+      "value": "personae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "phalanx",
+      "field": "wordForms",
+      "value": "phalanges",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "pharynx",
+      "field": "wordForms",
+      "value": "pharynges",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "philodendron",
+      "field": "wordForms",
+      "value": "philodendra",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "phylum",
+      "field": "wordForms",
+      "value": "phyla",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "placebo",
+      "field": "wordForms",
+      "value": "placeboes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "placenta",
+      "field": "wordForms",
+      "value": "placentae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "planetarium",
+      "field": "wordForms",
+      "value": "planetaria",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "plasmodium",
+      "field": "wordForms",
+      "value": "plasmodia",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "plateau",
+      "field": "wordForms",
+      "value": "plateaux",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "plenum",
+      "field": "wordForms",
+      "value": "plena",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "plowman",
+      "field": "wordForms",
+      "value": "ploughmen",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "podium",
+      "field": "wordForms",
+      "value": "podia",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "portico",
+      "field": "wordForms",
+      "value": "porticoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "portmanteau",
+      "field": "wordForms",
+      "value": "portmanteaux",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "praxis",
+      "field": "wordForms",
+      "value": "praxes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "proboscis",
+      "field": "wordForms",
+      "value": "proboscides",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "prognosis",
+      "field": "wordForms",
+      "value": "prognoses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "prosthesis",
+      "field": "wordForms",
+      "value": "prostheses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "protozoan",
+      "field": "wordForms",
+      "value": "protozoa",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "proviso",
+      "field": "wordForms",
+      "value": "provisoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "psychosis",
+      "field": "wordForms",
+      "value": "psychoses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "pupa",
+      "field": "wordForms",
+      "value": "pupae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "quantum",
+      "field": "wordForms",
+      "value": "quanta",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "real",
+      "field": "wordForms",
+      "value": "reales",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "real",
+      "field": "wordForms",
+      "value": "reis",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "rectum",
+      "field": "wordForms",
+      "value": "recta",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "redfish",
+      "field": "wordForms",
+      "value": "redfishes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "referendum",
+      "field": "wordForms",
+      "value": "referenda",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "retina",
+      "field": "wordForms",
+      "value": "retinae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "rostrum",
+      "field": "wordForms",
+      "value": "rostra",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "rumen",
+      "field": "wordForms",
+      "value": "rumina",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "sailfish",
+      "field": "wordForms",
+      "value": "sailfishes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "salesperson",
+      "field": "wordForms",
+      "value": "salespeople",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "salmonella",
+      "field": "wordForms",
+      "value": "salmonellae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "salvo",
+      "field": "wordForms",
+      "value": "salvoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "sanctum",
+      "field": "wordForms",
+      "value": "sancta",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "sarcophagus",
+      "field": "wordForms",
+      "value": "sarcophagi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "scapula",
+      "field": "wordForms",
+      "value": "scapulae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "sclerosis",
+      "field": "wordForms",
+      "value": "scleroses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "serum",
+      "field": "wordForms",
+      "value": "sera",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "shellfish",
+      "field": "wordForms",
+      "value": "shellfishes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "solo",
+      "field": "wordForms",
+      "value": "soli",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "soma",
+      "field": "wordForms",
+      "value": "somata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "soprano",
+      "field": "wordForms",
+      "value": "soprani",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "sphinx",
+      "field": "wordForms",
+      "value": "sphinges",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "sputum",
+      "field": "wordForms",
+      "value": "sputa",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "staphylococcus",
+      "field": "wordForms",
+      "value": "staphylococci",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "stenosis",
+      "field": "wordForms",
+      "value": "stenoses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "stigma",
+      "field": "wordForms",
+      "value": "stigmata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "streptococcus",
+      "field": "wordForms",
+      "value": "streptococci",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "stroma",
+      "field": "wordForms",
+      "value": "stromata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "stucco",
+      "field": "wordForms",
+      "value": "stuccoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "stylus",
+      "field": "wordForms",
+      "value": "styli",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "supernova",
+      "field": "wordForms",
+      "value": "supernovae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "swami",
+      "field": "wordForms",
+      "value": "swamies",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "swordfish",
+      "field": "wordForms",
+      "value": "swordfishes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "syllabus",
+      "field": "wordForms",
+      "value": "syllabi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "symposium",
+      "field": "wordForms",
+      "value": "symposia",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "tarantula",
+      "field": "wordForms",
+      "value": "tarantulae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "tempo",
+      "field": "wordForms",
+      "value": "tempi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "thalamus",
+      "field": "wordForms",
+      "value": "thalami",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "thesaurus",
+      "field": "wordForms",
+      "value": "thesauri",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "thorax",
+      "field": "wordForms",
+      "value": "thoraces",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "tibia",
+      "field": "wordForms",
+      "value": "tibiae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "tobacco",
+      "field": "wordForms",
+      "value": "tobaccoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "tornado",
+      "field": "wordForms",
+      "value": "tornadoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "torpedo",
+      "field": "wordForms",
+      "value": "torpedoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "torso",
+      "field": "wordForms",
+      "value": "torsi",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "trachea",
+      "field": "wordForms",
+      "value": "tracheae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "trauma",
+      "field": "wordForms",
+      "value": "traumata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "tuba",
+      "field": "wordForms",
+      "value": "tubae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "turf",
+      "field": "wordForms",
+      "value": "turves",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "tympanum",
+      "field": "wordForms",
+      "value": "tympana",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "ultimatum",
+      "field": "wordForms",
+      "value": "ultimata",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "umbra",
+      "field": "wordForms",
+      "value": "umbrae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "urethra",
+      "field": "wordForms",
+      "value": "urethrae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "urinalysis",
+      "field": "wordForms",
+      "value": "urinalyses",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "uterus",
+      "field": "wordForms",
+      "value": "uteri",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "vacuum",
+      "field": "wordForms",
+      "value": "vacua",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "vagina",
+      "field": "wordForms",
+      "value": "vaginae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "vena",
+      "field": "wordForms",
+      "value": "venae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "vertigo",
+      "field": "wordForms",
+      "value": "vertigines",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "vertigo",
+      "field": "wordForms",
+      "value": "vertigoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "volcano",
+      "field": "wordForms",
+      "value": "volcanoes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "vulva",
+      "field": "wordForms",
+      "value": "vulvae",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "whitefish",
+      "field": "wordForms",
+      "value": "whitefishes",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "yeshiva",
+      "field": "wordForms",
+      "value": "yeshivahs",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "yeshiva",
+      "field": "wordForms",
+      "value": "yeshivoth",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "yogi",
+      "field": "wordForms",
+      "value": "yogin",
+      "source": "Open English WordNet 2025 LexicalEntry Form"
+    },
+    {
+      "word": "abash",
+      "field": "pronunciationUk",
+      "value": "/əˈbæʃ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "abridge",
+      "field": "pronunciationUk",
+      "value": "/əˈbɹɪd͡ʒ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "abrogate",
+      "field": "pronunciationUk",
+      "value": "/ˈæ.bɹə.ɡət/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "absent",
+      "field": "pronunciationUk",
+      "value": "/æbˈsɛnt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "absoluteness",
+      "field": "pronunciationUk",
+      "value": "/ˈab.sə.luːt.nəs/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "acre",
+      "field": "pronunciationUk",
+      "value": "/ˈeɪ.kə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "actuate",
+      "field": "pronunciationUk",
+      "value": "/ˈæktʃu.eɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "adulterate",
+      "field": "pronunciationUk",
+      "value": "/əˈdʌltəɹət/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "adverbial",
+      "field": "pronunciationUk",
+      "value": "/ədˈvɜːbi.əl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "aerial",
+      "field": "pronunciationUk",
+      "value": "/ˈɛː.ɹɪ.əl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "albumin",
+      "field": "pronunciationUk",
+      "value": "/ˈalbjʊmɪn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "aleatory",
+      "field": "pronunciationUk",
+      "value": "/ˈeɪ.lɪ.ə.tə.ɹi/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "alternate",
+      "field": "pronunciationUk",
+      "value": "/ɒl.ˈtɜː(ɹ).nət/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "amniocentesis",
+      "field": "pronunciationUk",
+      "value": "/ˌamnɪə(ʊ)sɛnˈtiːsɪs/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "amortize",
+      "field": "pronunciationUk",
+      "value": "/əˈmɔːtaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "anatomic",
+      "field": "pronunciationUk",
+      "value": "/ˈænæ.tɒmɪk/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "anesthesia",
+      "field": "pronunciationUk",
+      "value": "/ˈæn.əs.θiːz.i.ə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "apoptosis",
+      "field": "pronunciationUk",
+      "value": "/ˌapɒpˈtəʊsɪs/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "appetizing",
+      "field": "pronunciationUk",
+      "value": "/ˈæp.ə.taɪz.ɪŋ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "approximate",
+      "field": "pronunciationUk",
+      "value": "/ə.ˈpɹɒk.sɪ.mət/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "armor",
+      "field": "pronunciationUk",
+      "value": "/ˈɑː.mə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "arsenic",
+      "field": "pronunciationUk",
+      "value": "/ˈɑː(ɹ).sə.nɪk/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "articulate",
+      "field": "pronunciationUk",
+      "value": "/ɑː(ɹ)ˈtɪk.jʊ.lət/, /ɑː(ɹ)ˈtɪk.jʊ.leɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "artifact",
+      "field": "pronunciationUk",
+      "value": "/ˈɑːtɪfækt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "asperity",
+      "field": "pronunciationUk",
+      "value": "/əˈspɛɹɪti/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "augment",
+      "field": "pronunciationUk",
+      "value": "/ɔːɡˈmɛnt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "auspice",
+      "field": "pronunciationUk",
+      "value": "/ˈɔːspɪs/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "australopithecine",
+      "field": "pronunciationUk",
+      "value": "/ˌɒstɹələ(ʊ)ˈpɪθɪsiːn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "authorize",
+      "field": "pronunciationUk",
+      "value": "/ˈɔːθəɹaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "authorized",
+      "field": "pronunciationUk",
+      "value": "/ˈɔːθəɹaɪzd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "barnstorm",
+      "field": "pronunciationUk",
+      "value": "/ˈbɑː(ɹ)nstɔː(ɹ)m/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "behoove",
+      "field": "pronunciationUk",
+      "value": "/bɪˈhuːv/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "bettor",
+      "field": "pronunciationUk",
+      "value": "/ˈbɛtə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "bifurcate",
+      "field": "pronunciationUk",
+      "value": "/ˈbʌɪ.fək.eɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "blandishment",
+      "field": "pronunciationUk",
+      "value": "/ˈblændɪʃm(ə)nt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "blowjob",
+      "field": "pronunciationUk",
+      "value": "/ˈbləʊdʒɒb/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "bourgeois",
+      "field": "pronunciationUk",
+      "value": "/ˈbɔːʒ.wɑː/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "bowing",
+      "field": "pronunciationUk",
+      "value": "/ˈbəʊɪŋ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "cafe",
+      "field": "pronunciationUk",
+      "value": "/ˈkæfeɪ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "caliber",
+      "field": "pronunciationUk",
+      "value": "/ˈkæl.ɪ.bə(ɹ)/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "calisthenics",
+      "field": "pronunciationUk",
+      "value": "/ˌkæl.ɪsˈθɛn.ɪks/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "candor",
+      "field": "pronunciationUk",
+      "value": "/ˈkæn.də(ɹ)/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "canonize",
+      "field": "pronunciationUk",
+      "value": "/ˈkænənaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "carbonate",
+      "field": "pronunciationUk",
+      "value": "/ˈkɑː(ɹ).bə.nət/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "catamount",
+      "field": "pronunciationUk",
+      "value": "/ˈkætəmaʊnt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "catbird",
+      "field": "pronunciationUk",
+      "value": "/ˈkatbəːd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "catchword",
+      "field": "pronunciationUk",
+      "value": "/ˈkætʃwɜːd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "caterwaul",
+      "field": "pronunciationUk",
+      "value": "/ˈkæt.ə.wɔːl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "cellphone",
+      "field": "pronunciationUk",
+      "value": "/ˈsɛlfəʊn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "centerfold",
+      "field": "pronunciationUk",
+      "value": "/ˈsɛntəfəʊld/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "centralization",
+      "field": "pronunciationUk",
+      "value": "/ˌsɛntɹəlˌaɪˈzeɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "chary",
+      "field": "pronunciationUk",
+      "value": "/ˈtʃɛəɹi/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "chipotle",
+      "field": "pronunciationUk",
+      "value": "/tʃɪˈpəʊt.leɪ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "chlorinate",
+      "field": "pronunciationUk",
+      "value": "/ˈklɒ.ɹɪ.neɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "choral",
+      "field": "pronunciationUk",
+      "value": "/ˈkɒɹɑːl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "clamor",
+      "field": "pronunciationUk",
+      "value": "/ˈklæm.ə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "coagulate",
+      "field": "pronunciationUk",
+      "value": "/kəʊˈæɡ.jʊ.leɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "coax",
+      "field": "pronunciationUk",
+      "value": "/kəʊks/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "coaxial",
+      "field": "pronunciationUk",
+      "value": "/kəʊ.ˈæk.sɪi.əl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "coho",
+      "field": "pronunciationUk",
+      "value": "/kəʊhəʊ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "colloquy",
+      "field": "pronunciationUk",
+      "value": "/ˈkɒ.lə.kwi/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "colonize",
+      "field": "pronunciationUk",
+      "value": "/ˈkɒlənaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "compartmentalize",
+      "field": "pronunciationUk",
+      "value": "/kɒmpɑː(ɹ)tˈmɛnt(ə)laɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "compliment",
+      "field": "pronunciationUk",
+      "value": "/ˈkɒmplɪmənt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "compress",
+      "field": "pronunciationUk",
+      "value": "/ˈkɒmpɹɛs/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "congeries",
+      "field": "pronunciationUk",
+      "value": "/ˈkɒndʒəɹiːz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "conglomerate",
+      "field": "pronunciationUk",
+      "value": "/kənˈɡlɒm.(ə)ɹ.ət/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "congregate",
+      "field": "pronunciationUk",
+      "value": "/ˈkɒŋ.ɡɹə.ɡeɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "conjugate",
+      "field": "pronunciationUk",
+      "value": "/ˈkɒndʒəɡeɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "connote",
+      "field": "pronunciationUk",
+      "value": "/kəˈnəʊt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "console",
+      "field": "pronunciationUk",
+      "value": "/kənˈsəʊl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "consolidate",
+      "field": "pronunciationUk",
+      "value": "/kənˈsɒlɪdeɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "consort",
+      "field": "pronunciationUk",
+      "value": "/ˈkɒnsɔːt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "consummate",
+      "field": "pronunciationUk",
+      "value": "/ˈkɒnsəmət/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "contrary",
+      "field": "pronunciationUk",
+      "value": "/ˈkɒntɹəɹi/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "converse",
+      "field": "pronunciationUk",
+      "value": "/ˈkɒnvɜːs/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "convolute",
+      "field": "pronunciationUk",
+      "value": "/ˌkɒnvəˈluːt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "coordinate",
+      "field": "pronunciationUk",
+      "value": "/kəʊˈɔːdɪnɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "corps",
+      "field": "pronunciationUk",
+      "value": "/kɔː/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "crouton",
+      "field": "pronunciationUk",
+      "value": "/ˈkɹuːtɒn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "crustal",
+      "field": "pronunciationUk",
+      "value": "/ˈkɹʌstəl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "cube",
+      "field": "pronunciationUk",
+      "value": "/kjuːb/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "curate",
+      "field": "pronunciationUk",
+      "value": "/ˈkjʊəɹət/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "cursed",
+      "field": "pronunciationUk",
+      "value": "/ˈkɜːsɪd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "cytoplasmic",
+      "field": "pronunciationUk",
+      "value": "/saɪtə(ʊ)ˈplazmɪk/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "dal",
+      "field": "pronunciationUk",
+      "value": "/dɑːl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "debug",
+      "field": "pronunciationUk",
+      "value": "/diːˈbʌɡ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "debutante",
+      "field": "pronunciationUk",
+      "value": "/ˌdɛbjuːˈtɑːnt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "decentralization",
+      "field": "pronunciationUk",
+      "value": "/diːˌsɛntɹəlaɪˈzeɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "decentralize",
+      "field": "pronunciationUk",
+      "value": "/diːˈsɛntɹəlaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "decentralized",
+      "field": "pronunciationUk",
+      "value": "/diːˈsɛntɹəlaɪzd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "declassify",
+      "field": "pronunciationUk",
+      "value": "/diːˈklæsɪfaɪ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "decontrol",
+      "field": "pronunciationUk",
+      "value": "/diːkənˈtɹəʊɫ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "decoy",
+      "field": "pronunciationUk",
+      "value": "/ˈdiːkɔɪ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "decriminalize",
+      "field": "pronunciationUk",
+      "value": "/diːˈkɹɪmɪnəlaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "defenseless",
+      "field": "pronunciationUk",
+      "value": "/dɪˈfɛnsləs/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "defray",
+      "field": "pronunciationUk",
+      "value": "/dɪˈfɹeɪ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "dehumanization",
+      "field": "pronunciationUk",
+      "value": "/diːˌhjuːmənaɪˈzeɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "dehumanize",
+      "field": "pronunciationUk",
+      "value": "/diːˈhjuːmənaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "demobilization",
+      "field": "pronunciationUk",
+      "value": "/diːˌməʊbɪlaɪˈzeɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "demobilize",
+      "field": "pronunciationUk",
+      "value": "/diːˈməʊbɪlaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "democratize",
+      "field": "pronunciationUk",
+      "value": "/dɪˈmɒkɹətaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "demographer",
+      "field": "pronunciationUk",
+      "value": "/dɪˈmɒɡɹəfə(ɹ)/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "demonize",
+      "field": "pronunciationUk",
+      "value": "/ˈdiːmənaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "demoralization",
+      "field": "pronunciationUk",
+      "value": "/dɪˌmɒɹəlaɪˈzeɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "demoralize",
+      "field": "pronunciationUk",
+      "value": "/dɪˈmɒɹəlaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "denominate",
+      "field": "pronunciationUk",
+      "value": "/dɪˈnɒmɪneɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "deportee",
+      "field": "pronunciationUk",
+      "value": "/dɪˌpɔːˈti/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "depressurize",
+      "field": "pronunciationUk",
+      "value": "/diːˈpɹɛʃəɹaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "deputize",
+      "field": "pronunciationUk",
+      "value": "/ˈdɛpjətaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "desegregate",
+      "field": "pronunciationUk",
+      "value": "/diːˈsɛɡɹəɡeɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "desensitize",
+      "field": "pronunciationUk",
+      "value": "/dɪˈsɛnsɪtaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "destabilize",
+      "field": "pronunciationUk",
+      "value": "/diːˈsteɪbɪlaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "diarrhea",
+      "field": "pronunciationUk",
+      "value": "/ˌdaɪ.əˈɹiː.ə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "diffuse",
+      "field": "pronunciationUk",
+      "value": "/dɪˈfjuːs/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "digitize",
+      "field": "pronunciationUk",
+      "value": "/ˈdɪdʒɪtaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "dipole",
+      "field": "pronunciationUk",
+      "value": "/ˈdʌɪpəʊl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "discard",
+      "field": "pronunciationUk",
+      "value": "/dɪsˈkɑːd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "discord",
+      "field": "pronunciationUk",
+      "value": "/ˈdɪskɔːd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "discoverable",
+      "field": "pronunciationUk",
+      "value": "/dɪsˈkʌvɹəbəɫ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "disorganization",
+      "field": "pronunciationUk",
+      "value": "/dɪsˌɔː(ɹ).ɡənˌaɪˈzeɪ.ʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "disorganized",
+      "field": "pronunciationUk",
+      "value": "/dɪsˈɔːɡənaɪzd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "disputation",
+      "field": "pronunciationUk",
+      "value": "/dɪsˌpjuːˈteɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "dissimilarity",
+      "field": "pronunciationUk",
+      "value": "/dɪˌsɪmɪˈlæɹɪti/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "dissociation",
+      "field": "pronunciationUk",
+      "value": "/ˈdɪˌsəʊʃɪieɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "divorcee",
+      "field": "pronunciationUk",
+      "value": "/dɪvɔːˈsiː/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "docent",
+      "field": "pronunciationUk",
+      "value": "/ˈdəʊ.sənt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "downstairs",
+      "field": "pronunciationUk",
+      "value": "/daʊnˈstɛəz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "doxology",
+      "field": "pronunciationUk",
+      "value": "/dɒkˈsɒlədʒi/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "drafty",
+      "field": "pronunciationUk",
+      "value": "/ˈdɹɑːfti/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "ejaculate",
+      "field": "pronunciationUk",
+      "value": "/ɪˈdʒæk.jʊ.leɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "enamor",
+      "field": "pronunciationUk",
+      "value": "/ɪˈnæmə(ɹ)/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "endeavor",
+      "field": "pronunciationUk",
+      "value": "/ɪnˈdɛv.ə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "epitomize",
+      "field": "pronunciationUk",
+      "value": "/əˈpɪt.əˌmaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "equalize",
+      "field": "pronunciationUk",
+      "value": "/ˈiːkwəlaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "eschatological",
+      "field": "pronunciationUk",
+      "value": "/ˌɛskətəˈlɒdʒɪkəl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "escort",
+      "field": "pronunciationUk",
+      "value": "/ˈɛs.kɔːt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "estrogen",
+      "field": "pronunciationUk",
+      "value": "/ˈiːstɹəd͡ʒən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "facultative",
+      "field": "pronunciationUk",
+      "value": "/ˈfæ.kəl.tə.tɪv/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "ferment",
+      "field": "pronunciationUk",
+      "value": "/fəˈmɛnt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "fertilizer",
+      "field": "pronunciationUk",
+      "value": "/ˈfɜːtəlaɪzə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "fervid",
+      "field": "pronunciationUk",
+      "value": "/ˈfɜː.vɪd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "filet",
+      "field": "pronunciationUk",
+      "value": "/ˈfɪlɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "flabbergast",
+      "field": "pronunciationUk",
+      "value": "/ˈflæbə(ˌ)ɡɑːst/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "flavorless",
+      "field": "pronunciationUk",
+      "value": "/ˈfleɪvələs/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "formalism",
+      "field": "pronunciationUk",
+      "value": "/ˈfɔːməlɪz(ə)m/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "formalize",
+      "field": "pronunciationUk",
+      "value": "/ˈfɔː(ɹ).mə.laɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "forte",
+      "field": "pronunciationUk",
+      "value": "/ˈfɔː.teɪ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "fosse",
+      "field": "pronunciationUk",
+      "value": "/fɒs/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "fossilize",
+      "field": "pronunciationUk",
+      "value": "/ˈfɒs.ɪl.aɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "fraternize",
+      "field": "pronunciationUk",
+      "value": "/ˈfɹætənɑɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "furor",
+      "field": "pronunciationUk",
+      "value": "/ˈfjʊəɹə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "furrier",
+      "field": "pronunciationUk",
+      "value": "/ˈfɜːɹi.ə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "gallant",
+      "field": "pronunciationUk",
+      "value": "/ɡəˈlænt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "globulin",
+      "field": "pronunciationUk",
+      "value": "/ˈɡlɒbljʊlɪn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "goiter",
+      "field": "pronunciationUk",
+      "value": "/ˈɡɔɪtə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "grama",
+      "field": "pronunciationUk",
+      "value": "/ˈɡɹɑːmə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "gubernatorial",
+      "field": "pronunciationUk",
+      "value": "/ˌɡjuː.bə.neˈtɔː.ɹi.əl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "gynecology",
+      "field": "pronunciationUk",
+      "value": "/ˌɡaɪnɪˈkɒlədʒi/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "heterodox",
+      "field": "pronunciationUk",
+      "value": "/ˈhɛtɛɹədɒks/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "heterodoxy",
+      "field": "pronunciationUk",
+      "value": "/ˈhɛtɛɹədɒksi/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "hinder",
+      "field": "pronunciationUk",
+      "value": "/ˈhaɪn.də/, /ˈhɪndə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "homeostasis",
+      "field": "pronunciationUk",
+      "value": "/ˌhɒm.i.ə(ʊ)ˈsteɪ.sɪs/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "homogenize",
+      "field": "pronunciationUk",
+      "value": "/həˈmɒdʒənaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "honorarium",
+      "field": "pronunciationUk",
+      "value": "/ˈɒ.nəˈɹɛɹ.i.əm/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "hybridization",
+      "field": "pronunciationUk",
+      "value": "/haɪ.bɹɪd.aɪˈzeɪ.ʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "hybridize",
+      "field": "pronunciationUk",
+      "value": "/ˈhaɪ.bɹɪd.aɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "immolate",
+      "field": "pronunciationUk",
+      "value": "/ˈɪm.əʊ.leɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "impregnation",
+      "field": "pronunciationUk",
+      "value": "/ɪmpɹɛɡˈneɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "indemnification",
+      "field": "pronunciationUk",
+      "value": "/ɪnˌdɛmnɪfɪˈkeɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "ingenue",
+      "field": "pronunciationUk",
+      "value": "/ˌænʒeɪˈnjuː/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "insert",
+      "field": "pronunciationUk",
+      "value": "/ɪnˈsɜːt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "instrumentality",
+      "field": "pronunciationUk",
+      "value": "/ɪnstɹʊmɛnˈtalɪti/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "integral",
+      "field": "pronunciationUk",
+      "value": "/ˈɪntɪɡɹəl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "inter",
+      "field": "pronunciationUk",
+      "value": "/ɪnˈtɜː(ɹ)/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "intercept",
+      "field": "pronunciationUk",
+      "value": "/ɪntəˈsɛpt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "interchange",
+      "field": "pronunciationUk",
+      "value": "/ɪntə(ɹ)ˈtʃeɪndʒ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "interdict",
+      "field": "pronunciationUk",
+      "value": "/ˈɪntədɪkt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "internationalization",
+      "field": "pronunciationUk",
+      "value": "/ɪntəˌnæʃ(ə)n(ə)ləˈzeɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "ischemia",
+      "field": "pronunciationUk",
+      "value": "/ɪˈskiː.mi.ə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "jaywalk",
+      "field": "pronunciationUk",
+      "value": "/ˈdʒeɪ.wɔːk/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "jeweler",
+      "field": "pronunciationUk",
+      "value": "/ˈdʒuːələ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "kindergartner",
+      "field": "pronunciationUk",
+      "value": "/ˈkɪndəˌɡɑːtnə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "lakeshore",
+      "field": "pronunciationUk",
+      "value": "/ˈleɪk.ʃɔː/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "laudatory",
+      "field": "pronunciationUk",
+      "value": "/ˈlɔːdətɹi/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "lockdown",
+      "field": "pronunciationUk",
+      "value": "/ˈlɒkˌdaʊn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "lovastatin",
+      "field": "pronunciationUk",
+      "value": "/ləʊ.vəˈstat.ɪn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "lowering",
+      "field": "pronunciationUk",
+      "value": "/ˈlaʊərɪŋ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "mackinaw",
+      "field": "pronunciationUk",
+      "value": "/ˈmakɪnɔː/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "malware",
+      "field": "pronunciationUk",
+      "value": "/ˈmæl.weə(ɹ)/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "mantilla",
+      "field": "pronunciationUk",
+      "value": "/manˈtɪlə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "marked",
+      "field": "pronunciationUk",
+      "value": "/ˈmɑːkɪd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "materiel",
+      "field": "pronunciationUk",
+      "value": "/mətɪəɹɪˈɛl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "medina",
+      "field": "pronunciationUk",
+      "value": "/məˈdiːnə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "melee",
+      "field": "pronunciationUk",
+      "value": "/ˈmɛˌleɪ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "misappropriate",
+      "field": "pronunciationUk",
+      "value": "/ˌmɪs.əˈpɹəʊ.pɹɪ.eɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "misbehavior",
+      "field": "pronunciationUk",
+      "value": "/ˌmɪsbəˈheɪvjə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "misconduct",
+      "field": "pronunciationUk",
+      "value": "/mɪsˈkɒndʌkt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "misremember",
+      "field": "pronunciationUk",
+      "value": "/mɪsɹɪˈmɛmbə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "modernization",
+      "field": "pronunciationUk",
+      "value": "/ˌmɒdənɪˈzeɪʃn̩/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "modernize",
+      "field": "pronunciationUk",
+      "value": "/ˈmɒdənaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "modifier",
+      "field": "pronunciationUk",
+      "value": "/ˈmɒdɪfaɪə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "moiety",
+      "field": "pronunciationUk",
+      "value": "/ˈmɔɪ.ə.ti/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "mol",
+      "field": "pronunciationUk",
+      "value": "/məʊl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "monoclonal",
+      "field": "pronunciationUk",
+      "value": "/ˌmɒn.əˈkləʊ.nəl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "monomer",
+      "field": "pronunciationUk",
+      "value": "/ˈmɒnəmə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "moped",
+      "field": "pronunciationUk",
+      "value": "/ˈməʊ.pɛd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "moralism",
+      "field": "pronunciationUk",
+      "value": "/ˈmɒɹəlɪzm/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "moralize",
+      "field": "pronunciationUk",
+      "value": "/ˈmɒ.ɹə.laɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "multicolored",
+      "field": "pronunciationUk",
+      "value": "/ˈmʌltɪˌkʌləd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "munch",
+      "field": "pronunciationUk",
+      "value": "/mʌntʃ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "nomenklatura",
+      "field": "pronunciationUk",
+      "value": "/nɒˌmɛnkləˈtjʊəɹə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "normalize",
+      "field": "pronunciationUk",
+      "value": "/ˈnɔː.mə.laɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "obstructionism",
+      "field": "pronunciationUk",
+      "value": "/əbˈstɹʌk.ʃən.ɪz(.ə)m/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "obtrude",
+      "field": "pronunciationUk",
+      "value": "/əbˈtɹuːd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "odor",
+      "field": "pronunciationUk",
+      "value": "/ˈəʊ.də/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "oiler",
+      "field": "pronunciationUk",
+      "value": "/ˈɔɪlə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "ontogeny",
+      "field": "pronunciationUk",
+      "value": "/ɒnˈtɒdʒəni/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "optimize",
+      "field": "pronunciationUk",
+      "value": "/ˈɒptɪmaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "organized",
+      "field": "pronunciationUk",
+      "value": "/ˈɔːɡənaɪzd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "ornament",
+      "field": "pronunciationUk",
+      "value": "/ˈɔː(ɹ)nəmənt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "orthogonal",
+      "field": "pronunciationUk",
+      "value": "/ɔːˈθɒɡənəl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "orthography",
+      "field": "pronunciationUk",
+      "value": "/ɔːˈθɒɡ.ɹə.fi/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "ostracize",
+      "field": "pronunciationUk",
+      "value": "/ˈɒstɹəsaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "overcast",
+      "field": "pronunciationUk",
+      "value": "/ˈəʊvəˌkɑːst/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "overhang",
+      "field": "pronunciationUk",
+      "value": "/ˈəʊvəhaŋ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "overlay",
+      "field": "pronunciationUk",
+      "value": "/ˌəʊ.vəˈleɪ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "overrun",
+      "field": "pronunciationUk",
+      "value": "/əʊvəˈɹʌn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "overseas",
+      "field": "pronunciationUk",
+      "value": "/ˌəʊvəˈsiːz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "overuse",
+      "field": "pronunciationUk",
+      "value": "/ˌəʊvəˈjuːz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "overweight",
+      "field": "pronunciationUk",
+      "value": "/ˌəʊvəˈweɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "overwork",
+      "field": "pronunciationUk",
+      "value": "/ˈəʊvəˌwɜːk/, /ˌəʊvəˈwɜːk/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "paneling",
+      "field": "pronunciationUk",
+      "value": "/ˈpænəlɪŋ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "panhandler",
+      "field": "pronunciationUk",
+      "value": "/ˈpæn.hænd.lə(ɹ)/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "parallelism",
+      "field": "pronunciationUk",
+      "value": "/ˈpaɹəlɛlɪz(ə)m/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "parenthetical",
+      "field": "pronunciationUk",
+      "value": "/ˈpæ.ɹən.θɛt.ɪkl̩/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "pasteurize",
+      "field": "pronunciationUk",
+      "value": "/ˈpɑːstʃəɹaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "pater",
+      "field": "pronunciationUk",
+      "value": "/ˈpeɪtə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "patriarchate",
+      "field": "pronunciationUk",
+      "value": "/ˈpeɪtɹiɑːkət/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "patrilineal",
+      "field": "pronunciationUk",
+      "value": "/patɹɪˈlɪnɪəl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "patronize",
+      "field": "pronunciationUk",
+      "value": "/ˈpætɹənaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "pediatrician",
+      "field": "pronunciationUk",
+      "value": "/piːdɪəˈtɹɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "pedophile",
+      "field": "pronunciationUk",
+      "value": "/ˈpiː.dəˌfaɪl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "pedophilia",
+      "field": "pronunciationUk",
+      "value": "/ˌpiː.dəˈfɪ.li.ə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "percept",
+      "field": "pronunciationUk",
+      "value": "/ˈpɜːsɛpt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "perfidy",
+      "field": "pronunciationUk",
+      "value": "/ˈpɜː.fɪ.di/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "perfume",
+      "field": "pronunciationUk",
+      "value": "/ˈpɜːfjuːm/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "pervert",
+      "field": "pronunciationUk",
+      "value": "/ˈpəːvəːt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "phoneme",
+      "field": "pronunciationUk",
+      "value": "/ˈfəʊniːm/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "phonology",
+      "field": "pronunciationUk",
+      "value": "/fəˈnɒlədʒi/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "phylogeny",
+      "field": "pronunciationUk",
+      "value": "/faɪˈlɒdʒəni/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "picayune",
+      "field": "pronunciationUk",
+      "value": "/ˌpɪkəˈjuːn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "pickerel",
+      "field": "pronunciationUk",
+      "value": "/ˈpɪk(ə)ɹəl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "pietism",
+      "field": "pronunciationUk",
+      "value": "/ˈpʌɪətɪz(ə)m/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "planar",
+      "field": "pronunciationUk",
+      "value": "/ˈpleɪnə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "plasticizer",
+      "field": "pronunciationUk",
+      "value": "/ˈplæs.tɪ.saɪ.zə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "polymorphism",
+      "field": "pronunciationUk",
+      "value": "/pɒlɪˈmɔːfɪz(ə)m/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "pompano",
+      "field": "pronunciationUk",
+      "value": "/ˈpɒmpənəʊ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "pontificate",
+      "field": "pronunciationUk",
+      "value": "/pɒnˈtɪfɪkət/, /pɒnˈtɪfɪkeɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "popsicle",
+      "field": "pronunciationUk",
+      "value": "/ˈpɒpsɪkl̩/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "postdate",
+      "field": "pronunciationUk",
+      "value": "/ˈpəʊstˌdeɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "postdoctoral",
+      "field": "pronunciationUk",
+      "value": "/pəʊs(t)ˈdɒkt(ə)r(ə)l/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "postoperative",
+      "field": "pronunciationUk",
+      "value": "/pəʊstˈɒpəɹətɪv/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "postulate",
+      "field": "pronunciationUk",
+      "value": "/ˈpɒstjʊlət/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "potlatch",
+      "field": "pronunciationUk",
+      "value": "/ˈpɒtlætʃ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "precast",
+      "field": "pronunciationUk",
+      "value": "/pɹiːˈkɑːst/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "presage",
+      "field": "pronunciationUk",
+      "value": "/ˈpɹɛsɪdʒ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "presupposition",
+      "field": "pronunciationUk",
+      "value": "/pɹiː.sʌ.pəˈzɪ.ʃ(ə)n/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "primer",
+      "field": "pronunciationUk",
+      "value": "/ˈpɹaɪ.mə(ɹ)/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "princess",
+      "field": "pronunciationUk",
+      "value": "/pɹɪnˈsɛs/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "prioritize",
+      "field": "pronunciationUk",
+      "value": "/pɹaɪˈɒɹətaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "propagandistic",
+      "field": "pronunciationUk",
+      "value": "/pɹɒpəɡanˈdɪstɪk/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "proselytize",
+      "field": "pronunciationUk",
+      "value": "/ˈpɹɒs.əl.ɪ.taɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "prosody",
+      "field": "pronunciationUk",
+      "value": "/ˈpɹɒzədi/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "prostrate",
+      "field": "pronunciationUk",
+      "value": "/ˈpɹɒstɹeɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "protract",
+      "field": "pronunciationUk",
+      "value": "/pɹəˈtɹakt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "psilocybin",
+      "field": "pronunciationUk",
+      "value": "/ˌsʌɪ.lə(ʊ)ˈsʌɪ.bɪn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "pussy",
+      "field": "pronunciationUk",
+      "value": "/ˈpʊsɪ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "putter",
+      "field": "pronunciationUk",
+      "value": "/ˈpʌtə(ɹ)/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "quadruple",
+      "field": "pronunciationUk",
+      "value": "/ˈkwɒdɹʊpl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "realizable",
+      "field": "pronunciationUk",
+      "value": "/ˌɹɪəˈlaɪz.ə.bl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "realization",
+      "field": "pronunciationUk",
+      "value": "/ˌɹɪəlaɪˈzeɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "rebound",
+      "field": "pronunciationUk",
+      "value": "/ɹiˈbaʊnd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "reconnoiter",
+      "field": "pronunciationUk",
+      "value": "/ˌɹɛkəˈnɔɪtə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "recount",
+      "field": "pronunciationUk",
+      "value": "/ɹiːˈkaʊnt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "refresh",
+      "field": "pronunciationUk",
+      "value": "/ɹiˈfɹɛʃ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "relativistic",
+      "field": "pronunciationUk",
+      "value": "/ˈɹɛl.ə.təˌvɪst.ɪk/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "relay",
+      "field": "pronunciationUk",
+      "value": "/ˌɹiːˈleɪ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "rendezvous",
+      "field": "pronunciationUk",
+      "value": "/ˈɹɒndɪˌvuː/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "reread",
+      "field": "pronunciationUk",
+      "value": "/ɹiːˈɹiːd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "reserved",
+      "field": "pronunciationUk",
+      "value": "/ɹɪˈzɜːvd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "resolved",
+      "field": "pronunciationUk",
+      "value": "/ɹɪˈzɒlvd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "rewind",
+      "field": "pronunciationUk",
+      "value": "/ɹiːˈwaɪnd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "rewrite",
+      "field": "pronunciationUk",
+      "value": "/ˈɹiː.ɹaɪt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "saber",
+      "field": "pronunciationUk",
+      "value": "/ˈseɪ.bə(ɹ)/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "sardine",
+      "field": "pronunciationUk",
+      "value": "/sɑːˈdiːn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "savior",
+      "field": "pronunciationUk",
+      "value": "/ˈseɪvjə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "scone",
+      "field": "pronunciationUk",
+      "value": "/skəʊn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "scrutinize",
+      "field": "pronunciationUk",
+      "value": "/ˈskɹuːtɨnaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "serialize",
+      "field": "pronunciationUk",
+      "value": "/ˈsɪəɹiəlaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "sheikdom",
+      "field": "pronunciationUk",
+      "value": "/ˈʃeɪkdəm/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "shirk",
+      "field": "pronunciationUk",
+      "value": "/ʃɜːk/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "sliver",
+      "field": "pronunciationUk",
+      "value": "/ˈslɪv.əː/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "smorgasbord",
+      "field": "pronunciationUk",
+      "value": "/ˈsmɔːɡəs(ˌ)bɔːd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "somber",
+      "field": "pronunciationUk",
+      "value": "/ˈsɒmbə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "somnolent",
+      "field": "pronunciationUk",
+      "value": "/ˈsɒmnələnt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "sow",
+      "field": "pronunciationUk",
+      "value": "/səʊ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "specter",
+      "field": "pronunciationUk",
+      "value": "/ˈspɛktə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "stanch",
+      "field": "pronunciationUk",
+      "value": "/stɑːnt͡ʃ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "stocker",
+      "field": "pronunciationUk",
+      "value": "/ˈstɒkə/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "subordinate",
+      "field": "pronunciationUk",
+      "value": "/səˈbɔːdɪnət/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "subvert",
+      "field": "pronunciationUk",
+      "value": "/səbˈvɜːt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "sulfuric",
+      "field": "pronunciationUk",
+      "value": "/sʌlˈfjʊəɹɪk/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "surmise",
+      "field": "pronunciationUk",
+      "value": "/sɜːˈmaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "synchronize",
+      "field": "pronunciationUk",
+      "value": "/ˈsɪŋ.kɹə.naɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "teetotaler",
+      "field": "pronunciationUk",
+      "value": "/ˈtiːtəʊtələ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "teleology",
+      "field": "pronunciationUk",
+      "value": "/ˈtiːl.iˌɒl.ə.dʒi/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "telomerase",
+      "field": "pronunciationUk",
+      "value": "/teˈlɒməɹeɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "temblor",
+      "field": "pronunciationUk",
+      "value": "/tɛmˈblɔː/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "temporize",
+      "field": "pronunciationUk",
+      "value": "/ˈtɛmpəɹaɪz/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "transplant",
+      "field": "pronunciationUk",
+      "value": "/tɹɑːnzˈplɑːnt/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "tubule",
+      "field": "pronunciationUk",
+      "value": "/ˈtjuːbjuːl/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "underline",
+      "field": "pronunciationUk",
+      "value": "/ˈʌndəˌlaɪn/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "unused",
+      "field": "pronunciationUk",
+      "value": "/ʌnˈjuːzd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "vegetal",
+      "field": "pronunciationUk",
+      "value": "/ˈvɛdʒɨtl̩/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "visualization",
+      "field": "pronunciationUk",
+      "value": "/ˌvɪʒʊəlaɪˈzeɪʃən/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "vroom",
+      "field": "pronunciationUk",
+      "value": "/vɹuːm/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "washcloth",
+      "field": "pronunciationUk",
+      "value": "/ˈwɒʃklɒθ/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "worsted",
+      "field": "pronunciationUk",
+      "value": "/ˈwʊs.tɪd/",
+      "source": "Open English WordNet 2025 Pronunciation variety=GB"
+    },
+    {
+      "word": "substitution",
+      "field": "examples",
+      "value": "he sent Smith in for Jones but the substitution came too late to help",
+      "source": "Princeton WordNet 3.0 00196485-noun"
+    },
+    {
+      "word": "adequacy",
+      "field": "examples",
+      "value": "he questioned the adequacy of the usual sentimental interpretation of the Golden Rule",
+      "source": "Princeton WordNet 3.0 04792357-noun"
+    },
+    {
+      "word": "repertory",
+      "field": "examples",
+      "value": "has a large repertory of dialects and characters",
+      "source": "Princeton WordNet 3.0 08336844-noun"
+    },
+    {
+      "word": "synthesize",
+      "field": "examples",
+      "value": "Vitamin D only synthesizes when sunlight is available",
+      "source": "Princeton WordNet 3.0 00644430-verb"
+    },
+    {
+      "word": "beset",
+      "field": "examples",
+      "value": "The zebra was beset by leopards",
+      "source": "Princeton WordNet 3.0 01126700-verb"
+    },
+    {
+      "word": "pulverize",
+      "field": "examples",
+      "value": "pulverize the rebellion before it gets out of hand",
+      "source": "Princeton WordNet 3.0 01656458-verb"
+    },
+    {
+      "word": "galling",
+      "field": "examples",
+      "value": "found it galling to have to ask permission",
+      "source": "Princeton WordNet 3.0 00089550-adj"
+    },
+    {
+      "word": "ambivalent",
+      "field": "examples",
+      "value": "was ambivalent about having children",
+      "source": "Princeton WordNet 3.0 00337841-adj"
+    },
+    {
+      "word": "blithe",
+      "field": "examples",
+      "value": "was loved for her blithe spirit",
+      "source": "Princeton WordNet 3.0 00363291-adj"
+    },
+    {
+      "word": "communicative",
+      "field": "examples",
+      "value": "was a communicative person and quickly told all she knew",
+      "source": "Princeton WordNet 3.0 00494907-adj"
+    },
+    {
+      "word": "rationed",
+      "field": "examples",
+      "value": "got along as best we could on rationed meat and sugar",
+      "source": "Princeton WordNet 3.0 00541935-adj"
+    },
+    {
+      "word": "nonchalant",
+      "field": "examples",
+      "value": "was polite in a teasing nonchalant manner",
+      "source": "Princeton WordNet 3.0 00545746-adj"
+    },
+    {
+      "word": "discontented",
+      "field": "examples",
+      "value": "was discontented with his position",
+      "source": "Princeton WordNet 3.0 00589624-adj"
+    },
+    {
+      "word": "discontent",
+      "field": "examples",
+      "value": "was discontented with his position",
+      "source": "Princeton WordNet 3.0 00589624-adj"
+    },
+    {
+      "word": "appreciative",
+      "field": "examples",
+      "value": "was appreciative of his efforts",
+      "source": "Princeton WordNet 3.0 01146732-adj"
+    },
+    {
+      "word": "dehydrated",
+      "field": "examples",
+      "value": "was dehydrated after the marathon",
+      "source": "Princeton WordNet 3.0 01176057-adj"
+    },
+    {
+      "word": "institutionalized",
+      "field": "examples",
+      "value": "had hopes of rehabilitating the institutionalized juvenile delinquents",
+      "source": "Princeton WordNet 3.0 01230850-adj"
+    },
+    {
+      "word": "blameless",
+      "field": "examples",
+      "value": "has lived a blameless life",
+      "source": "Princeton WordNet 3.0 01320705-adj"
+    },
+    {
+      "word": "undeserved",
+      "field": "examples",
+      "value": "has an undeserved reputation as a coward",
+      "source": "Princeton WordNet 3.0 01371646-adj"
+    },
+    {
+      "word": "unhurried",
+      "field": "examples",
+      "value": "was unhurried with the small children",
+      "source": "Princeton WordNet 3.0 01737084-adj"
+    },
+    {
+      "word": "indecent",
+      "field": "examples",
+      "value": "was buried with indecent haste",
+      "source": "Princeton WordNet 3.0 01880918-adj"
+    },
+    {
+      "word": "burly",
+      "field": "examples",
+      "value": "had a tall burly frame",
+      "source": "Princeton WordNet 3.0 02038126-adj"
+    },
+    {
+      "word": "twisty",
+      "field": "examples",
+      "value": "had to steer the car down a twisty track",
+      "source": "Princeton WordNet 3.0 02313784-adj"
+    },
+    {
+      "word": "thunderstruck",
+      "field": "examples",
+      "value": "was thunderstruck by the news of his promotion",
+      "source": "Princeton WordNet 3.0 02358277-adj"
+    },
+    {
+      "word": "unresponsive",
+      "field": "examples",
+      "value": "was unresponsive to her passionate advances",
+      "source": "Princeton WordNet 3.0 02531775-adj"
+    },
+    {
+      "word": "giddy",
+      "field": "examples",
+      "value": "had a headache and felt giddy",
+      "source": "Princeton WordNet 3.0 02544048-adj"
+    },
+    {
+      "word": "ostensibly",
+      "field": "examples",
+      "value": "had been ostensibly frank as to his purpose while really concealing it",
+      "source": "Princeton WordNet 3.0 00039941-adv"
+    },
+    {
+      "word": "painstakingly",
+      "field": "examples",
+      "value": "it is almost a waste of time painstakingly to learn the routines of selling",
+      "source": "Princeton WordNet 3.0 00416553-adv"
+    }
+  ],
+  "wordFormDescriptionZh": "ECDICT 明示屈折关系及项目复核；缺失名词词形另以OEWN明确Form记录补充，不按后缀猜测。",
+  "reviewedContentWordCount": 93,
+  "reviewedContentDescriptionZh": "v10 项目原创常用义、词性、双语语境和实用搭配复核；月份与小写同形义分开。来源与原因保存在 tools/content_review_v10.json。",
+  "americanPronunciationCorrectionCount": 3,
+  "synonymWordCount": 15829,
+  "relationMethodSha256": "c012906d69e5810b8d2ed809e3dd7913a311fafa3480487950c565de0a5724f4",
+  "relationDescriptionZh": "同义与近义词来自WordNet同一义项，保留义项释义；易混对照保留人工辨析，补充同音词与明确标注的形近候选，不冒称已验证错误率。",
+  "learnerUpdate": {
+    "version": "v11",
+    "file": "tools/learner_enrichment_v11.json",
+    "sha256": "aed86ddc639867ed18c45984490a8e24583996cd7bd907bdab0785fdfef5047a",
+    "translatedSentenceCount": 132,
+    "addedExampleCount": 7,
+    "addedCollocationCount": 218,
+    "fixedMeaningCount": 34,
+    "license": "CC0 1.0",
+    "descriptionZh": "新增中文译文、原创双语例句、原创搭配与高频多义词精简释义；英文原句保持原署名，中文译文与新增内容为项目原创。"
+  },
+  "learnerMeaningFixCount": 34,
+  "learnerEnrichmentCounts": {
+    "translatedSentences": 132,
+    "addedExamples": 7,
+    "addedCollocations": 218
+  },
+  "internalReview": {
+    "version": "v12",
+    "externalDictionaryUsed": false,
+    "file": "tools/internal_content_v12.json",
+    "confirmedFile": "tools/confirmed_content_fixes_v12.json",
+    "descriptionZh": "全量遍历内置词条，清理内部可互证的词形/义项错误，新增项目原创例句和译文；不导入新外部词库，不推造缺失发音或词族。规则检查不是所有义项的逐词人工审定。"
+  },
+  "completeReview": {
+    "version": "v13",
+    "externalDictionaryUsed": false,
+    "contentFile": "tools/internal_content_v13.json",
+    "additionFile": "tools/missing_words_v13.json",
+    "descriptionZh": "全量结构和内部一致性检查；显式补词、原创语境、纠错及难度复核。保留来源元数据及学习ID，界面隐藏技术来源。全量规则检查不等于所有语义逐条人工审定。"
+  },
+  "learningContentReview": {
+    "version": "v14",
+    "file": "tools/learning_content_v14.json",
+    "authoredTranslations": 1091,
+    "authoredExamples": 120,
+    "replacedExampleEntries": 1,
+    "englishRevisions": 14,
+    "externalInformationQueried": false,
+    "note": "仅项目既有资料及显式原创语境/译文，不把模板、拼接词义或错译当作完整例句。"
+  },
+  "relatedPronunciations": {
+    "asset": "related_pronunciations.json",
+    "sha256": "325f9f58895d141f87776e7c01dd145d547cd3a7774803e61873669f0b9bc692",
+    "source": "既有读音及 v17 中文维基词典明确标注口音的公开读音；不推测缺失口音。",
+    "originalUsSnapshotSha256": "2af6f154a5c363275f052d1f85acedef38ed185ca9745aa4314be77f6b70de67",
+    "missingAccentPolicy": "缺所选口音而有另一口音时明确标美/英；两者都无时标音标待补。"
+  },
+  "androidV15Review": {
+    "wordCount": 28167,
+    "curatedPairs": 110,
+    "shapePairsAdded": 4,
+    "mainPronunciationsAdded": {
+      "uk": 734
+    },
+    "relatedPronunciationsAdded": {
+      "us": 254,
+      "uk": 570
+    },
+    "confusableWords": 1633,
+    "shapeWords": 11994,
+    "shapeItems": 24043,
+    "confusableItems": 1828,
+    "remainingMainUK": 1100,
+    "remainingRelatedUS": 4828,
+    "remainingRelatedUK": 3566
+  },
+  "androidV16CompletedReview": {
+    "version": "2.0.9",
+    "scope": "Completed batches only; user stopped further translation and review",
+    "wordCount": 28167,
+    "regradedWords": 504,
+    "wordsChanged": 2490,
+    "newExampleItems": 524,
+    "authoredExampleItems": 549,
+    "newTranslatedItems": 1586,
+    "newCollocations": 150,
+    "missingExampleWords": 12463,
+    "untranslatedExampleItems": 11810,
+    "inputs": [
+      "authored_content_v16.json",
+      "semantic_example_fixes_v16.json",
+      "authored_examples_v16_grade6.json",
+      "authored_examples_v16_root_a.json",
+      "authored_translations_v16_grade45_b.json",
+      "authored_translations_v16_grade6_a.json",
+      "level_review_v16.json"
+    ]
+  },
+  "androidV17ContentReview": {
+    "version": "2.0.10",
+    "wordsChanged": 15086,
+    "newExampleWords": 7765,
+    "newTranslatedItems": 8781,
+    "missingExampleWords": 4698,
+    "untranslatedExampleItems": 3029,
+    "meaningCorrections": 551,
+    "newCollocationItems": 97,
+    "newWordFormItems": 15,
+    "replacedExamples": 6363,
+    "counts": {
+      "authoredExampleWords": 3405,
+      "relatedIPA_uk": 26,
+      "relatedIPA_us": 40
+    },
+    "public": {
+      "mainIPA_uk": 1,
+      "newBilingualExampleWords": 130
+    },
+    "openDictionary": {
+      "replacedUntranslatedExamples": 5658,
+      "newBilingualExampleWords": 3569,
+      "mainIPA_uk": 3,
+      "consolidatedDuplicateExamples": 1
+    },
+    "incidentalCorpus": {
+      "newExampleWords": 661,
+      "filledIdenticalTranslations": 1,
+      "replacedUntranslatedItems": 669
+    },
+    "newDerivativeItems": 696,
+    "newSynonymItems": 830,
+    "inputs": {
+      "authored_examples_v16_grade6.json": "64faa697cc60ff729d5e0066656be2079c96690086ab29b624dfd9b955023707",
+      "authored_content_v17_a.json": "5c05fdc840ad659514abb408dd5652a021d6662a9bc4870d3e83e0c905b07744",
+      "authored_examples_v17_advanced_a.json": "f0d5f75708406c8f3836ac06edb2dad966350f796cfff0f3253dab0270f1d7cb",
+      "authored_examples_v17_grade6_remaining.json": "01ab12dc3474eaab69f2624fce7013bdd7c05007062f3c971b03425963ffc83c",
+      "authored_examples_v17_grade7_a.json": "01991834530e9415e23775303bffd5a1546ad601d4fa35a8a7e9b020a56c5311",
+      "authored_examples_v17_grade7_tail.json": "4606edcc68e71243d2a2b4c29f7b03086f5b3724bd9496eae6bdfb8728591ab4",
+      "authored_examples_v17_grade7_remaining.json": "061cb13252134b697347177dbd5a217d4fb46975ebf83445d722ca91b2fbeb0c",
+      "authored_examples_v17_grade8_a.json": "060d75e13548d04f329e00adb276d5397e8b2339267c4ea11497ae84ce74aae3",
+      "authored_examples_v17_grade8_b.json": "9023d7757f427404a52667b2cbc00d28962d3aefdbaa42939aff6446407e6880",
+      "authored_examples_v17_grade8_c.json": "dcf64fd87e89b9007126bd89fa8de807e2ebe53b53cdaabc19c13e9790bb99ce",
+      "authored_examples_v17_grade8_d.json": "990d124ca9b8ba217af233230fe57995e093d310b3fa3a0708a846057ed2402c",
+      "authored_examples_v17_grade8_e.json": "7d0b2208d7a3877a5d5dc9034298d852d8dd19723d61a165e067ae430df415b2",
+      "authored_examples_v17_grade8_f.json": "532990fc49adac7810f4349349ffbe8f1039b42abd04977c45a2e13f2e25c6e4",
+      "authored_examples_v17_grade8_g.json": "3bb8c21bf1cf8d58b3eb316403d8525f21cc0d7154fbdc1e2da083ac66460ced",
+      "authored_examples_v17_grade8_h.json": "6327a4ddde7ed7c7ffa168ffd46434993ca69b1e497deca0af8b66a805b28afd",
+      "authored_examples_v17_grade8_i.json": "115936b531c8cb4c51e09e6ac28cf517a89324aaf12b56d821c9b6071d9129a5",
+      "authored_examples_v17_grade9_a.json": "a62f5d625da0e209775939889fbbc80a3317348e1b5ec28ea52254f5cea8220d",
+      "authored_examples_v17_grade9_b.json": "4e265358a6c91c1bb044eeeabcca27a1e574c6be64ad0f4e14b23f803b0cc89c",
+      "authored_examples_v17_grade9_c.json": "891206eec3a87808ba5c841052f73edbd34879b883d9f3460097ca648a7fd5f8",
+      "authored_examples_v17_grade9_d.json": "ffb6c83ee212373ce87da672282e1a07eafd771e2e058c497ebffdcb27042f3e",
+      "authored_examples_v17_grade9_e.json": "d1e01613ff940b6309da985a156c67c32cf0fe5b0e7b01d19c902d5c424b8359",
+      "authored_examples_v17_grade9_f.json": "2a34ff57fc60d09e1ca39214ca52394389df9f6c6f256752030fd25a7ca00652",
+      "authored_relations_v17.json": "c3f951c61a93ebe3ba72811fdac63b078fb93a6000fe655a376113beca728326",
+      "authored_meaning_references_v17.json": "b7e9a5a2246e7e7fe6df5a2180cda30d2d107717f7d4d2efd4f4b4164da81f5b",
+      "authored_translations_v16_grade45_b.json": "f823df109471f25cc3d5b0346660972b972b80795d3855df5fd960db289c2510",
+      "authored_translations_v16_grade6_b.json": "6d0aafebd1236668fe744e1fa2b9e889d233f66d0acb066677bead0a1e7f8b3e",
+      "authored_translations_v17_grade45_c.json": "43fd41f74a4401d3422d6c6aedeabf566c6b891bacf2a18d0bd51656cdf35389",
+      "authored_translations_v17_a.json": "7c81f4cd5be5b6b491352929515a62cbf54187ee69ea51646c645c3cfe90f860",
+      "authored_translations_v17_core_remaining.json": "5afdaf68aba3cbfdfda6ea5cb3137c41a9bb2eb91dfb5fdad340b87a24108d42",
+      "authored_translations_v16_grade45_b_replacements.json": "195d8c5f8154f98696bfa67afd515a97495e32ba601ada5604b9cc61e447f0e5",
+      "authored_translations_v17_core_remaining_replacements.json": "b2f2b708cf8fe17f4c46629366ed6743f0e920597015a10b8a369634e721aa4a",
+      "authored_translations_v17_grade45_c_replacements.json": "4064b77518b1a1eae0d0adaced82644dd7c6ee9e5ada353c15bf16237e84d01a",
+      "public_content_v17.json": "fb421b8f45f8d4581fd480d3475a85e97d8db64556d6b66f7d1deb818cb868fb",
+      "public_wordforms_v17.json": "94353f9cda72766beb24de87b766b563cf5650b32cb92cdbc48e2c271aa569c7",
+      "public_bilingual_corpus_v17.json": "ba3805269668d9e4f2fb55454dd0ca41988297b720e496a9a918730fdf8ad1d3",
+      "data/open-dictionary-v2.0.jsonl.gz": "69af69cdc685b5dce465613d1cc8fffb598eb46714f57cf73bd6606c2ceb7e43"
+    },
+    "remainingByDifficulty": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 626,
+      "10": 4072
+    }
+  }
+}

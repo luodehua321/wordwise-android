@@ -1,0 +1,194 @@
+{
+  "toggle": {
+    "partOfSpeech": "n.; v.",
+    "meaningZh": "n. 切换开关；绳扣；肘节\nv. （在两种状态间）切换；扣紧"
+  },
+  "gravelly": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 多碎石的；（嗓音）低沉沙哑的"
+  },
+  "roadie": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （非正式）巡演乐队的器材或舞台工作人员"
+  },
+  "swanky": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. （非正式）豪华时髦的；炫耀的"
+  },
+  "redfish": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 红鱼（多种体色偏红的鱼的通称，如某些岩鱼或红拟石首鱼）"
+  },
+  "reedy": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 芦苇丛生的；芦苇般细长的；（声音）细而尖的，簧管般的"
+  },
+  "mignon": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. （源自法语）娇小精致的；filet mignon：菲力牛排"
+  },
+  "bighorn": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 大角羊（北美野生羊）"
+  },
+  "amygdala": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （脑部）杏仁核"
+  },
+  "howler": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （非正式）明显的低级错误；咆哮者；吼猴"
+  },
+  "lout": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 粗鲁无礼的人；莽汉"
+  },
+  "shifty": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 鬼鬼祟祟的；目光躲闪的；不可信的；变化不定的"
+  },
+  "phased": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 分阶段进行的；定相的"
+  },
+  "loggerhead": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 蠵龟；（旧时）笨蛋；at loggerheads：争执不下"
+  },
+  "curio": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 古玩；珍奇的小物件"
+  },
+  "jovian": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 木星的；朱庇特神的（通常首字母大写）"
+  },
+  "brasserie": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （供应酒和简餐的）法式小餐馆"
+  },
+  "easing": {
+    "partOfSpeech": "n.; v.",
+    "meaningZh": "n. 缓解；放松；（缝纫）容位\nv. 减轻；放松（ease的现在分词）"
+  },
+  "orca": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 虎鲸；逆戟鲸"
+  },
+  "heartthrob": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （非正式）令人迷恋的偶像或情人；心跳"
+  },
+  "impish": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 顽皮的；淘气的"
+  },
+  "whitefish": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 白鲑；白肉鱼（统称）"
+  },
+  "masterfully": {
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 技艺高超地；熟练地；巧妙地"
+  },
+  "preppy": {
+    "partOfSpeech": "n.; adj.",
+    "meaningZh": "n. （美）私立预备学校学生\nadj. （美）学院风的；预备学校学生风格的"
+  },
+  "hunky": {
+    "partOfSpeech": "adj.; n.",
+    "meaningZh": "adj. （非正式）健壮迷人的\nn. （美，过时且冒犯）对中欧或东欧移民的蔑称"
+  },
+  "muskie": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （非正式）北美大狗鱼（muskellunge的简称）"
+  },
+  "springer": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 史宾格猎犬（springer spaniel）；跳跃者"
+  },
+  "blessedly": {
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 幸好；令人欣慰地；幸福地"
+  },
+  "bronchial": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 支气管的"
+  },
+  "ibis": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 鹮（长嘴涉禽的统称）"
+  },
+  "toner": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （打印机的）碳粉；调色剂；爽肤水"
+  },
+  "leaven": {
+    "partOfSpeech": "n.; v.",
+    "meaningZh": "n. 发酵剂；促使变化或活跃的因素\nv. 使发酵；使活跃，使生动"
+  },
+  "blandly": {
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 平淡地；温和地；不动声色地"
+  },
+  "blighted": {
+    "partOfSpeech": "adj.; v.",
+    "meaningZh": "adj. 枯萎的；遭破坏的；衰败的\nv. 毁坏；使枯萎（blight的过去式和过去分词）"
+  },
+  "risque": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 略带色情意味的；近乎猥亵的（也写作risqué）"
+  },
+  "grooming": {
+    "partOfSpeech": "n.; v.",
+    "meaningZh": "n. 梳洗；仪容打理；培养；为诱骗或操控而建立信任的行为\nv. 梳洗；培养（groom的现在分词）"
+  },
+  "dowdy": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. （衣着或外表）过时土气的；不时髦的"
+  },
+  "prissy": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. （贬义）过分拘谨的；装腔作势的；对小事大惊小怪的"
+  },
+  "sunroom": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 日光室（有大窗、采光充足的房间）"
+  },
+  "whorehouse": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （粗俗用语）妓院"
+  },
+  "blinders": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 马眼罩；妨碍全面认识的局限"
+  },
+  "neoplasm": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 肿瘤；组织的新生物（可为良性或恶性）"
+  },
+  "haltingly": {
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 断断续续地；吞吞吐吐地；犹豫地"
+  },
+  "leggy": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 腿长的；（植物）茎秆徒长的"
+  },
+  "carload": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 一车的载量；一车人或货物"
+  },
+  "cutaway": {
+    "partOfSpeech": "adj.; n.",
+    "meaningZh": "adj. 剖面的；前下摆剪去的\nn. 剖面图；燕尾式常礼服；（影视）切出镜头"
+  },
+  "paraffin": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 石蜡；（英）煤油"
+  },
+  "transvestite": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （较旧、可能令人不适的称呼）异装者；穿着通常与另一性别相关服装的人"
+  }
+}

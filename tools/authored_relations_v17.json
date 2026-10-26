@@ -1,0 +1,7 @@
+{
+  "license":"CC0 1.0",
+  "pairs":[
+    {"a":"internist","b":"intern","note":"internist 指内科医生；intern 作名词通常指实习生，勿把两者混同。"},
+    {"a":"etiology","b":"etymology","note":"etiology 指病因或病因学；etymology 指词源或词源学。"}
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "version": "v17-grade45-c",
+  "scope": "Suggestions only. Translation map preserves original English; root may choose these replacements with an explicit archive.",
+  "replacements": [
+    {
+      "wordId": "trillion",
+      "originalEnglish": "in England they call a quintillion a ‘trillion’",
+      "originalExamples": [
+        {
+          "en": "in England they call a quintillion a ‘trillion’",
+          "zh": "",
+          "source": "Open English WordNet 2025",
+          "attribution": "Open English WordNet team · Princeton WordNet · oewn-13774819-n · CC BY 4.0",
+          "sourceUrl": "https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition",
+          "synsetId": "oewn-13774819-n",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "reason": "原句未注明旧英式长数制，与现代常用trillion=10^12可能冲突；建议不用旧数制比较。",
+      "suggestedExample": {
+        "en": "The database contains more than a trillion records.",
+        "zh": "数据库包含超过一万亿条记录。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "audit",
+      "originalEnglish": "he made an audit of all the plants on his property",
+      "originalExamples": [
+        {
+          "en": "he made an audit of all the plants on his property",
+          "zh": "",
+          "source": "Open English WordNet 2025",
+          "attribution": "Open English WordNet team · Princeton WordNet · oewn-00141996-n · CC BY 4.0",
+          "sourceUrl": "https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition",
+          "synsetId": "oewn-00141996-n",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "reason": "plants 在缺乏上下文时可能指工厂或植物；本批按工厂译，建议用明确财务语境消除歧义。",
+      "suggestedExample": {
+        "en": "The accountant will audit the company's financial records.",
+        "zh": "会计师将审计公司的财务记录。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "rocky",
+      "originalEnglish": "The river has its source in the Rocky Mountains.",
+      "originalExamples": [
+        {
+          "en": "The river has its source in the Rocky Mountains.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #2268491 (_undertoad) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/2268491",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "reason": "Rocky Mountains 是专名；建议至少有一条直接体现rocky形容词多岩石义的例句。",
+      "suggestedExample": {
+        "en": "The rocky path was difficult to walk on.",
+        "zh": "那条崎岖多石的小路很难走。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "textile",
+      "originalEnglish": "Textiles and agriculture combined account for nearly 50% of Nicaragua's exports.",
+      "originalExamples": [
+        {
+          "en": "Textiles and agriculture combined account for nearly 50% of Nicaragua's exports.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #8905299 (The_World_Factbook) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/8905299",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "reason": "国家出口比例缺乏年份和统计来源，具有时效性；建议不用未经核实的具体比例。",
+      "suggestedExample": {
+        "en": "The shop sells textiles made from cotton and wool.",
+        "zh": "这家商店出售棉和羊毛制成的纺织品。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "bitch",
+      "originalEnglish": "she said her son thought Hillary was a bitch",
+      "originalExamples": [
+        {
+          "en": "she said her son thought Hillary was a bitch",
+          "zh": "",
+          "source": "Open English WordNet 2025",
+          "attribution": "Open English WordNet team · Princeton WordNet · oewn-10002403-n · CC BY 4.0",
+          "sourceUrl": "https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition",
+          "synsetId": "oewn-10002403-n",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "reason": "例句包含对具名女性Hillary的侮辱；可换中性动物名词语境，粗俗义留在带语体标记的释义中。",
+      "suggestedExample": {
+        "en": "The bitch stayed beside her puppies.",
+        "zh": "那只母犬待在幼犬身旁。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "feminine",
+      "originalEnglish": "Feminine logic is not always logical.",
+      "originalExamples": [
+        {
+          "en": "Feminine logic is not always logical.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #3210810 (Dreamk33) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/3210810",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "reason": "对女性逻辑能力作未经限定的贬低性泛化，不适合作为中性词义范例。",
+      "suggestedExample": {
+        "en": "The jacket has a simple, feminine design.",
+        "zh": "这件夹克设计简洁，富有女性气质。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "nitrogen",
+      "originalEnglish": "The air we breathe consists of oxygen and nitrogen.",
+      "originalExamples": [
+        {
+          "en": "The air we breathe consists of oxygen and nitrogen.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #262578 (CM) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/262578",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "reason": "英文没有mainly，容易误导空气只包含氧气和氮气；中文未擅自替原文加限定词。",
+      "suggestedExample": {
+        "en": "Nitrogen is one of the main gases in the air.",
+        "zh": "氮气是空气的主要气体成分之一。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "operational",
+      "originalEnglish": "de facto apartheid is still operational even in the ‘new’ African nations",
+      "originalExamples": [
+        {
+          "en": "de facto apartheid is still operational even in the ‘new’ African nations",
+          "zh": "",
+          "source": "Open English WordNet 2025",
+          "attribution": "Open English WordNet team · Princeton WordNet · oewn-00836557-s · CC BY 4.0",
+          "sourceUrl": "https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition",
+          "synsetId": "oewn-00836557-s",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "reason": "对未指明国家与时间的“新非洲国家”作种族隔离仍在运作的笼统陈述，建议一般功能语境。",
+      "suggestedExample": {
+        "en": "The new system is fully operational.",
+        "zh": "新系统已全面投入使用。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "molecular",
+      "originalEnglish": "molecular weight is the sum of all the atoms in a molecule",
+      "originalExamples": [
+        {
+          "en": "molecular weight is the sum of all the atoms in a molecule",
+          "zh": "",
+          "source": "Open English WordNet 2025",
+          "attribution": "Open English WordNet team · Princeton WordNet · oewn-02911952-a · CC BY 4.0",
+          "sourceUrl": "https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition",
+          "synsetId": "oewn-02911952-a",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "reason": "原英文说分子量是原子本身之和，缺少按原子质量求和的限定；建议直观分子结构语境。",
+      "suggestedExample": {
+        "en": "The diagram shows the molecular structure of water.",
+        "zh": "这幅图展示了水的分子结构。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "indict",
+      "originalEnglish": "In the absence of sufficient proof, the police could not indict him.",
+      "originalExamples": [
+        {
+          "en": "In the absence of sufficient proof, the police could not indict him.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #266513 (CK) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/266513",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "reason": "police与indict的程序主体可能因司法辖区而不同，原句未指明辖区；建议用被动语态保留起诉义。",
+      "suggestedExample": {
+        "en": "Several officials were indicted for fraud.",
+        "zh": "几名官员因欺诈被起诉。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "refine",
+      "originalEnglish": "Refined sugar is bad for your health.",
+      "originalExamples": [
+        {
+          "en": "Refined sugar is bad for your health.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #4977090 (Hybrid) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/4977090",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "reason": "对精制糖作不含剂量和条件的一概健康判断，建议避免把笼统营养判断当事实例句。",
+      "suggestedExample": {
+        "en": "This plant refines crude oil.",
+        "zh": "这座工厂提炼原油。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "workforce",
+      "originalEnglish": "Agriculture continues to employ 80% of the workforce.",
+      "originalExamples": [
+        {
+          "en": "Agriculture continues to employ 80% of the workforce.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #8904556 (The_World_Factbook) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/8904556",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "reason": "劳动力百分比没有地理范围和年份，不应暗示普遍事实；建议具体而不含统计断言的工作场景。",
+      "suggestedExample": {
+        "en": "The company is training its workforce to use new equipment.",
+        "zh": "公司正在培训员工使用新设备。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "workforce",
+      "originalEnglish": "Tourism employs 17% of the workforce.",
+      "originalExamples": [
+        {
+          "en": "Tourism employs 17% of the workforce.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #8904490 (The_World_Factbook) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/8904490",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "reason": "旅游业劳动力百分比没有地理范围和年份；建议具体工作场景。",
+      "suggestedExample": {
+        "en": "A skilled workforce helps the factory improve its products.",
+        "zh": "熟练的劳动力有助于工厂改善产品。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "embryo",
+      "originalEnglish": "The cloning of human embryos is prohibited by law.",
+      "originalExamples": [
+        {
+          "en": "The cloning of human embryos is prohibited by law.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #5651288 (Mar1L) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/5651288",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "reason": "人类胚胎克隆法律禁令未指明司法辖区和活动范围，容易被理解为普遍法律结论。",
+      "suggestedExample": {
+        "en": "The researchers examined an embryo under the microscope.",
+        "zh": "研究人员在显微镜下观察一个胚胎。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "expanded",
+      "originalEnglish": "The theory of the Big Bang was proposed in 1927 and expanded in 1929.",
+      "originalExamples": [
+        {
+          "en": "The theory of the Big Bang was proposed in 1927 and expanded in 1929.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #897399 (CM) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/897399",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "reason": "对大爆炸理论提出与扩展的年份作高度简化陈述，未在本批核实；建议直接示范扩建义。",
+      "suggestedExample": {
+        "en": "The school expanded its library to make room for more books.",
+        "zh": "学校扩建了图书馆，以容纳更多书籍。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "alpha",
+      "originalEnglish": "the alpha star in a constellation is the brightest or main star",
+      "originalExamples": [
+        {
+          "en": "the alpha star in a constellation is the brightest or main star",
+          "zh": "",
+          "source": "Open English WordNet 2025",
+          "attribution": "Open English WordNet team · Princeton WordNet · oewn-01279592-s · CC BY 4.0",
+          "sourceUrl": "https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition",
+          "synsetId": "oewn-01279592-s",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "reason": "星名alpha与亮度排名的对应关系未在本批核实，原定义语气绝对；建议基本字母义。",
+      "suggestedExample": {
+        "en": "Alpha is the first letter of the Greek alphabet.",
+        "zh": "阿尔法是希腊字母表的第一个字母。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    },
+    {
+      "wordId": "slump",
+      "originalEnglish": "In the current slump, economic growth has fallen to zero percent.",
+      "originalExamples": [
+        {
+          "en": "In the current slump, economic growth has fallen to zero percent.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #241785 (CM) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/241785",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "reason": "current slump与零增长没有国家、年份或出处，容易成为过时的当前经济断言。",
+      "suggestedExample": {
+        "en": "The shop experienced a slump in sales last winter.",
+        "zh": "这家商店去年冬天销售下滑。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）",
+        "license": "CC0 1.0"
+      },
+      "applied": false
+    }
+  ]
+}

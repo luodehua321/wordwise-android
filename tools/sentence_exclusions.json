@@ -1,0 +1,14 @@
+{
+  "Tom is teaching me to how to sail.": {
+    "sourceId": "3447023",
+    "reason": "The phrase \"teaching me to how to\" is ungrammatical. Excluded unchanged from all vocabulary candidates."
+  },
+  "it is an endemic found only this island": {
+    "source": "Open English WordNet 2025",
+    "reason": "Missing preposition before this island. Source is unchanged, sentence excluded."
+  },
+  "Vitamin D only synthesizes when sunlight is available": {
+    "source": "Open English WordNet 2025",
+    "reason": "Potentially misleading active voice for a biological synthesis process. Excluded instead of silently rewriting source."
+  }
+}

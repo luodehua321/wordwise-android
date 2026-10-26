@@ -1,0 +1,1217 @@
+{
+  "a": {
+    "ipa": "/ə/, /eɪ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "have": {
+    "ipa": "/hæv/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "he": {
+    "ipa": "/hiː/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "do": {
+    "ipa": "/duː/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "as": {
+    "ipa": "/æz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "use": {
+    "ipa": "/juːs/, /juːz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "no": {
+    "ipa": "/nəʊ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "put": {
+    "ipa": "/pʊt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "number": {
+    "ipa": "/ˈnʌmbə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "live": {
+    "ipa": "/lɪv/, /laɪv/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "mother": {
+    "ipa": "/ˈmʌðə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "job": {
+    "ipa": "/dʒɒb/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "house": {
+    "ipa": "/haʊs/, /haʊz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "real": {
+    "ipa": "/rɪəl/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "minute": {
+    "ipa": "/ˈmɪnɪt/, /maɪˈnjuːt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "lead": {
+    "ipa": "/liːd/, /led/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "read": {
+    "ipa": "/riːd/, /red/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "research": {
+    "ipa": "/rɪˈsɜːtʃ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "second": {
+    "ipa": "/ˈsekənd/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "process": {
+    "ipa": "/ˈprəʊses/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "report": {
+    "ipa": "/rɪˈpɔːt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "return": {
+    "ipa": "/rɪˈtɜːn/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "record": {
+    "ipa": "/ˈrekɔːd/, /rɪˈkɔːd/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "wear": {
+    "ipa": "/weə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "project": {
+    "ipa": "/ˈprɒdʒekt/, /prəˈdʒekt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "produce": {
+    "ipa": "/prəˈdjuːs/, /ˈprɒdjuːs/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "quite": {
+    "ipa": "/kwaɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "organization": {
+    "ipa": "/ˌɔːɡənaɪˈzeɪʃən/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "realize": {
+    "ipa": "/ˈrɪəlaɪz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "congress": {
+    "ipa": "/ˈkɒŋɡres/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "close": {
+    "ipa": "/kləʊs/, /kləʊz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "defense": {
+    "ipa": "/dɪˈfens/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "increase": {
+    "ipa": "/ɪnˈkriːs/, /ˈɪnkriːs/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "subject": {
+    "ipa": "/ˈsʌbdʒekt/, /səbˈdʒekt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "represent": {
+    "ipa": "/ˌreprɪˈzent/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "color": {
+    "ipa": "/ˈkʌlə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "fine": {
+    "ipa": "/faɪn/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "recognize": {
+    "ipa": "/ˈrekəɡnaɪz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "outside": {
+    "ipa": "/ˌaʊtˈsaɪd/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "present": {
+    "ipa": "/ˈprezənt/, /prɪˈzent/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "nice": {
+    "ipa": "/naɪs/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "finish": {
+    "ipa": "/ˈfɪnɪʃ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "impact": {
+    "ipa": "/ˈɪmpækt/, /ɪmˈpækt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "charge": {
+    "ipa": "/tʃɑːdʒ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "apply": {
+    "ipa": "/əˈplaɪ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "evening": {
+    "ipa": "/ˈiːvnɪŋ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "affect": {
+    "ipa": "/əˈfekt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "inside": {
+    "ipa": "/ˌɪnˈsaɪd/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "detail": {
+    "ipa": "/ˈdiːteɪl/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "address": {
+    "ipa": "/əˈdres/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；常用词义优先，含常见词性或时态异读；非美式音标转换。"
+  },
+  "mouth": {
+    "ipa": "/maʊθ/, /maʊð/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "none": {
+    "ipa": "/nʌn/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "wind": {
+    "ipa": "/wɪnd/, /waɪnd/",
+    "reference": "https://dictionary.cambridge.org/pronunciation/english/wind",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "reform": {
+    "ipa": "/rɪˈfɔːm/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "release": {
+    "ipa": "/rɪˈliːs/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "recall": {
+    "ipa": "/rɪˈkɔːl/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "object": {
+    "ipa": "/ˈɒbdʒɪkt/, /əbˈdʒekt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "perfect": {
+    "ipa": "/ˈpɜːfɪkt/, /pəˈfekt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "conduct": {
+    "ipa": "/kənˈdʌkt/, /ˈkɒndʌkt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "conflict": {
+    "ipa": "/ˈkɒnflɪkt/, /kənˈflɪkt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "afternoon": {
+    "ipa": "/ˌɑːftəˈnuːn/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "survey": {
+    "ipa": "/ˈsɜːveɪ/, /səˈveɪ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "supposed": {
+    "ipa": "/səˈpəʊzd/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "refuse": {
+    "ipa": "/rɪˈfjuːz/, /ˈrefjuːs/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "contract": {
+    "ipa": "/ˈkɒntrækt/, /kənˈtrækt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "collect": {
+    "ipa": "/kəˈlekt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "river": {
+    "ipa": "/ˈrɪvə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "path": {
+    "ipa": "/pɑːθ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "associate": {
+    "ipa": "/əˈsəʊsieɪt/, /əˈsəʊsiət/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "review": {
+    "ipa": "/rɪˈvjuː/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "document": {
+    "ipa": "/ˈdɒkjəmənt/, /ˈdɒkjəment/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "neighbor": {
+    "ipa": "/ˈneɪbə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "committee": {
+    "ipa": "/kəˈmɪti/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "combine": {
+    "ipa": "/kəmˈbaɪn/, /ˈkɒmbaɪn/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "contact": {
+    "ipa": "/ˈkɒntækt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "flower": {
+    "ipa": "/ˈflaʊə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "appropriate": {
+    "ipa": "/əˈprəʊpriət/, /əˈprəʊprieɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "supply": {
+    "ipa": "/səˈplaɪ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "progress": {
+    "ipa": "/ˈprəʊɡres/, /prəˈɡres/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "abuse": {
+    "ipa": "/əˈbjuːs/, /əˈbjuːz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "reading": {
+    "ipa": "/ˈriːdɪŋ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "complex": {
+    "ipa": "/ˈkɒmpleks/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "invite": {
+    "ipa": "/ɪnˈvaɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "poll": {
+    "ipa": "/pəʊl/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "okay": {
+    "ipa": "/ˌəʊˈkeɪ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "organize": {
+    "ipa": "/ˈɔːɡənaɪz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "content": {
+    "ipa": "/ˈkɒntent/, /kənˈtent/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "file": {
+    "ipa": "/faɪl/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "contrast": {
+    "ipa": "/ˈkɒntrɑːst/, /kənˈtrɑːst/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "estimate": {
+    "ipa": "/ˈestɪmeɪt/, /ˈestɪmət/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "used": {
+    "ipa": "/juːzd/, /juːst/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "row": {
+    "ipa": "/rəʊ/, /raʊ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "secret": {
+    "ipa": "/ˈsiːkrət/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "separate": {
+    "ipa": "/ˈsepərət/, /ˈsepəreɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "tear": {
+    "ipa": "/tɪə/, /teə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "overall": {
+    "ipa": "/ˌəʊvərˈɔːl/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "emphasize": {
+    "ipa": "/ˈemfəsaɪz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "expose": {
+    "ipa": "/ɪkˈspəʊz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "reject": {
+    "ipa": "/rɪˈdʒekt/, /ˈriːdʒekt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "lower": {
+    "ipa": "/ˈləʊə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "prayer": {
+    "ipa": "/preə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "suspect": {
+    "ipa": "/səˈspekt/, /ˈsʌspekt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "permit": {
+    "ipa": "/pəˈmɪt/, /ˈpɜːmɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "graduate": {
+    "ipa": "/ˈɡrædʒuət/, /ˈɡrædʒueɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "recover": {
+    "ipa": "/rɪˈkʌvə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "layer": {
+    "ipa": "/ˈleɪə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "transform": {
+    "ipa": "/trænsˈfɔːm/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "leading": {
+    "ipa": "/ˈliːdɪŋ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "consist": {
+    "ipa": "/kənˈsɪst/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "desert": {
+    "ipa": "/ˈdezət/, /dɪˈzɜːt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "resolve": {
+    "ipa": "/rɪˈzɒlv/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "implement": {
+    "ipa": "/ˈɪmplɪment/, /ˈɪmplɪmənt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "transfer": {
+    "ipa": "/trænsˈfɜː/, /ˈtrænsfɜː/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "analyze": {
+    "ipa": "/ˈænəlaɪz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "prospect": {
+    "ipa": "/ˈprɒspekt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "ally": {
+    "ipa": "/ˈælaɪ/, /əˈlaɪ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "tower": {
+    "ipa": "/ˈtaʊə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "peer": {
+    "ipa": "/pɪə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "construct": {
+    "ipa": "/kənˈstrʌkt/, /ˈkɒnstrʌkt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "pan": {
+    "ipa": "/pæn/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "concert": {
+    "ipa": "/ˈkɒnsət/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "pace": {
+    "ipa": "/peɪs/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "essay": {
+    "ipa": "/ˈeseɪ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "restore": {
+    "ipa": "/rɪˈstɔː/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "criticize": {
+    "ipa": "/ˈkrɪtɪsaɪz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "routine": {
+    "ipa": "/ruːˈtiːn/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "fiber": {
+    "ipa": "/ˈfaɪbə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "incorporate": {
+    "ipa": "/ɪnˈkɔːpəreɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "advocate": {
+    "ipa": "/ˈædvəkeɪt/, /ˈædvəkət/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "resort": {
+    "ipa": "/rɪˈzɔːt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "singer": {
+    "ipa": "/ˈsɪŋə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "offense": {
+    "ipa": "/əˈfens/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "protest": {
+    "ipa": "/ˈprəʊtest/, /prəˈtest/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "characterize": {
+    "ipa": "/ˈkærəktəraɪz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "entrance": {
+    "ipa": "/ˈentrəns/, /ɪnˈtrɑːns/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "convert": {
+    "ipa": "/kənˈvɜːt/, /ˈkɒnvɜːt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "segment": {
+    "ipa": "/ˈseɡmənt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "counselor": {
+    "ipa": "/ˈkaʊnsələ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "closer": {
+    "ipa": "/ˈkləʊsə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "impress": {
+    "ipa": "/ɪmˈpres/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "humor": {
+    "ipa": "/ˈhjuːmə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "contest": {
+    "ipa": "/ˈkɒntest/, /kənˈtest/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "sue": {
+    "ipa": "/suː/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "overlook": {
+    "ipa": "/ˌəʊvəˈlʊk/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "legitimate": {
+    "ipa": "/lɪˈdʒɪtɪmət/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "wound": {
+    "ipa": "/wuːnd/, /waʊnd/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "shower": {
+    "ipa": "/ˈʃaʊə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "discourse": {
+    "ipa": "/ˈdɪskɔːs/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "moderate": {
+    "ipa": "/ˈmɒdərət/, /ˈmɒdəreɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "frequent": {
+    "ipa": "/ˈfriːkwənt/, /frɪˈkwent/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核英式补充；保留常见词性异读，参考固定ECDICT，不由美式转换。"
+  },
+  "sin": {
+    "ipa": "/sɪn/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "mouse": {
+    "ipa": "/maʊs/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "sake": {
+    "ipa": "/seɪk/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "attribute": {
+    "ipa": "/əˈtrɪbjuːt/, /ˈætrɪbjuːt/",
+    "reference": "https://dictionary.cambridge.org/us/dictionary/english/attribute",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "grave": {
+    "ipa": "/ɡreɪv/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "decrease": {
+    "ipa": "/dɪˈkriːs/, /ˈdiːkriːs/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "upset": {
+    "ipa": "/ʌpˈset/, /ˈʌpset/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "remark": {
+    "ipa": "/rɪˈmɑːk/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "resign": {
+    "ipa": "/rɪˈzaɪn/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "counseling": {
+    "ipa": "/ˈkaʊnsəlɪŋ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "combat": {
+    "ipa": "/ˈkɒmbæt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "compound": {
+    "ipa": "/ˈkɒmpaʊnd/, /kəmˈpaʊnd/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "export": {
+    "ipa": "/ˈekspɔːt/, /ɪkˈspɔːt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "civilization": {
+    "ipa": "/ˌsɪvəlaɪˈzeɪʃən/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "excuse": {
+    "ipa": "/ɪkˈskjuːs/, /ɪkˈskjuːz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "rumor": {
+    "ipa": "/ˈruːmə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "airplane": {
+    "ipa": "/ˈeəpleɪn/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "initiate": {
+    "ipa": "/ɪˈnɪʃieɪt/, /ɪˈnɪʃiət/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "lens": {
+    "ipa": "/lenz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "cave": {
+    "ipa": "/keɪv/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "consult": {
+    "ipa": "/kənˈsʌlt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "pad": {
+    "ipa": "/pæd/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "convict": {
+    "ipa": "/kənˈvɪkt/, /ˈkɒnvɪkt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "mandate": {
+    "ipa": "/ˈmændeɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "apologize": {
+    "ipa": "/əˈpɒlədʒaɪz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "reserve": {
+    "ipa": "/rɪˈzɜːv/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "rebel": {
+    "ipa": "/ˈrebəl/, /rɪˈbel/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "resume": {
+    "ipa": "/rɪˈzjuːm/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "pension": {
+    "ipa": "/ˈpenʃən/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "traveler": {
+    "ipa": "/ˈtrævələ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "nonprofit": {
+    "ipa": "/ˌnɒnˈprɒfɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "repair": {
+    "ipa": "/rɪˈpeə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "envelope": {
+    "ipa": "/ˈenvələʊp/, /ˈɒnvələʊp/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "minimize": {
+    "ipa": "/ˈmɪnɪmaɪz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "isolate": {
+    "ipa": "/ˈaɪsəleɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "abstract": {
+    "ipa": "/ˈæbstrækt/, /æbˈstrækt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "romance": {
+    "ipa": "/rəʊˈmæns/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "import": {
+    "ipa": "/ˈɪmpɔːt/, /ɪmˈpɔːt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "mate": {
+    "ipa": "/meɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "bow": {
+    "ipa": "/bəʊ/, /baʊ/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "specialize": {
+    "ipa": "/ˈspeʃəlaɪz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "carpet": {
+    "ipa": "/ˈkɑːpɪt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "accent": {
+    "ipa": "/ˈæksənt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "tumor": {
+    "ipa": "/ˈtjuːmə/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "drawer": {
+    "ipa": "/drɔː/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "instinct": {
+    "ipa": "/ˈɪnstɪŋkt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "irony": {
+    "ipa": "/ˈaɪrəni/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "upstairs": {
+    "ipa": "/ˌʌpˈsteəz/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "colorful": {
+    "ipa": "/ˈkʌləfəl/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "suite": {
+    "ipa": "/swiːt/",
+    "reference": "https://github.com/skywind3000/ECDICT/tree/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+    "note": "项目复核补充；词性异读并列，英式字段独立整理，不由美式音标转换。"
+  },
+  "January": {
+    "ipa": "/ˈdʒænjuəri/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/january",
+    "sourcePhonetic": "'dʒænjuәri",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "February": {
+    "ipa": "/ˈfebruəri/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/february",
+    "sourcePhonetic": "'februәri",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "March": {
+    "ipa": "/mɑːtʃ/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/march",
+    "sourcePhonetic": "mɑ:tʃ",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "April": {
+    "ipa": "/ˈeɪprəl/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/april",
+    "sourcePhonetic": "'eiprәl",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "May": {
+    "ipa": "/meɪ/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/may",
+    "sourcePhonetic": "mei",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "June": {
+    "ipa": "/dʒuːn/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/june",
+    "sourcePhonetic": "dʒu:n",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "July": {
+    "ipa": "/dʒuˈlaɪ/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/july",
+    "sourcePhonetic": "dʒu:'lai",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "August": {
+    "ipa": "/ˈɔːɡəst/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/august",
+    "sourcePhonetic": "ɒ:'gʌst. 'ɒ:gәst",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "September": {
+    "ipa": "/sepˈtembə/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/september",
+    "sourcePhonetic": "sep'tembә",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "October": {
+    "ipa": "/ɒkˈtəʊbə/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/october",
+    "sourcePhonetic": "ɒk'tәubә",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "November": {
+    "ipa": "/nəʊˈvembə/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/november",
+    "sourcePhonetic": "nәu'vembә",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "December": {
+    "ipa": "/dɪˈsembə/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/december",
+    "sourcePhonetic": "di'sembә",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "Monday": {
+    "ipa": "/ˈmʌndeɪ/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/monday",
+    "sourcePhonetic": "'mʌndi",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "Tuesday": {
+    "ipa": "/ˈtjuːzdeɪ/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/tuesday",
+    "sourcePhonetic": "'tju:zdi",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "Wednesday": {
+    "ipa": "/ˈwenzdeɪ/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/wednesday",
+    "sourcePhonetic": "'wenzdi",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "Thursday": {
+    "ipa": "/ˈθɜːzdeɪ/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/thursday",
+    "sourcePhonetic": "'θә:zdi",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "Friday": {
+    "ipa": "/ˈfraɪdeɪ/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/friday",
+    "sourcePhonetic": "'fraidi",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "Saturday": {
+    "ipa": "/ˈsætədeɪ/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/saturday",
+    "sourcePhonetic": "'sætәdi",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "Sunday": {
+    "ipa": "/ˈsʌndeɪ/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/sunday",
+    "sourcePhonetic": "'sʌndi",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "Chinese": {
+    "ipa": "/tʃaɪˈniːz/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/chinese",
+    "sourcePhonetic": "tʃai'ni:z",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "Christmas": {
+    "ipa": "/ˈkrɪsməs/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/christmas",
+    "sourcePhonetic": "'krismәs",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "Spanish": {
+    "ipa": "/ˈspænɪʃ/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/spanish",
+    "sourcePhonetic": "'spæniʃ",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "Easter": {
+    "ipa": "/ˈiːstə/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/easter",
+    "sourcePhonetic": "'i:stә",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "mobile": {
+    "ipa": "/ˈməʊbaɪl/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/mobile",
+    "sourcePhonetic": "'mәubil",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "liter": {
+    "ipa": "/ˈliːtə/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/liter",
+    "sourcePhonetic": "'li:tә",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "app": {
+    "ipa": "/æp/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/app",
+    "sourcePhonetic": "",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "email": {
+    "ipa": "/ˈiːmeɪl/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/email",
+    "sourcePhonetic": "'i:'meil",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "smartphone": {
+    "ipa": "/ˈsmɑːtfəʊn/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/smartphone",
+    "sourcePhonetic": "",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "defence": {
+    "ipa": "/dɪˈfens/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/defence",
+    "sourcePhonetic": "di'fens",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "transport": {
+    "ipa": "/ˈtrænspɔːt/, /trænˈspɔːt/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/transport",
+    "sourcePhonetic": "træns'pɒ:t",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "underground": {
+    "ipa": "/ˌʌndəˈɡraʊnd/, /ˈʌndəɡraʊnd/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/underground",
+    "sourcePhonetic": "'ʌndәgraund",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "rose": {
+    "ipa": "/rəʊz/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/rose",
+    "sourcePhonetic": "rәuz",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "putting": {
+    "ipa": "/ˈpʊtɪŋ/, /ˈpʌtɪŋ/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/putting",
+    "sourcePhonetic": "'putiŋ",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "learned": {
+    "ipa": "/lɜːnd/, /ˈlɜːnɪd/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/learned",
+    "sourcePhonetic": "'lә:nid",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "dogged": {
+    "ipa": "/ˈdɒɡɪd/, /dɒɡd/",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/dogged",
+    "sourcePhonetic": "'dɒgid",
+    "reason": "项目英式发音复核；补足新入库基础词或已有缺口。常见异读保留，未由美式音标机械转换。"
+  },
+  "august": {
+    "ipa": "/ɔːˈɡʌst/",
+    "reference": "https://www.oxfordlearnersdictionaries.com/definition/english/august_1",
+    "reason": "小写形容词与大写月份名称分开，按形容词后重音修正。"
+  }
+}

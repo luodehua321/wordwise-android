@@ -1,0 +1,68 @@
+{
+  "sheep": {
+    "forms": [
+      {
+        "word": "sheep",
+        "meaningZh": "复数（单复数同形）"
+      }
+    ],
+    "reference": "https://assets.cambridge.org/052147/7972/sample/0521477972ws.pdf",
+    "reason": "修正源词典的 sheeps。"
+  },
+  "deer": {
+    "forms": [
+      {
+        "word": "deer",
+        "meaningZh": "复数（单复数同形）"
+      }
+    ],
+    "reference": "https://dictionary.cambridge.org/dictionary/english/deer",
+    "reason": "移除误标的 deering，补充常用名词复数。"
+  },
+  "moose": {
+    "forms": [
+      {
+        "word": "moose",
+        "meaningZh": "复数（单复数同形）"
+      }
+    ],
+    "reference": "https://www.oxfordlearnersdictionaries.com/definition/english/moose",
+    "reason": "学习卡采用标准复数 moose。"
+  },
+  "fell": {
+    "forms": [
+      {
+        "word": "felled",
+        "meaningZh": "砍倒义：过去式 / 过去分词"
+      },
+      {
+        "word": "felling",
+        "meaningZh": "砍倒义：现在分词"
+      },
+      {
+        "word": "fells",
+        "meaningZh": "砍倒义：第三人称单数；山丘义：复数"
+      }
+    ],
+    "reason": "原始exchange混入fall的第三人称和过去式，分开fell（砍倒）与fall的过去式。",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/fell"
+  },
+  "drunk": {
+    "forms": [
+      {
+        "word": "drunker",
+        "meaningZh": "形容词比较级"
+      },
+      {
+        "word": "drunkest",
+        "meaningZh": "形容词最高级"
+      },
+      {
+        "word": "drunks",
+        "meaningZh": "名词复数"
+      }
+    ],
+    "reason": "去掉从drink混入的自指过去式；保留drunk作为形容词和名词的真实变化。",
+    "reference": "https://dictionary.cambridge.org/dictionary/english/drunk"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "bountiful": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 丰富的；充裕的；慷慨的"
+  },
+  "facedown": {
+    "partOfSpeech": "adv. / adj. / n.",
+    "meaningZh": "adv. / adj. 正面朝下（的）；脸朝下（的）\nn. 对抗；摊牌"
+  },
+  "dashing": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 潇洒的；英姿飒爽的；充满活力的"
+  },
+  "groupie": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （非正式）追随乐队或名人的狂热乐迷，追星族"
+  },
+  "heh": {
+    "partOfSpeech": "int.",
+    "meaningZh": "int. 嘿嘿；呵呵（表示轻笑等）"
+  },
+  "gumbo": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 秋葵浓汤（路易斯安那风味）；秋葵；黏重土壤"
+  },
+  "cinch": {
+    "partOfSpeech": "n. / vt.",
+    "meaningZh": "n. （非正式）容易的事；必然成功的事；马鞍肚带\nvt. 系紧；确保取得"
+  },
+  "upriver": {
+    "partOfSpeech": "adv. / adj.",
+    "meaningZh": "adv. 向上游；在上游\nadj. 上游的"
+  },
+  "franchisee": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 获得特许经营权的人或企业；加盟商"
+  },
+  "tumbling": {
+    "partOfSpeech": "n. / v.",
+    "meaningZh": "n. （体操）翻腾，翻筋斗\nv. 翻滚；跌落（tumble 的现在分词）"
+  },
+  "downtime": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 停机时间；停工期；休息时间"
+  },
+  "souffle": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 舒芙蕾，蛋奶酥（轻盈蓬松的烘焙食品）；（医学）吹风样杂音"
+  },
+  "cropped": {
+    "partOfSpeech": "adj. / v.",
+    "meaningZh": "adj. 裁剪过的；剪短的；（衣服）短款的\nv. 收割；裁剪；剪短（crop 的过去式和过去分词）"
+  },
+  "juggernaut": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 势不可挡的力量；强大的机构或企业；重型卡车"
+  },
+  "sorbet": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 雪葩，果汁冰霜"
+  },
+  "invigorating": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 令人精神振奋的；使人恢复活力的"
+  },
+  "washcloth": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （美式）洗脸巾；小方巾"
+  },
+  "jay": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 松鸦；（旧俚语）傻瓜"
+  },
+  "abysmal": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 极糟的；深不可测的"
+  },
+  "detritus": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 碎屑；残骸；废弃物；风化碎石"
+  },
+  "undertone": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 低声；隐含的意味或情绪；浅淡的色调"
+  },
+  "amok": {
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 狂乱地；失控地；横冲直撞地（常用于 run amok）"
+  }
+}

@@ -1,0 +1,7446 @@
+{
+  "be": {
+    "examples": [
+      {
+        "en": "Please be quiet in the library.",
+        "zh": "在图书馆里请保持安静。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be ready for",
+        "zh": "为……做好准备"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "being",
+        "meaningZh": "存在；生物"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "bee",
+        "meaningZh": "蜜蜂",
+        "note": "be 表示“是”；bee 是昆虫，二者同音。"
+      }
+    ]
+  },
+  "do": {
+    "examples": [
+      {
+        "en": "I do my homework after dinner.",
+        "zh": "晚饭后我做作业。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "do one's best",
+        "zh": "尽某人最大努力"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "doer",
+        "meaningZh": "行动者；实干家"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "make",
+        "meaningZh": "制作；使得",
+        "note": "do 常指完成任务；make 常指创造或制作事物。"
+      }
+    ]
+  },
+  "say": {
+    "examples": [
+      {
+        "en": "She said that the train was late.",
+        "zh": "她说火车晚点了。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "say hello to",
+        "zh": "向……问好"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "saying",
+        "meaningZh": "谚语；格言"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "tell",
+        "meaningZh": "告诉",
+        "note": "say 强调说的内容；tell 常接人，表示告诉某人。"
+      }
+    ]
+  },
+  "know": {
+    "examples": [
+      {
+        "en": "I know the answer to this question.",
+        "zh": "我知道这个问题的答案。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "know about",
+        "zh": "了解……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "knowledge",
+        "meaningZh": "知识"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "no",
+        "meaningZh": "不；没有",
+        "note": "know 和 no 同音；know 是动词，no 用于否定。"
+      }
+    ]
+  },
+  "make": {
+    "examples": [
+      {
+        "en": "We can make a plan together.",
+        "zh": "我们可以一起制订计划。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "make a decision",
+        "zh": "做决定"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "maker",
+        "meaningZh": "制造者；制作者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "do",
+        "meaningZh": "做",
+        "note": "make a decision 表示“做决定”；做作业用 do homework。"
+      }
+    ]
+  },
+  "time": {
+    "examples": [
+      {
+        "en": "We still have time to catch the bus.",
+        "zh": "我们还有时间赶上公交车。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "on time",
+        "zh": "准时"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "timely",
+        "meaningZh": "及时的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "times",
+        "meaningZh": "次数；时代",
+        "note": "time 表示时间常不可数；表示次数时可以用 times。"
+      }
+    ]
+  },
+  "year": {
+    "examples": [
+      {
+        "en": "My sister starts school this year.",
+        "zh": "我妹妹今年开始上学。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "all year round",
+        "zh": "一年到头"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "yearly",
+        "meaningZh": "每年的；每年"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "ear",
+        "meaningZh": "耳朵",
+        "note": "year 的开头有 /j/ 音；ear 没有这个音。"
+      }
+    ]
+  },
+  "think": {
+    "examples": [
+      {
+        "en": "I think this book is useful.",
+        "zh": "我认为这本书很有用。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "think about",
+        "zh": "考虑……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "thinker",
+        "meaningZh": "思想家；思考者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "thing",
+        "meaningZh": "事物；东西",
+        "note": "think 是动词，末尾为 /ŋk/；thing 是名词，末尾为 /ŋ/。"
+      }
+    ]
+  },
+  "people": {
+    "examples": [
+      {
+        "en": "Many people walk to work here.",
+        "zh": "这里很多人步行上班。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "young people",
+        "zh": "年轻人"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "repopulate",
+        "meaningZh": "使重新有人居住"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "person",
+        "meaningZh": "人",
+        "note": "people 通常表示“人们”，作复数；person 表示一个人。"
+      }
+    ]
+  },
+  "take": {
+    "examples": [
+      {
+        "en": "Please take your umbrella with you.",
+        "zh": "请随身带上雨伞。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "take a break",
+        "zh": "休息一下"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "taker",
+        "meaningZh": "接受者；获取者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "bring",
+        "meaningZh": "带来",
+        "note": "take 常表示从此处带走；bring 常表示带到说话者所在处。"
+      }
+    ]
+  },
+  "see": {
+    "examples": [
+      {
+        "en": "I can see the mountains from my window.",
+        "zh": "从窗户我能看见群山。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "see a doctor",
+        "zh": "看医生"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "unseen",
+        "meaningZh": "未被看见的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "sea",
+        "meaningZh": "海",
+        "note": "see 和 sea 同音；see 是看见，sea 是海洋。"
+      }
+    ]
+  },
+  "come": {
+    "examples": [
+      {
+        "en": "Can you come to my house tomorrow?",
+        "zh": "你明天能来我家吗？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "come true",
+        "zh": "实现"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "newcomer",
+        "meaningZh": "新来者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "go",
+        "meaningZh": "去",
+        "note": "come 表示向说话者或谈话中的地点来；go 表示去别处。"
+      }
+    ]
+  },
+  "like": {
+    "examples": [
+      {
+        "en": "I like reading before bed.",
+        "zh": "我喜欢睡前阅读。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "would like to",
+        "zh": "想要做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "likable",
+        "meaningZh": "讨人喜欢的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "alike",
+        "meaningZh": "相似的",
+        "note": "like 可作动词或介词；alike 常放在 be 或 look 后表示相似。"
+      }
+    ]
+  },
+  "want": {
+    "examples": [
+      {
+        "en": "I want to learn a new language.",
+        "zh": "我想学一门新语言。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "want to do",
+        "zh": "想要做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "unwanted",
+        "meaningZh": "不需要的；不受欢迎的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "won't",
+        "meaningZh": "将不会",
+        "note": "want 表示想要；won't 是 will not 的缩写，拼写和读音均不同。"
+      }
+    ]
+  },
+  "look": {
+    "examples": [
+      {
+        "en": "Look at the map before we leave.",
+        "zh": "出发前看看地图。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "look forward to",
+        "zh": "期待……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "lookout",
+        "meaningZh": "瞭望；警戒者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "see",
+        "meaningZh": "看见",
+        "note": "look 强调主动看；see 强调看见的结果。look at 后再接对象。"
+      }
+    ]
+  },
+  "new": {
+    "examples": [
+      {
+        "en": "We moved into a new apartment.",
+        "zh": "我们搬进了一套新公寓。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "brand new",
+        "zh": "全新的"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "newness",
+        "meaningZh": "新颖；崭新"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "knew",
+        "meaningZh": "知道（know 的过去式）",
+        "note": "new 和 knew 同音；new 是形容词，knew 是过去式。"
+      }
+    ]
+  },
+  "use": {
+    "examples": [
+      {
+        "en": "You can use my pen.",
+        "zh": "你可以用我的笔。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "make use of",
+        "zh": "利用……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "useful",
+        "meaningZh": "有用的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "used",
+        "meaningZh": "用过的；曾经",
+        "note": "use 作动词时末尾常读 /z/；名词“用途”末尾常读 /s/。"
+      }
+    ]
+  },
+  "find": {
+    "examples": [
+      {
+        "en": "I cannot find my keys.",
+        "zh": "我找不到钥匙。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "find out",
+        "zh": "查明；弄清"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "finder",
+        "meaningZh": "发现者；寻找者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "found",
+        "meaningZh": "找到（find 的过去式）；创立",
+        "note": "found 可是 find 的过去式，也可是“创立”的原形，须看语境。"
+      }
+    ]
+  },
+  "give": {
+    "examples": [
+      {
+        "en": "Please give me a few minutes.",
+        "zh": "请给我几分钟。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "give up",
+        "zh": "放弃"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "giver",
+        "meaningZh": "给予者；捐赠者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "gift",
+        "meaningZh": "礼物",
+        "note": "give 是动词；gift 通常是名词，末尾还有 /ft/。"
+      }
+    ]
+  },
+  "well": {
+    "examples": [
+      {
+        "en": "She speaks English very well.",
+        "zh": "她英语说得很好。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "as well as",
+        "zh": "也；和……一样"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "wellness",
+        "meaningZh": "健康状态"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "good",
+        "meaningZh": "好的",
+        "note": "well 常作副词修饰动作；good 通常作形容词修饰名词。"
+      }
+    ]
+  },
+  "tell": {
+    "examples": [
+      {
+        "en": "Please tell me your name.",
+        "zh": "请告诉我你的名字。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "tell the truth",
+        "zh": "说实话"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "teller",
+        "meaningZh": "讲述者；银行出纳员"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "say",
+        "meaningZh": "说",
+        "note": "tell someone something 可直接接人；say something to someone 通常用 to。"
+      }
+    ]
+  },
+  "good": {
+    "examples": [
+      {
+        "en": "A good breakfast gives you energy.",
+        "zh": "一顿好的早餐会给你能量。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be good at",
+        "zh": "擅长……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "goodness",
+        "meaningZh": "善良；良好品质"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "well",
+        "meaningZh": "好地；健康的",
+        "note": "good 常修饰名词；well 常修饰动词。be good at 后接名词或动名词。"
+      }
+    ]
+  },
+  "life": {
+    "examples": [
+      {
+        "en": "Reading is part of my daily life.",
+        "zh": "阅读是我日常生活的一部分。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "daily life",
+        "zh": "日常生活"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "lifeless",
+        "meaningZh": "无生命的；死气沉沉的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "live",
+        "meaningZh": "生活；活的",
+        "note": "life 是名词；live 可作动词，作不同词性时读音也不同。"
+      }
+    ]
+  },
+  "child": {
+    "examples": [
+      {
+        "en": "The child is drawing a tree.",
+        "zh": "这个孩子正在画一棵树。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an only child",
+        "zh": "独生子女"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "childhood",
+        "meaningZh": "童年"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "children",
+        "meaningZh": "孩子们",
+        "note": "child 的复数是不规则的 children，不能写成 childs。"
+      }
+    ]
+  },
+  "work": {
+    "examples": [
+      {
+        "en": "My father works in a hospital.",
+        "zh": "我父亲在医院工作。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "at work",
+        "zh": "在工作；在上班"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "worker",
+        "meaningZh": "工人；工作者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "job",
+        "meaningZh": "工作；职位",
+        "note": "work 表示工作通常不可数；job 是可数名词，可说 a job。"
+      }
+    ]
+  },
+  "call": {
+    "examples": [
+      {
+        "en": "I will call you after lunch.",
+        "zh": "午饭后我会给你打电话。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "call back",
+        "zh": "回电话"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "caller",
+        "meaningZh": "打电话的人；来访者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "phone",
+        "meaningZh": "电话；打电话",
+        "note": "call someone 可直接接人；不能按中文习惯加多余的 to。"
+      }
+    ]
+  },
+  "world": {
+    "examples": [
+      {
+        "en": "The internet connects people around the world.",
+        "zh": "互联网连接着世界各地的人。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "around the world",
+        "zh": "世界各地"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "worldwide",
+        "meaningZh": "全世界的；在全世界"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "word",
+        "meaningZh": "单词",
+        "note": "world 含 /l/ 音，word 没有；注意 world 的拼写中多一个 l。"
+      }
+    ]
+  },
+  "school": {
+    "examples": [
+      {
+        "en": "Our school has a small garden.",
+        "zh": "我们学校有一个小花园。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "go to school",
+        "zh": "上学"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "schooling",
+        "meaningZh": "学校教育"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "scholar",
+        "meaningZh": "学者",
+        "note": "school 是学校；scholar 指学者，不能用来泛指所有学生。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "try": {
+    "examples": [
+      {
+        "en": "Try a different way to solve it.",
+        "zh": "试着用另一种方法解决它。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "try one's best",
+        "zh": "尽力"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "trial",
+        "meaningZh": "试验；审判"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "tired",
+        "meaningZh": "疲倦的",
+        "note": "try to do 表示努力做；try doing 表示试着用某种方法做。"
+      }
+    ]
+  },
+  "ask": {
+    "examples": [
+      {
+        "en": "You can ask the teacher for help.",
+        "zh": "你可以向老师求助。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "ask for help",
+        "zh": "寻求帮助"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "asker",
+        "meaningZh": "提问者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "answer",
+        "meaningZh": "回答；答案",
+        "note": "ask 是提问，answer 是回答；ask someone for something 表示向某人要某物。"
+      }
+    ]
+  },
+  "need": {
+    "examples": [
+      {
+        "en": "Plants need water and sunlight.",
+        "zh": "植物需要水和阳光。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in need of",
+        "zh": "需要……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "needy",
+        "meaningZh": "贫困的；需要帮助的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "want",
+        "meaningZh": "想要",
+        "note": "need 表示客观需要；want 常表示主观愿望。"
+      }
+    ]
+  },
+  "feel": {
+    "examples": [
+      {
+        "en": "I feel better after a short walk.",
+        "zh": "散步一会儿后我感觉好多了。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "feel like doing",
+        "zh": "想要做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "feeling",
+        "meaningZh": "感觉；感情"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "fill",
+        "meaningZh": "填满",
+        "note": "feel 含 /i/ 长元音，fill 含 /ɪ/；feel like 后接名词或动名词。"
+      }
+    ]
+  },
+  "state": {
+    "examples": [
+      {
+        "en": "Please state your name clearly.",
+        "zh": "请清楚地说出你的名字。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a state of mind",
+        "zh": "心态"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "statement",
+        "meaningZh": "陈述；声明"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "status",
+        "meaningZh": "状态；地位",
+        "note": "state 可表示状态或州，也可作动词陈述；status 常表示地位或当前状况。"
+      }
+    ]
+  },
+  "become": {
+    "examples": [
+      {
+        "en": "The sky becomes dark before the storm.",
+        "zh": "暴风雨前天空变暗了。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "become aware of",
+        "zh": "意识到……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "becoming",
+        "meaningZh": "合适的；好看的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "come",
+        "meaningZh": "来",
+        "note": "become 后常接形容词或名词表示变成；come 通常表示来。"
+      }
+    ]
+  },
+  "high": {
+    "examples": [
+      {
+        "en": "The bird is flying high above the trees.",
+        "zh": "鸟在树木上方高高地飞翔。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "high school",
+        "zh": "高中"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "height",
+        "meaningZh": "高度"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "highly",
+        "meaningZh": "高度地；非常",
+        "note": "high 可指具体空间的高；highly 常用于抽象程度，如 highly successful。"
+      }
+    ]
+  },
+  "real": {
+    "examples": [
+      {
+        "en": "This story is based on real events.",
+        "zh": "这个故事根据真实事件改编。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in real life",
+        "zh": "在现实生活中"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "reality",
+        "meaningZh": "现实"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "really",
+        "meaningZh": "真正地；很",
+        "note": "real 是形容词；really 是副词，用来修饰动词、形容词或整句。"
+      }
+    ]
+  },
+  "family": {
+    "examples": [
+      {
+        "en": "My family has dinner together every evening.",
+        "zh": "我们一家人每天晚上一起吃饭。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "family member",
+        "zh": "家庭成员"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "familial",
+        "meaningZh": "家庭的；家族的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "familiar",
+        "meaningZh": "熟悉的",
+        "note": "family 表示家庭；familiar 表示熟悉的，常用 be familiar with。"
+      }
+    ]
+  },
+  "own": {
+    "examples": [
+      {
+        "en": "She has her own room now.",
+        "zh": "她现在有自己的房间了。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "on one's own",
+        "zh": "独自；独立地"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "owner",
+        "meaningZh": "所有者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "owe",
+        "meaningZh": "欠；归功于",
+        "note": "own 表示拥有；owe 表示欠，二者的末尾辅音不同。"
+      }
+    ]
+  },
+  "leave": {
+    "examples": [
+      {
+        "en": "We need to leave before seven.",
+        "zh": "我们需要七点之前离开。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "leave for",
+        "zh": "动身前往……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "leaver",
+        "meaningZh": "离开者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "live",
+        "meaningZh": "居住；生活",
+        "note": "leave 表示离开；live 表示生活，二者元音不同。"
+      }
+    ]
+  },
+  "old": {
+    "examples": [
+      {
+        "en": "The old bridge is still in use.",
+        "zh": "这座老桥仍在使用。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "grow old",
+        "zh": "变老"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "oldness",
+        "meaningZh": "陈旧；古老"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "older",
+        "meaningZh": "年纪更大的",
+        "note": "older 是 old 的比较级；elder 常用于家庭成员间的长幼关系。"
+      }
+    ]
+  },
+  "mean": {
+    "examples": [
+      {
+        "en": "What does this sign mean?",
+        "zh": "这个标志是什么意思？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "mean to do",
+        "zh": "打算做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "meaning",
+        "meaningZh": "意思；含义"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "means",
+        "meaningZh": "方法；手段",
+        "note": "mean 可作“意味着”的动词；means 作“方法”时单复数同形。"
+      }
+    ]
+  },
+  "keep": {
+    "examples": [
+      {
+        "en": "Keep your ticket until the journey ends.",
+        "zh": "请保留车票直到行程结束。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "keep in touch",
+        "zh": "保持联系"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "keeper",
+        "meaningZh": "看守人；保管人"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "hold",
+        "meaningZh": "拿着；持有",
+        "note": "keep 强调持续保存或保持；hold 常强调拿着或握住的状态。"
+      }
+    ]
+  },
+  "study": {
+    "examples": [
+      {
+        "en": "I study English for twenty minutes a day.",
+        "zh": "我每天学二十分钟英语。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "study abroad",
+        "zh": "出国学习"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "studious",
+        "meaningZh": "勤奋好学的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "learn",
+        "meaningZh": "学习；学会",
+        "note": "study 强调学习过程；learn 可强调获得知识或技能的结果。"
+      }
+    ]
+  },
+  "great": {
+    "examples": [
+      {
+        "en": "We had a great time at the park.",
+        "zh": "我们在公园玩得很开心。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a great deal of",
+        "zh": "大量的"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "greatness",
+        "meaningZh": "伟大"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "grate",
+        "meaningZh": "擦碎；格栅",
+        "note": "great 和 grate 同音；great 常是形容词，grate 可表示擦碎食物。"
+      }
+    ]
+  },
+  "big": {
+    "examples": [
+      {
+        "en": "There is a big tree behind the house.",
+        "zh": "房子后面有一棵大树。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a big difference",
+        "zh": "很大差异"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "bigness",
+        "meaningZh": "巨大；庞大"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "large",
+        "meaningZh": "大的",
+        "note": "big 和 large 都可指尺寸大；固定表达 a big mistake 通常不用 large。"
+      }
+    ]
+  },
+  "group": {
+    "examples": [
+      {
+        "en": "Each group will present an idea.",
+        "zh": "每组将展示一个想法。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a group of",
+        "zh": "一群；一组"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "grouping",
+        "meaningZh": "分组；分类"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "crowd",
+        "meaningZh": "人群",
+        "note": "group 可表示有组织的一组人或物；crowd 常表示聚集的人群。"
+      }
+    ]
+  },
+  "begin": {
+    "examples": [
+      {
+        "en": "The class begins at nine.",
+        "zh": "课程九点开始。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "begin with",
+        "zh": "以……开始"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "beginner",
+        "meaningZh": "初学者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "beginning",
+        "meaningZh": "开头；开始",
+        "note": "begin 是动词；beginning 是名词或现在分词，拼写需要双写 n。"
+      }
+    ]
+  },
+  "country": {
+    "examples": [
+      {
+        "en": "She wants to travel around the country.",
+        "zh": "她想游遍这个国家。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in the country",
+        "zh": "在乡下"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "countryside",
+        "meaningZh": "乡村"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "county",
+        "meaningZh": "县；郡",
+        "note": "country 表示国家或乡下；county 表示县或郡，拼写少一个 r。"
+      }
+    ]
+  },
+  "help": {
+    "examples": [
+      {
+        "en": "This map will help us find the station.",
+        "zh": "这张地图会帮助我们找到车站。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "help with",
+        "zh": "帮助处理……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "helpful",
+        "meaningZh": "有帮助的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "helpless",
+        "meaningZh": "无助的",
+        "note": "helpful 表示能提供帮助；helpless 表示无助，后缀含义不同。"
+      }
+    ]
+  },
+  "talk": {
+    "examples": [
+      {
+        "en": "We talked about our weekend plans.",
+        "zh": "我们聊了周末的计划。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "talk about",
+        "zh": "谈论……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "talkative",
+        "meaningZh": "健谈的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "speak",
+        "meaningZh": "说话；讲某种语言",
+        "note": "talk 常强调交谈；speak 常用于语言能力或正式讲话。"
+      }
+    ]
+  },
+  "turn": {
+    "examples": [
+      {
+        "en": "Turn left at the next corner.",
+        "zh": "在下一个拐角左转。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "take turns",
+        "zh": "轮流"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "turning",
+        "meaningZh": "转弯处"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "return",
+        "meaningZh": "返回；归还",
+        "note": "turn 表示转动或转弯；return 表示返回或归还。"
+      }
+    ]
+  },
+  "problem": {
+    "examples": [
+      {
+        "en": "We solved the problem together.",
+        "zh": "我们一起解决了这个问题。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "solve a problem",
+        "zh": "解决问题"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "problematic",
+        "meaningZh": "成问题的；难处理的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "question",
+        "meaningZh": "问题；疑问",
+        "note": "problem 常指待解决的困难；question 常指待回答的问题。"
+      }
+    ]
+  },
+  "start": {
+    "examples": [
+      {
+        "en": "The concert starts in ten minutes.",
+        "zh": "音乐会十分钟后开始。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "start with",
+        "zh": "以……开始"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "starter",
+        "meaningZh": "初学者；启动器；前菜"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "stop",
+        "meaningZh": "停止",
+        "note": "start 表示开始；stop 表示停止。start to do 和 start doing 都很常见。"
+      }
+    ]
+  },
+  "hand": {
+    "examples": [
+      {
+        "en": "Please raise your hand before speaking.",
+        "zh": "发言前请举手。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "by hand",
+        "zh": "用手工"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "handy",
+        "meaningZh": "方便的；手巧的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "arm",
+        "meaningZh": "手臂",
+        "note": "hand 是手；arm 是从肩到手腕的手臂，不能混用。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "right": {
+    "examples": [
+      {
+        "en": "Your answer is right.",
+        "zh": "你的答案是正确的。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "on the right",
+        "zh": "在右边"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "rightly",
+        "meaningZh": "正确地；恰当地"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "write",
+        "meaningZh": "写",
+        "note": "right 和 write 同音；right 可表示正确或右边，write 是写。"
+      }
+    ]
+  },
+  "small": {
+    "examples": [
+      {
+        "en": "We live in a small town near the sea.",
+        "zh": "我们住在海边的一个小镇。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a small amount of",
+        "zh": "少量的"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "smallness",
+        "meaningZh": "小；微小"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "little",
+        "meaningZh": "小的；少量",
+        "note": "small 常指尺寸小；little 也可带感情色彩，或修饰不可数数量。"
+      }
+    ]
+  },
+  "number": {
+    "examples": [
+      {
+        "en": "Write your phone number here.",
+        "zh": "在这里写下你的电话号码。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a number of",
+        "zh": "许多"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "numberless",
+        "meaningZh": "无数的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "amount",
+        "meaningZh": "数量",
+        "note": "number 用于可数事物；amount 常用于不可数事物，如 an amount of water。"
+      }
+    ]
+  },
+  "play": {
+    "examples": [
+      {
+        "en": "The children play outside after school.",
+        "zh": "孩子们放学后在外面玩。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "play a role in",
+        "zh": "在……中起作用"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "player",
+        "meaningZh": "运动员；玩家；演奏者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "pray",
+        "meaningZh": "祈祷",
+        "note": "play 的开头为 /pl/；pray 为 /pr/，注意 l 与 r 的区别。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "home": {
+    "examples": [
+      {
+        "en": "I usually get home before six.",
+        "zh": "我通常六点前到家。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "at home",
+        "zh": "在家"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "homeless",
+        "meaningZh": "无家可归的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "house",
+        "meaningZh": "房屋",
+        "note": "home 强调家或归属；house 强调房屋建筑。go home 通常不用 to。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "read": {
+    "examples": [
+      {
+        "en": "I read a short story every night.",
+        "zh": "我每晚读一个短篇故事。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "read aloud",
+        "zh": "大声朗读"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "reader",
+        "meaningZh": "读者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "red",
+        "meaningZh": "红色的",
+        "note": "read 的现在式常读 /rid/，过去式读 /rɛd/，与 red 同音。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "money": {
+    "examples": [
+      {
+        "en": "I am saving money for a bicycle.",
+        "zh": "我正在攒钱买自行车。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "save money",
+        "zh": "省钱；存钱"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "moneyless",
+        "meaningZh": "没有钱的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "many",
+        "meaningZh": "许多",
+        "note": "money 是不可数名词，用 much money；many 用于可数名词复数。"
+      }
+    ]
+  },
+  "change": {
+    "examples": [
+      {
+        "en": "The weather can change quickly here.",
+        "zh": "这里天气变化很快。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "change one's mind",
+        "zh": "改变主意"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "changeable",
+        "meaningZh": "多变的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "exchange",
+        "meaningZh": "交换；兑换",
+        "note": "change 泛指改变；exchange 强调相互交换或兑换。"
+      }
+    ]
+  },
+  "move": {
+    "examples": [
+      {
+        "en": "We moved to a quieter street.",
+        "zh": "我们搬到了一条更安静的街道。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "move on",
+        "zh": "继续前进"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "movement",
+        "meaningZh": "运动；移动"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "movie",
+        "meaningZh": "电影",
+        "note": "move 是移动；movie 是电影，结尾多了一个音节。"
+      }
+    ]
+  },
+  "live": {
+    "examples": [
+      {
+        "en": "My grandparents live near the river.",
+        "zh": "我的祖父母住在河边。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "live on",
+        "zh": "以……为生；继续生活"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "lively",
+        "meaningZh": "活泼的；生动的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "alive",
+        "meaningZh": "活着的",
+        "note": "live 作动词读 /lɪv/；alive 常作表语，表示活着的。"
+      }
+    ]
+  },
+  "believe": {
+    "examples": [
+      {
+        "en": "I believe you can do it.",
+        "zh": "我相信你能做到。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "believe in",
+        "zh": "信任；相信……存在"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "belief",
+        "meaningZh": "信念；信仰"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "believe in",
+        "meaningZh": "信任；信仰",
+        "note": "believe someone 是相信某人的话；believe in someone 常表示信任其能力或品格。"
+      }
+    ]
+  },
+  "hold": {
+    "examples": [
+      {
+        "en": "Hold the cup with both hands.",
+        "zh": "用双手拿稳杯子。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "hold on",
+        "zh": "稍等；坚持"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "holder",
+        "meaningZh": "持有者；支架"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "held",
+        "meaningZh": "握住（hold 的过去式）",
+        "note": "hold 的过去式和过去分词都是 held，不是 holded。"
+      }
+    ]
+  },
+  "bring": {
+    "examples": [
+      {
+        "en": "Please bring your notebook to class.",
+        "zh": "请把笔记本带到课堂上。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "bring up",
+        "zh": "提出；养育"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "bringer",
+        "meaningZh": "带来某事的人"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "take",
+        "meaningZh": "带走",
+        "note": "bring 强调带来；take 强调带走，方向取决于说话的参照地点。"
+      }
+    ]
+  },
+  "happen": {
+    "examples": [
+      {
+        "en": "What happened at the meeting?",
+        "zh": "会上发生了什么？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "happen to do",
+        "zh": "碰巧做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "happening",
+        "meaningZh": "事件；正在发生的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "occur",
+        "meaningZh": "发生",
+        "note": "happen 通常作不及物动词，表示发生时不用被动语态。"
+      }
+    ]
+  },
+  "write": {
+    "examples": [
+      {
+        "en": "Please write your name on the first page.",
+        "zh": "请在第一页写上你的名字。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "write down",
+        "zh": "写下"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "writer",
+        "meaningZh": "作者；作家"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "right",
+        "meaningZh": "正确的；右边",
+        "note": "write 与 right 同音；write 的 w 不发音。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "sit": {
+    "examples": [
+      {
+        "en": "You can sit next to me.",
+        "zh": "你可以坐在我旁边。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "sit down",
+        "zh": "坐下"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "sitter",
+        "meaningZh": "照看者；坐着的人"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "seat",
+        "meaningZh": "座位；使就座",
+        "note": "sit 是坐下或坐着的动作，常不接宾语；seat 可作名词或及物动词。"
+      }
+    ]
+  },
+  "stand": {
+    "examples": [
+      {
+        "en": "Please stand behind the yellow line.",
+        "zh": "请站在黄线后面。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "stand for",
+        "zh": "代表"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "standing",
+        "meaningZh": "地位；站立的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "stay",
+        "meaningZh": "停留；保持",
+        "note": "stand 常指站立；stay 强调停留或维持状态。"
+      }
+    ]
+  },
+  "lose": {
+    "examples": [
+      {
+        "en": "Don't lose your ticket.",
+        "zh": "别弄丢你的票。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "lose weight",
+        "zh": "减重"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "loss",
+        "meaningZh": "损失；丧失"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "loose",
+        "meaningZh": "松的",
+        "note": "lose 是动词，末尾读 /z/；loose 是形容词，末尾读 /s/。"
+      }
+    ]
+  },
+  "pay": {
+    "examples": [
+      {
+        "en": "You can pay by card here.",
+        "zh": "这里可以用银行卡付款。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "pay attention to",
+        "zh": "注意……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "payment",
+        "meaningZh": "付款；支付款项"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "cost",
+        "meaningZh": "花费",
+        "note": "人作主语常用 pay；物作主语可用 cost，结构不同。"
+      }
+    ]
+  },
+  "meet": {
+    "examples": [
+      {
+        "en": "Let's meet outside the museum.",
+        "zh": "我们在博物馆外见面吧。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "meet a deadline",
+        "zh": "按时完成"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "meeting",
+        "meaningZh": "会议；会面"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "meat",
+        "meaningZh": "肉",
+        "note": "meet 与 meat 同音；meet 是动词，meat 是名词。"
+      }
+    ]
+  },
+  "include": {
+    "examples": [
+      {
+        "en": "The price includes breakfast.",
+        "zh": "这个价格包含早餐。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "include in",
+        "zh": "把……包括在……之内"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "inclusion",
+        "meaningZh": "包含；包容"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "including",
+        "meaningZh": "包括",
+        "note": "include 是谓语动词；including 常用于列举部分内容。"
+      }
+    ]
+  },
+  "continue": {
+    "examples": [
+      {
+        "en": "Please continue reading from page ten.",
+        "zh": "请从第十页继续读。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "continue to do",
+        "zh": "继续做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "continuation",
+        "meaningZh": "继续；续篇"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "continuous",
+        "meaningZh": "连续不断的",
+        "note": "continue 是动词；continuous 是形容词，强调不间断。"
+      }
+    ]
+  },
+  "learn": {
+    "examples": [
+      {
+        "en": "We learn something new every day.",
+        "zh": "我们每天都会学到新东西。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "learn from",
+        "zh": "向……学习"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "learner",
+        "meaningZh": "学习者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "study",
+        "meaningZh": "学习；研究",
+        "note": "learn from 表示从人或经历中学习；study 常指有计划地研习。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "early": {
+    "examples": [
+      {
+        "en": "We arrived early to get good seats.",
+        "zh": "我们早到了，以便找到好座位。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "early in the morning",
+        "zh": "清早"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "earliness",
+        "meaningZh": "早；提早"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "earlier",
+        "meaningZh": "更早的；更早地",
+        "note": "early 可作形容词或副词；比较级是 earlier，不是 more early。"
+      }
+    ]
+  },
+  "food": {
+    "examples": [
+      {
+        "en": "Please keep the food in the fridge.",
+        "zh": "请把食物放在冰箱里。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "healthy food",
+        "zh": "健康食物"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "foodie",
+        "meaningZh": "美食爱好者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "foot",
+        "meaningZh": "脚",
+        "note": "food 常读 /fud/；foot 常读 /fʊt/，元音和尾音都不同。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "understand": {
+    "examples": [
+      {
+        "en": "I understand the main idea of the story.",
+        "zh": "我理解了这个故事的大意。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "understand each other",
+        "zh": "相互理解"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "understanding",
+        "meaningZh": "理解；谅解"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "understood",
+        "meaningZh": "理解（understand 的过去式）",
+        "note": "understand 的过去式和过去分词是 understood，不是 understanded。"
+      }
+    ]
+  },
+  "watch": {
+    "examples": [
+      {
+        "en": "We watched a film together last night.",
+        "zh": "昨晚我们一起看了一部电影。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "watch out",
+        "zh": "小心"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "watchful",
+        "meaningZh": "警惕的；注意的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "see",
+        "meaningZh": "看见",
+        "note": "watch 强调持续观看动态内容；see 强调看见，也常用于 see a film。"
+      }
+    ]
+  },
+  "follow": {
+    "examples": [
+      {
+        "en": "Follow the signs to the exit.",
+        "zh": "沿着指示牌走到出口。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "follow the rules",
+        "zh": "遵守规则"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "follower",
+        "meaningZh": "追随者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "following",
+        "meaningZh": "接下来的；下列的",
+        "note": "follow 是动词；following 可作形容词，表示接下来的或下列的。"
+      }
+    ]
+  },
+  "stop": {
+    "examples": [
+      {
+        "en": "The rain stopped before sunset.",
+        "zh": "雨在日落前停了。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "bus stop",
+        "zh": "公交车站"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "stoppage",
+        "meaningZh": "停止；中断"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "stay",
+        "meaningZh": "停留",
+        "note": "stop doing 是停止正在做的事；stop to do 是停下来去做另一件事。"
+      }
+    ]
+  },
+  "speak": {
+    "examples": [
+      {
+        "en": "She can speak three languages.",
+        "zh": "她会说三种语言。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "speak to",
+        "zh": "与……交谈"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "speaker",
+        "meaningZh": "说话者；扬声器"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "speech",
+        "meaningZh": "演讲；言语",
+        "note": "speak 是动词；speech 是名词，不能用 speech English 表示说英语。"
+      }
+    ]
+  },
+  "grow": {
+    "examples": [
+      {
+        "en": "Tomatoes grow well in this garden.",
+        "zh": "西红柿在这个花园里长得很好。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "grow up",
+        "zh": "长大"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "growth",
+        "meaningZh": "生长；增长"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "grown",
+        "meaningZh": "长大的；grow 的过去分词",
+        "note": "grow 的过去式是 grew，过去分词是 grown，不能规则地加 ed。"
+      }
+    ]
+  },
+  "open": {
+    "examples": [
+      {
+        "en": "Please open the window a little.",
+        "zh": "请把窗户打开一点。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be open to",
+        "zh": "愿意接受……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "openness",
+        "meaningZh": "开放；坦率"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "opened",
+        "meaningZh": "打开了的",
+        "note": "open 既可作动词也可作形容词；表示营业状态可说 The shop is open。"
+      }
+    ]
+  },
+  "walk": {
+    "examples": [
+      {
+        "en": "We walked along the beach after dinner.",
+        "zh": "晚饭后我们沿海滩散步。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "go for a walk",
+        "zh": "去散步"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "walker",
+        "meaningZh": "步行者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "work",
+        "meaningZh": "工作",
+        "note": "walk 和 work 元音不同；walk 中的 l 通常不发音。"
+      }
+    ]
+  },
+  "win": {
+    "examples": [
+      {
+        "en": "Our team hopes to win the final.",
+        "zh": "我们队希望赢得决赛。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "win a prize",
+        "zh": "获奖"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "winner",
+        "meaningZh": "获胜者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "beat",
+        "meaningZh": "打败",
+        "note": "win 后接比赛或奖项；beat 后接对手，如 beat the other team。"
+      }
+    ]
+  },
+  "offer": {
+    "examples": [
+      {
+        "en": "They offered me a seat near the window.",
+        "zh": "他们给我提供了一个靠窗的座位。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "offer to help",
+        "zh": "主动提出帮助"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "offering",
+        "meaningZh": "提供物；祭品"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "afford",
+        "meaningZh": "买得起；负担得起",
+        "note": "offer 表示提供；afford 表示负担得起，常用 can afford。"
+      }
+    ]
+  },
+  "remember": {
+    "examples": [
+      {
+        "en": "Remember to lock the door.",
+        "zh": "记得锁门。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "remember to do",
+        "zh": "记得去做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "remembrance",
+        "meaningZh": "回忆；纪念"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "remind",
+        "meaningZh": "提醒",
+        "note": "remember 是自己记得；remind 是提醒别人。remember doing 表示记得做过。"
+      }
+    ]
+  },
+  "love": {
+    "examples": [
+      {
+        "en": "I love spending time with my family.",
+        "zh": "我喜欢和家人在一起。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "fall in love with",
+        "zh": "爱上……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "lovely",
+        "meaningZh": "可爱的；美好的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "like",
+        "meaningZh": "喜欢",
+        "note": "love 通常比 like 程度更强；love doing 常表示喜欢某项活动。"
+      }
+    ]
+  },
+  "consider": {
+    "examples": [
+      {
+        "en": "We should consider both options.",
+        "zh": "我们应该考虑两种选择。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "consider doing",
+        "zh": "考虑做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "consideration",
+        "meaningZh": "考虑；体谅"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "considerate",
+        "meaningZh": "体贴的",
+        "note": "consider 后接动名词表示考虑做某事；considerate 是体贴的。"
+      }
+    ]
+  },
+  "appear": {
+    "examples": [
+      {
+        "en": "A rainbow appeared after the rain.",
+        "zh": "雨后出现了一道彩虹。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "appear to be",
+        "zh": "似乎是……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "appearance",
+        "meaningZh": "出现；外貌"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "disappear",
+        "meaningZh": "消失",
+        "note": "appear 表示出现；disappear 表示消失，前缀 dis- 改变词义。"
+      }
+    ]
+  },
+  "buy": {
+    "examples": [
+      {
+        "en": "I need to buy some milk.",
+        "zh": "我需要买一些牛奶。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "buy from",
+        "zh": "向……购买"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "buyer",
+        "meaningZh": "买方；购买者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "by",
+        "meaningZh": "在……旁；通过",
+        "note": "buy 与 by 同音；buy 是购买的动词。"
+      }
+    ]
+  },
+  "wait": {
+    "examples": [
+      {
+        "en": "Please wait here for a moment.",
+        "zh": "请在这里等一会儿。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "wait for",
+        "zh": "等待……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "waiter",
+        "meaningZh": "服务员"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "weight",
+        "meaningZh": "重量",
+        "note": "wait 与 weight 同音；wait 是等待，weight 是重量。"
+      }
+    ]
+  },
+  "serve": {
+    "examples": [
+      {
+        "en": "This restaurant serves breakfast all day.",
+        "zh": "这家餐厅全天供应早餐。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "serve as",
+        "zh": "充当……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "service",
+        "meaningZh": "服务"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "deserve",
+        "meaningZh": "值得；应得",
+        "note": "serve 表示服务或供应；deserve 表示值得，前面多了 de-。"
+      }
+    ]
+  },
+  "die": {
+    "examples": [
+      {
+        "en": "The plant will die without water.",
+        "zh": "这株植物没有水会枯死。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "die of",
+        "zh": "死于……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "death",
+        "meaningZh": "死亡"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "dead",
+        "meaningZh": "死的",
+        "note": "die 是动词；dead 是形容词；death 是名词，三者词性不同。"
+      }
+    ]
+  },
+  "send": {
+    "examples": [
+      {
+        "en": "I will send you the photos tonight.",
+        "zh": "今晚我会把照片发给你。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "send for",
+        "zh": "派人去请"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "sender",
+        "meaningZh": "寄件人；发送者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "sent",
+        "meaningZh": "发送（send 的过去式）",
+        "note": "send 的过去式和过去分词为 sent，不是 sended。"
+      }
+    ]
+  },
+  "expect": {
+    "examples": [
+      {
+        "en": "We expect the package to arrive tomorrow.",
+        "zh": "我们预计包裹明天送到。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "expect to do",
+        "zh": "预计做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "expectation",
+        "meaningZh": "预期；期待"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "except",
+        "meaningZh": "除……之外",
+        "note": "expect 表示预期；except 表示除外，注意中间字母顺序。"
+      }
+    ]
+  },
+  "build": {
+    "examples": [
+      {
+        "en": "They plan to build a new library.",
+        "zh": "他们计划建一座新图书馆。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "build up",
+        "zh": "逐步建立；增强"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "builder",
+        "meaningZh": "建造者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "built",
+        "meaningZh": "建造（build 的过去式）",
+        "note": "build 的过去式和过去分词是 built，词尾变为 t。"
+      }
+    ]
+  },
+  "stay": {
+    "examples": [
+      {
+        "en": "We stayed at a small hotel.",
+        "zh": "我们住在一家小旅馆。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "stay up",
+        "zh": "熬夜"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "overstay",
+        "meaningZh": "逗留超过期限"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "stand",
+        "meaningZh": "站立；忍受",
+        "note": "stay 强调停留或保持状态；stand 强调站立，也可表示忍受。"
+      }
+    ]
+  },
+  "fall": {
+    "examples": [
+      {
+        "en": "Leaves fall from the trees in autumn.",
+        "zh": "秋天树叶从树上落下。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "fall asleep",
+        "zh": "入睡"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "falling",
+        "meaningZh": "下降的；落下的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "fail",
+        "meaningZh": "失败",
+        "note": "fall 的过去式是 fell；fail 表示失败，拼写和读音不同。"
+      }
+    ]
+  },
+  "cut": {
+    "examples": [
+      {
+        "en": "Cut the paper into four pieces.",
+        "zh": "把纸剪成四片。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cut down on",
+        "zh": "减少……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "cutter",
+        "meaningZh": "切割者；切割器"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "cat",
+        "meaningZh": "猫",
+        "note": "cut 与 cat 的元音不同；cut 的过去式和过去分词仍是 cut。"
+      }
+    ]
+  },
+  "reach": {
+    "examples": [
+      {
+        "en": "We reached the station before noon.",
+        "zh": "我们中午前到达了车站。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "reach an agreement",
+        "zh": "达成协议"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "reachable",
+        "meaningZh": "可到达的；可联系上的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "arrive",
+        "meaningZh": "到达",
+        "note": "reach 可直接接地点；arrive 通常要接 at 或 in 再接地点。"
+      }
+    ]
+  },
+  "remain": {
+    "examples": [
+      {
+        "en": "A few questions remain unanswered.",
+        "zh": "还有几个问题尚未得到回答。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "remain calm",
+        "zh": "保持冷静"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "remainder",
+        "meaningZh": "剩余部分"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "remind",
+        "meaningZh": "提醒",
+        "note": "remain 表示剩下或保持；remind 表示提醒，词尾不同。"
+      }
+    ]
+  },
+  "suggest": {
+    "examples": [
+      {
+        "en": "She suggested taking a short break.",
+        "zh": "她建议休息一小会儿。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "suggest doing",
+        "zh": "建议做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "suggestion",
+        "meaningZh": "建议"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "advise",
+        "meaningZh": "建议；劝告",
+        "note": "suggest doing 正确；劝某人做某事常用 advise someone to do。"
+      }
+    ]
+  },
+  "raise": {
+    "examples": [
+      {
+        "en": "Please raise your voice a little.",
+        "zh": "请把声音提高一点。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "raise money",
+        "zh": "筹款"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "raiser",
+        "meaningZh": "筹集者；饲养者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "rise",
+        "meaningZh": "上升",
+        "note": "raise 通常及物，要接被提高的对象；rise 通常不及物，表示自行上升。"
+      }
+    ]
+  },
+  "pass": {
+    "examples": [
+      {
+        "en": "You need sixty points to pass the test.",
+        "zh": "你需要六十分才能通过测试。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "pass by",
+        "zh": "经过"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "passage",
+        "meaningZh": "通道；一段文字"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "past",
+        "meaningZh": "过去的；经过",
+        "note": "pass 是动词；past 可作介词或形容词，如 walk past the door。"
+      }
+    ]
+  },
+  "sell": {
+    "examples": [
+      {
+        "en": "This shop sells fresh bread.",
+        "zh": "这家店卖新鲜面包。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "sell out",
+        "zh": "售罄"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "seller",
+        "meaningZh": "卖方；销售者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "sale",
+        "meaningZh": "出售；促销",
+        "note": "sell 是动词；sale 是名词，可说 on sale 表示在售或特价。"
+      }
+    ]
+  },
+  "require": {
+    "examples": [
+      {
+        "en": "This job requires good communication skills.",
+        "zh": "这份工作需要良好的沟通技能。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "require someone to do",
+        "zh": "要求某人做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "requirement",
+        "meaningZh": "要求；必要条件"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "request",
+        "meaningZh": "请求",
+        "note": "require 常指必要条件或正式要求；request 表示礼貌请求。"
+      }
+    ]
+  },
+  "report": {
+    "examples": [
+      {
+        "en": "Please report the problem to a member of staff.",
+        "zh": "请向一名工作人员报告这个问题。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "weather report",
+        "zh": "天气预报"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "reporter",
+        "meaningZh": "记者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "repeat",
+        "meaningZh": "重复",
+        "note": "report 是报告；repeat 是重复，拼写与重音后面的音节不同。"
+      }
+    ]
+  },
+  "decide": {
+    "examples": [
+      {
+        "en": "We decided to take the train.",
+        "zh": "我们决定坐火车。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "decide to do",
+        "zh": "决定做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "decision",
+        "meaningZh": "决定"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "divide",
+        "meaningZh": "划分；分开",
+        "note": "decide 表示决定；divide 表示分开，不能混淆拼写。"
+      }
+    ]
+  },
+  "pull": {
+    "examples": [
+      {
+        "en": "Pull the door gently to open it.",
+        "zh": "轻轻拉门把它打开。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "pull over",
+        "zh": "靠边停车"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "pullover",
+        "meaningZh": "套头衫"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "push",
+        "meaningZh": "推",
+        "note": "pull 表示拉向自己；push 表示推离自己，门上标识常成对出现。"
+      }
+    ]
+  },
+  "return": {
+    "examples": [
+      {
+        "en": "Please return the books by Friday.",
+        "zh": "请在星期五前归还这些书。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in return",
+        "zh": "作为回报"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "returnable",
+        "meaningZh": "可退还的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "turn",
+        "meaningZh": "转动；转弯",
+        "note": "return 已含“返回”含义，通常不必再加 back。"
+      }
+    ]
+  },
+  "explain": {
+    "examples": [
+      {
+        "en": "Can you explain this rule to me?",
+        "zh": "你能向我解释这条规则吗？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "explain to someone",
+        "zh": "向某人解释"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "explanation",
+        "meaningZh": "解释；说明"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "describe",
+        "meaningZh": "描述",
+        "note": "explain something to someone 是常用结构，不能直接说 explain me something。"
+      }
+    ]
+  },
+  "hope": {
+    "examples": [
+      {
+        "en": "I hope you enjoy your trip.",
+        "zh": "我希望你旅途愉快。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "hope to do",
+        "zh": "希望做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "hopeful",
+        "meaningZh": "充满希望的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "wish",
+        "meaningZh": "希望；祝愿",
+        "note": "hope 常指有可能实现的愿望；wish 可用于祝愿或不现实的愿望。"
+      }
+    ]
+  },
+  "develop": {
+    "examples": [
+      {
+        "en": "Reading helps children develop language skills.",
+        "zh": "阅读帮助孩子发展语言能力。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "develop a habit",
+        "zh": "养成习惯"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "development",
+        "meaningZh": "发展；开发"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "envelop",
+        "meaningZh": "包住；笼罩",
+        "note": "develop 表示发展；envelop 表示包住，注意前缀与词尾拼写。"
+      }
+    ]
+  },
+  "carry": {
+    "examples": [
+      {
+        "en": "Can you carry this bag for me?",
+        "zh": "你能帮我拿这个包吗？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "carry out",
+        "zh": "执行；实施"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "carrier",
+        "meaningZh": "运送者；载体"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "care",
+        "meaningZh": "关心；照料",
+        "note": "carry 是携带或搬运；care 表示关心，音节数不同。"
+      }
+    ]
+  },
+  "break": {
+    "examples": [
+      {
+        "en": "Be careful not to break the glass.",
+        "zh": "小心别打碎杯子。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "take a break",
+        "zh": "休息一下"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "breakable",
+        "meaningZh": "易碎的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "brake",
+        "meaningZh": "刹车",
+        "note": "break 与 brake 同音；break 可表示打破或休息，brake 是刹车。"
+      }
+    ]
+  },
+  "receive": {
+    "examples": [
+      {
+        "en": "Did you receive my email?",
+        "zh": "你收到我的邮件了吗？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "receive a message",
+        "zh": "收到消息"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "receiver",
+        "meaningZh": "接收者；接收器"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "accept",
+        "meaningZh": "接受",
+        "note": "receive 是客观收到；accept 表示主观接受。receive 遵循 ei 的拼写顺序。"
+      }
+    ]
+  },
+  "agree": {
+    "examples": [
+      {
+        "en": "I agree with your main point.",
+        "zh": "我同意你的主要观点。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "agree with",
+        "zh": "同意……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "agreement",
+        "meaningZh": "协议；一致"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "agree to",
+        "meaningZh": "同意某安排或提议",
+        "note": "agree with 常接人或观点；agree to 常接计划、提议或安排。"
+      }
+    ]
+  },
+  "support": {
+    "examples": [
+      {
+        "en": "Her friends supported her decision.",
+        "zh": "她的朋友们支持她的决定。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in support of",
+        "zh": "支持……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "supporter",
+        "meaningZh": "支持者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "suppose",
+        "meaningZh": "假设；认为",
+        "note": "support 是支持；suppose 是假设，词尾和读音不同。"
+      }
+    ]
+  },
+  "produce": {
+    "examples": [
+      {
+        "en": "These farms produce fresh vegetables.",
+        "zh": "这些农场生产新鲜蔬菜。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "produce results",
+        "zh": "产生结果"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "production",
+        "meaningZh": "生产；产量"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "product",
+        "meaningZh": "产品",
+        "note": "produce 可作动词；product 是名词。produce 作农产品名词时重音会前移。"
+      }
+    ]
+  },
+  "eat": {
+    "examples": [
+      {
+        "en": "We eat dinner at seven.",
+        "zh": "我们七点吃晚饭。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "eat out",
+        "zh": "外出就餐"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "eater",
+        "meaningZh": "吃……的人"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "ate",
+        "meaningZh": "吃（eat 的过去式）",
+        "note": "eat 的过去式为 ate，过去分词为 eaten，不是 eated。"
+      }
+    ]
+  },
+  "cover": {
+    "examples": [
+      {
+        "en": "Cover the bowl with a clean cloth.",
+        "zh": "用一块干净的布盖住碗。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cover with",
+        "zh": "用……覆盖"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "coverage",
+        "meaningZh": "覆盖范围；报道"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "discover",
+        "meaningZh": "发现",
+        "note": "cover 表示覆盖；discover 表示发现，不能仅按词形推断含义。"
+      }
+    ]
+  },
+  "catch": {
+    "examples": [
+      {
+        "en": "Hurry up or we will miss the train we need to catch.",
+        "zh": "快点，否则我们会错过要赶的那趟火车。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "catch a cold",
+        "zh": "感冒"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "catcher",
+        "meaningZh": "捕捉者；接球手"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "caught",
+        "meaningZh": "抓住（catch 的过去式）",
+        "note": "catch 的过去式和过去分词为 caught，拼写不规则。"
+      }
+    ]
+  },
+  "draw": {
+    "examples": [
+      {
+        "en": "She likes to draw animals.",
+        "zh": "她喜欢画动物。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "draw a conclusion",
+        "zh": "得出结论"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "drawing",
+        "meaningZh": "绘画；图画"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "drawer",
+        "meaningZh": "抽屉",
+        "note": "draw 是画或拉；drawer 可表示抽屉，注意词尾 er。"
+      }
+    ]
+  },
+  "choose": {
+    "examples": [
+      {
+        "en": "You can choose a book from this shelf.",
+        "zh": "你可以从这个书架上选一本书。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "choose to do",
+        "zh": "选择做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "choice",
+        "meaningZh": "选择；选择权"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "chose",
+        "meaningZh": "选择（choose 的过去式）",
+        "note": "choose 是原形，chose 是过去式，chosen 是过去分词。"
+      }
+    ]
+  },
+  "cause": {
+    "examples": [
+      {
+        "en": "Heavy rain caused delays on the road.",
+        "zh": "大雨导致了道路上的延误。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cause damage",
+        "zh": "造成损害"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "causation",
+        "meaningZh": "因果关系"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "because",
+        "meaningZh": "因为",
+        "note": "cause 可作名词或动词；because 是连词，后接原因从句。"
+      }
+    ]
+  },
+  "point": {
+    "examples": [
+      {
+        "en": "She pointed to the building across the street.",
+        "zh": "她指向街对面的建筑。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "point of view",
+        "zh": "观点"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "pointer",
+        "meaningZh": "指示物；提示"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "paint",
+        "meaningZh": "油漆；绘画",
+        "note": "point 是点或指向；paint 是颜料或绘画，两词元音不同。"
+      }
+    ]
+  },
+  "listen": {
+    "examples": [
+      {
+        "en": "Please listen to the instructions carefully.",
+        "zh": "请仔细听说明。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "listen to",
+        "zh": "听……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "listener",
+        "meaningZh": "听众；倾听者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "hear",
+        "meaningZh": "听见",
+        "note": "listen 强调主动听，后接对象时用 to；hear 强调听见的结果。"
+      }
+    ]
+  },
+  "difficult": {
+    "examples": [
+      {
+        "en": "This question is difficult for me.",
+        "zh": "这道题对我来说很难。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be difficult to do",
+        "zh": "难以做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "difficulty",
+        "meaningZh": "困难"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "different",
+        "meaningZh": "不同的",
+        "note": "difficult 表示困难；different 表示不同，注意词尾拼写。"
+      }
+    ]
+  },
+  "happy": {
+    "examples": [
+      {
+        "en": "I am happy to see you again.",
+        "zh": "再次见到你我很高兴。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be happy with",
+        "zh": "对……满意"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "happiness",
+        "meaningZh": "幸福；快乐"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "lucky",
+        "meaningZh": "幸运的",
+        "note": "happy 表示心情快乐；lucky 表示运气好，两者含义不同。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "easy": {
+    "examples": [
+      {
+        "en": "This recipe is easy to follow.",
+        "zh": "这个食谱很容易照着做。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "take it easy",
+        "zh": "放轻松"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "easily",
+        "meaningZh": "容易地"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "easily",
+        "meaningZh": "容易地",
+        "note": "easy 是形容词；easily 是副词，修饰动作时通常用 easily。"
+      }
+    ]
+  },
+  "different": {
+    "examples": [
+      {
+        "en": "We have different ideas about the trip.",
+        "zh": "我们对这次旅行有不同的想法。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be different from",
+        "zh": "与……不同"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "difference",
+        "meaningZh": "差异；不同"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "difficult",
+        "meaningZh": "困难的",
+        "note": "different 表示不同；difficult 表示困难。常用 different from。"
+      }
+    ]
+  },
+  "strong": {
+    "examples": [
+      {
+        "en": "The bridge is strong enough for heavy trucks.",
+        "zh": "这座桥足够坚固，可以承载重型卡车。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a strong wind",
+        "zh": "强风"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "strength",
+        "meaningZh": "力量；强度"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "strength",
+        "meaningZh": "力量；强度",
+        "note": "strong 是形容词；strength 是名词，不能说 a strong 表示一种力量。"
+      }
+    ]
+  },
+  "important": {
+    "examples": [
+      {
+        "en": "Sleep is important for your health.",
+        "zh": "睡眠对健康很重要。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be important to",
+        "zh": "对……重要"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "importance",
+        "meaningZh": "重要性"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "import",
+        "meaningZh": "进口",
+        "note": "important 是重要的；import 是进口，词尾不能遗漏。"
+      }
+    ]
+  },
+  "able": {
+    "examples": [
+      {
+        "en": "She is able to solve the problem alone.",
+        "zh": "她能独立解决这个问题。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be able to",
+        "zh": "能够……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "ability",
+        "meaningZh": "能力"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "enable",
+        "meaningZh": "使能够",
+        "note": "able 是形容词，常用 be able to；enable 是动词，常用 enable someone to do。"
+      }
+    ]
+  },
+  "clear": {
+    "examples": [
+      {
+        "en": "The teacher gave us clear instructions.",
+        "zh": "老师给了我们清楚的说明。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "make it clear",
+        "zh": "把……说清楚"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "clearly",
+        "meaningZh": "清楚地"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "clean",
+        "meaningZh": "干净的；打扫",
+        "note": "clear 指清楚或清澈；clean 指干净，两词尾音不同。"
+      }
+    ]
+  },
+  "safe": {
+    "examples": [
+      {
+        "en": "Keep your passport in a safe place.",
+        "zh": "把护照放在安全的地方。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be safe from",
+        "zh": "免受……伤害"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "safety",
+        "meaningZh": "安全"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "save",
+        "meaningZh": "节省；挽救",
+        "note": "safe 是形容词，尾音 /f/；save 是动词，尾音 /v/。"
+      }
+    ]
+  },
+  "health": {
+    "examples": [
+      {
+        "en": "Regular exercise is good for your health.",
+        "zh": "经常锻炼有益健康。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "mental health",
+        "zh": "心理健康"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "healthy",
+        "meaningZh": "健康的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "healthy",
+        "meaningZh": "健康的",
+        "note": "health 是名词；healthy 是形容词，描述人健康时用 healthy。"
+      }
+    ]
+  },
+  "friend": {
+    "examples": [
+      {
+        "en": "A friend helped me move the table.",
+        "zh": "一位朋友帮我搬了桌子。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "make friends with",
+        "zh": "与……交朋友"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "friendly",
+        "meaningZh": "友好的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "friendly",
+        "meaningZh": "友好的",
+        "note": "friend 是名词；friendly 虽以 ly 结尾，通常是形容词。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "care": {
+    "examples": [
+      {
+        "en": "She takes good care of her younger brother.",
+        "zh": "她把弟弟照顾得很好。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "take care of",
+        "zh": "照顾……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "careful",
+        "meaningZh": "仔细的；小心的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "careless",
+        "meaningZh": "粗心的",
+        "note": "careful 是小心的；careless 是粗心的，后缀含义相反。"
+      }
+    ]
+  },
+  "teach": {
+    "examples": [
+      {
+        "en": "My mother taught me how to cook rice.",
+        "zh": "妈妈教我如何煮饭。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "teach someone to do",
+        "zh": "教某人做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "teacher",
+        "meaningZh": "教师"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "learn",
+        "meaningZh": "学习",
+        "note": "teach 是教给别人；learn 是自己学习。teach 的过去式为 taught。"
+      }
+    ]
+  },
+  "act": {
+    "examples": [
+      {
+        "en": "We must act before the problem gets worse.",
+        "zh": "我们必须在问题恶化前采取行动。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "act on",
+        "zh": "根据……行事"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "action",
+        "meaningZh": "行动；行为"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "activity",
+        "meaningZh": "活动",
+        "note": "act 可作动词或表示一项行为；activity 常指具体活动。"
+      }
+    ]
+  },
+  "beauty": {
+    "examples": [
+      {
+        "en": "We stopped to enjoy the beauty of the lake.",
+        "zh": "我们停下来欣赏湖的美景。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "natural beauty",
+        "zh": "自然之美"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "beautiful",
+        "meaningZh": "美丽的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "beautiful",
+        "meaningZh": "美丽的",
+        "note": "beauty 是名词；beautiful 是形容词。不能用 beauty 直接作普通形容词。"
+      }
+    ]
+  },
+  "danger": {
+    "examples": [
+      {
+        "en": "The sign warns drivers of danger ahead.",
+        "zh": "这个标志提醒司机前方有危险。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in danger",
+        "zh": "处于危险之中"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "dangerous",
+        "meaningZh": "危险的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "dangerous",
+        "meaningZh": "危险的",
+        "note": "danger 是名词；dangerous 是形容词，常说 a dangerous road。"
+      }
+    ]
+  },
+  "success": {
+    "examples": [
+      {
+        "en": "The project was a great success.",
+        "zh": "这个项目取得了巨大成功。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "achieve success",
+        "zh": "取得成功"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "successful",
+        "meaningZh": "成功的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "succeed",
+        "meaningZh": "成功",
+        "note": "success 是名词，successful 是形容词，succeed 是动词，注意词性。"
+      }
+    ]
+  },
+  "create": {
+    "examples": [
+      {
+        "en": "The students created a poster for the event.",
+        "zh": "学生们为活动制作了一张海报。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "create opportunities",
+        "zh": "创造机会"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "creation",
+        "meaningZh": "创造；创作物"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "creative",
+        "meaningZh": "有创造力的",
+        "note": "create 是动词；creative 是形容词，修饰有创意的人或事物。"
+      }
+    ]
+  },
+  "educate": {
+    "examples": [
+      {
+        "en": "Schools educate children in many subjects.",
+        "zh": "学校教授孩子们多种学科。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "educate someone about",
+        "zh": "让某人了解……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "education",
+        "meaningZh": "教育"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "educated",
+        "meaningZh": "受过教育的",
+        "note": "educate 是动词；educated 描述人受过教育，educational 描述有教育意义的事物。"
+      }
+    ]
+  },
+  "possible": {
+    "examples": [
+      {
+        "en": "Is it possible to finish today?",
+        "zh": "今天能完成吗？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "as soon as possible",
+        "zh": "尽快"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "possibility",
+        "meaningZh": "可能性"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "possibly",
+        "meaningZh": "可能地",
+        "note": "possible 是形容词；possibly 是副词。注意 possible 的双 s。"
+      }
+    ]
+  },
+  "encourage": {
+    "examples": [
+      {
+        "en": "Her teacher encouraged her to ask questions.",
+        "zh": "老师鼓励她提问。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "encourage someone to do",
+        "zh": "鼓励某人做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "encouragement",
+        "meaningZh": "鼓励"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "courage",
+        "meaningZh": "勇气",
+        "note": "encourage 是动词“鼓励”；courage 是名词“勇气”。"
+      }
+    ]
+  },
+  "enjoy": {
+    "examples": [
+      {
+        "en": "We enjoyed the concert last night.",
+        "zh": "我们很喜欢昨晚的音乐会。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "enjoy doing",
+        "zh": "喜欢做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "enjoyment",
+        "meaningZh": "乐趣；享受"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "join",
+        "meaningZh": "加入",
+        "note": "enjoy 后接动名词，不能用 enjoy to do；join 表示加入。"
+      }
+    ]
+  },
+  "quick": {
+    "examples": [
+      {
+        "en": "We need a quick answer.",
+        "zh": "我们需要一个迅速的答复。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a quick look",
+        "zh": "快速看一眼"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "quickly",
+        "meaningZh": "迅速地"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "quiet",
+        "meaningZh": "安静的",
+        "note": "quick 表示快；quiet 表示安静，两词拼写和音节数不同。"
+      }
+    ]
+  },
+  "careful": {
+    "examples": [
+      {
+        "en": "Be careful when crossing the road.",
+        "zh": "过马路时要小心。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be careful with",
+        "zh": "小心对待……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "carefully",
+        "meaningZh": "仔细地"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "careless",
+        "meaningZh": "粗心的",
+        "note": "careful 是形容词；carefully 是副词。careless 的意思相反。"
+      }
+    ]
+  },
+  "honest": {
+    "examples": [
+      {
+        "en": "Please be honest about what happened.",
+        "zh": "请如实说明发生的事。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "to be honest",
+        "zh": "老实说"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "honesty",
+        "meaningZh": "诚实"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "honor",
+        "meaningZh": "荣誉；尊敬",
+        "note": "honest 开头的 h 不发音，前面用 an honest person。"
+      }
+    ]
+  },
+  "patient": {
+    "examples": [
+      {
+        "en": "Please be patient with new learners.",
+        "zh": "请对初学者有耐心。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be patient with",
+        "zh": "对……有耐心"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "patience",
+        "meaningZh": "耐心"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "patience",
+        "meaningZh": "耐心",
+        "note": "patient 是形容词“有耐心的”，也可是病人；patience 是名词“耐心”。"
+      }
+    ]
+  },
+  "responsible": {
+    "examples": [
+      {
+        "en": "Everyone is responsible for keeping the room clean.",
+        "zh": "每个人都有责任保持房间干净。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be responsible for",
+        "zh": "对……负责"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "responsibility",
+        "meaningZh": "责任"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "responsive",
+        "meaningZh": "反应积极的；响应的",
+        "note": "responsible 表示负责的；responsive 表示反应积极的，不能混用。"
+      }
+    ]
+  },
+  "achieve": {
+    "examples": [
+      {
+        "en": "Practice helps you achieve your goals.",
+        "zh": "练习帮助你实现目标。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "achieve a goal",
+        "zh": "实现目标"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "achievement",
+        "meaningZh": "成就；达成"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "archive",
+        "meaningZh": "档案；存档",
+        "note": "achieve 是达成；archive 是存档，注意中间字母顺序和读音。"
+      }
+    ]
+  },
+  "improve": {
+    "examples": [
+      {
+        "en": "Reading aloud can improve your pronunciation.",
+        "zh": "朗读可以改善你的发音。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "improve on",
+        "zh": "在……基础上改进"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "improvement",
+        "meaningZh": "改善；进步"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "prove",
+        "meaningZh": "证明",
+        "note": "improve 表示改善；prove 表示证明，不能漏写 im-。"
+      }
+    ]
+  },
+  "succeed": {
+    "examples": [
+      {
+        "en": "If we work together, we can succeed.",
+        "zh": "如果我们一起努力，就能成功。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "succeed in doing",
+        "zh": "成功做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "success",
+        "meaningZh": "成功"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "successful",
+        "meaningZh": "成功的",
+        "note": "succeed 是动词；successful 是形容词。常用 succeed in doing。"
+      }
+    ]
+  },
+  "book": {
+    "examples": [
+      {
+        "en": "I borrowed a book from the library.",
+        "zh": "我从图书馆借了一本书。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "book a ticket",
+        "zh": "订票"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "booklet",
+        "meaningZh": "小册子"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "notebook",
+        "meaningZh": "笔记本",
+        "note": "book 通常是书，也可作动词“预订”；notebook 是笔记本。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "water": {
+    "examples": [
+      {
+        "en": "Drink some water after exercise.",
+        "zh": "运动后喝些水。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "drinking water",
+        "zh": "饮用水"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "watery",
+        "meaningZh": "含水多的；稀的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "waiter",
+        "meaningZh": "服务员",
+        "note": "water 是水，waiter 是服务员，注意中间的字母 i 和发音。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "smile": {
+    "examples": [
+      {
+        "en": "She gave me a warm smile.",
+        "zh": "她给了我一个温暖的微笑。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "smile at",
+        "zh": "对……微笑"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "smiling",
+        "meaningZh": "微笑的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "laugh",
+        "meaningZh": "笑；大笑",
+        "note": "smile 强调微笑，通常不出声；laugh 常指发出声音的大笑。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "mother": {
+    "examples": [
+      {
+        "en": "My mother grows flowers on the balcony.",
+        "zh": "我妈妈在阳台上种花。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "mother tongue",
+        "zh": "母语"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "motherhood",
+        "meaningZh": "母亲身份；母性"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "mom",
+        "meaningZh": "妈妈",
+        "note": "mother 较中性正式，mom 是美式口语中亲切的“妈妈”。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "father": {
+    "examples": [
+      {
+        "en": "My father taught me to ride a bike.",
+        "zh": "我爸爸教我骑自行车。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "like father, like son",
+        "zh": "有其父必有其子"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "fatherhood",
+        "meaningZh": "父亲身份"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "farther",
+        "meaningZh": "更远的",
+        "note": "father 是父亲；farther 表示距离更远，拼写中多一个 r。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "color": {
+    "examples": [
+      {
+        "en": "What color is your new bicycle?",
+        "zh": "你的新自行车是什么颜色的？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in color",
+        "zh": "彩色的"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "colorful",
+        "meaningZh": "色彩丰富的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "colour",
+        "meaningZh": "颜色（英式拼写）",
+        "note": "color 是常见美式拼写，colour 是常见英式拼写，含义相同。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "quiet": {
+    "examples": [
+      {
+        "en": "The streets are quiet early in the morning.",
+        "zh": "清晨街道很安静。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "keep quiet",
+        "zh": "保持安静"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "quietly",
+        "meaningZh": "安静地"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "quite",
+        "meaningZh": "相当；十分",
+        "note": "quiet 是安静的，quite 是相当，注意末尾字母顺序。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "clean": {
+    "examples": [
+      {
+        "en": "Please keep your desk clean.",
+        "zh": "请保持书桌干净。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "clean up",
+        "zh": "清理"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "cleaner",
+        "meaningZh": "清洁工；清洁剂"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "clear",
+        "meaningZh": "清楚的；清澈的",
+        "note": "clean 指干净；clear 指清楚或清澈，词尾辅音不同。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "slow": {
+    "examples": [
+      {
+        "en": "The bus was slow because of the traffic.",
+        "zh": "由于交通拥堵，公交车开得很慢。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "slow down",
+        "zh": "减速"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "slowly",
+        "meaningZh": "缓慢地"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "low",
+        "meaningZh": "低的",
+        "note": "slow 是慢的；low 是低的，slow 开头多一个 /s/ 音。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "cold": {
+    "examples": [
+      {
+        "en": "It is cold outside today.",
+        "zh": "今天外面很冷。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "catch a cold",
+        "zh": "感冒"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "coldness",
+        "meaningZh": "寒冷；冷淡"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "cool",
+        "meaningZh": "凉爽的",
+        "note": "cold 比 cool 的温度更低；a cold 还可以表示感冒。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "warm": {
+    "examples": [
+      {
+        "en": "This coat keeps me warm in winter.",
+        "zh": "这件外套冬天能让我保暖。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "warm up",
+        "zh": "热身；变暖"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "warmth",
+        "meaningZh": "温暖"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "worm",
+        "meaningZh": "蠕虫",
+        "note": "warm 是温暖的；worm 是蠕虫，元音不同。"
+      }
+    ],
+    "difficulty": 1
+  },
+  "friendship": {
+    "examples": [
+      {
+        "en": "Their friendship began at school.",
+        "zh": "他们的友谊始于学校。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a close friendship",
+        "zh": "亲密的友谊"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "friend",
+        "meaningZh": "朋友（同词族基础词）"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "relationship",
+        "meaningZh": "关系",
+        "note": "friendship 特指友谊；relationship 可泛指人与人之间的关系。"
+      }
+    ]
+  },
+  "practice": {
+    "examples": [
+      {
+        "en": "Daily practice helps me speak more clearly.",
+        "zh": "每天练习帮助我说得更清楚。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "practice doing",
+        "zh": "练习做……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "practical",
+        "meaningZh": "实际的；实用的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "practise",
+        "meaningZh": "练习（英式动词拼写）",
+        "note": "美式英语的名词和动词通常都写 practice；英式动词常写 practise。"
+      }
+    ]
+  },
+  "travel": {
+    "examples": [
+      {
+        "en": "We hope to travel by train this summer.",
+        "zh": "我们希望今年夏天乘火车旅行。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "travel abroad",
+        "zh": "出国旅行"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "traveler",
+        "meaningZh": "旅行者"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "trip",
+        "meaningZh": "旅行；行程",
+        "note": "travel 表示旅行通常不可数；trip 是可数名词，可说 a trip。"
+      }
+    ]
+  },
+  "visit": {
+    "examples": [
+      {
+        "en": "We visited our grandparents last weekend.",
+        "zh": "上周末我们看望了祖父母。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "pay a visit to",
+        "zh": "拜访……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "visitor",
+        "meaningZh": "访客；游客"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "view",
+        "meaningZh": "观看；景色",
+        "note": "visit 是拜访或参观，可以直接接人或地点；view 侧重观看或景色。"
+      }
+    ]
+  },
+  "helpful": {
+    "examples": [
+      {
+        "en": "The guide gave us some helpful advice.",
+        "zh": "导游给了我们一些有用的建议。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be helpful to",
+        "zh": "对……有帮助"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "helpfulness",
+        "meaningZh": "乐于助人；有帮助"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "helpless",
+        "meaningZh": "无助的",
+        "note": "helpful 是有帮助的；helpless 是无助的，注意后缀不同。"
+      }
+    ]
+  },
+  "beautiful": {
+    "examples": [
+      {
+        "en": "The garden is beautiful in spring.",
+        "zh": "春天这座花园很美。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "beautiful scenery",
+        "zh": "美丽的风景"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "beautifully",
+        "meaningZh": "优美地；漂亮地"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "beauty",
+        "meaningZh": "美；美人",
+        "note": "beautiful 是形容词；beauty 是名词，不能混用词性。"
+      }
+    ]
+  },
+  "comfortable": {
+    "examples": [
+      {
+        "en": "These shoes are comfortable for walking.",
+        "zh": "这双鞋走路很舒服。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "feel comfortable",
+        "zh": "感觉舒适"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "comfortably",
+        "meaningZh": "舒适地"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "convenient",
+        "meaningZh": "方便的",
+        "note": "comfortable 强调身心舒适；convenient 强调使用或安排方便。"
+      }
+    ]
+  },
+  "communication": {
+    "examples": [
+      {
+        "en": "Clear communication helps a team work well.",
+        "zh": "清晰的沟通有助于团队良好协作。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "communication skills",
+        "zh": "沟通技能"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "communicate",
+        "meaningZh": "交流；传达"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "conversation",
+        "meaningZh": "交谈；对话",
+        "note": "communication 泛指沟通或信息传递；conversation 常指具体谈话。"
+      }
+    ]
+  },
+  "efficient": {
+    "examples": [
+      {
+        "en": "This is a more efficient way to save energy.",
+        "zh": "这是一种更高效的节能方法。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "energy efficient",
+        "zh": "节能的"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "efficiency",
+        "meaningZh": "效率"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "effective",
+        "meaningZh": "有效的",
+        "note": "efficient 强调少用时间或资源；effective 强调能产生预期效果。"
+      }
+    ]
+  },
+  "reliable": {
+    "examples": [
+      {
+        "en": "We need reliable information before deciding.",
+        "zh": "做决定前我们需要可靠的信息。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a reliable source",
+        "zh": "可靠的来源"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "reliability",
+        "meaningZh": "可靠性"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "reliant",
+        "meaningZh": "依赖的",
+        "note": "reliable 表示可靠；reliant 表示依赖的，常用 reliant on。"
+      }
+    ]
+  },
+  "maintain": {
+    "examples": [
+      {
+        "en": "Regular exercise helps maintain good health.",
+        "zh": "经常运动有助于保持健康。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "maintain a balance",
+        "zh": "保持平衡"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "maintenance",
+        "meaningZh": "维护；保养"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "remain",
+        "meaningZh": "保持；剩下",
+        "note": "maintain 常接宾语，表示维持某物；remain 常接表语，表示继续处于某状态。"
+      }
+    ]
+  },
+  "relevant": {
+    "examples": [
+      {
+        "en": "Please include only relevant information.",
+        "zh": "请只写相关的信息。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be relevant to",
+        "zh": "与……相关"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "relevance",
+        "meaningZh": "相关性"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "relative",
+        "meaningZh": "相对的；亲属",
+        "note": "relevant 表示相关，常接 to；relative 可表示相对的或亲属。"
+      }
+    ]
+  },
+  "flexible": {
+    "examples": [
+      {
+        "en": "My work schedule is quite flexible.",
+        "zh": "我的工作时间安排很灵活。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "flexible working hours",
+        "zh": "灵活的工作时间"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "flexibility",
+        "meaningZh": "灵活性"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "fluent",
+        "meaningZh": "流利的",
+        "note": "flexible 表示灵活的；fluent 表示语言表达流利的。"
+      }
+    ]
+  },
+  "significant": {
+    "examples": [
+      {
+        "en": "The new method made a significant difference.",
+        "zh": "这种新方法带来了显著的变化。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a significant increase",
+        "zh": "显著增长"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "significance",
+        "meaningZh": "重要性；意义"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "sign",
+        "meaningZh": "标志；签名",
+        "note": "significant 表示显著或重要；sign 是名词或动词，注意词形。"
+      }
+    ]
+  },
+  "identify": {
+    "examples": [
+      {
+        "en": "Can you identify the bird in this photo?",
+        "zh": "你能认出照片里的这只鸟吗？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "identify with",
+        "zh": "认同……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "identification",
+        "meaningZh": "识别；身份证明"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "identity",
+        "meaningZh": "身份",
+        "note": "identify 是动词“识别”；identity 是名词“身份”。"
+      }
+    ]
+  },
+  "evaluate": {
+    "examples": [
+      {
+        "en": "We will evaluate the results next week.",
+        "zh": "我们下周将评估结果。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "evaluate the impact",
+        "zh": "评估影响"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "evaluation",
+        "meaningZh": "评估"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "estimate",
+        "meaningZh": "估计",
+        "note": "evaluate 强调评判价值或效果；estimate 常指估计数量或程度。"
+      }
+    ]
+  },
+  "recognize": {
+    "examples": [
+      {
+        "en": "I recognized her voice immediately.",
+        "zh": "我立刻认出了她的声音。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "recognize the importance of",
+        "zh": "认识到……的重要性"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "recognition",
+        "meaningZh": "认出；认可"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "realize",
+        "meaningZh": "意识到；实现",
+        "note": "recognize 可表示辨认出熟悉事物；realize 常表示意识到某一事实。"
+      }
+    ]
+  },
+  "responsibility": {
+    "examples": [
+      {
+        "en": "Taking care of the garden is our shared responsibility.",
+        "zh": "照料花园是我们共同的责任。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "take responsibility for",
+        "zh": "为……承担责任"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "responsible",
+        "meaningZh": "负责的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "responsibility for",
+        "meaningZh": "对……的责任",
+        "note": "名词常用 responsibility for；形容词常用 responsible for。"
+      }
+    ]
+  },
+  "frequency": {
+    "examples": [
+      {
+        "en": "We increased the frequency of our meetings.",
+        "zh": "我们增加了开会的频率。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "high frequency",
+        "zh": "高频率"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "frequent",
+        "meaningZh": "频繁的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "frequently",
+        "meaningZh": "频繁地",
+        "note": "frequency 是名词，frequent 是形容词，frequently 是副词。"
+      }
+    ]
+  },
+  "efficiency": {
+    "examples": [
+      {
+        "en": "The new equipment improved the factory's efficiency.",
+        "zh": "新设备提高了工厂的效率。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "improve efficiency",
+        "zh": "提高效率"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "efficient",
+        "meaningZh": "高效的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "effectiveness",
+        "meaningZh": "有效性",
+        "note": "efficiency 侧重资源或时间的利用效率；effectiveness 侧重目标达成效果。"
+      }
+    ]
+  },
+  "privacy": {
+    "examples": [
+      {
+        "en": "Please respect other people's privacy.",
+        "zh": "请尊重他人的隐私。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "protect privacy",
+        "zh": "保护隐私"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "private",
+        "meaningZh": "私人的；私密的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "piracy",
+        "meaningZh": "盗版；海盗行为",
+        "note": "privacy 表示隐私；piracy 表示盗版或海盗行为，字母顺序不同。"
+      }
+    ]
+  },
+  "sufficient": {
+    "examples": [
+      {
+        "en": "We have sufficient time to check the details.",
+        "zh": "我们有充足的时间核对细节。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be sufficient for",
+        "zh": "对……足够"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "sufficiency",
+        "meaningZh": "充足"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "efficient",
+        "meaningZh": "高效的",
+        "note": "sufficient 是足够的；efficient 是高效的，不能混淆词头。"
+      }
+    ]
+  },
+  "consciousness": {
+    "examples": [
+      {
+        "en": "The patient regained consciousness in the morning.",
+        "zh": "病人早上恢复了意识。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "lose consciousness",
+        "zh": "失去意识"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "conscious",
+        "meaningZh": "有意识的；察觉的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "conscience",
+        "meaningZh": "良心",
+        "note": "consciousness 是意识；conscience 是良心，含义与词形不同。"
+      }
+    ]
+  },
+  "ethics": {
+    "examples": [
+      {
+        "en": "The course introduces the ethics of scientific research.",
+        "zh": "这门课介绍科学研究伦理。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "research ethics",
+        "zh": "研究伦理"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "ethical",
+        "meaningZh": "合乎伦理的；伦理的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "ethnic",
+        "meaningZh": "民族的；族群的",
+        "note": "ethical 表示伦理的；ethnic 表示民族的，注意中间字母。"
+      }
+    ]
+  },
+  "consumption": {
+    "examples": [
+      {
+        "en": "We should reduce our consumption of plastic.",
+        "zh": "我们应该减少塑料消耗。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "energy consumption",
+        "zh": "能源消耗"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "consume",
+        "meaningZh": "消耗；消费"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "assumption",
+        "meaningZh": "假设",
+        "note": "consumption 是消耗或消费；assumption 是假设，后半词形相似。"
+      }
+    ]
+  },
+  "subsequent": {
+    "examples": [
+      {
+        "en": "The first visit was free, but subsequent visits cost money.",
+        "zh": "首次就诊免费，但后续就诊收费。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "subsequent to",
+        "zh": "在……之后"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "subsequently",
+        "meaningZh": "随后"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "consequent",
+        "meaningZh": "随之发生的；作为结果的",
+        "note": "subsequent 强调时间上随后的；consequent 强调因果上的结果。"
+      }
+    ]
+  },
+  "proportion": {
+    "examples": [
+      {
+        "en": "A large proportion of the class walks to school.",
+        "zh": "班里很大一部分学生步行上学。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in proportion to",
+        "zh": "与……成比例"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "proportional",
+        "meaningZh": "成比例的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "portion",
+        "meaningZh": "一部分；一份",
+        "note": "proportion 侧重比例；portion 侧重具体的一部分或一份。"
+      }
+    ]
+  },
+  "curiosity": {
+    "examples": [
+      {
+        "en": "Her curiosity led her to explore the old map.",
+        "zh": "她的好奇心促使她研究那张旧地图。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "out of curiosity",
+        "zh": "出于好奇"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "curious",
+        "meaningZh": "好奇的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "curiosity about",
+        "meaningZh": "对……的好奇",
+        "note": "curiosity 是名词；curious 是形容词，常用 curious about。"
+      }
+    ]
+  },
+  "validity": {
+    "examples": [
+      {
+        "en": "The team checked the validity of the results.",
+        "zh": "团队检查了结果的有效性。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "question the validity of",
+        "zh": "质疑……的有效性"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "valid",
+        "meaningZh": "有效的；合理的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "validation",
+        "meaningZh": "验证；确认",
+        "note": "validity 是有效性或合理性；validation 是验证或确认过程。"
+      }
+    ]
+  },
+  "compliance": {
+    "examples": [
+      {
+        "en": "The company checked its compliance with the rules.",
+        "zh": "公司检查了自身遵守规定的情况。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in compliance with",
+        "zh": "遵照……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "comply",
+        "meaningZh": "遵守；服从"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "complaint",
+        "meaningZh": "投诉；抱怨",
+        "note": "compliance 是遵守；complaint 是投诉，词尾和含义不同。"
+      }
+    ]
+  },
+  "likelihood": {
+    "examples": [
+      {
+        "en": "The forecast shows a high likelihood of rain.",
+        "zh": "预报显示降雨的可能性很高。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in all likelihood",
+        "zh": "很可能"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "likely",
+        "meaningZh": "可能的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "likeness",
+        "meaningZh": "相似；肖像",
+        "note": "likelihood 表示可能性；likeness 表示相似或肖像。"
+      }
+    ]
+  },
+  "autonomy": {
+    "examples": [
+      {
+        "en": "The school gives teachers autonomy in planning lessons.",
+        "zh": "学校允许教师自主安排课程。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "personal autonomy",
+        "zh": "个人自主权"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "autonomous",
+        "meaningZh": "自主的；自治的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "anatomy",
+        "meaningZh": "解剖学；结构",
+        "note": "autonomy 表示自主权；anatomy 表示解剖学或结构，拼写相近。"
+      }
+    ]
+  },
+  "threshold": {
+    "examples": [
+      {
+        "en": "The noise went above the agreed threshold.",
+        "zh": "噪声超过了约定的限度。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "pain threshold",
+        "zh": "痛阈"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "thresholding",
+        "meaningZh": "阈值处理"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "boundary",
+        "meaningZh": "边界；界限",
+        "note": "threshold 常指达到某种变化的门槛或阈值；boundary 常指区域或范围的边界。threshold 不能误写为 threshhold。"
+      }
+    ]
+  },
+  "conversion": {
+    "examples": [
+      {
+        "en": "The conversion of the building took six months.",
+        "zh": "这栋建筑的改造花了六个月。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "currency conversion",
+        "zh": "货币兑换"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "convert",
+        "meaningZh": "转换；改造"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "conversation",
+        "meaningZh": "谈话",
+        "note": "conversion 是转换；conversation 是谈话，注意中间部分。"
+      }
+    ]
+  },
+  "logical": {
+    "examples": [
+      {
+        "en": "Her explanation was clear and logical.",
+        "zh": "她的解释清晰且合乎逻辑。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a logical conclusion",
+        "zh": "合乎逻辑的结论"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "logically",
+        "meaningZh": "合乎逻辑地"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "logistical",
+        "meaningZh": "后勤的",
+        "note": "logical 是合乎逻辑的；logistical 是后勤或组织安排方面的。"
+      }
+    ]
+  },
+  "comparable": {
+    "examples": [
+      {
+        "en": "The two phones have comparable battery life.",
+        "zh": "这两款手机的电池续航相当。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "be comparable to",
+        "zh": "可与……相比"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "comparability",
+        "meaningZh": "可比性"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "comparative",
+        "meaningZh": "比较的；相对的",
+        "note": "comparable 表示可比较或相当；comparative 常表示比较的或相对的。"
+      }
+    ]
+  },
+  "retention": {
+    "examples": [
+      {
+        "en": "Regular review improves vocabulary retention.",
+        "zh": "定期复习提高词汇记忆保持率。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "memory retention",
+        "zh": "记忆保持"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "retain",
+        "meaningZh": "保留；记住"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "attention",
+        "meaningZh": "注意力",
+        "note": "retention 强调保留或记住；attention 表示注意力。"
+      }
+    ]
+  },
+  "proximity": {
+    "examples": [
+      {
+        "en": "We chose the hotel for its proximity to the station.",
+        "zh": "我们因酒店靠近车站而选了它。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in close proximity to",
+        "zh": "紧邻……"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "proximal",
+        "meaningZh": "近端的；邻近的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "approximation",
+        "meaningZh": "近似值；近似",
+        "note": "proximity 表示接近或邻近；approximation 表示近似。"
+      }
+    ]
+  },
+  "rigorous": {
+    "examples": [
+      {
+        "en": "The researchers used a rigorous method.",
+        "zh": "研究人员采用了严谨的方法。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "rigorous testing",
+        "zh": "严格测试"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "rigor",
+        "meaningZh": "严谨；严格"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "vigorous",
+        "meaningZh": "充满活力的",
+        "note": "rigorous 是严格或严谨的；vigorous 是精力充沛或强有力的。"
+      }
+    ]
+  },
+  "replicate": {
+    "examples": [
+      {
+        "en": "Another team tried to replicate the experiment.",
+        "zh": "另一支团队试图重复这项实验。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "replicate results",
+        "zh": "复现结果"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "replication",
+        "meaningZh": "复制；重复验证"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "replace",
+        "meaningZh": "替换",
+        "note": "replicate 表示复制或重复验证；replace 表示替换。"
+      }
+    ]
+  },
+  "adjacent": {
+    "examples": [
+      {
+        "en": "The library is adjacent to the park.",
+        "zh": "图书馆紧邻公园。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "adjacent to",
+        "zh": "与……相邻"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "adjacency",
+        "meaningZh": "相邻；邻接关系"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "adjoining",
+        "meaningZh": "毗连的",
+        "note": "adjacent 常用 be adjacent to；adjoining 可直接修饰毗连的建筑或房间。"
+      }
+    ]
+  },
+  "unpredictable": {
+    "examples": [
+      {
+        "en": "The weather here is unpredictable.",
+        "zh": "这里的天气难以预测。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an unpredictable outcome",
+        "zh": "难以预测的结果"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "unpredictability",
+        "meaningZh": "不可预测性"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "predictable",
+        "meaningZh": "可预测的",
+        "note": "unpredictable 含否定前缀 un-；predictable 表示可预测的。"
+      }
+    ]
+  },
+  "linguistic": {
+    "examples": [
+      {
+        "en": "The project studies linguistic differences between regions.",
+        "zh": "该项目研究地区之间的语言差异。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "linguistic diversity",
+        "zh": "语言多样性"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "linguistics",
+        "meaningZh": "语言学"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "linguist",
+        "meaningZh": "语言学家",
+        "note": "linguistic 是形容词；linguistics 是学科名，linguist 是人。"
+      }
+    ]
+  },
+  "coincide": {
+    "examples": [
+      {
+        "en": "Our holidays coincide this year.",
+        "zh": "我们的假期今年恰好重合。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "coincide with",
+        "zh": "与……同时发生或一致"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "coincidence",
+        "meaningZh": "巧合；一致"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "cooperate",
+        "meaningZh": "合作",
+        "note": "coincide 常与 with 搭配，表示时间重合或意见一致；cooperate 表示合作。"
+      }
+    ]
+  },
+  "manifestation": {
+    "examples": [
+      {
+        "en": "The rash may be a manifestation of an allergy.",
+        "zh": "皮疹可能是过敏的一种表现。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a manifestation of",
+        "zh": "……的一种表现"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "manifest",
+        "meaningZh": "表明；显现的"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "demonstration",
+        "meaningZh": "示范；证明；游行",
+        "note": "manifestation 强调某事物的显现或表现；demonstration 可指示范或证明。"
+      }
+    ]
+  },
+  "renewal": {
+    "examples": [
+      {
+        "en": "The library sent me a reminder about my membership renewal.",
+        "zh": "图书馆提醒我续办会员。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "contract renewal",
+        "zh": "合同续签"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "renew",
+        "meaningZh": "更新；续订"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "removal",
+        "meaningZh": "移除",
+        "note": "renewal 表示更新或续期；removal 表示移除，注意词中部。"
+      }
+    ]
+  },
+  "the": {
+    "meaningZh": "这（个）；那（个）；用于特指的人或事物前",
+    "partOfSpeech": "art.",
+    "examples": [
+      {
+        "en": "The book on the table is mine.",
+        "zh": "桌上的那本书是我的。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "the same",
+        "zh": "相同的"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "a",
+        "meaningZh": "一（个）；某一",
+        "note": "the 常用于特指；a 用于泛指一个可数的人或事物。"
+      }
+    ]
+  },
+  "a": {
+    "meaningZh": "一（个）；某一；每一",
+    "partOfSpeech": "art.",
+    "examples": [
+      {
+        "en": "I need a pencil to write my name.",
+        "zh": "我需要一支铅笔来写名字。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a few",
+        "zh": "几个；一些"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "an",
+        "meaningZh": "一（个）",
+        "note": "a 用在辅音音素前；an 用在元音音素前，判断依据是发音而非字母。"
+      }
+    ]
+  },
+  "and": {
+    "meaningZh": "和；并且；然后",
+    "partOfSpeech": "conj.",
+    "examples": [
+      {
+        "en": "We bought bread and milk.",
+        "zh": "我们买了面包和牛奶。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "more and more",
+        "zh": "越来越多"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "or",
+        "meaningZh": "或者；否则",
+        "note": "and 常表示并列累加；or 常表示选择。"
+      }
+    ]
+  },
+  "of": {
+    "meaningZh": "……的；属于；由……组成",
+    "partOfSpeech": "prep.",
+    "examples": [
+      {
+        "en": "This is a map of our city.",
+        "zh": "这是一张我们城市的地图。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "of course",
+        "zh": "当然"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "off",
+        "meaningZh": "离开；关闭",
+        "note": "of 是介词，常读弱音；off 的末尾是 /f/，表示离开或关闭等。"
+      }
+    ]
+  },
+  "in": {
+    "meaningZh": "在……里面；在……期间；进入",
+    "partOfSpeech": "prep. / adv.",
+    "examples": [
+      {
+        "en": "My keys are in the bag.",
+        "zh": "我的钥匙在包里。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "in the morning",
+        "zh": "在早上"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "on",
+        "meaningZh": "在……上；在某一天",
+        "note": "in 常用于较长时间段，如月份和年份；on 常用于具体某天。"
+      }
+    ]
+  },
+  "to": {
+    "meaningZh": "到；向；给；不定式标记",
+    "partOfSpeech": "prep. / infinitive marker",
+    "examples": [
+      {
+        "en": "I walk to school every day.",
+        "zh": "我每天步行上学。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "want to do",
+        "zh": "想要做……"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "too",
+        "meaningZh": "也；太",
+        "note": "to、too、two 在常见读法中同音；注意词性和拼写。"
+      }
+    ]
+  },
+  "have": {
+    "meaningZh": "有；拥有；吃；用于完成时态",
+    "partOfSpeech": "v. / aux.",
+    "examples": [
+      {
+        "en": "We have enough food for everyone.",
+        "zh": "我们有足够所有人吃的食物。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "have breakfast",
+        "zh": "吃早餐"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "has",
+        "meaningZh": "有（have 的第三人称单数）",
+        "note": "一般现在时主语为 he、she、it 时，have 常变为 has。"
+      }
+    ]
+  },
+  "it": {
+    "meaningZh": "它；用于指代事物、天气或时间",
+    "partOfSpeech": "pron.",
+    "examples": [
+      {
+        "en": "It is raining outside.",
+        "zh": "外面正在下雨。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "it takes time to",
+        "zh": "做……需要时间"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "its",
+        "meaningZh": "它的",
+        "note": "it 是代词；its 是物主形式，it's 是 it is 或 it has 的缩写。"
+      }
+    ]
+  },
+  "that": {
+    "meaningZh": "那；那个；引导从句",
+    "partOfSpeech": "pron. / det. / conj.",
+    "examples": [
+      {
+        "en": "That house belongs to my aunt.",
+        "zh": "那栋房子是我姑姑的。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "so that",
+        "zh": "以便；为了"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "this",
+        "meaningZh": "这；这个",
+        "note": "that 常指较远的人或物；this 常指较近的人或物。"
+      }
+    ]
+  },
+  "for": {
+    "meaningZh": "为了；给；对于；因为",
+    "partOfSpeech": "prep. / conj.",
+    "examples": [
+      {
+        "en": "This gift is for you.",
+        "zh": "这份礼物是给你的。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "for example",
+        "zh": "例如"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "four",
+        "meaningZh": "四",
+        "note": "for 与 four 的强读形式相近；for 还常有弱读，four 是数字。"
+      }
+    ]
+  },
+  "you": {
+    "meaningZh": "你；你们",
+    "partOfSpeech": "pron.",
+    "examples": [
+      {
+        "en": "You can choose your own seat.",
+        "zh": "你可以自己选座位。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "thank you",
+        "zh": "谢谢你"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "your",
+        "meaningZh": "你的；你们的",
+        "note": "you 是人称代词；your 是形容词性物主代词，后常接名词。"
+      }
+    ]
+  },
+  "he": {
+    "meaningZh": "他",
+    "partOfSpeech": "pron.",
+    "examples": [
+      {
+        "en": "He walks his dog every morning.",
+        "zh": "他每天早晨遛狗。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "he is",
+        "zh": "他是"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "his",
+        "meaningZh": "他的",
+        "note": "he 常作主语；his 表示他的，不能用 he book 表示他的书。"
+      }
+    ]
+  },
+  "with": {
+    "meaningZh": "和……一起；带有；用；伴随",
+    "partOfSpeech": "prep.",
+    "examples": [
+      {
+        "en": "I went to the park with my sister.",
+        "zh": "我和姐姐去了公园。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "with the help of",
+        "zh": "在……的帮助下"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "without",
+        "meaningZh": "没有；不带",
+        "note": "with 表示带有或伴随；without 表示没有，后可接名词或动名词。"
+      }
+    ]
+  },
+  "on": {
+    "meaningZh": "在……上；在某一天；开着",
+    "partOfSpeech": "prep. / adv.",
+    "examples": [
+      {
+        "en": "The cup is on the table.",
+        "zh": "杯子在桌上。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "on Monday",
+        "zh": "在星期一"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "in",
+        "meaningZh": "在……里面；在某段时间",
+        "note": "on 用于具体某天；in 常用于月份、季节、年份。"
+      }
+    ]
+  },
+  "this": {
+    "meaningZh": "这；这个",
+    "partOfSpeech": "pron. / det.",
+    "examples": [
+      {
+        "en": "This is my first day here.",
+        "zh": "这是我在这里的第一天。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "this time",
+        "zh": "这一次"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "these",
+        "meaningZh": "这些",
+        "note": "this 是单数；these 是复数，如 this book、these books。"
+      }
+    ]
+  },
+  "they": {
+    "meaningZh": "他们；她们；它们",
+    "partOfSpeech": "pron.",
+    "examples": [
+      {
+        "en": "They are waiting outside.",
+        "zh": "他们正在外面等候。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "they are",
+        "zh": "他们是；他们正在"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "their",
+        "meaningZh": "他们的；她们的；它们的",
+        "note": "they 作主语；their 表示所属，后常接名词。"
+      }
+    ]
+  },
+  "at": {
+    "meaningZh": "在；于；向；以某速度或价格",
+    "partOfSpeech": "prep.",
+    "examples": [
+      {
+        "en": "Let's meet at the station.",
+        "zh": "我们在车站见面吧。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "at night",
+        "zh": "在夜间"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "in",
+        "meaningZh": "在……里面",
+        "note": "at 常用于具体点或时刻；in 常用于区域或较长时间段。"
+      }
+    ]
+  },
+  "but": {
+    "meaningZh": "但是；除了",
+    "partOfSpeech": "conj. / prep.",
+    "examples": [
+      {
+        "en": "The room is small but comfortable.",
+        "zh": "房间小但很舒适。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "not only ... but also",
+        "zh": "不但……而且……"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "and",
+        "meaningZh": "并且；和",
+        "note": "but 表示转折；and 表示并列，连接关系不同。"
+      }
+    ]
+  },
+  "we": {
+    "meaningZh": "我们",
+    "partOfSpeech": "pron.",
+    "examples": [
+      {
+        "en": "We study together after class.",
+        "zh": "我们课后一起学习。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "we are",
+        "zh": "我们是；我们正在"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "us",
+        "meaningZh": "我们（宾格）",
+        "note": "we 常作主语；us 常作宾语，如 help us。"
+      }
+    ]
+  },
+  "his": {
+    "meaningZh": "他的；他的东西",
+    "partOfSpeech": "det. / pron.",
+    "examples": [
+      {
+        "en": "His bicycle is next to mine.",
+        "zh": "他的自行车在我的旁边。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "on his own",
+        "zh": "他独自；他独立地"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "him",
+        "meaningZh": "他（宾格）",
+        "note": "his 表示所属；him 是宾格，常放在动词或介词后。"
+      }
+    ]
+  },
+  "from": {
+    "meaningZh": "从；来自；由……起",
+    "partOfSpeech": "prep.",
+    "examples": [
+      {
+        "en": "She is from a town near the sea.",
+        "zh": "她来自海边的一个小镇。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "from ... to ...",
+        "zh": "从……到……"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "form",
+        "meaningZh": "形式；形成",
+        "note": "from 表示从；form 表示形式或形成，注意中间字母顺序。"
+      }
+    ]
+  },
+  "not": {
+    "meaningZh": "不；没有；并非",
+    "partOfSpeech": "adv.",
+    "examples": [
+      {
+        "en": "This is not my bag.",
+        "zh": "这不是我的包。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "not yet",
+        "zh": "尚未"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "no",
+        "meaningZh": "没有；不",
+        "note": "not 常否定动词或句子部分；no 可放在名词前，如 no time。"
+      }
+    ]
+  },
+  "by": {
+    "meaningZh": "在……旁；通过；由；不迟于",
+    "partOfSpeech": "prep. / adv.",
+    "examples": [
+      {
+        "en": "I go to work by bus.",
+        "zh": "我乘公交车上班。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "by the way",
+        "zh": "顺便说一下"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "buy",
+        "meaningZh": "买",
+        "note": "by 与 buy 同音；by 是介词或副词，buy 是动词。"
+      }
+    ]
+  },
+  "she": {
+    "meaningZh": "她",
+    "partOfSpeech": "pron.",
+    "examples": [
+      {
+        "en": "She is reading by the window.",
+        "zh": "她正在窗边看书。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "she has",
+        "zh": "她有；她已经"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "her",
+        "meaningZh": "她（宾格）；她的",
+        "note": "she 常作主语；her 可作宾语或表示所属。"
+      }
+    ]
+  },
+  "or": {
+    "meaningZh": "或者；还是；否则",
+    "partOfSpeech": "conj.",
+    "examples": [
+      {
+        "en": "Would you like tea or coffee?",
+        "zh": "你想喝茶还是咖啡？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "either ... or ...",
+        "zh": "要么……要么……"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "and",
+        "meaningZh": "和；并且",
+        "note": "or 常用于选择；and 常用于并列。否定句中列举通常也会用 or。"
+      }
+    ]
+  },
+  "as": {
+    "meaningZh": "作为；当……时；像；和……一样",
+    "partOfSpeech": "prep. / conj. / adv.",
+    "examples": [
+      {
+        "en": "She works as a teacher.",
+        "zh": "她的职业是教师。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "as ... as ...",
+        "zh": "和……一样……"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "like",
+        "meaningZh": "像；喜欢",
+        "note": "as 常表示身份或接从句；like 作介词时常表示相似。"
+      }
+    ]
+  },
+  "what": {
+    "meaningZh": "什么；所……的事物",
+    "partOfSpeech": "pron. / det.",
+    "examples": [
+      {
+        "en": "What do you do after school?",
+        "zh": "你放学后做什么？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "what about",
+        "zh": "……怎么样"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "which",
+        "meaningZh": "哪一个；哪些",
+        "note": "what 常用于范围开放的询问；which 常在已知范围内选择。"
+      }
+    ]
+  },
+  "go": {
+    "meaningZh": "去；走；进行；运转",
+    "partOfSpeech": "v.",
+    "examples": [
+      {
+        "en": "We go to school by bus.",
+        "zh": "我们坐公交车上学。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "go on",
+        "zh": "继续"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "come",
+        "meaningZh": "来",
+        "note": "go 常表示去别处；come 常表示朝说话者或谈话中的地点来。"
+      }
+    ]
+  },
+  "their": {
+    "meaningZh": "他们的；她们的；它们的",
+    "partOfSpeech": "det.",
+    "examples": [
+      {
+        "en": "The students put their bags on the shelf.",
+        "zh": "学生们把他们的包放到架子上。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "their own",
+        "zh": "他们自己的"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "there",
+        "meaningZh": "那里",
+        "note": "their、there、they're 常见读法同音，需按“所属、地点、他们是”区分。"
+      }
+    ]
+  },
+  "can": {
+    "meaningZh": "能；可以；罐头；金属罐",
+    "partOfSpeech": "modal v. / n.",
+    "examples": [
+      {
+        "en": "I can swim, but I cannot dive.",
+        "zh": "我会游泳，但不会跳水。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "can do",
+        "zh": "能够做……"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "can't",
+        "meaningZh": "不能",
+        "note": "can 后接动词原形；can't 是 cannot 的缩写，听辨时注意否定。"
+      }
+    ]
+  },
+  "who": {
+    "meaningZh": "谁；引导指人的关系从句",
+    "partOfSpeech": "pron.",
+    "examples": [
+      {
+        "en": "Who is standing by the door?",
+        "zh": "谁站在门边？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "who else",
+        "zh": "还有谁"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "whose",
+        "meaningZh": "谁的",
+        "note": "who 问人是谁；whose 问所属关系，如 Whose bag is this?"
+      }
+    ]
+  },
+  "get": {
+    "meaningZh": "得到；到达；变得；使",
+    "partOfSpeech": "v.",
+    "examples": [
+      {
+        "en": "We need to get to the station by eight.",
+        "zh": "我们需要八点前到车站。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "get up",
+        "zh": "起床"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "got",
+        "meaningZh": "得到（get 的过去式）",
+        "note": "get 的过去式是 got；美式过去分词还常用 gotten。"
+      }
+    ]
+  },
+  "if": {
+    "meaningZh": "如果；是否",
+    "partOfSpeech": "conj.",
+    "examples": [
+      {
+        "en": "If it rains, we will stay home.",
+        "zh": "如果下雨，我们就待在家里。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "even if",
+        "zh": "即使"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "whether",
+        "meaningZh": "是否",
+        "note": "表示是否时 if 与 whether 有时可互换；介词后通常用 whether。"
+      }
+    ]
+  },
+  "would": {
+    "meaningZh": "将会；愿意；用于委婉请求或假设",
+    "partOfSpeech": "modal v.",
+    "examples": [
+      {
+        "en": "Would you like some water?",
+        "zh": "你想喝点水吗？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "would like to",
+        "zh": "想要做……"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "wood",
+        "meaningZh": "木头",
+        "note": "would 与 wood 同音；would 是情态动词，wood 是名词。"
+      }
+    ]
+  },
+  "her": {
+    "meaningZh": "她（宾格）；她的",
+    "partOfSpeech": "pron. / det.",
+    "examples": [
+      {
+        "en": "I gave her a notebook.",
+        "zh": "我给了她一本笔记本。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "her own",
+        "zh": "她自己的"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "hers",
+        "meaningZh": "她的东西",
+        "note": "her 后可接名词；hers 通常独立使用，如 The book is hers。"
+      }
+    ]
+  },
+  "all": {
+    "meaningZh": "全部；所有；完全",
+    "partOfSpeech": "det. / pron. / adv.",
+    "examples": [
+      {
+        "en": "All the windows are open.",
+        "zh": "所有窗户都开着。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "all the time",
+        "zh": "一直"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "every",
+        "meaningZh": "每一",
+        "note": "all 强调整体，可接复数名词；every 强调每一个，后接单数名词。"
+      }
+    ]
+  },
+  "my": {
+    "meaningZh": "我的",
+    "partOfSpeech": "det.",
+    "examples": [
+      {
+        "en": "This is my favorite song.",
+        "zh": "这是我最喜欢的歌。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "on my own",
+        "zh": "我独自；我独立地"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "mine",
+        "meaningZh": "我的东西",
+        "note": "my 后接名词；mine 通常独立使用，如 This seat is mine。"
+      }
+    ]
+  },
+  "will": {
+    "meaningZh": "将；愿意；意志；遗嘱",
+    "partOfSpeech": "modal v. / n.",
+    "examples": [
+      {
+        "en": "I will call you tomorrow.",
+        "zh": "我明天会给你打电话。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "will do",
+        "zh": "将做……"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "would",
+        "meaningZh": "将会；愿意（常用于委婉或假设）",
+        "note": "will 常表达将来；would 常用于委婉请求、假设或过去将来。"
+      }
+    ]
+  },
+  "up": {
+    "meaningZh": "向上；起来；在……上方",
+    "partOfSpeech": "adv. / prep.",
+    "examples": [
+      {
+        "en": "Please stand up slowly.",
+        "zh": "请慢慢站起来。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "wake up",
+        "zh": "醒来"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "down",
+        "meaningZh": "向下",
+        "note": "up 表示向上；down 表示向下，常与动词构成短语。"
+      }
+    ]
+  },
+  "one": {
+    "meaningZh": "一；一个；某个人或事物",
+    "partOfSpeech": "num. / pron. / det.",
+    "examples": [
+      {
+        "en": "I have one question.",
+        "zh": "我有一个问题。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "one by one",
+        "zh": "逐个地"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "won",
+        "meaningZh": "赢（win 的过去式）",
+        "note": "one 与 won 同音；one 是数字，won 是过去式。"
+      }
+    ]
+  },
+  "there": {
+    "meaningZh": "在那里；用于表示存在",
+    "partOfSpeech": "adv. / pron.",
+    "examples": [
+      {
+        "en": "There is a park near my home.",
+        "zh": "我家附近有一个公园。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "over there",
+        "zh": "在那边"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "their",
+        "meaningZh": "他们的",
+        "note": "there 表示地点或引导存在句；their 表示所属。"
+      }
+    ]
+  },
+  "so": {
+    "meaningZh": "如此；这么；所以",
+    "partOfSpeech": "adv. / conj.",
+    "examples": [
+      {
+        "en": "It was raining, so we stayed inside.",
+        "zh": "当时在下雨，所以我们待在室内。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "so far",
+        "zh": "到目前为止"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "such",
+        "meaningZh": "这样的；如此的",
+        "note": "so 常修饰形容词或副词；such 常修饰名词短语。"
+      }
+    ]
+  },
+  "when": {
+    "meaningZh": "什么时候；当……时",
+    "partOfSpeech": "adv. / conj.",
+    "examples": [
+      {
+        "en": "When does the next train leave?",
+        "zh": "下一班火车什么时候开？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "when necessary",
+        "zh": "必要时"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "where",
+        "meaningZh": "哪里；在……的地方",
+        "note": "when 问时间；where 问地点，注意问句对象。"
+      }
+    ]
+  },
+  "which": {
+    "meaningZh": "哪一个；哪些；引导关系从句",
+    "partOfSpeech": "pron. / det.",
+    "examples": [
+      {
+        "en": "Which bus goes to the museum?",
+        "zh": "哪路公交车去博物馆？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "which one",
+        "zh": "哪一个"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "what",
+        "meaningZh": "什么",
+        "note": "which 常用于已知范围内选择；what 可用于范围较开放的询问。"
+      }
+    ]
+  },
+  "them": {
+    "meaningZh": "他们；她们；它们（宾格）",
+    "partOfSpeech": "pron.",
+    "examples": [
+      {
+        "en": "Please give them some time.",
+        "zh": "请给他们一些时间。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "both of them",
+        "zh": "他们两个都"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "they",
+        "meaningZh": "他们（主格）",
+        "note": "them 常作宾语；they 常作主语。"
+      }
+    ]
+  },
+  "some": {
+    "meaningZh": "一些；某些；若干",
+    "partOfSpeech": "det. / pron.",
+    "examples": [
+      {
+        "en": "There is some milk in the fridge.",
+        "zh": "冰箱里有一些牛奶。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "some of",
+        "zh": "……中的一些"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "any",
+        "meaningZh": "任何；一些",
+        "note": "some 常用于肯定句或希望得到肯定回答的请求；any 常用于疑问或否定句。"
+      }
+    ]
+  },
+  "me": {
+    "meaningZh": "我（宾格）",
+    "partOfSpeech": "pron.",
+    "examples": [
+      {
+        "en": "Can you help me with this box?",
+        "zh": "你能帮我搬这个箱子吗？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "let me know",
+        "zh": "告诉我；让我知道"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "my",
+        "meaningZh": "我的",
+        "note": "me 是宾格；my 表示所属，后常接名词。"
+      }
+    ]
+  },
+  "out": {
+    "meaningZh": "在外；向外；熄灭",
+    "partOfSpeech": "adv. / prep.",
+    "examples": [
+      {
+        "en": "Please take the rubbish out.",
+        "zh": "请把垃圾拿出去。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "find out",
+        "zh": "查明"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "outside",
+        "meaningZh": "外面；在……外面",
+        "note": "out 常与动词构成短语；outside 可直接表示在某物外面。"
+      }
+    ]
+  },
+  "into": {
+    "meaningZh": "进入……之内；变成；深入",
+    "partOfSpeech": "prep.",
+    "examples": [
+      {
+        "en": "She put the keys into her bag.",
+        "zh": "她把钥匙放进包里。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "turn into",
+        "zh": "变成……"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "in",
+        "meaningZh": "在……里面",
+        "note": "into 强调进入的方向或变化；in 常强调所在位置。"
+      }
+    ]
+  },
+  "just": {
+    "meaningZh": "刚刚；仅仅；正好；公正的",
+    "partOfSpeech": "adv. / adj.",
+    "examples": [
+      {
+        "en": "I have just finished my homework.",
+        "zh": "我刚刚做完作业。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "just now",
+        "zh": "刚才"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "only",
+        "meaningZh": "仅仅",
+        "note": "just 可表示刚刚或正好；only 主要强调仅仅或唯一。"
+      }
+    ]
+  },
+  "him": {
+    "meaningZh": "他（宾格）",
+    "partOfSpeech": "pron.",
+    "examples": [
+      {
+        "en": "I saw him at the library.",
+        "zh": "我在图书馆看见了他。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "with him",
+        "zh": "和他一起"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "his",
+        "meaningZh": "他的",
+        "note": "him 常作宾语；his 表示所属。"
+      }
+    ]
+  },
+  "your": {
+    "meaningZh": "你的；你们的",
+    "partOfSpeech": "det.",
+    "examples": [
+      {
+        "en": "Please write your name here.",
+        "zh": "请把你的名字写在这里。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "your own",
+        "zh": "你自己的"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "you're",
+        "meaningZh": "you are 的缩写",
+        "note": "your 表示所属，后接名词；you're 表示“你是”或“你正在”。"
+      }
+    ]
+  },
+  "could": {
+    "meaningZh": "能；可以；can 的过去式；用于委婉请求",
+    "partOfSpeech": "modal v.",
+    "examples": [
+      {
+        "en": "Could you open the window, please?",
+        "zh": "请你打开窗户好吗？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "could do",
+        "zh": "能做……；可能做……"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "can",
+        "meaningZh": "能；可以",
+        "note": "could 可表示过去的能力，也可用于当前的委婉请求，不总是过去时。"
+      }
+    ]
+  },
+  "now": {
+    "meaningZh": "现在；目前；此刻",
+    "partOfSpeech": "adv.",
+    "examples": [
+      {
+        "en": "We can start now.",
+        "zh": "我们现在可以开始。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "right now",
+        "zh": "现在；立刻"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "know",
+        "meaningZh": "知道",
+        "note": "now 开头读 /n/，know 开头的 k 不发音，但两词元音不同。"
+      }
+    ]
+  },
+  "than": {
+    "meaningZh": "比；用于比较",
+    "partOfSpeech": "conj. / prep.",
+    "examples": [
+      {
+        "en": "This bag is lighter than that one.",
+        "zh": "这个包比那个轻。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "rather than",
+        "zh": "而不是"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "then",
+        "meaningZh": "然后；那时",
+        "note": "than 用于比较；then 表示然后或那时，注意元音和拼写。"
+      }
+    ]
+  },
+  "other": {
+    "meaningZh": "其他的；另外的；其他人或物",
+    "partOfSpeech": "adj. / pron.",
+    "examples": [
+      {
+        "en": "Do you have any other questions?",
+        "zh": "你还有其他问题吗？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "each other",
+        "zh": "互相"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "another",
+        "meaningZh": "另一个；再一个",
+        "note": "other 后常接名词；another 常表示同类事物中的另一个。"
+      }
+    ]
+  },
+  "how": {
+    "meaningZh": "如何；怎样；多么",
+    "partOfSpeech": "adv.",
+    "examples": [
+      {
+        "en": "How do you spell your name?",
+        "zh": "你的名字怎么拼？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "how often",
+        "zh": "多久一次"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "however",
+        "meaningZh": "然而；无论怎样",
+        "note": "how 用于询问方式或程度；however 常表示然而。"
+      }
+    ]
+  },
+  "then": {
+    "meaningZh": "然后；那时",
+    "partOfSpeech": "adv.",
+    "examples": [
+      {
+        "en": "We had lunch and then went for a walk.",
+        "zh": "我们吃了午饭，然后去散步。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "now and then",
+        "zh": "偶尔"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "than",
+        "meaningZh": "比",
+        "note": "then 表示时间或顺序；than 用于比较。"
+      }
+    ]
+  },
+  "its": {
+    "meaningZh": "它的",
+    "partOfSpeech": "det.",
+    "examples": [
+      {
+        "en": "The dog wagged its tail.",
+        "zh": "那条狗摇着尾巴。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "on its own",
+        "zh": "它独自；自行地"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "it's",
+        "meaningZh": "it is 或 it has 的缩写",
+        "note": "its 表示所属，无撇号；it's 是缩写。"
+      }
+    ]
+  },
+  "our": {
+    "meaningZh": "我们的",
+    "partOfSpeech": "det.",
+    "examples": [
+      {
+        "en": "Our classroom is on the second floor.",
+        "zh": "我们的教室在二楼。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "on our own",
+        "zh": "我们独自；我们独立地"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "ours",
+        "meaningZh": "我们的东西",
+        "note": "our 后接名词；ours 可独立使用，如 This house is ours。"
+      }
+    ]
+  },
+  "two": {
+    "meaningZh": "二；两个",
+    "partOfSpeech": "num.",
+    "examples": [
+      {
+        "en": "We need two tickets.",
+        "zh": "我们需要两张票。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "two of",
+        "zh": "……中的两个"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "too",
+        "meaningZh": "也；太",
+        "note": "two 是数字；too 是也或太，两词常见读法同音。"
+      }
+    ]
+  },
+  "more": {
+    "meaningZh": "更多；更；再",
+    "partOfSpeech": "det. / pron. / adv.",
+    "examples": [
+      {
+        "en": "Would you like more tea?",
+        "zh": "你想再来点茶吗？"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "more than",
+        "zh": "多于；超过"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "most",
+        "meaningZh": "最多；最",
+        "note": "more 用于比较级或表示更多；most 用于最高级或表示大多数。"
+      }
+    ]
+  },
+  "these": {
+    "meaningZh": "这些",
+    "partOfSpeech": "pron. / det.",
+    "examples": [
+      {
+        "en": "These shoes are very comfortable.",
+        "zh": "这双鞋很舒服。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "these days",
+        "zh": "这些天；如今"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "those",
+        "meaningZh": "那些",
+        "note": "these 通常指较近的复数事物；those 通常指较远的复数事物。"
+      }
+    ]
+  },
+  "apple": {
+    "meaningZh": "n. 苹果",
+    "partOfSpeech": "n.",
+    "examples": [
+      {
+        "en": "I put an apple in my lunch box.",
+        "zh": "我在午餐盒里放了一个苹果。"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "apple juice",
+        "zh": "苹果汁"
+      }
+    ],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "apply",
+        "meaningZh": "申请；应用",
+        "note": "apple 是苹果；apply 是申请或应用，注意词尾和发音。"
+      }
+    ],
+    "difficulty": 1
+  }
+}

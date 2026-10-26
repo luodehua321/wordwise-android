@@ -1,0 +1,4097 @@
+{
+  "version": "v14",
+  "externalInformationQueried": false,
+  "exampleTranslations": {
+    "national": {
+      "We camped for two weeks in the national park.": "我们在国家公园露营了两个星期。"
+    },
+    "community": {
+      "Tom was sentenced to three weeks of community service.": "汤姆被判处三周的社区服务。"
+    },
+    "including": {
+      "There were thirty people on the bus including the driver.": "包括司机在内，公交车上共有三十人。"
+    },
+    "local": {
+      "Mary works as a waitress at a local cafe.": "玛丽在当地一家咖啡馆当服务员。"
+    },
+    "development": {
+      "He showed a lot of enthusiasm for the development of new products.": "他对开发新产品表现出了极大的热情。"
+    },
+    "image": {
+      "He is the spitting image of his father.": "他和父亲长得一模一样。"
+    },
+    "technology": {
+      "Technology is in itself meaningless unless it serves mankind.": "技术如果不为人类服务，其本身就没有意义。"
+    },
+    "billion": {
+      "What would you buy if you had 19 billion dollars?": "如果你有一百九十亿美元，你会买什么？"
+    },
+    "administration": {
+      "The administration of a new drug curbed the epidemic.": "一种新药的施用遏制了这场流行病。"
+    },
+    "campaign": {
+      "A group started a campaign to preserve rain forests.": "一个团体发起了保护雨林的运动。"
+    },
+    "defense": {
+      "What do you have to say in your defense?": "你有什么要为自己辩护的吗？"
+    },
+    "seek": {
+      "Do you want to play hide and seek?": "你想玩捉迷藏吗？"
+    },
+    "performance": {
+      "Tom is careless in the performance of his duties.": "汤姆履行职责时粗心大意。"
+    },
+    "represent": {
+      "The red lines on the map represent railway lines.": "地图上的红线代表铁路。"
+    },
+    "movement": {
+      "He played a major part in the movement.": "他在这场运动中发挥了重要作用。"
+    },
+    "response": {
+      "Tom knocked on the door, but got no response.": "汤姆敲了门，但没有回应。"
+    },
+    "factor": {
+      "Cost is a definite factor in making our decision.": "成本是我们作决定时明确要考虑的一个因素。"
+    },
+    "decade": {
+      "How many decades have you lived in this house?": "你在这座房子里住了几十年了？"
+    },
+    "career": {
+      "Tom has a bright career as a medical doctor.": "汤姆作为医生有着光明的职业前景。"
+    },
+    "thus": {
+      "Many women pursue higher education and careers, thus delaying marriage and childbirth.": "许多女性追求高等教育和事业，因此推迟了结婚生子。"
+    },
+    "fund": {
+      "They set up a fund to support the victims.": "他们设立了一个基金来支持受害者。"
+    },
+    "media": {
+      "The media blew the whole thing out of proportion.": "媒体把整件事过分夸大了。"
+    },
+    "individual": {
+      "The old doctor gave individual attention to each patient.": "这位老医生对每位病人都给予了个别关注。"
+    },
+    "training": {
+      "Tom has had special training in this field.": "汤姆在这个领域接受过专门训练。"
+    },
+    "physical": {
+      "The army rejected Tom because of a physical disability.": "军队因汤姆身体有残疾而拒绝他入伍。"
+    },
+    "benefit": {
+      "Give him the benefit of the doubt.": "在没有证据证明他有错之前，姑且相信他吧。"
+    },
+    "sex": {
+      "Same-sex couples should be able to get married.": "同性伴侣应该能够结婚。"
+    },
+    "skill": {
+      "This work calls for a high degree of skill.": "这项工作需要很高的技能。"
+    },
+    "financial": {
+      "The financial situation is getting worse week by week.": "财务状况一周比一周糟糕。"
+    },
+    "authority": {
+      "Tom has always had a problem with authority figures.": "汤姆一直难以与权威人物相处。"
+    },
+    "indeed": {
+      "He is, indeed, a man of his word.": "他确实是个说话算数的人。"
+    },
+    "democratic": {
+      "He entered the Democratic Party but soon left it.": "他加入了民主党，但很快又退出了。"
+    },
+    "environment": {
+      "We must create a safe environment for our children.": "我们必须为孩子们创造一个安全的环境。"
+    },
+    "network": {
+      "You have to network if you want to get a good job": "想找到好工作，你就得建立人脉。"
+    },
+    "legal": {
+      "What Tom and I are doing is perfectly legal.": "汤姆和我正在做的事完全合法。"
+    },
+    "religious": {
+      "Full religious freedom is assured to all people.": "所有人都享有充分的宗教自由。"
+    },
+    "trial": {
+      "I think the trial period is up.": "我想试用期已经结束了。"
+    },
+    "management": {
+      "The firm is under foreign management.": "这家公司由外方管理。"
+    },
+    "impact": {
+      "That book had a significant impact on me.": "那本书对我产生了重大影响。"
+    },
+    "structure": {
+      "This molecule has a crystalline structure.": "这种分子具有晶体结构。"
+    },
+    "candidate": {
+      "No one expected him to be a candidate again.": "没有人料到他会再次成为候选人。"
+    },
+    "unit": {
+      "The family is the basic unit of society.": "家庭是社会的基本单位。"
+    },
+    "range": {
+      "You can find him at the rifle range.": "你可以在射击场找到他。"
+    },
+    "specific": {
+      "I must ask you to be more specific.": "我必须请你说得更具体一些。"
+    },
+    "throughout": {
+      "He has helped the poor throughout his life.": "他一生都在帮助穷人。"
+    },
+    "fifteen": {
+      "At the time, we were just fifteen years old.": "当时我们才十五岁。"
+    },
+    "pear": {
+      "Do you want a pear or an apple?": "你想要梨还是苹果？"
+    },
+    "Friday": {
+      "They eat fish on Fridays.": "他们每逢星期五吃鱼。"
+    },
+    "recognise": {
+      "Tom lost so much weight that one of his friends walked straight past him in the street, without recognising him.": "汤姆瘦了很多，以至于他的一位朋友在街上从他身旁径直走过，竟没认出他。",
+      "Socrates said that recognising your own ignorance is the first step towards wisdom.": "苏格拉底说，认识到自己的无知是迈向智慧的第一步。"
+    },
+    "reflect": {
+      "Keeping a diary also gives us a chance to reflect on our daily life.": "写日记也让我们有机会反思日常生活。"
+    },
+    "tough": {
+      "She is not as tough as she seems.": "她并不像看起来那么坚强。"
+    },
+    "surface": {
+      "The petals floated on the surface of the water.": "花瓣漂浮在水面上。"
+    },
+    "whom": {
+      "With whom do I have the honor of speaking?": "请问我有幸在和哪位交谈？"
+    },
+    "generation": {
+      "They have nothing in common with the older generation.": "他们与上一代人没有共同之处。"
+    },
+    "commercial": {
+      "All commercial goods and packages from abroad go through customs.": "所有从国外进口的商品和包裹都要经过海关。"
+    },
+    "reality": {
+      "Tom is now the star of a reality show.": "汤姆现在是一档真人秀节目的明星。"
+    },
+    "violence": {
+      "Why is there so much violence in the world?": "世界上为什么有这么多暴力？"
+    },
+    "consumer": {
+      "Try to be a more rational consumer.": "试着成为一个更理性的消费者。"
+    },
+    "threat": {
+      "Nuclear weapons are a threat to the human race.": "核武器对人类构成威胁。"
+    },
+    "attorney": {
+      "The defense attorney jumped to his feet and shouted \"Objection!\"": "辩护律师猛地站起来，大喊：“反对！”"
+    },
+    "western": {
+      "Tom watched a Western.": "汤姆看了一部西部片。"
+    },
+    "southern": {
+      "He lives in the southern part of the city.": "他住在这座城市的南部。"
+    },
+    "global": {
+      "Our topic for this week is global warming.": "我们这周的主题是全球变暖。"
+    },
+    "relation": {
+      "I don't see any relation between the two problems.": "我看不出这两个问题之间有什么联系。"
+    },
+    "labor": {
+      "He did hard manual labor through the day.": "他一整天都在干繁重的体力活。"
+    },
+    "troop": {
+      "The troops refused to obey the command.": "部队拒绝服从命令。"
+    },
+    "client": {
+      "I have a client waiting in the waiting room.": "我有一位客户正在候客室等着。"
+    },
+    "concept": {
+      "The presumption of innocence is a crucial legal concept.": "无罪推定是一个至关重要的法律概念。"
+    },
+    "powerful": {
+      "I have some powerful friends who can help you.": "我有一些很有影响力的朋友，他们可以帮助你。"
+    },
+    "therefore": {
+      "All men are mortal, and Socrates is a man, therefore Socrates is mortal.": "人皆有一死，而苏格拉底是人，因此苏格拉底也必有一死。"
+    },
+    "nuclear": {
+      "The age of nuclear power is not yet over.": "核能时代尚未结束。"
+    },
+    "researcher": {
+      "He said, \"I plan to become a researcher.\"": "他说：“我计划成为一名研究人员。”"
+    },
+    "spirit": {
+      "I have to say I admire your spirit.": "我得说，我很钦佩你的精神。"
+    },
+    "brain": {
+      "Is it really possible to do a brain transplant?": "真的可能进行大脑移植吗？"
+    },
+    "element": {
+      "Samarium is a chemical element with the symbol Sm.": "钐是一种化学元素，元素符号为 Sm。"
+    },
+    "status": {
+      "I want to check the status of my order.": "我想查询订单的状态。"
+    },
+    "scale": {
+      "Could you place your bags on the scale, please?": "请把你的包放到秤上，好吗？"
+    },
+    "spot": {
+      "I have a round bald spot on my head.": "我的头上有一块圆形的秃斑。"
+    },
+    "survey": {
+      "A survey shows that many businessmen skip lunch.": "一项调查显示，许多商人不吃午饭。"
+    },
+    "tradition": {
+      "This tradition has been passed down from generation to generation.": "这个传统一代一代地传承了下来。"
+    },
+    "resident": {
+      "What does \"resident alien\" mean?": "“外籍居民”是什么意思？"
+    },
+    "independent": {
+      "He is economically independent of his parents.": "他在经济上已经不再依赖父母。"
+    },
+    "district": {
+      "The town is in a mountainous district.": "这个镇位于山区。"
+    },
+    "reader": {
+      "Tom worked as a reader to the blind.": "汤姆的工作是为盲人朗读。"
+    },
+    "vehicle": {
+      "Tom can drive almost any kind of vehicle.": "汤姆几乎会驾驶各种车辆。"
+    },
+    "observe": {
+      "It is necessary that every member observe these rules.": "每个成员都有必要遵守这些规定。"
+    },
+    "facility": {
+      "Tom works in a correctional facility.": "汤姆在一家惩教机构工作。"
+    },
+    "emerge": {
+      "After the rain, the sun emerged from the clouds.": "雨后，太阳从云层后露了出来。"
+    },
+    "contribute": {
+      "Would you like to contribute to the program?": "你愿意为这个项目作出贡献吗？"
+    },
+    "protection": {
+      "Fur provides animals protection against the cold.": "皮毛能帮助动物抵御寒冷。"
+    },
+    "additional": {
+      "This additional work will take about two hours more.": "这项额外工作还需要大约两个小时。"
+    },
+    "identity": {
+      "Tom was wearing a mask to conceal his identity.": "汤姆戴着面具以隐藏自己的身份。"
+    },
+    "mostly": {
+      "The atmosphere mostly consists of nitrogen and oxygen.": "大气主要由氮气和氧气组成。"
+    },
+    "promote": {
+      "We must work hard to promote world peace.": "我们必须努力促进世界和平。"
+    },
+    "technique": {
+      "This is almost a lost technique.": "这项技艺几乎已经失传了。"
+    },
+    "folk": {
+      "Does Tom like folk music?": "汤姆喜欢民间音乐吗？"
+    },
+    "principle": {
+      "Majority rule is a basic principle of democracy.": "多数决定原则是民主的一项基本原则。"
+    },
+    "equipment": {
+      "You need good equipment to climb that mountain.": "攀登那座山需要良好的装备。"
+    },
+    "critic": {
+      "The author of this article is a famous critic.": "这篇文章的作者是一位著名评论家。"
+    },
+    "annual": {
+      "How much is the annual membership fee?": "每年的会员费是多少？"
+    },
+    "review": {
+      "We need to review the case.": "我们需要重新审查这个案子。"
+    },
+    "editor": {
+      "She is the editor-in-chief.": "她是主编。"
+    },
+    "broad": {
+      "The burglar broke into the post office in broad daylight.": "窃贼在光天化日之下闯进了邮局。"
+    },
+    "reaction": {
+      "Tom had an allergic reaction to the medication.": "汤姆对这种药物产生了过敏反应。"
+    },
+    "perspective": {
+      "His unique perspective helped shed light on the situation.": "他独特的视角帮助我们更好地理解了当时的情况。"
+    },
+    "context": {
+      "I think it depends on the context.": "我认为这取决于上下文。"
+    },
+    "function": {
+      "As far as I know, there is no such function.": "据我所知，没有这样的功能。"
+    },
+    "bone": {
+      "I got a fish bone stuck in my throat.": "一根鱼刺卡在了我的喉咙里。"
+    },
+    "combine": {
+      "Hydrogen and oxygen combine to form water.": "氢和氧结合形成水。"
+    },
+    "voter": {
+      "Are you a registered voter?": "你是已经登记的选民吗？"
+    },
+    "moral": {
+      "Did you understand the moral of this story?": "你理解这个故事的寓意了吗？"
+    },
+    "category": {
+      "This doesn't fit into any category.": "这不属于任何一个类别。"
+    },
+    "negative": {
+      "Why do you have such a negative approach to life?": "你为什么用如此消极的态度对待生活？"
+    },
+    "historical": {
+      "Tom spent all weekend reading a historical novel.": "汤姆整个周末都在读一本历史小说。"
+    },
+    "direct": {
+      "There are no direct flights to Bologna from here.": "这里没有直飞博洛尼亚的航班。"
+    },
+    "justice": {
+      "He is what is called a champion of justice.": "他就是人们所说的正义捍卫者。"
+    },
+    "appropriate": {
+      "Next time, you should wear something more appropriate.": "下次你应该穿得更合适一些。"
+    },
+    "eastern": {
+      "The museum's eastern gallery was closed for cleaning.": "博物馆东侧的展厅因清洁工作而关闭了。"
+    },
+    "device": {
+      "Do you know how to turn this device on?": "你知道怎样打开这个设备吗？"
+    },
+    "county": {
+      "This is the best school in the county.": "这是这个县最好的学校。"
+    },
+    "colleague": {
+      "She was my colleague before they fired her.": "她被解雇之前是我的同事。"
+    },
+    "injury": {
+      "Tom will miss the Olympics due to his injury.": "汤姆将因伤缺席奥运会。"
+    },
+    "northern": {
+      "My house is in the northern part of the city.": "我家在这座城市的北部。"
+    },
+    "nod": {
+      "I often nod off on the bus and miss my stop.": "我经常在公交车上打瞌睡，结果坐过站。"
+    },
+    "expand": {
+      "I expand my knowledge by reading books.": "我通过读书拓展知识。"
+    },
+    "mental": {
+      "He was sent to a mental hospital.": "他被送进了一家精神病院。"
+    },
+    "increasingly": {
+      "Breathing became increasingly difficult.": "呼吸变得越来越困难。"
+    },
+    "explore": {
+      "I would really like to explore this cave.": "我很想探索这个洞穴。"
+    },
+    "athlete": {
+      "An athlete must keep in good condition.": "运动员必须保持良好的身体状态。"
+    },
+    "panel": {
+      "Some cars have solar panels on the roof.": "有些汽车的车顶装有太阳能电池板。"
+    },
+    "presidential": {
+      "He chose not to run for the presidential election.": "他选择不参加总统竞选。"
+    },
+    "supreme": {
+      "He believed in the supreme power of the law.": "他相信法律至高无上的力量。"
+    },
+    "poll": {
+      "A poll shows that an overwhelming majority is in favor of the legislation.": "一项民意调查显示，绝大多数人支持这项立法。"
+    },
+    "connect": {
+      "Will you please connect me with Tom?": "请帮我接通汤姆，好吗？"
+    },
+    "regional": {
+      "Fried spiders are a regional delicacy in Cambodia.": "炸蜘蛛是柬埔寨的一种地方特色美食。"
+    },
+    "trail": {
+      "Tom used his machete to clear the trail.": "汤姆用砍刀清理了这条小径。"
+    },
+    "code": {
+      "I forgot the code for the safe deposit box.": "我忘了保险箱的密码。"
+    },
+    "somehow": {
+      "I must have it done somehow by six.": "我必须想办法在六点前把它完成。"
+    },
+    "jury": {
+      "The judge asked the jury to reach a verdict.": "法官要求陪审团作出裁决。"
+    },
+    "breast": {
+      "Did you know that men can get breast cancer?": "你知道男性也可能患乳腺癌吗？"
+    },
+    "theme": {
+      "What does this have to do with our theme?": "这与我们的主题有什么关系？"
+    },
+    "union": {
+      "Marriage is the union of a man and woman.": "婚姻是一个男人与一个女人的结合。"
+    },
+    "analyst": {
+      "Tom works as a blood spatter analyst with the metropolitan police.": "汤姆在大都会警察局担任血迹形态分析员。"
+    },
+    "largely": {
+      "My success is largely due to your help.": "我的成功在很大程度上归功于你的帮助。"
+    },
+    "shift": {
+      "I only have an hour before my shift.": "再过一个小时我就要上班了。"
+    },
+    "revenue": {
+      "The sale of postage stamps to foreign collectors is an important source of revenue.": "向外国收藏者出售邮票是一项重要的收入来源。"
+    },
+    "trend": {
+      "This is a new trend.": "这是一个新趋势。"
+    },
+    "investor": {
+      "Last year, the company was sold to private investors.": "去年，这家公司被出售给了私人投资者。"
+    },
+    "crew": {
+      "It was a ship with a crew of 25 sailors.": "那是一艘配有二十五名水手的船。"
+    },
+    "muscle": {
+      "Every muscle in my body aches.": "我全身的每一块肌肉都疼。"
+    },
+    "unique": {
+      "Unique ideas helped him to earn a high income.": "独特的想法帮助他获得了高收入。"
+    },
+    "internal": {
+      "We dissected a frog to examine its internal organs.": "我们解剖了一只青蛙，以检查它的内部器官。"
+    },
+    "link": {
+      "I just opened the link you sent to me.": "我刚打开了你发给我的链接。"
+    },
+    "select": {
+      "These are select peaches.": "这些是精选的桃子。"
+    },
+    "root": {
+      "Love of money is the root of all evil.": "贪财是万恶之源。"
+    },
+    "actual": {
+      "This story is based on actual events.": "这个故事根据真实事件改编。"
+    },
+    "setting": {
+      "You can see the setting sun from the window.": "从窗户可以看到落日。"
+    },
+    "outcome": {
+      "The outcome depends entirely on your own efforts.": "结果完全取决于你自己的努力。"
+    },
+    "ad": {
+      "I have come in response to your ad in the paper.": "我是看到你们登在报纸上的广告而来的。"
+    },
+    "component": {
+      "Discipline is the most important component of success.": "自律是成功最重要的组成部分。"
+    },
+    "contrast": {
+      "What a contrast between them!": "他们之间的反差真大！"
+    },
+    "zone": {
+      "You need to get out of your comfort zone.": "你需要走出自己的舒适区。"
+    },
+    "ultimately": {
+      "Ultimately, space flight will be beneficial to all mankind.": "最终，航天飞行将造福全人类。"
+    },
+    "percentage": {
+      "What percentage of marriages end in divorce?": "有多少比例的婚姻以离婚告终？"
+    },
+    "chain": {
+      "Tom gave Mary a key on a silver chain.": "汤姆给了玛丽一把挂在银链上的钥匙。"
+    },
+    "governor": {
+      "The governor ordered a stay of execution for Tom Jackson.": "州长下令暂缓对汤姆·杰克逊执行死刑。"
+    },
+    "user": {
+      "I need the user manual.": "我需要用户手册。"
+    },
+    "gender": {
+      "Some fish are able to change their gender.": "有些鱼能够改变性别。"
+    },
+    "landscape": {
+      "He took a picture of the beautiful landscape.": "他拍了一张美丽风景的照片。"
+    },
+    "frame": {
+      "Do you like the frame on this painting?": "你喜欢这幅画的画框吗？"
+    },
+    "host": {
+      "He thanked the host for the very enjoyable party.": "他感谢主人举办了这场非常愉快的聚会。"
+    },
+    "meanwhile": {
+      "Meanwhile, you can stay with us.": "在此期间，你可以和我们住在一起。"
+    },
+    "length": {
+      "Tom has a full-length mirror in his room.": "汤姆房间里有一面全身镜。"
+    },
+    "attract": {
+      "I did not want to attract attention.": "我不想引人注意。"
+    },
+    "tank": {
+      "We only have half a tank of gas left.": "我们只剩下半箱汽油了。"
+    },
+    "coverage": {
+      "they accused the paper of biased coverage of race relations": "他们指责这家报纸在种族关系问题的报道上存在偏见。"
+    },
+    "aside": {
+      "He stepped aside for an old man to pass.": "他走到一旁，让一位老人通过。"
+    },
+    "bond": {
+      "There is a strong bond between the brothers.": "兄弟之间有着深厚的感情。"
+    },
+    "era": {
+      "A samurai in the Edo era carried two swords.": "江户时代的武士佩戴两把刀。"
+    },
+    "wing": {
+      "I found a bird whose wing was severely damaged.": "我发现了一只翅膀严重受伤的鸟。"
+    },
+    "industrial": {
+      "The country has few natural resources and a weak industrial base.": "这个国家自然资源很少，工业基础薄弱。"
+    },
+    "cite": {
+      "he was cited for his outstanding achievements": "他因杰出的成就而受到表彰。"
+    },
+    "welfare": {
+      "The committee is discussing social welfare.": "委员会正在讨论社会福利。"
+    },
+    "overall": {
+      "The overall mood was optimistic.": "总体气氛是乐观的。"
+    },
+    "multiple": {
+      "Tom gave Mary some advice on how to pass multiple-choice tests.": "汤姆给了玛丽一些通过选择题考试的建议。"
+    },
+    "league": {
+      "Tom is way out of your league.": "汤姆远不是你能高攀得上的人。"
+    },
+    "core": {
+      "Earth has a core of molten iron and nickel.": "地球有一个由熔融铁和镍组成的地核。"
+    },
+    "upper": {
+      "The people living here belong to the upper class.": "住在这里的人属于上层阶级。"
+    },
+    "vast": {
+      "the vast accumulation of knowledge … which we call civilization": "我们称之为文明的庞大知识积累"
+    },
+    "fewer": {
+      "Statistics show that women cause fewer accidents than men.": "统计数据显示，女性引发的事故比男性少。"
+    },
+    "household": {
+      "How many people are there in this household?": "这户人家有多少人？"
+    },
+    "sector": {
+      "The public sector dominates economic activity.": "公共部门主导着经济活动。"
+    },
+    "beneath": {
+      "The cows are resting beneath the tree.": "牛正在树下休息。"
+    },
+    "limited": {
+      "You should make the best of your limited time.": "你应该充分利用有限的时间。"
+    },
+    "increased": {
+      "He demanded that his salary be increased.": "他要求提高工资。"
+    },
+    "merely": {
+      "She was not merely beautiful, but also talented.": "她不仅漂亮，而且有才华。"
+    },
+    "decline": {
+      "He had the courage to decline the offer.": "他有勇气拒绝这份邀请。"
+    },
+    "expose": {
+      "We should sometimes expose our bodies to the sun.": "我们应该偶尔晒晒太阳。"
+    },
+    "rural": {
+      "People are leaving rural areas and moving into cities.": "人们正在离开乡村，迁往城市。"
+    },
+    "cast": {
+      "The tree cast a shadow across the road.": "树的影子投在了道路上。"
+    },
+    "proper": {
+      "He is the proper person for the job.": "他是这份工作的合适人选。"
+    },
+    "acquire": {
+      "I managed to acquire the book after a long search.": "经过长时间寻找，我终于设法弄到了那本书。"
+    },
+    "weak": {
+      "I was too weak to get out of bed.": "我虚弱得无法起床。"
+    },
+    "column": {
+      "The geyser sends up a column of hot water every two hours.": "间歇泉每隔两小时就喷出一道热水柱。"
+    },
+    "signal": {
+      "Tom often forgets to use his turn signal.": "汤姆经常忘记打转向灯。"
+    },
+    "lab": {
+      "I want to go back to the lab.": "我想回实验室。"
+    },
+    "display": {
+      "The author doesn't display much talent in his book.": "作者在这本书里没有表现出多少才华。"
+    },
+    "asset": {
+      "You're a valuable asset to me.": "你对我来说是一笔宝贵的财富。"
+    },
+    "prayer": {
+      "Cross yourself and say a prayer.": "画个十字，然后作个祷告。"
+    },
+    "scholar": {
+      "The boy talks like a great scholar.": "这个男孩说起话来像个大学者。"
+    },
+    "universe": {
+      "How many galaxies are there in the universe?": "宇宙中有多少个星系？"
+    },
+    "gap": {
+      "The cat went through a gap in the fence.": "猫从篱笆的一个缺口钻了过去。"
+    },
+    "drag": {
+      "Don't you drag me into this.": "你别把我牵扯进这件事。"
+    },
+    "airline": {
+      "The airline announced that the plane had landed.": "航空公司宣布飞机已经降落。"
+    },
+    "brief": {
+      "Tom gave Mary a brief outline of his plan.": "汤姆向玛丽简要介绍了他的计划。"
+    },
+    "housing": {
+      "There is an urgent need for affordable housing.": "目前迫切需要价格可负担的住房。"
+    },
+    "existing": {
+      "Existing legislation does not take diversity of races into account.": "现行法律没有考虑到种族多样性。"
+    },
+    "steel": {
+      "Steel production will increase 2% this month from last month.": "本月的钢产量将比上个月增长百分之二。"
+    },
+    "violent": {
+      "They began to make violent attacks against the enemy.": "他们开始向敌人发动猛烈攻击。"
+    },
+    "layer": {
+      "The ozone layer helps protect us from ultraviolet radiation from the sun.": "臭氧层有助于保护我们免受太阳紫外线辐射的伤害。"
+    },
+    "slide": {
+      "Have you ever used a slide rule?": "你用过计算尺吗？"
+    },
+    "widely": {
+      "The Bible is widely known throughout the world.": "《圣经》在世界各地广为人知。"
+    },
+    "opponent": {
+      "He defeated his opponent in the election.": "他在选举中击败了对手。"
+    },
+    "cop": {
+      "The cop went through his pockets, but found nothing.": "警察搜了他的口袋，但什么也没找到。"
+    },
+    "grandparent": {
+      "My grandparents were already dead when I was born.": "我出生时，祖父母已经去世了。"
+    },
+    "imagined": {
+      "It was a lot easier than I had imagined.": "这比我原来想象的容易得多。",
+      "The situation is a lot worse than we imagined.": "情况比我们想象的糟糕得多。"
+    },
+    "choosing": {
+      "I made a big mistake when choosing my wife.": "我在选择妻子时犯了一个大错。",
+      "Tom often has trouble choosing what clothes to wear.": "汤姆经常为选择穿什么衣服而犯难。"
+    },
+    "feared": {
+      "She said she feared that he might fail.": "她说她担心他可能会失败。"
+    },
+    "imagining": {
+      "Are you sure you're not imagining things?": "你确定自己不是在胡思乱想吗？",
+      "You're imagining things, Tom.": "汤姆，你是在胡思乱想。"
+    },
+    "attacking": {
+      "Tom began attacking me.": "汤姆开始攻击我。"
+    },
+    "typed": {
+      "Tom typed in his username and password.": "汤姆输入了用户名和密码。"
+    },
+    "favourite": {
+      "My favourite game is football.": "我最喜欢的运动是足球。"
+    },
+    "pictured": {
+      "Her eyes were filled with tears when she pictured the sad scene to herself.": "她在脑海里想起那悲伤的情景时，双眼噙满了泪水。"
+    },
+    "guessing": {
+      "I'm not going to play guessing games with you.": "我不会和你玩猜谜游戏。",
+      "I'm guessing this is yours.": "我猜这是你的。"
+    },
+    "owned": {
+      "Tom asked me how many cars I had owned.": "汤姆问我以前有过几辆车。"
+    },
+    "partying": {
+      "We want to do some partying.": "我们想聚一聚，玩个痛快。"
+    },
+    "explaining": {
+      "Why are you so good at explaining things?": "你为什么这么善于解释事情？"
+    },
+    "interviewing": {
+      "The police are interviewing witnesses.": "警方正在询问证人。",
+      "Tom is interviewing Mary.": "汤姆正在面试玛丽。"
+    },
+    "traded": {
+      "I traded in my car for a new one.": "我用旧车折价换了一辆新车。"
+    },
+    "protecting": {
+      "Why is Tom protecting you?": "汤姆为什么要保护你？"
+    },
+    "produced": {
+      "Artificial light is produced by means of electricity.": "人造光是通过电产生的。"
+    },
+    "bringing": {
+      "Tom surprised Mary by bringing her breakfast in bed.": "汤姆把早餐送到床上给玛丽，让她惊喜不已。"
+    },
+    "reaching": {
+      "I succeeded in reaching the top of the mountain.": "我成功地登上了山顶。"
+    },
+    "interviewed": {
+      "I was interviewed for a job.": "我参加了一次求职面试。"
+    },
+    "grandparents": {
+      "My grandparents were already dead when I was born.": "我出生时，祖父母已经去世了。"
+    },
+    "neighbour": {
+      "He is one of my neighbours.": "他是我的邻居之一。"
+    },
+    "analysis": {
+      "He made a thorough analysis of the problem.": "他对这个问题作了深入分析。"
+    },
+    "strategy": {
+      "I think we need a new strategy.": "我认为我们需要一种新策略。"
+    },
+    "institution": {
+      "Tom was committed to an institution for the insane.": "汤姆被送进了一家精神病院。"
+    },
+    "expression": {
+      "Tom had a sad expression on his face.": "汤姆脸上露出了悲伤的表情。"
+    },
+    "session": {
+      "How did the photo session go?": "拍摄进行得怎么样？"
+    },
+    "domestic": {
+      "Smoking is now prohibited on all domestic flights.": "现在所有国内航班都禁止吸烟。"
+    },
+    "assessment": {
+      "That's a very unfair assessment.": "那是一个很不公平的评价。"
+    },
+    "instruction": {
+      "You can download the instruction manual for the heat exchanger here.": "你可以在这里下载热交换器的使用手册。"
+    },
+    "commitment": {
+      "Tom is afraid of commitment.": "汤姆害怕作出承诺。"
+    },
+    "minority": {
+      "We have to stand up for minority rights.": "我们必须维护少数群体的权利。"
+    },
+    "regulation": {
+      "She acquainted us with the new regulation.": "她向我们介绍了这项新规定。"
+    },
+    "basically": {
+      "He is basically a nice man.": "他基本上是个好人。"
+    },
+    "generate": {
+      "An electric current can generate a magnetic field.": "电流能够产生磁场。"
+    },
+    "notion": {
+      "I had no notion that you were coming.": "我不知道你要来。"
+    },
+    "ethnic": {
+      "Ethnic minorities struggle against prejudice, poverty, and oppression.": "少数族裔为反对偏见、贫困和压迫而奋斗。"
+    },
+    "contribution": {
+      "Thanks for your contribution.": "感谢你作出的贡献。"
+    },
+    "estate": {
+      "My sixty-year-old aunt inherited the huge estate.": "我六十岁的姑妈继承了那笔巨额遗产。"
+    },
+    "significantly": {
+      "Sugary drinks have no nutritional value and contribute significantly to weight gain.": "含糖饮料没有营养价值，而且会显著促使体重增加。"
+    },
+    "combination": {
+      "I wonder if Tom knows the combination to this safe.": "我想知道汤姆是否知道这个保险箱的密码组合。"
+    },
+    "motion": {
+      "Tom thinks he has invented a perpetual motion machine.": "汤姆认为他发明了一台永动机。"
+    },
+    "eliminate": {
+      "Many countries have signed a treaty to eliminate nuclear weapons.": "许多国家签署了消除核武器的条约。"
+    },
+    "division": {
+      "What division of the company do you work in?": "你在公司的哪个部门工作？"
+    },
+    "association": {
+      "you cannot be convicted of criminal guilt by association": "不能仅仅因为你与某人有联系，就判定你犯了罪。"
+    },
+    "perception": {
+      "Our perception of beauty has changed over time.": "随着时间推移，我们对美的认识已经改变。"
+    },
+    "opposition": {
+      "We ran up against a lot of opposition.": "我们遇到了许多反对意见。"
+    },
+    "reference": {
+      "Have you any references from your other employers?": "你有其他雇主提供的推荐信吗？"
+    },
+    "intervention": {
+      "It was a divine intervention.": "那是神的干预。"
+    },
+    "specifically": {
+      "What are you concerned about specifically?": "具体来说，你在担心什么？"
+    },
+    "witness": {
+      "Tom is going to be called as a witness.": "汤姆将被传唤作证。"
+    },
+    "enormous": {
+      "Stress can have an enormous negative impact on your health.": "压力可能对健康造成极大的负面影响。"
+    },
+    "massive": {
+      "It's a massive undertaking.": "这是一项庞大的工程。"
+    },
+    "cable": {
+      "We went up the mountain by cable car.": "我们乘缆车上了山。"
+    },
+    "typically": {
+      "Tom was typically hostile": "汤姆像往常一样充满敌意。"
+    },
+    "achievement": {
+      "Tom is proud of his achievement.": "汤姆为自己的成就感到自豪。"
+    },
+    "virtually": {
+      "Virtually nobody knows that.": "几乎没有人知道那件事。"
+    },
+    "addition": {
+      "He is a new addition to the teaching staff.": "他是教师队伍中的新成员。"
+    },
+    "creative": {
+      "I used to be a lot more creative.": "我以前的创造力强得多。"
+    },
+    "technical": {
+      "You need technical knowledge to understand how this system works.": "你需要具备技术知识才能理解这个系统如何运作。"
+    },
+    "alternative": {
+      "Our only alternative is to do what Tom suggested.": "我们唯一的选择就是照汤姆的建议去做。"
+    },
+    "curriculum": {
+      "They have a very good curriculum at that university.": "那所大学的课程设置很好。"
+    },
+    "assistance": {
+      "There is no use in asking him for assistance.": "向他求助是没有用的。"
+    },
+    "spiritual": {
+      "They gave him both material and spiritual support.": "他们在物质和精神上都给予了他支持。"
+    },
+    "musical": {
+      "Not all of us are born with musical talent.": "我们并非生来就都有音乐天赋。"
+    },
+    "observation": {
+      "Could you allow me to make an observation?": "请允许我发表一点看法，好吗？"
+    },
+    "payment": {
+      "I can only afford to make a partial payment.": "我只能付得起部分款项。"
+    },
+    "definition": {
+      "I totally agree with his definition of friendship.": "我完全同意他对友谊的定义。"
+    },
+    "priority": {
+      "Fire engines have priority over other vehicles.": "消防车比其他车辆有优先通行权。"
+    },
+    "creation": {
+      "Is this one of your creations?": "这是你的作品之一吗？"
+    },
+    "dramatic": {
+      "Nothing dramatic will happen.": "不会发生什么重大变化。"
+    },
+    "selection": {
+      "This store has the best selection of hats in town.": "这家商店的帽子种类在镇上最齐全。"
+    },
+    "primarily": {
+      "This dictionary is primarily intended for high school students.": "这本词典主要面向高中生。"
+    },
+    "initiative": {
+      "This is a good initiative.": "这是一个很好的倡议。"
+    },
+    "regarding": {
+      "Is there a clause in the lease regarding that?": "租约中有没有关于那件事的条款？"
+    },
+    "perceive": {
+      "We tend to perceive what we expect to perceive.": "我们往往会察觉到自己预期会察觉的东西。"
+    },
+    "comparison": {
+      "Country life is very peaceful in comparison with city life.": "与城市生活相比，乡村生活非常宁静。"
+    },
+    "settlement": {
+      "they finally reached a settlement with the union": "他们最终与工会达成了协议。"
+    },
+    "portion": {
+      "Give me my portion.": "把我的那份给我。"
+    },
+    "immediate": {
+      "You must not think about your immediate profit only.": "你不能只考虑眼前的利益。"
+    },
+    "transform": {
+      "Repetition does not transform a lie into a truth.": "重复并不能把谎言变成事实。"
+    },
+    "tension": {
+      "You could feel the tension in the air.": "你能感受到空气中的紧张气氛。"
+    },
+    "preserve": {
+      "We had to smoke our meat to preserve it.": "我们不得不用烟熏的方法保存肉。"
+    },
+    "transition": {
+      "The educational system is in transition.": "教育体制正处于转型阶段。"
+    },
+    "existence": {
+      "She is trying to prove the existence of ghosts.": "她正在试图证明鬼魂的存在。"
+    },
+    "joint": {
+      "My wife and I have a joint bank account.": "我和妻子有一个联名银行账户。"
+    },
+    "consistent": {
+      "What he said yesterday is not consistent with what he said last week.": "他昨天说的话与上周说的不一致。"
+    },
+    "resistance": {
+      "Our proposed plan met with strong resistance.": "我们提出的计划遭到了强烈抵制。"
+    },
+    "exposure": {
+      "Freckles are caused by exposure to sunlight.": "雀斑是由日晒引起的。"
+    },
+    "pose": {
+      "They clearly pose no threat.": "他们显然不会构成威胁。"
+    },
+    "grand": {
+      "Tom and Mary are dancing in the grand ballroom.": "汤姆和玛丽正在豪华的大舞厅里跳舞。"
+    },
+    "phase": {
+      "What are the phases of the moon called?": "月亮的各个月相叫什么？"
+    },
+    "manufacturer": {
+      "The manufacturer guaranteed the new machine for 5 years.": "制造商对这台新机器提供了五年保修。"
+    },
+    "foundation": {
+      "The skyscraper was built on a solid foundation.": "这座摩天大楼建在坚实的地基上。"
+    },
+    "urge": {
+      "All forms of life have an instinctive urge to survive.": "所有生命形式都有生存的本能冲动。"
+    },
+    "investigator": {
+      "The investigator pointed a gun at Tom.": "调查员把枪对准了汤姆。"
+    },
+    "substance": {
+      "Bleach is a caustic substance.": "漂白剂是一种腐蚀性物质。"
+    },
+    "discipline": {
+      "Discipline is the most important component of success.": "自律是成功最重要的组成部分。"
+    },
+    "elsewhere": {
+      "Maybe we should talk about this elsewhere.": "也许我们应该到别处谈这件事。"
+    },
+    "moreover": {
+      "the cellar was dark; moreover, mice nested there": "地下室很暗，而且里面还有老鼠筑巢。"
+    },
+    "volunteer": {
+      "I need a volunteer to help me do that.": "我需要一位志愿者帮我做那件事。"
+    },
+    "implement": {
+      "These implements are in common use.": "这些工具被广泛使用。"
+    },
+    "gene": {
+      "If you could choose the genes for your children, would you?": "如果你能为孩子选择基因，你会这样做吗？"
+    },
+    "priest": {
+      "The priest blessed the marriage of the happy couple.": "神父为这对幸福新人的婚姻祝福。"
+    },
+    "intense": {
+      "Competition for the position is very intense.": "这个职位的竞争非常激烈。"
+    },
+    "employer": {
+      "Tom saw his former employer at a conference.": "汤姆在一次会议上遇见了前雇主。"
+    },
+    "inspire": {
+      "Great leaders inspire greatness in others.": "伟大的领导者能够激励他人发挥非凡才能。"
+    },
+    "visible": {
+      "Numerous stars were visible in the sky.": "天空中可以看见许多星星。"
+    },
+    "dominate": {
+      "The public sector dominates economic activity.": "公共部门主导着经济活动。"
+    },
+    "previously": {
+      "Previously people believed the earth was flat.": "过去人们认为地球是平的。"
+    },
+    "analyze": {
+      "It took a long time to analyze the data.": "分析这些数据花了很长时间。"
+    },
+    "prospect": {
+      "It is a depressing prospect.": "那是一个令人沮丧的前景。"
+    },
+    "enhance": {
+      "Can we enhance the image?": "我们能改善图像的清晰度吗？"
+    },
+    "poverty": {
+      "Poverty is still the major cause of crime.": "贫困仍然是犯罪的主要原因。"
+    },
+    "impose": {
+      "Tom is always trying to impose his will on others.": "汤姆总是试图把自己的意志强加给别人。"
+    },
+    "entry": {
+      "The police found no sign of forced entry.": "警方没有发现强行闯入的迹象。"
+    },
+    "symbol": {
+      "The color white is a symbol of purity.": "白色是纯洁的象征。"
+    },
+    "emphasis": {
+      "We should not place too much emphasis on money.": "我们不应该过分看重金钱。"
+    },
+    "monitor": {
+      "I bought myself a bigger monitor.": "我给自己买了一台更大的显示器。"
+    },
+    "peak": {
+      "The peak of the mountain is covered with snow.": "山顶覆盖着积雪。"
+    },
+    "approximately": {
+      "Tom is approximately the same age as me.": "汤姆和我的年龄大致相同。"
+    },
+    "equally": {
+      "The property was divided equally among the heirs.": "财产被平均分给了继承人。"
+    },
+    "wire": {
+      "The building is surrounded by a barbed wire fence.": "这座建筑被带刺铁丝网围了起来。"
+    },
+    "engineering": {
+      "I am studying electrical engineering at the University of Plymouth.": "我正在普利茅斯大学学习电气工程。"
+    },
+    "clinic": {
+      "Tom is still at the clinic.": "汤姆还在诊所。"
+    },
+    "veteran": {
+      "Tom is a World War II veteran.": "汤姆是一名第二次世界大战老兵。"
+    },
+    "tablespoon": {
+      "I said I needed a tablespoon, not a teaspoon.": "我说我需要一个大汤匙，不是小茶匙。"
+    },
+    "toss": {
+      "I usually toss my loose change into my desk drawer.": "我通常把零钱随手扔进书桌抽屉。"
+    },
+    "deficit": {
+      "We hope to cover the deficit.": "我们希望弥补这笔赤字。"
+    },
+    "fellow": {
+      "Tom was a fellow student of mine at school.": "汤姆以前和我在同一所学校读书。"
+    },
+    "peer": {
+      "Tom gave into peer pressure.": "汤姆屈服于同伴的压力。"
+    },
+    "personnel": {
+      "Our personnel are very highly educated.": "我们的员工都受过很好的教育。"
+    },
+    "teaspoon": {
+      "I said I needed a tablespoon, not a teaspoon.": "我说我需要一个大汤匙，不是小茶匙。"
+    },
+    "supporter": {
+      "Tom has his supporters.": "汤姆有他的支持者。"
+    },
+    "corn": {
+      "I have a corn on my right foot.": "我的右脚上长了一个鸡眼。"
+    },
+    "inner": {
+      "I had my wallet stolen from my inner pocket.": "我放在内袋里的钱包被偷了。"
+    },
+    "swing": {
+      "Swing by my place on the way back.": "回来的路上顺便到我这里来一下。"
+    },
+    "anxiety": {
+      "Tom tried to hide his anxiety.": "汤姆试图掩饰自己的焦虑。"
+    },
+    "resist": {
+      "We could not resist the force of his logic.": "我们无法反驳他强有力的逻辑。"
+    },
+    "consultant": {
+      "I work as a consultant.": "我是一名顾问。"
+    },
+    "administrator": {
+      "Tom is a good administrator.": "汤姆是一名优秀的管理者。"
+    },
+    "secure": {
+      "Can you secure a seat on the airplane for me?": "你能帮我订到一个飞机座位吗？"
+    },
+    "historic": {
+      "We visited the historic sites of the country.": "我们参观了这个国家的历史遗迹。"
+    },
+    "buck": {
+      "Can you spare a buck?": "你能给我一美元吗？"
+    },
+    "testing": {
+      "Your eyesight needs testing.": "你的视力需要检查。"
+    },
+    "apparent": {
+      "It was apparent that there was no way out.": "很明显，已经没有出路了。"
+    },
+    "install": {
+      "Can you help me install this program?": "你能帮我安装这个程序吗？"
+    },
+    "recipe": {
+      "Would you give me the recipe for your salad?": "你能把这道沙拉的食谱给我吗？"
+    },
+    "channel": {
+      "They are building a long bridge across the channel.": "他们正在海峡上建造一座长桥。"
+    },
+    "tube": {
+      "He squeezed the toothpaste out of a tube.": "他从牙膏管里挤出了牙膏。"
+    },
+    "rapidly": {
+      "The river swelled rapidly because of the heavy rain.": "由于大雨，河水迅速上涨。"
+    },
+    "giant": {
+      "A tusk is essentially just a giant tooth.": "长牙本质上就是一颗巨大的牙齿。"
+    },
+    "historian": {
+      "Tom is a historian.": "汤姆是一位历史学家。"
+    },
+    "restore": {
+      "They had to call the police to restore order.": "他们不得不叫来警察恢复秩序。"
+    },
+    "substantial": {
+      "We need more substantial evidence.": "我们需要更充分的证据。"
+    },
+    "depth": {
+      "Never test the depth of water with both feet.": "不要用双脚同时去试水深。"
+    },
+    "effectively": {
+      "Last year, I spent so much time by myself that I almost forgot how to communicate effectively with others.": "去年我独处的时间太长，几乎忘了怎样与别人有效沟通。"
+    },
+    "deputy": {
+      "Tom Jackson is the deputy director.": "汤姆·杰克逊是副主任。"
+    },
+    "brand": {
+      "What brand of laundry detergent do you usually buy?": "你通常买什么牌子的洗衣液？"
+    },
+    "assure": {
+      "I assure you everything will be ready on time.": "我向你保证，一切都会按时准备好。"
+    },
+    "award": {
+      "Tom certainly deserves to receive the award.": "汤姆当然应该获得这个奖。"
+    },
+    "via": {
+      "Tom broke up with Mary via text message.": "汤姆通过短信与玛丽分手了。"
+    },
+    "precisely": {
+      "I must know precisely what has happened.": "我必须确切地知道发生了什么。"
+    },
+    "ingredient": {
+      "Flour is the main ingredient in cakes.": "面粉是蛋糕的主要原料。"
+    },
+    "barrier": {
+      "As a citizen of the world, I know ways of overcoming cultural barriers.": "作为一名世界公民，我知道克服文化障碍的方法。"
+    },
+    "council": {
+      "The student council discussed plans for the graduation.": "学生会讨论了毕业活动的计划。"
+    },
+    "gang": {
+      "Tom seems to be a member of a gang.": "汤姆似乎是某个帮派的成员。"
+    },
+    "label": {
+      "The bottle Tom was holding had a purple label.": "汤姆拿着的瓶子上有一张紫色标签。"
+    },
+    "rough": {
+      "I have a rough idea where it is.": "我大致知道它在哪里。"
+    },
+    "distant": {
+      "The pilgrims brought gifts from distant lands.": "朝圣者从遥远的地方带来了礼物。"
+    },
+    "universal": {
+      "The egg is a universal symbol of life and rebirth.": "鸡蛋是生命和重生的普遍象征。"
+    },
+    "spin": {
+      "Have you ever seen a spider spin a web?": "你见过蜘蛛织网吗？"
+    },
+    "survival": {
+      "All I care about is survival.": "我唯一关心的就是生存。"
+    },
+    "roughly": {
+      "They say amniotic fluid has roughly the same composition as sea water.": "据说羊水的成分与海水大致相同。"
+    },
+    "cabinet": {
+      "Mary keeps her best dishes in that cabinet.": "玛丽把最好的餐具放在那个橱柜里。"
+    },
+    "statistics": {
+      "Statistics show that women cause fewer accidents than men.": "统计数据显示，女性引发的事故比男性少。"
+    },
+    "port": {
+      "Could you show me the way to the port?": "你能给我指一下去港口的路吗？"
+    },
+    "retain": {
+      "We had to retain a lawyer.": "我们不得不聘请一位律师。"
+    },
+    "whereas": {
+      "MRI stands for Magnetic Resonance Imaging, whereas CT stands for Computed Tomography.": "MRI 是磁共振成像的缩写，而 CT 是计算机断层成像的缩写。"
+    },
+    "complicated": {
+      "Things are a lot more complicated than they look.": "事情比看起来复杂得多。"
+    },
+    "scenario": {
+      "That scenario is unlikely.": "那种情况不太可能发生。"
+    },
+    "champion": {
+      "He is what is called a champion of justice.": "他就是人们所说的正义捍卫者。"
+    },
+    "telescope": {
+      "I purchased a telescope and a book on astronomy.": "我买了一架望远镜和一本天文学书。"
+    },
+    "lifetime": {
+      "Things like this only happen once in a lifetime.": "这样的事一生只会发生一次。"
+    },
+    "lover": {
+      "He is an ardent music lover.": "他是一个热情的音乐爱好者。"
+    },
+    "surprising": {
+      "It is not surprising that he was elected mayor.": "他当选市长并不令人意外。"
+    },
+    "withdraw": {
+      "How much money you would like to withdraw?": "你想取多少钱？"
+    },
+    "newly": {
+      "The newly married couple walked hand in hand.": "这对新婚夫妇手牵着手走着。"
+    },
+    "dismiss": {
+      "Don't dismiss any possibility.": "不要排除任何可能性。"
+    },
+    "mainly": {
+      "Air is mainly composed of nitrogen and oxygen.": "空气主要由氮气和氧气组成。"
+    },
+    "joy": {
+      "I jumped for joy when I heard the news.": "听到这个消息，我高兴得跳了起来。"
+    },
+    "evolve": {
+      "We did not evolve from monkeys. We share a common ancestor.": "我们并非由现今的猴子进化而来；我们拥有共同的祖先。"
+    },
+    "shooting": {
+      "Tom has been accused of shooting an unarmed man.": "汤姆被指控开枪射击一名手无寸铁的男子。"
+    },
+    "partly": {
+      "I know it was partly my fault.": "我知道这部分是我的错。"
+    },
+    "treaty": {
+      "After months of negotiations, the peace treaty was completed.": "经过数月谈判，和平条约终于拟定完成。"
+    },
+    "craft": {
+      "Do you like craft beer?": "你喜欢精酿啤酒吗？"
+    },
+    "possess": {
+      "Mint leaves possess properties that help with the process of digestion.": "薄荷叶具有帮助消化的特性。"
+    },
+    "shortly": {
+      "Tom left to go fishing shortly before dawn.": "天快亮时，汤姆出发去钓鱼了。"
+    },
+    "external": {
+      "Tom backed everything up on an external hard drive.": "汤姆把所有内容都备份到了外置硬盘上。"
+    },
+    "rub": {
+      "Never rub your eyes when your hands are dirty.": "手脏的时候不要揉眼睛。"
+    },
+    "net": {
+      "I caught a carp in a net.": "我用网捕到了一条鲤鱼。"
+    },
+    "mask": {
+      "When I wear a mask, my glasses fog up.": "我戴口罩时，眼镜会起雾。"
+    },
+    "flee": {
+      "When the man saw a policeman, he fled.": "那个人一看到警察就逃跑了。"
+    },
+    "wisdom": {
+      "Wisdom does not consist only in knowing facts.": "智慧不只在于知道事实。"
+    },
+    "fantasy": {
+      "Many fantasy novels depict worlds with two moons.": "许多奇幻小说描绘了拥有两个月亮的世界。"
+    },
+    "gesture": {
+      "We communicated with each other by gesture.": "我们用手势互相交流。"
+    },
+    "counselor": {
+      "Who's your guidance counselor?": "谁是你的辅导老师？"
+    },
+    "sustain": {
+      "Tom sustained severe injuries in the accident.": "汤姆在事故中受了重伤。"
+    },
+    "mount": {
+      "Mount Everest is the tallest mountain in the world.": "珠穆朗玛峰是世界上海拔最高的山峰。"
+    },
+    "pile": {
+      "Tom has a whole pile of unpaid parking tickets.": "汤姆有一大堆还没缴费的违停罚单。"
+    },
+    "carbon": {
+      "All living things on Earth contain carbon.": "地球上所有生物都含有碳。"
+    },
+    "scheme": {
+      "Do you know what a pyramid scheme is?": "你知道什么是金字塔式骗局，也就是传销骗局吗？"
+    },
+    "frequency": {
+      "They reported seeing a fireball in the sky and hearing a protracted low-frequency sound.": "他们报告说看见天空中有一个火球，并听到了持续很久的低频声音。"
+    },
+    "tobacco": {
+      "I like to chew tobacco.": "我喜欢嚼烟草。"
+    },
+    "galaxy": {
+      "How many galaxies are there in the universe?": "宇宙中有多少个星系？"
+    },
+    "trace": {
+      "I noted a trace of eagerness in her voice.": "我听出了她声音中的一丝急切。"
+    },
+    "publicly": {
+      "I've decided to answer all questions publicly.": "我已决定公开回答所有问题。"
+    },
+    "fighter": {
+      "Tom is a former fire fighter.": "汤姆曾经是一名消防员。"
+    },
+    "rapid": {
+      "The fight began with the rapid exchange of blows.": "打斗以双方迅速互击开始。"
+    },
+    "tendency": {
+      "She seems to have a tendency to exaggerate things.": "她似乎有夸大事情的倾向。"
+    },
+    "porch": {
+      "Tom is eating on the porch with everybody else.": "汤姆正在门廊上和大家一起吃饭。"
+    },
+    "efficiency": {
+      "Efficiency is important, but so is quality.": "效率很重要，质量也同样重要。"
+    },
+    "scandal": {
+      "A few years ago, there was a huge scandal.": "几年前，发生过一起重大的丑闻。"
+    },
+    "guideline": {
+      "What you're wearing on your feet don't meet safety guidelines.": "你脚上穿的东西不符合安全规范。"
+    },
+    "rifle": {
+      "I want to learn how to shoot a rifle.": "我想学习用步枪射击。"
+    },
+    "publisher": {
+      "Have you already sent your novel to the publisher?": "你已经把小说寄给出版商了吗？"
+    },
+    "strengthen": {
+      "Time, which strengthens friendship, weakens love.": "时间会巩固友谊，却会削弱爱情。"
+    },
+    "proposed": {
+      "I proposed to Mary, but she turned me down.": "我向玛丽求婚了，但她拒绝了我。"
+    },
+    "myth": {
+      "I think it's a myth.": "我觉得那只是个传说。"
+    },
+    "nerve": {
+      "His nerve failed him at the last moment.": "他在最后一刻失去了勇气。"
+    },
+    "barrel": {
+      "We used a barrel for a makeshift table.": "我们用一个桶临时充当桌子。"
+    },
+    "bombing": {
+      "It was a suicide bombing.": "那是一次自杀式炸弹袭击。"
+    },
+    "lifestyle": {
+      "I try to lead a healthy lifestyle.": "我努力保持健康的生活方式。"
+    },
+    "photographer": {
+      "Tom wanted to hone his skills as a photographer.": "汤姆想磨炼自己的摄影技术。"
+    },
+    "scope": {
+      "The problem is beyond the scope of my understanding.": "这个问题超出了我的理解范围。"
+    },
+    "stroke": {
+      "He tied the world record for the hundred-meter breast-stroke.": "他平了百米蛙泳的世界纪录。"
+    },
+    "handful": {
+      "Only a handful of people came to the meeting.": "只有寥寥几个人来参加会议。"
+    },
+    "prompt": {
+      "Thank you for your prompt reply.": "感谢你及时回复。"
+    },
+    "flavor": {
+      "The addition of salt greatly improved the flavor.": "加入盐后，味道大大改善了。"
+    },
+    "taxpayer": {
+      "It's a waste of taxpayers' money.": "这是在浪费纳税人的钱。"
+    },
+    "detailed": {
+      "He gave a detailed description of the accident.": "他详细描述了那起事故。"
+    },
+    "workshop": {
+      "There are three printing presses in the workshop.": "车间里有三台印刷机。"
+    },
+    "auto": {
+      "Tom was an auto mechanic.": "汤姆曾是一名汽车修理工。"
+    },
+    "cotton": {
+      "I bought some cotton candy for Tom.": "我给汤姆买了一些棉花糖。"
+    },
+    "motor": {
+      "Were you able to get the motor started?": "你把发动机启动起来了吗？"
+    },
+    "undergo": {
+      "The new engine must undergo all the necessary tests.": "这台新发动机必须接受所有必要的测试。"
+    },
+    "jet": {
+      "We saw a jet plane fly across the sky.": "我们看见一架喷气式飞机飞过天空。"
+    },
+    "assert": {
+      "She asserted that she was right.": "她坚称自己是对的。"
+    },
+    "blade": {
+      "The blade was very sharp.": "刀刃非常锋利。"
+    },
+    "boom": {
+      "Our business is booming.": "我们的生意十分兴隆。"
+    },
+    "successfully": {
+      "Tom had the skill set required to successfully do the job.": "汤姆具备成功完成这份工作所需的一整套技能。"
+    },
+    "wander": {
+      "For three days I had to wander in the desert.": "我不得不在沙漠里漂泊了三天。"
+    },
+    "submit": {
+      "He decided to submit his resignation.": "他决定提交辞呈。"
+    },
+    "economics": {
+      "Why should we study economics?": "我们为什么应该学习经济学？"
+    },
+    "legacy": {
+      "This is our legacy.": "这是我们留下的遗产。"
+    },
+    "shrug": {
+      "Why are you shrugging your shoulders?": "你为什么耸肩？"
+    },
+    "depict": {
+      "Many fantasy novels depict worlds with two moons.": "许多奇幻小说描绘了拥有两个月亮的世界。"
+    },
+    "operating": {
+      "Tom said Mary almost died on the operating table.": "汤姆说，玛丽差点死在手术台上。"
+    },
+    "flesh": {
+      "the spirit is willing but the flesh is weak": "心有余而力不足。"
+    },
+    "operator": {
+      "Tom became good friends with the elevator operator in their hotel.": "汤姆与他们酒店的电梯操作员成了好朋友。"
+    },
+    "instructor": {
+      "She worked as an aerobics instructor in her twenties.": "她二十多岁时当过有氧健身操教练。"
+    },
+    "collapse": {
+      "The house seemed about to collapse at any moment.": "那座房子似乎随时都会倒塌。"
+    },
+    "comedy": {
+      "I watched a romantic comedy.": "我看了一部浪漫喜剧。"
+    },
+    "civilian": {
+      "Tom is a civilian.": "汤姆是一名平民。"
+    },
+    "weekly": {
+      "she visited her aunt weekly": "她每周都去看望姑妈。"
+    },
+    "grain": {
+      "Rice is a grain that feeds billions of people.": "稻米是一种供数十亿人食用的谷物。"
+    },
+    "province": {
+      "In 1816, the United Provinces of the Rio Plata declared their independence from Spain.": "一八一六年，拉普拉塔联合省宣布脱离西班牙独立。"
+    },
+    "summit": {
+      "The view from the summit is very nice.": "山顶的景色非常好。"
+    },
+    "gifted": {
+      "Tom is a very gifted young man.": "汤姆是一位很有才华的年轻人。"
+    },
+    "odds": {
+      "The room is full of odds and ends.": "房间里堆满了零碎杂物。"
+    },
+    "shore": {
+      "The raft has drifted far off from the shore.": "木筏已经漂到了离岸很远的地方。"
+    },
+    "repeatedly": {
+      "Tom was fired for repeatedly showing up to work drunk.": "汤姆因多次醉酒上班而被解雇了。"
+    },
+    "distinct": {
+      "She has a distinct English accent.": "她有明显的英国口音。"
+    },
+    "ah": {
+      "Ah! What a beautiful flower!": "啊，多美的一朵花！"
+    },
+    "competitor": {
+      "We have a lot of competitors.": "我们有很多竞争对手。"
+    },
+    "powder": {
+      "Mix this powder with a cup of water.": "把这种粉末和一杯水混合。"
+    },
+    "carrier": {
+      "the bonds were transmitted by carrier": "这些债券由专人递送。"
+    },
+    "ban": {
+      "He asked the officials to lift the ban.": "他请求官员解除禁令。"
+    },
+    "rhythm": {
+      "Dancing is all about feeling the rhythm.": "跳舞的关键在于感受节奏。"
+    },
+    "widespread": {
+      "That custom has become very widespread.": "那个习俗已经变得十分普遍。"
+    },
+    "sin": {
+      "It would be a sin to waste it.": "浪费它可真是罪过。"
+    },
+    "script": {
+      "The syntax of Python scripts is very simple.": "Python 脚本的语法很简单。"
+    },
+    "everyday": {
+      "Everyday life can get a bit monotonous at times.": "日常生活有时会有点单调。"
+    },
+    "headline": {
+      "Tom picked up the newspaper and read the headlines.": "汤姆拿起报纸，阅读了头条标题。"
+    },
+    "venture": {
+      "It was a dangerous venture.": "那是一次危险的冒险。"
+    },
+    "grocery": {
+      "The store where you buy groceries is called a grocery store.": "你购买食品杂货的商店叫作杂货店。"
+    },
+    "margin": {
+      "he jotted a note in the margin": "他在页边空白处匆匆记了一条笔记。"
+    },
+    "concrete": {
+      "The columns are made of reinforced concrete.": "这些柱子是用钢筋混凝土做的。"
+    },
+    "recruit": {
+      "Tom was recruited by the CIA.": "汤姆被美国中央情报局招募了。"
+    },
+    "brick": {
+      "Somebody threw a brick through my window.": "有人把一块砖扔进了我的窗户。"
+    },
+    "patch": {
+      "Tom is out digging in the cabbage patch.": "汤姆在外面的白菜地里挖土。"
+    },
+    "consensus": {
+      "those rights and obligations are based on an unstated consensus": "那些权利和义务建立在一种不言明的共识之上。"
+    },
+    "recording": {
+      "Are you recording us right now?": "你现在正在录我们吗？"
+    },
+    "colonial": {
+      "coral is a colonial organism": "珊瑚是一种群体生物。"
+    },
+    "painter": {
+      "Tom is the son of a very famous painter.": "汤姆是一位非常著名的画家的儿子。"
+    },
+    "pregnancy": {
+      "Is it safe to eat raw fish during pregnancy?": "怀孕期间吃生鱼安全吗？"
+    },
+    "reinforce": {
+      "The columns are made of reinforced concrete.": "这些柱子是用钢筋混凝土做的。"
+    },
+    "dear": {
+      "My mother has sold everything that is dear to her.": "我母亲卖掉了她珍爱的所有东西。"
+    },
+    "sacred": {
+      "Cows are considered sacred by Hindus.": "印度教徒认为牛是神圣的。"
+    },
+    "formula": {
+      "Do you know Tom's secret formula?": "你知道汤姆的秘密配方吗？"
+    },
+    "gallery": {
+      "When was the last time you went to an art gallery?": "你上次去美术馆是什么时候？"
+    },
+    "defendant": {
+      "We find the defendant, Tom Jackson, not guilty.": "我们认定被告汤姆·杰克逊无罪。"
+    },
+    "lap": {
+      "Tom lives in the lap of luxury.": "汤姆过着极其奢华的生活。"
+    },
+    "container": {
+      "The container is full.": "这个容器满了。"
+    },
+    "virtue": {
+      "Bravery is a great virtue.": "勇敢是一项伟大的美德。"
+    },
+    "inquiry": {
+      "we made inquiries of all those who were present": "我们向在场的所有人都作了询问。"
+    },
+    "rail": {
+      "She was as thin as a rail.": "她瘦得像根竹竿。"
+    },
+    "compose": {
+      "Try to compose yourself.": "试着让自己镇定下来。"
+    },
+    "legend": {
+      "The legend says he was abandoned in the woods.": "传说他被遗弃在了树林里。"
+    },
+    "norm": {
+      "it set the norm for American homes": "它为美国家庭树立了标准。"
+    },
+    "remark": {
+      "His remark has nothing to do with the subject.": "他的话与这个主题无关。"
+    },
+    "concerning": {
+      "That in itself is concerning.": "那件事本身就令人担忧。"
+    },
+    "lightly": {
+      "Tom kissed Mary lightly on the lips.": "汤姆轻轻吻了玛丽的嘴唇。"
+    },
+    "receiver": {
+      "I put the receiver to my ear.": "我把电话听筒放到耳边。"
+    },
+    "ritual": {
+      "What a strange ritual!": "多么奇怪的仪式！"
+    },
+    "combat": {
+      "He was sent into combat.": "他被派去参加战斗。"
+    },
+    "surgeon": {
+      "Besides being a surgeon, he was a famous writer.": "他不仅是一名外科医生，还是一位著名作家。"
+    },
+    "stem": {
+      "The flower has a long stem.": "这朵花有一根长长的茎。"
+    },
+    "echo": {
+      "Her laughter echoed through the house.": "她的笑声回荡在屋子里。"
+    },
+    "pill": {
+      "Tom took a pill from the bottle and swallowed it.": "汤姆从瓶子里取出一片药，吞了下去。"
+    },
+    "sculpture": {
+      "The sculptures are of great value.": "这些雕塑很有价值。"
+    },
+    "compound": {
+      "Carbon monoxide is a poisonous substance formed by the incomplete combustion of carbon compounds.": "一氧化碳是一种由碳化合物不完全燃烧产生的有毒物质。"
+    },
+    "bare": {
+      "I can rip you apart with my bare hands.": "我徒手就能把你撕碎。"
+    },
+    "slope": {
+      "He stared at the steep slope.": "他凝视着陡峭的斜坡。"
+    },
+    "greatly": {
+      "The reports of my death are greatly exaggerated.": "关于我已经去世的报道被大大夸大了。"
+    },
+    "serving": {
+      "He is serving a three-year sentence for burglary.": "他因入室盗窃正在服三年刑期。"
+    },
+    "pump": {
+      "Could you show me how to use this pump?": "你能告诉我这个泵怎么用吗？"
+    },
+    "medal": {
+      "Who do you think will win the gold medal?": "你觉得谁会赢得金牌？"
+    },
+    "sponsor": {
+      "The senator announced that he would sponsor the health care plan": "这位参议员宣布，他将发起这项医疗保健计划。"
+    },
+    "export": {
+      "We export a lot of automobiles to that country.": "我们向那个国家出口大量汽车。"
+    },
+    "curve": {
+      "Why are bananas curved?": "香蕉为什么是弯的？"
+    },
+    "entitle": {
+      "We are entitled to vote at the age of twenty.": "我们年满二十岁就有权投票。"
+    },
+    "exclude": {
+      "I can't exclude it.": "我不能排除这种可能性。"
+    },
+    "harsh": {
+      "Tom answered with a harsh laugh.": "汤姆发出一声刺耳的笑作为回答。"
+    },
+    "corridor": {
+      "Your room is at the end of the corridor.": "你的房间在走廊尽头。"
+    },
+    "interior": {
+      "Tom is an interior designer.": "汤姆是一名室内设计师。"
+    },
+    "pitcher": {
+      "I dropped the pitcher and it broke.": "我把水罐掉在地上，摔碎了。"
+    },
+    "retail": {
+      "The new model will retail for 30,000 yen.": "这款新型号的零售价将是三万日元。"
+    },
+    "estimated": {
+      "We estimated the damage at one thousand dollars.": "我们估计损失为一千美元。"
+    },
+    "reverse": {
+      "Tom started the car and put it in reverse.": "汤姆发动汽车，挂上了倒挡。"
+    },
+    "flash": {
+      "It was all over in a flash.": "一切转眼间就结束了。"
+    },
+    "developer": {
+      "Tom is a video game developer.": "汤姆是一名电子游戏开发者。"
+    },
+    "occasional": {
+      "It was cloudy, with occasional rain.": "天气多云，偶尔有雨。"
+    },
+    "monthly": {
+      "We have to cut down our monthly expenses.": "我们必须减少每月的开支。"
+    },
+    "dose": {
+      "It's time you had a dose of your medicine.": "你该服一次药了。"
+    },
+    "plead": {
+      "Tom has agreed to plead guilty.": "汤姆已经同意认罪。"
+    },
+    "sixth": {
+      "Do you believe that women have a sixth sense?": "你相信女人有第六感吗？"
+    },
+    "longtime": {
+      "Tom and Mary are longtime residents.": "汤姆和玛丽都是在这里住了很多年的居民。"
+    },
+    "render": {
+      "You have rendered us invaluable service.": "你为我们提供了极为宝贵的帮助。"
+    },
+    "restrict": {
+      "Freedom of speech is restricted in some countries.": "在一些国家，言论自由受到限制。"
+    },
+    "lens": {
+      "Tom found his contact lens near the table.": "汤姆在桌子附近找到了隐形眼镜片。"
+    },
+    "enforce": {
+      "Those who enforce the law must obey the law.": "执法的人必须守法。"
+    },
+    "fraud": {
+      "Tom exposed Mary as a fraud.": "汤姆揭穿了玛丽是个骗子。"
+    },
+    "contend": {
+      "He contended that Communism had no future": "他主张共产主义没有前途。"
+    },
+    "array": {
+      "Tom has an extraordinary array of trophies.": "汤姆有一大批非同寻常的奖杯。"
+    },
+    "hallway": {
+      "The bathroom is at the end of the hallway.": "浴室在走廊尽头。"
+    },
+    "monster": {
+      "I dreamed that I was being chased by a monster.": "我梦见自己被一个怪物追赶。"
+    },
+    "obstacle": {
+      "They had cleared the obstacle from the road.": "他们已经清除了路上的障碍物。"
+    },
+    "crystal": {
+      "A crystal chandelier was hanging over the table.": "桌子上方悬挂着一盏水晶吊灯。"
+    },
+    "bitter": {
+      "The coffee is too bitter for me to drink.": "咖啡太苦，我喝不下去。"
+    },
+    "arena": {
+      "Acrobats are doing somersaults in the arena.": "杂技演员们正在场地内翻筋斗。"
+    },
+    "drift": {
+      "Tom started to drift off to sleep.": "汤姆开始迷迷糊糊地睡着了。"
+    },
+    "drain": {
+      "I hate it when hair clogs the drain.": "我讨厌头发堵住排水管。"
+    },
+    "maximum": {
+      "The bus can carry a maximum of forty people.": "这辆公交车最多能载四十人。"
+    },
+    "outdoor": {
+      "I like outdoor sports, such as baseball, tennis and soccer.": "我喜欢棒球、网球和足球等户外运动。"
+    },
+    "suck": {
+      "He has a habit of sucking his pencil.": "他有吮咬铅笔的习惯。"
+    },
+    "random": {
+      "Tom opened the book to a random page and began reading.": "汤姆随意翻到书中的一页，开始阅读。"
+    },
+    "leap": {
+      "A leap year has three hundred and sixty-six days.": "闰年有三百六十六天。"
+    },
+    "domain": {
+      "This book is in the public domain.": "这本书属于公有领域。"
+    },
+    "cattle": {
+      "Cattle would not eat grass where sheep had eaten.": "牛不愿吃羊吃过的地方的草。"
+    },
+    "minimum": {
+      "The job will take a minimum of ten days.": "这项工作至少需要十天。"
+    },
+    "database": {
+      "Progress is monitored daily and stored in a database.": "每天的进度都会被监测，并存入数据库。"
+    },
+    "limb": {
+      "Tom was killed when a tree limb fell on him.": "一根树枝掉下来砸中汤姆，导致他死亡。"
+    },
+    "endure": {
+      "They had to endure great hardship during the war.": "战争期间，他们不得不忍受巨大的艰苦。"
+    },
+    "harm": {
+      "Smoking will do you a lot of harm.": "吸烟会对你造成很大伤害。"
+    },
+    "horn": {
+      "Tom heard a car horn beep.": "汤姆听到汽车喇叭响了一声。"
+    },
+    "peaceful": {
+      "We must think about peaceful uses of atomic energy.": "我们必须考虑原子能的和平利用。"
+    },
+    "pad": {
+      "I wrote the phone number on the writing pad.": "我把电话号码写在了便笺本上。"
+    },
+    "trigger": {
+      "Tom is the one who actually pulled the trigger.": "汤姆才是真正扣动扳机的人。"
+    },
+    "virtual": {
+      "This is an example of virtual reality.": "这是虚拟现实的一个例子。"
+    },
+    "convict": {
+      "The police are hunting an escaped convict in this area.": "警方正在这一地区搜捕一名越狱犯。"
+    },
+    "particle": {
+      "Over 100 tons of dust and sand-sized particles bombard the earth every day from space, most of which goes unnoticed.": "每天有一百多吨来自太空的尘埃和沙粒大小的颗粒撞向地球，其中大部分都未被人察觉。"
+    },
+    "boost": {
+      "Give me a boost.": "帮我托一下，让我上去。"
+    },
+    "bat": {
+      "A bat is not a bird, but a mammal.": "蝙蝠不是鸟，而是哺乳动物。"
+    },
+    "outer": {
+      "The outer part of the ear is made of cartilage.": "耳朵的外部由软骨构成。"
+    },
+    "freshman": {
+      "I was a freshman last year.": "去年我是大学一年级学生。"
+    },
+    "ballot": {
+      "Tom is filling out a ballot.": "汤姆正在填写选票。"
+    },
+    "web": {
+      "She taught me how to make a web site.": "她教我怎样制作网站。"
+    },
+    "chaos": {
+      "Only strict adherence to the rules will prevent chaos.": "只有严格遵守规定才能避免混乱。"
+    },
+    "format": {
+      "What format should I use?": "我应该使用什么格式？"
+    },
+    "canvas": {
+      "She canvassed the walls of her living room so as to conceal the ugly cracks": "她用帆布覆盖客厅的墙壁，以遮住难看的裂缝。"
+    },
+    "lobby": {
+      "Tom asked Mary to meet him in the lobby.": "汤姆让玛丽到大厅里见他。"
+    },
+    "trait": {
+      "Woman's intuition is clearly a valuable trait.": "女性的直觉显然是一项宝贵的特质。"
+    },
+    "currency": {
+      "The authorities are striving in vain to stabilize the currency.": "当局正努力稳定货币，却没有取得成效。"
+    },
+    "beam": {
+      "Is the beam solid or hollow?": "这根梁是实心的还是空心的？"
+    },
+    "genuine": {
+      "This bag is made from genuine leather.": "这个包是真皮制成的。"
+    },
+    "thumb": {
+      "Tom deleted all the files off his thumb drive.": "汤姆删除了 U 盘里的所有文件。"
+    },
+    "bureau": {
+      "Tom hid his money in a bureau drawer.": "汤姆把钱藏在了五斗柜的抽屉里。"
+    },
+    "scatter": {
+      "Broken glass lay scattered all over the road.": "碎玻璃散落得满路都是。"
+    },
+    "commonly": {
+      "These birds are more commonly seen near the equator.": "这些鸟在赤道附近更为常见。"
+    },
+    "disk": {
+      "Did you give a copy of the disk to anyone?": "你给过别人这张磁盘的副本吗？"
+    },
+    "wow": {
+      "Tom managed to wow the judges.": "汤姆成功地让评委们赞叹不已。"
+    },
+    "suspend": {
+      "Tom was given a six-month suspended sentence.": "汤姆被判处六个月监禁，缓期执行。"
+    },
+    "rebel": {
+      "Lenin ordered them to rebel.": "列宁命令他们起义。"
+    },
+    "spouse": {
+      "How much time do you spend with your spouse?": "你有多少时间和配偶一起度过？"
+    },
+    "fluid": {
+      "Water and oil are two different types of fluid.": "水和油是两种不同的流体。"
+    },
+    "resume": {
+      "Thank you for helping me write my resume.": "谢谢你帮我写简历。"
+    },
+    "rebuild": {
+      "I have enough money to rebuild the house.": "我有足够的钱重建这所房子。"
+    },
+    "hook": {
+      "Hang your jacket on the hook by the door.": "把你的夹克挂在门边的挂钩上。"
+    },
+    "bounce": {
+      "A rubber ball bounces because it is elastic.": "橡皮球会弹跳，因为它具有弹性。"
+    },
+    "exit": {
+      "In case of fire, please use this exit.": "如果发生火灾，请走这个出口。"
+    },
+    "output": {
+      "the computer is outputting the data from the job I'm running": "计算机正在输出我所运行任务的数据。"
+    },
+    "outline": {
+      "Tom gave Mary a brief outline of his plan.": "汤姆向玛丽简要介绍了他的计划。"
+    },
+    "diaper": {
+      "Have you ever changed a diaper before?": "你以前换过尿布吗？",
+      "The baby needs a diaper change.": "宝宝需要换尿布了。"
+    },
+    "yogurt": {
+      "I bought three apples, some eggs and some yogurt.": "我买了三个苹果、一些鸡蛋和一些酸奶。",
+      "What kind of yogurt do you like best?": "你最喜欢哪种酸奶？"
+    },
+    "pajamas": {
+      "Tom put on his pajamas and climbed into bed.": "汤姆穿上睡衣，爬上了床。"
+    },
+    "liter": {
+      "Tom drinks about a liter of coffee a day.": "汤姆每天喝大约一升咖啡。",
+      "How much does a liter of milk cost?": "一升牛奶多少钱？"
+    },
+    "stroller": {
+      "A stroller has been left in front of the store.": "商店前放着一辆婴儿推车。"
+    },
+    "headphone": {
+      "Put on your headphones and listen to this.": "戴上耳机，听听这个。",
+      "Put your headphones on and listen to this.": "戴上耳机，听听这个。"
+    },
+    "defending": {
+      "Why are you always defending Tom?": "你为什么总是为汤姆辩护？",
+      "Why are you defending Tom?": "你为什么要为汤姆辩护？"
+    },
+    "lowered": {
+      "The crew lowered the body into the sea.": "船员们把遗体放入了海中。",
+      "Tom lowered his voice so no one else could hear.": "汤姆压低了声音，不让其他人听见。"
+    },
+    "disappearing": {
+      "I watched the car disappearing slowly around the corner.": "我看着那辆汽车慢慢消失在拐角处。",
+      "The ice in the Arctic Sea is disappearing.": "北冰洋的海冰正在消失。"
+    },
+    "eraser": {
+      "Can I borrow your eraser for a moment?": "我可以借用一下你的橡皮吗？",
+      "May I use your eraser? I seem to have lost mine.": "我能用一下你的橡皮吗？我的好像丢了。"
+    },
+    "admitting": {
+      "Tom has trouble admitting that he's wrong.": "汤姆难以承认自己错了。",
+      "She's not admitting her mistake.": "她不肯承认自己的错误。"
+    },
+    "earphone": {
+      "Tom took off his earphones.": "汤姆摘下了耳机。",
+      "Can I borrow your earphones?": "我可以借你的耳机吗？"
+    },
+    "demonstrated": {
+      "The students demonstrated against the new government.": "学生们举行示威，反对新政府。"
+    },
+    "debating": {
+      "He is second to none when it comes to debating.": "说到辩论，没有人能胜过他。",
+      "Other scientists are debating his theory about the disappearance of dinosaurs.": "其他科学家正在讨论他关于恐龙消失的理论。"
+    },
+    "posted": {
+      "A notice about the next meeting was posted on the door.": "关于下次会议的通知贴在了门上。",
+      "Who was the woman in the picture you posted on Facebook?": "你发到脸书上的那张照片里的女人是谁？"
+    },
+    "recalled": {
+      "The ambassador was recalled.": "大使被召回了。"
+    },
+    "surveyed": {
+      "We surveyed the view from the top of the hill.": "我们从山顶眺望了周围的景色。",
+      "You'd better have the land surveyed before you decide to build on it.": "决定在这块地上建房之前，你最好请人勘测一下。"
+    },
+    "pursuing": {
+      "She started pursuing him before he became famous.": "她在他成名之前就开始追求他。",
+      "The police are pursuing an escaped prisoner.": "警方正在追捕一名越狱囚犯。"
+    },
+    "licence": {
+      "I had my licence renewed a week ago.": "我的执照一周前刚续期。"
+    },
+    "shouted": {
+      "Everyone shouted for joy when they heard the news.": "听到这个消息，大家都欢呼起来。"
+    },
+    "exchanged": {
+      "He exchanged his old car for a new one.": "他用旧车换了一辆新车。",
+      "I exchanged some yen for dollars at the bank.": "我在银行把一些日元换成了美元。"
+    },
+    "referred": {
+      "The speaker sometimes referred to his notes.": "演讲者有时会参阅笔记。"
+    },
+    "reviewed": {
+      "I reviewed the file.": "我查阅了这份档案。"
+    },
+    "mapped": {
+      "Although most islands in the ocean have been mapped, the ocean floor is generally unknown.": "虽然海洋中的大多数岛屿都已被绘制在地图上，但人们对海底通常还知之甚少。"
+    },
+    "ignoring": {
+      "Sometimes, I feel like everyone is ignoring me.": "有时，我觉得所有人都在无视我。",
+      "Tom got used to ignoring the noise.": "汤姆已经习惯了不去理会那些噪声。"
+    },
+    "tended": {
+      "Scented soaps tended to make her skin itch.": "香皂往往会让她的皮肤发痒。",
+      "I tended to the wounded.": "我照料了伤员。"
+    },
+    "replaced": {
+      "The local coffee shop was replaced by a Starbucks.": "当地那家咖啡馆被一家星巴克取代了。"
+    },
+    "grabbing": {
+      "Tom tried to steady himself by grabbing the railing.": "汤姆试图抓住栏杆来稳住自己。"
+    },
+    "exercising": {
+      "I have no will power when it comes to exercising.": "一说到锻炼，我就没有意志力。"
+    },
+    "criterion": {
+      "Money is not a criterion of success.": "金钱不是衡量成功的标准。"
+    },
+    "gram": {
+      "How many grams are there in a pound?": "一磅等于多少克？"
+    },
+    "hardworking": {
+      "He is as hardworking as any.": "他和任何人一样勤奋。",
+      "Tom is a very hardworking man.": "汤姆是一个非常勤奋的人。"
+    },
+    "kilometre": {
+      "Iceland has an area of about 103,000 square kilometres.": "冰岛的面积大约为十万三千平方公里。"
+    },
+    "repairs": {
+      "The roof of the church needs repairs.": "教堂的屋顶需要修理。"
+    },
+    "scores": {
+      "Scores of people gathered in front of the Royal Palace.": "许多人聚集在王宫前。"
+    },
+    "ton": {
+      "I have a ton of work to do today.": "我今天有一大堆工作要做。"
+    },
+    "casual": {
+      "We had a casual meeting on the crowded street.": "我们在拥挤的街道上偶然碰面。"
+    },
+    "performer": {
+      "Tom is a street performer.": "汤姆是一名街头表演者。"
+    },
+    "chop": {
+      "Peel and finely chop the horseradish.": "将辣根去皮并切碎。"
+    },
+    "assembly": {
+      "There are twenty-five students in the assembly hall.": "礼堂里有二十五名学生。"
+    },
+    "silk": {
+      "How much is a meter of this red silk?": "这种红色丝绸一米多少钱？"
+    },
+    "collector": {
+      "The garbage collector comes three times a week.": "垃圾收运工每周来三次。"
+    },
+    "rage": {
+      "Tom sprang at me in a rage.": "汤姆怒气冲冲地向我扑来。"
+    },
+    "offering": {
+      "\"Would you like something to drink?\" \"No, but thanks for offering.\"": "“你想喝点什么吗？”“不用了，不过谢谢你的好意。”"
+    },
+    "enroll": {
+      "He was not allowed to enroll in the college.": "他未获准注册进入那所大学。"
+    },
+    "gathering": {
+      "A crowd was gathering around him.": "一群人正在他周围聚集。"
+    },
+    "outstanding": {
+      "He has an outstanding talent for music.": "他有杰出的音乐天赋。"
+    },
+    "stumble": {
+      "I saw Tom stumble.": "我看见汤姆绊了一下。"
+    },
+    "descend": {
+      "Tom started to descend the stairs.": "汤姆开始走下楼梯。"
+    },
+    "tide": {
+      "The tide is low in the morning now.": "现在上午潮位较低。"
+    },
+    "hopefully": {
+      "Hopefully, everything will turn out all right.": "但愿一切都会好起来。"
+    },
+    "readily": {
+      "He readily agreed to my proposal.": "他欣然同意了我的提议。"
+    },
+    "hardware": {
+      "Go to the hardware store and get screws.": "去五金店买些螺丝。"
+    },
+    "seal": {
+      "Let me add a few words before you seal the letter.": "在你把信封好之前，让我再补充几句话。"
+    },
+    "circuit": {
+      "The short circuit blew a fuse.": "短路烧断了一根保险丝。"
+    },
+    "ruling": {
+      "The judge read out the ruling.": "法官宣读了裁定。"
+    },
+    "scan": {
+      "Could you scan this for me?": "你能帮我扫描这个吗？"
+    },
+    "undertake": {
+      "He always shows great determination in everything he undertakes.": "无论做什么事，他总是表现出极大的决心。"
+    },
+    "ranch": {
+      "What kind of ranch did you grow up on?": "你是在什么样的牧场上长大的？"
+    },
+    "verbal": {
+      "He gave a good verbal description of the suspect": "他对嫌疑人作了清楚的口头描述。"
+    },
+    "coastal": {
+      "Coastal cities will take the brunt of the storm.": "沿海城市将首当其冲地受到风暴袭击。"
+    },
+    "softly": {
+      "Tom kissed Mary softly on the lips.": "汤姆轻柔地吻了玛丽的嘴唇。"
+    },
+    "oversee": {
+      "Who is overseeing this project?": "谁在监督这个项目？"
+    },
+    "pro": {
+      "We need to hire a pro.": "我们需要聘请一位专业人士。"
+    },
+    "trailer": {
+      "Tom and Mary live in a trailer.": "汤姆和玛丽住在一辆拖挂式房车里。"
+    },
+    "quest": {
+      "They explored the desert in quest of buried treasure.": "他们为寻找埋藏的宝藏而探索沙漠。"
+    },
+    "broker": {
+      "The U.S. Secretary of State is trying to broker a ceasefire between the warring parties.": "美国国务卿正试图促成交战双方停火。"
+    },
+    "loyalty": {
+      "Tom gained the respect and loyalty of his employees.": "汤姆赢得了员工的尊重和忠诚。"
+    },
+    "diabetes": {
+      "Camel milk is good for people with diabetes.": "骆驼奶对糖尿病患者有好处。"
+    },
+    "grief": {
+      "As time goes on, grief fades away.": "随着时间推移，悲痛会慢慢消退。"
+    },
+    "tackle": {
+      "Tom seems to be unwilling to tackle the problem.": "汤姆似乎不愿着手解决这个问题。"
+    },
+    "bubble": {
+      "Life is like a soap bubble.": "人生就像一个肥皂泡。"
+    },
+    "sword": {
+      "Tom was killed with an old samurai sword.": "汤姆被一把古老的武士刀杀害了。"
+    },
+    "barn": {
+      "The barn was small, but it was strong.": "谷仓很小，但很坚固。"
+    },
+    "seventh": {
+      "After he heard the news, Tom was in seventh heaven.": "听到这个消息后，汤姆欣喜若狂。"
+    },
+    "tuck": {
+      "Tuck your shirt in.": "把你的衬衫下摆塞进去。"
+    },
+    "dilemma": {
+      "Never in his life had he encountered such a dilemma.": "他这辈子从没遇到过这样的两难处境。"
+    },
+    "input": {
+      "Please input your PIN number.": "请输入你的个人识别码。"
+    },
+    "northeast": {
+      "He came from the Northeast.": "他来自东北部。"
+    },
+    "shallow": {
+      "The river is shallow here. We can walk across.": "这里河水很浅，我们可以走过去。"
+    },
+    "merchant": {
+      "The pirates captured a merchant ship.": "海盗劫持了一艘商船。"
+    },
+    "bloody": {
+      "Tom wiped the bloody knife on his shirt.": "汤姆用衬衫擦了擦沾血的刀。"
+    },
+    "withdrawal": {
+      "The withdrawal symptoms are more severe than I thought.": "戒断症状比我想象的更严重。"
+    },
+    "nest": {
+      "Can you see the nest in the tree?": "你能看见树上的鸟巢吗？"
+    },
+    "associated": {
+      "The color green is often associated with money and the world of finance, because banknotes in many countries are green.": "绿色经常与金钱及金融领域联系在一起，因为许多国家的纸币都是绿色的。"
+    },
+    "lane": {
+      "The rightmost lane is now under construction.": "最右侧的车道目前正在施工。"
+    },
+    "condemn": {
+      "The judge condemned him to death.": "法官判处他死刑。"
+    },
+    "shrimp": {
+      "I advised Tom not to eat the shrimp.": "我劝汤姆不要吃那些虾。"
+    },
+    "courtroom": {
+      "When the judge speaks, everyone in the courtroom listens.": "法官发言时，法庭里的每个人都在听。"
+    },
+    "homeland": {
+      "He was never to see his homeland again.": "他此后再也没能见到故乡。"
+    },
+    "wolf": {
+      "Tom caught a wolf and tried to tame it.": "汤姆捕到了一只狼，并试图驯服它。"
+    },
+    "rack": {
+      "Put our bags up on the rack.": "把我们的包放到上面的架子上。"
+    },
+    "costume": {
+      "Tom was the only one not wearing a costume.": "汤姆是唯一没有穿化装服的人。"
+    },
+    "statute": {
+      "Some crimes have no statute of limitations.": "有些罪行不受追诉时效的限制。"
+    },
+    "grin": {
+      "I stifled a grin.": "我忍住了笑。"
+    },
+    "cartoon": {
+      "Tom watched a cartoon with his children after dinner.": "晚饭后，汤姆和孩子们一起看了一部动画片。"
+    },
+    "tumor": {
+      "The tumor seems to be benign.": "这个肿瘤似乎是良性的。"
+    },
+    "hostile": {
+      "She is hostile to me.": "她对我抱有敌意。"
+    },
+    "combined": {
+      "Tom earns more than both of his parents combined.": "汤姆的收入比他父母两人加起来还多。"
+    },
+    "bankruptcy": {
+      "The company is on the verge of bankruptcy.": "公司濒临破产。"
+    },
+    "bonus": {
+      "I got a bonus.": "我拿到了一笔奖金。"
+    },
+    "vaccine": {
+      "Jonas Salk developed the polio vaccine in 1952.": "乔纳斯·索尔克于一九五二年研制了脊髓灰质炎疫苗。"
+    },
+    "patrol": {
+      "Ten policemen were assigned to patrol that area.": "十名警察被派去巡逻那个区域。"
+    },
+    "haul": {
+      "Tom and Mary are in this for the long haul.": "汤姆和玛丽打算长期坚持做这件事。"
+    },
+    "concede": {
+      "Neither side will concede.": "双方都不肯让步。"
+    },
+    "wagon": {
+      "Tom has been on the wagon for three years.": "汤姆已经戒酒三年了。"
+    },
+    "afterward": {
+      "Tom went into a coma, and shortly afterward, he died.": "汤姆陷入昏迷，不久后便去世了。"
+    },
+    "fascinating": {
+      "It was a fascinating story.": "那是一个引人入胜的故事。"
+    },
+    "bull": {
+      "You have to take the bull by the horns.": "你必须迎难而上。"
+    },
+    "thigh": {
+      "She has a tattoo of a lizard on her thigh.": "她大腿上有一个蜥蜴文身。"
+    },
+    "coordinator": {
+      "Tom was the coordinator.": "汤姆是协调员。"
+    },
+    "conspiracy": {
+      "This is all a conspiracy.": "这一切都是个阴谋。"
+    },
+    "casualty": {
+      "In war, truth is the first casualty.": "在战争中，真相是第一个牺牲品。"
+    },
+    "functional": {
+      "the toaster was still functional even after being dropped": "那台烤面包机摔过之后仍然能够使用。"
+    },
+    "instinct": {
+      "Birds learn to fly by instinct.": "鸟依靠本能学会飞翔。"
+    },
+    "aluminum": {
+      "This bike has an aluminum frame.": "这辆自行车有一个铝制车架。"
+    },
+    "ministry": {
+      "I'm Josef Patočka and I work at the Ministry of Foreign Affairs.": "我叫约瑟夫·帕托契卡，在外交部工作。"
+    },
+    "instruct": {
+      "We were instructed on how to run the machines.": "有人教我们如何操作这些机器。"
+    },
+    "loop": {
+      "Please keep us in the loop.": "请随时让我们了解情况。"
+    },
+    "edit": {
+      "To edit a sentence, click on the pencil icon.": "要编辑句子，请点击铅笔图标。"
+    },
+    "whip": {
+      "They made a whip out of cords.": "他们用绳子做了一条鞭子。"
+    },
+    "mushroom": {
+      "How can I tell if a mushroom is poisonous?": "我怎么判断蘑菇是否有毒？"
+    },
+    "sexy": {
+      "Some women think bald-headed men are sexy.": "有些女性觉得秃头男性很性感。"
+    },
+    "entrepreneur": {
+      "Tom is an entrepreneur.": "汤姆是一位企业家。"
+    },
+    "syndrome": {
+      "Asperger syndrome is a form of autism.": "阿斯伯格综合征是一种自闭症。"
+    },
+    "breeze": {
+      "Tom and Mary were just shooting the breeze.": "汤姆和玛丽只是在闲聊。"
+    },
+    "costly": {
+      "Salt was a rare and costly commodity in ancient times.": "在古代，盐是一种稀有而昂贵的商品。"
+    },
+    "presumably": {
+      "presumably, he missed the train": "他大概是错过了火车。"
+    },
+    "dissolve": {
+      "Dissolve the tablet in a glass of water.": "把药片溶解在一杯水中。"
+    },
+    "insert": {
+      "Please insert a coin.": "请投入一枚硬币。"
+    },
+    "royal": {
+      "The royal palace was built on a hill.": "王宫建在山丘上。"
+    },
+    "actively": {
+      "he participated actively in the war": "他积极参与了那场战争。"
+    },
+    "minimal": {
+      "The chances that that happens are minimal.": "那件事发生的可能性微乎其微。"
+    },
+    "cocaine": {
+      "He is addicted to cocaine.": "他对可卡因上瘾了。"
+    },
+    "casino": {
+      "He lost all of his money at the casino.": "他在赌场输光了所有钱。"
+    },
+    "scramble": {
+      "I like the way you make scrambled eggs.": "我喜欢你做的炒鸡蛋。"
+    },
+    "momentum": {
+      "The momentum was gone.": "那股势头已经消失了。"
+    },
+    "irony": {
+      "What's the difference between sarcasm and irony?": "讽刺挖苦和反讽有什么区别？"
+    },
+    "interact": {
+      "Tom seems to be unable to interact normally with other people.": "汤姆似乎无法与他人正常交往。"
+    },
+    "rival": {
+      "I have no rival.": "我没有对手。"
+    },
+    "punch": {
+      "I want to punch you in the face.": "我想朝你脸上打一拳。"
+    },
+    "supplier": {
+      "We face competition from foreign suppliers.": "我们面临外国供应商的竞争。"
+    },
+    "icon": {
+      "To edit a sentence, click on the pencil icon.": "要编辑句子，请点击铅笔图标。"
+    },
+    "consequently": {
+      "consequently, he didn't do it": "因此，他没有做那件事。"
+    },
+    "correctly": {
+      "Tom answered all but one of the questions correctly.": "除了一个问题外，汤姆的回答全都正确。"
+    },
+    "filter": {
+      "This dust is impossible to filter from the air.": "这种灰尘无法从空气中过滤掉。"
+    },
+    "heal": {
+      "There are wounds that time does not heal.": "有些创伤是时间无法治愈的。"
+    },
+    "exploit": {
+      "These people are exploiting you.": "这些人正在利用你。"
+    },
+    "shove": {
+      "She laughed and gave me a playful shove.": "她笑着轻轻推了我一下。"
+    },
+    "charter": {
+      "The United Nations Charter was signed in 1945.": "《联合国宪章》于一九四五年签署。"
+    },
+    "backyard": {
+      "We have a big oak tree in our backyard.": "我们的后院有一棵大橡树。"
+    },
+    "reminder": {
+      "he ignored his wife's reminders": "他没有理会妻子的提醒。"
+    },
+    "grandchild": {
+      "The old man was accompanied by his grandchild.": "这位老人有孙辈陪伴。"
+    },
+    "dough": {
+      "The dough used for pancakes is thin.": "做薄煎饼用的面糊比较稀。"
+    },
+    "reportedly": {
+      "she was reportedly his mistress for many years": "据说她多年来一直是他的情妇。"
+    },
+    "outfit": {
+      "There are many lawyers working with this outfit.": "有许多律师在这家机构工作。"
+    },
+    "patent": {
+      "Tom filed a patent for his invention.": "汤姆为他的发明申请了专利。"
+    },
+    "gross": {
+      "Tom's gross income last year was over thirty thousand dollars.": "汤姆去年的税前总收入超过三万美元。"
+    },
+    "disabled": {
+      "I really enjoy helping disabled people.": "我非常乐于帮助残障人士。"
+    },
+    "damn": {
+      "his promise is not worth a damn": "他的承诺一文不值。"
+    },
+    "frontier": {
+      "he worked at the frontier of brain science": "他从事脑科学前沿领域的工作。"
+    },
+    "banker": {
+      "The actress said that she was engaged to a banker.": "这位女演员说，她与一位银行家订婚了。"
+    },
+    "uncover": {
+      "I'm just trying to uncover the truth.": "我只是想查明真相。"
+    },
+    "mill": {
+      "Tom works at the steel mill.": "汤姆在钢铁厂工作。"
+    },
+    "catalog": {
+      "Tom ordered a new sofa from the catalog.": "汤姆根据商品目录订购了一张新沙发。"
+    },
+    "outsider": {
+      "All his life Tom was an outsider.": "汤姆一生都格格不入。"
+    },
+    "fleet": {
+      "The Romans built a fleet of three hundred ships.": "罗马人组建了一支拥有三百艘船的舰队。"
+    },
+    "compel": {
+      "We were compelled to put off our departure.": "我们被迫推迟出发。"
+    },
+    "desperately": {
+      "Tom fell desperately in love with Mary.": "汤姆深深地爱上了玛丽。"
+    },
+    "proclaim": {
+      "The King will proclaim an amnesty": "国王将宣布大赦。"
+    },
+    "worldwide": {
+      "Water pollution is a problem worldwide.": "水污染是一个全球性问题。"
+    },
+    "colorful": {
+      "The male peacock has colorful tail feathers.": "雄孔雀有色彩鲜艳的尾羽。"
+    },
+    "thanksgiving": {
+      "Did you go anywhere on Thanksgiving Day?": "感恩节那天你去哪儿了吗？"
+    },
+    "eyebrow": {
+      "He raised an eyebrow quizzically.": "他疑惑地挑起了一边眉毛。"
+    },
+    "tray": {
+      "I set the tray down on the table.": "我把托盘放在了桌上。"
+    },
+    "pioneer": {
+      "He is a pioneer in this field.": "他是这个领域的先驱。"
+    },
+    "shrink": {
+      "If you wash that, it may shrink.": "那件东西洗过以后可能会缩水。"
+    },
+    "uh": {
+      "Uh, Tom, I think you're bleeding.": "呃，汤姆，我觉得你在流血。"
+    },
+    "dot": {
+      "Be at the station at eleven on the dot.": "十一点整到车站。"
+    },
+    "fierce": {
+      "The battle was fierce and unbelievably bloody.": "战斗十分激烈，血腥程度令人难以置信。"
+    },
+    "exclusively": {
+      "he works for Mr. Smith exclusively": "他只为史密斯先生工作。"
+    },
+    "marketplace": {
+      "they were driven from the marketplace": "他们被赶出了集市。"
+    },
+    "openly": {
+      "he openly flaunted his affection for his sister": "他毫不掩饰自己对姐妹的关爱。"
+    },
+    "deploy": {
+      "Tom was deployed to Iraq.": "汤姆被派往伊拉克执行任务。"
+    },
+    "genre": {
+      "Historical novels are a popular genre of literature.": "历史小说是一种很受欢迎的文学体裁。"
+    },
+    "planner": {
+      "Mary is a wedding planner.": "玛丽是一名婚礼策划师。"
+    },
+    "merit": {
+      "His work merits the highest praise.": "他的工作值得最高的赞扬。"
+    },
+    "chunk": {
+      "I break large, time-consuming tasks into chunks.": "我把庞大而耗时的任务拆成几个部分。"
+    },
+    "invade": {
+      "Tom doesn't like it when people invade his personal space by standing too close to him.": "汤姆不喜欢别人站得太近，侵入他的私人空间。"
+    },
+    "coup": {
+      "The coup attempt was foiled at the last moment.": "政变企图在最后一刻被挫败了。"
+    },
+    "ecosystem": {
+      "The introduction of foreign plants and animals can cause severe damage to ecosystems.": "引入外来动植物可能对生态系统造成严重破坏。"
+    },
+    "informal": {
+      "It was an informal meeting.": "那是一次非正式会面。"
+    },
+    "sphere": {
+      "From the sphere emanated some kind of strange glow.": "那个球体发出某种奇怪的光。"
+    },
+    "unfold": {
+      "Tom started to unfold the piece of paper Mary handed him.": "汤姆开始展开玛丽递给他的那张纸。"
+    },
+    "builder": {
+      "I'm going to work as a builder with my father.": "我打算和父亲一起当建筑工人。"
+    },
+    "supposedly": {
+      "Tom was supposedly at the zoo.": "据说汤姆当时在动物园。"
+    },
+    "deem": {
+      "He deemed it wise to accept the offer.": "他认为接受那份提议是明智的。"
+    },
+    "premise": {
+      "I understand the premise.": "我理解这个前提。"
+    },
+    "artifact": {
+      "Looters stole ancient artifacts from the tomb.": "盗掘者从墓中偷走了古代文物。"
+    },
+    "listener": {
+      "I want to become a good listener.": "我想成为一个善于倾听的人。"
+    },
+    "mentor": {
+      "Tom wants you to be his mentor.": "汤姆想请你做他的导师。"
+    },
+    "rib": {
+      "Tom broke a rib when he fell off the ladder.": "汤姆从梯子上跌落时摔断了一根肋骨。"
+    },
+    "debris": {
+      "There was debris everywhere.": "到处都是碎片残骸。"
+    },
+    "rod": {
+      "He can bend an iron rod with his hands.": "他能用双手把铁杆掰弯。"
+    },
+    "deliberately": {
+      "Tom soon realized that Mary was deliberately avoiding him.": "汤姆很快意识到玛丽在故意回避他。"
+    },
+    "striking": {
+      "There was a striking resemblance between them.": "他们之间有着惊人的相似之处。"
+    },
+    "toll": {
+      "The death toll from the hurricane climbed to 200.": "飓风造成的死亡人数上升到了两百人。"
+    },
+    "rim": {
+      "Tom filled Mary's wine glass to the rim.": "汤姆把玛丽的酒杯倒得满满的，一直到了杯沿。"
+    },
+    "squad": {
+      "The bomb was defused by the bomb squad.": "炸弹被拆弹小组拆除了。"
+    },
+    "processor": {
+      "That computer has a quad-core processor.": "那台电脑配备四核处理器。"
+    },
+    "refuge": {
+      "We took refuge from the storm in a nearby barn.": "我们在附近的谷仓里躲避风暴。"
+    },
+    "programming": {
+      "Tom got good at programming in JavaScript.": "汤姆变得很擅长 JavaScript 编程。"
+    },
+    "steer": {
+      "You might want to steer clear of Tom.": "你最好避开汤姆。"
+    },
+    "outlet": {
+      "Where can I find an outlet for all my anger?": "我满腔的怒火该到哪里宣泄？"
+    },
+    "vendor": {
+      "I bought that from a street vendor.": "我从一个街头摊贩那里买到了那个东西。"
+    },
+    "intact": {
+      "she was intact, virginal": "她的身体完整无损，还是处女。"
+    },
+    "fucking": {
+      "what took you so fucking long?": "你他妈怎么用了这么长时间？"
+    },
+    "shareholder": {
+      "Are you a shareholder?": "你是股东吗？"
+    },
+    "comply": {
+      "I cannot comply with your request.": "我无法满足你的要求。"
+    },
+    "constraint": {
+      "The cost of electricity is a chief constraint for Senegal's development.": "电力成本是制约塞内加尔发展的主要因素。"
+    },
+    "interval": {
+      "Buses are running at 20-minute intervals.": "公交车每隔二十分钟发一班。"
+    },
+    "allegedly": {
+      "He is allegedly the murderer.": "据称他就是凶手。"
+    },
+    "butt": {
+      "The cause of the fire was his cigarette butt.": "火灾是由他扔的烟头引起的。"
+    },
+    "bulk": {
+      "This store sells everything in bulk.": "这家商店的所有东西都按大宗出售。"
+    },
+    "patron": {
+      "St. Patrick is the patron saint of Ireland.": "圣帕特里克是爱尔兰的主保圣人。"
+    },
+    "liver": {
+      "Wine is bad for your liver.": "葡萄酒对你的肝脏不好。"
+    },
+    "solely": {
+      "did it solely for money": "这样做完全是为了钱。"
+    },
+    "palace": {
+      "The royal palace was built on a hill.": "王宫建在山丘上。"
+    },
+    "peasant": {
+      "I'm nothing but a poor peasant.": "我不过是个贫穷的农民。"
+    },
+    "formerly": {
+      "She was formerly a bank clerk.": "她以前是一名银行职员。"
+    },
+    "widow": {
+      "A woman whose husband is dead is called a widow.": "丈夫去世的女人被称为寡妇。"
+    },
+    "brutal": {
+      "Most serial killers have experienced brutal childhoods, but very few people who experienced brutal childhoods later become serial killers.": "多数连环杀手都经历过残酷的童年，但有这种童年经历的人后来成为连环杀手的比例很低。"
+    },
+    "predator": {
+      "Predators always prey on unsuspecting victims.": "掠食者总会对毫无防备的受害者下手。"
+    },
+    "opt": {
+      "She opted for the job on the East coast": "她选择了东海岸的那份工作。"
+    },
+    "forum": {
+      "The forum is open to the public.": "这个论坛对公众开放。"
+    },
+    "removal": {
+      "he had surgery for the removal of a malignancy": "他接受了切除恶性肿瘤的手术。"
+    },
+    "landmark": {
+      "The Brandenburg Gate is one of the most famous landmarks in Germany.": "勃兰登堡门是德国最著名的地标之一。"
+    },
+    "offender": {
+      "Tom's a first-time offender.": "汤姆是初犯。"
+    },
+    "routinely": {
+      "he routinely parked in a no-parking zone": "他经常把车停在禁止停车的区域。"
+    },
+    "straw": {
+      "Tom was wearing a straw hat and sunglasses.": "汤姆戴着草帽和太阳镜。"
+    },
+    "fragile": {
+      "Could you put these fragile things in a safe place?": "你能把这些易碎物品放在安全的地方吗？"
+    },
+    "overnight": {
+      "Let the milk stand overnight and skim off the cream.": "把牛奶放置一夜，然后撇去上面的奶油。"
+    },
+    "denial": {
+      "Tom is in denial.": "汤姆不愿接受现实。"
+    },
+    "rental": {
+      "This is a rental car.": "这是一辆租来的车。"
+    },
+    "warmth": {
+      "I can remember the warmth of her hands.": "我还记得她双手的温暖。"
+    },
+    "screw": {
+      "To loosen a screw, turn it to the left.": "要松开螺丝，就向左转。"
+    },
+    "drill": {
+      "We had a fire drill yesterday.": "我们昨天进行了一次消防演习。"
+    },
+    "canyon": {
+      "The Grand Canyon is a well-known tourist destination.": "大峡谷是一个知名的旅游目的地。"
+    },
+    "driveway": {
+      "Whose car is that in the driveway?": "车道上的那辆车是谁的？"
+    },
+    "loyal": {
+      "Tom is very loyal to his friends.": "汤姆对朋友非常忠诚。"
+    },
+    "clay": {
+      "The heat of the sun hardens clay.": "太阳的热量会使黏土变硬。"
+    },
+    "ego": {
+      "Failing the exam was a blow to his ego.": "考试不及格打击了他的自尊心。"
+    },
+    "frown": {
+      "A frown may express anger or displeasure.": "皱眉可能是在表达愤怒或不满。"
+    },
+    "molecule": {
+      "A molecule is made up of atoms.": "分子由原子组成。"
+    },
+    "rubber": {
+      "Do you want to buy a rubber ball?": "你想买一个橡皮球吗？"
+    },
+    "freely": {
+      "They supported his right to speak freely.": "他们支持他自由发言的权利。"
+    },
+    "youngster": {
+      "‘tiddler’ is a British term for youngster": "“tiddler”是英式英语中对小孩子的一种称呼。"
+    },
+    "integrated": {
+      "Bear in mind that that school is an integrated junior high and high school.": "请记住，那所学校是一所初高中一体的学校。"
+    },
+    "premium": {
+      "Will insurance premiums go up?": "保险费会上涨吗？"
+    },
+    "fatigue": {
+      "the soldiers were put on fatigue to teach them a lesson": "那些士兵被安排去做杂务，以示惩戒。"
+    },
+    "marker": {
+      "I need a marker.": "我需要一支记号笔。"
+    },
+    "meantime": {
+      "You can have a snack in the meantime.": "在此期间，你可以吃点零食。"
+    },
+    "blond": {
+      "The boy has a shock of blond hair.": "那个男孩有一头浓密蓬乱的金发。"
+    },
+    "marble": {
+      "They are chiseling a statue out of marble.": "他们正在用大理石雕刻一尊雕像。"
+    },
+    "provoke": {
+      "His long absences were starting to provoke suspicion.": "他长时间不在，开始引起了怀疑。"
+    },
+    "trauma": {
+      "She also writes about loss and trauma.": "她也写关于失去与创伤的内容。"
+    },
+    "technician": {
+      "The forensic technician found gunshot residue on the victim's hand.": "法医技术人员在受害者手上发现了射击残留物。"
+    },
+    "soak": {
+      "You have tennis elbow. Soak your arm in warm water.": "你得了网球肘。把手臂浸泡在温水里。"
+    },
+    "transmit": {
+      "We have to transmit our culture to the next generation.": "我们必须把自己的文化传给下一代。"
+    },
+    "slot": {
+      "Tom put a penny in the slot.": "汤姆往投币口投入了一便士。"
+    },
+    "nutrient": {
+      "Fresh vegetables contain many nutrients.": "新鲜蔬菜含有多种营养成分。"
+    },
+    "lighting": {
+      "Tom is lighting the candle with a match.": "汤姆正用火柴点蜡烛。"
+    },
+    "transit": {
+      "The canal will transit hundreds of ships every day": "这条运河每天将让数百艘船通过。"
+    },
+    "dense": {
+      "Because of the dense fog, nothing could be seen.": "由于浓雾，什么也看不见。"
+    },
+    "shorts": {
+      "I bought myself some new shorts.": "我给自己买了几条新短裤。"
+    },
+    "soften": {
+      "The bread will soften if you pour some liquid on it": "往面包上倒一点液体，面包就会变软。"
+    },
+    "cue": {
+      "When I cough twice, that's your cue to come into the room.": "我咳嗽两声时，就是你进屋的信号。"
+    },
+    "hazard": {
+      "This is a hazard to your health.": "这会危害你的健康。"
+    },
+    "compelling": {
+      "Tom has a compelling reason for avoiding Mary.": "汤姆有一个令人信服的理由来回避玛丽。"
+    },
+    "tile": {
+      "A tile fell on my head.": "一片瓦掉在了我头上。"
+    },
+    "honestly": {
+      "Do you honestly think Tom would do that?": "你真的认为汤姆会那样做吗？"
+    },
+    "weave": {
+      "She learned the craft of basket weaving from her grandmother.": "她从祖母那里学会了编篮子的手艺。"
+    },
+    "plea": {
+      "He was deaf to my pleas.": "他对我的恳求充耳不闻。"
+    },
+    "academy": {
+      "I studied at a military academy.": "我曾在一所军事学院学习。"
+    },
+    "bolt": {
+      "It was like a bolt out of the blue.": "那简直是晴天霹雳。"
+    },
+    "spine": {
+      "One of the bullets damaged his spine.": "其中一颗子弹损伤了他的脊柱。"
+    },
+    "managing": {
+      "I want to become better at managing my time.": "我想变得更善于管理时间。"
+    },
+    "narrator": {
+      "We don't know who the narrator is.": "我们不知道叙述者是谁。"
+    },
+    "seller": {
+      "Her new novel has become a best seller.": "她的新小说成了畅销书。"
+    },
+    "dock": {
+      "There was no one on the dock.": "码头上没有人。"
+    },
+    "bronze": {
+      "How do you like this little bronze figure?": "你觉得这个小青铜像怎么样？"
+    },
+    "nationwide": {
+      "it was broadcast nationwide": "它在全国范围内播出了。"
+    },
+    "creek": {
+      "A small creek cut across the field.": "一条小溪横穿田野。"
+    },
+    "stereotype": {
+      "It's an old stereotype.": "这是一个陈旧的刻板印象。"
+    },
+    "kneel": {
+      "Why do people kneel down to pray?": "人们为什么要跪下祈祷？"
+    },
+    "plaintiff": {
+      "Who is the plaintiff in this trial?": "这次审判的原告是谁？"
+    },
+    "dean": {
+      "he is the dean of foreign correspondents": "他是驻外记者中的元老。"
+    },
+    "chopped": {
+      "Tom chopped some firewood with his ax.": "汤姆用斧头劈了一些柴。"
+    },
+    "retrieve": {
+      "Dogs like retrieving balls.": "狗喜欢把球捡回来。"
+    },
+    "tribute": {
+      "The whole company stood in silence for a few moments, as a tribute to the dead.": "全公司人员静默了片刻，向逝者致敬。"
+    },
+    "bomber": {
+      "Tom seems to be unwilling to be a suicide bomber.": "汤姆似乎不愿成为一名自杀式炸弹袭击者。"
+    },
+    "anchor": {
+      "They usually use an anchor to hold a yacht in place.": "他们通常用锚把游艇固定在原处。"
+    },
+    "scrutiny": {
+      "The downside of fame is public scrutiny.": "出名的弊端是要接受公众的审视。"
+    },
+    "suppress": {
+      "Tom tried to suppress a smile.": "汤姆尽力忍住笑。"
+    },
+    "loser": {
+      "I know that Tom is a bad loser.": "我知道汤姆是个输不起的人。"
+    },
+    "reproduce": {
+      "Bacteria reproduce by fission.": "细菌通过分裂繁殖。"
+    },
+    "marijuana": {
+      "There was a strong smell of marijuana in the air.": "空气中有一股浓烈的大麻气味。"
+    },
+    "militia": {
+      "Congress shall have power to provide for calling forth the militia": "国会有权作出征召民兵的规定。"
+    },
+    "tenure": {
+      "I just got tenure.": "我刚刚获得了终身教职。"
+    },
+    "editorial": {
+      "The journalist was accused of playing fast and loose with the facts in the editorial he wrote.": "这位记者被指责在他写的社论中歪曲事实。"
+    },
+    "subsequently": {
+      "Independent for over 300 years, Iceland was subsequently ruled by Norway and Denmark.": "冰岛曾独立三百多年，之后先后受到挪威和丹麦的统治。"
+    },
+    "merger": {
+      "There will be no merger.": "不会发生合并。"
+    },
+    "crude": {
+      "A tanker is a ship that carries crude oil.": "油轮是运送原油的船。"
+    },
+    "sheriff": {
+      "The sheriff is waiting for you in his office.": "治安官正在办公室等你。"
+    },
+    "pal": {
+      "Who does Tom pal around with?": "汤姆平常和谁混在一起？"
+    },
+    "sailor": {
+      "Would you like to be a sailor?": "你想当一名水手吗？"
+    },
+    "ranking": {
+      "A general is a high-ranking military officer.": "将军是一种高级军官。"
+    },
+    "hover": {
+      "Tom is hovering between life and death.": "汤姆正徘徊在生死边缘。"
+    },
+    "stunning": {
+      "You really do look stunning.": "你看起来确实非常迷人。"
+    },
+    "cowboy": {
+      "Tom often wears cowboy boots and a cowboy hat.": "汤姆经常穿牛仔靴、戴牛仔帽。"
+    },
+    "copper": {
+      "Copper and silver are both metals.": "铜和银都是金属。"
+    },
+    "pupil": {
+      "This is my star pupil.": "这是我最出色的学生。"
+    },
+    "ninth": {
+      "Two to the ninth power is five hundred twelve.": "二的九次方等于五百一十二。"
+    },
+    "lyrics": {
+      "Do you know the lyrics to this song?": "你知道这首歌的歌词吗？"
+    },
+    "ward": {
+      "The talisman he's wearing is supposed to ward off evil spirits.": "他佩戴的护身符据说能够驱邪。"
+    },
+    "mound": {
+      "they have a southpaw on the mound": "他们派了一名左投手上投手丘。"
+    },
+    "tilt": {
+      "the tower had a pronounced tilt": "那座塔明显倾斜。"
+    },
+    "reasonably": {
+      "Tom is looking for a reasonably-priced used car.": "汤姆正在寻找一辆价格合理的二手车。"
+    },
+    "medieval": {
+      "The Medieval Era gave way to the Renaissance.": "中世纪之后迎来了文艺复兴。"
+    },
+    "learner": {
+      "I know that Tom is a quick learner.": "我知道汤姆学东西很快。"
+    },
+    "knot": {
+      "Tom taught me how to tie a square knot.": "汤姆教我怎样打平结。"
+    },
+    "prosecute": {
+      "Trespassers will be prosecuted.": "擅自闯入者将被起诉。"
+    },
+    "glow": {
+      "From the sphere emanated some kind of strange glow.": "那个球体发出某种奇怪的光。"
+    },
+    "embody": {
+      "He embodies all that is evil wrong with the system": "他身上体现了这个体制中一切邪恶和错误的东西。"
+    },
+    "raid": {
+      "Tom and Mary ran into the air-raid shelter.": "汤姆和玛丽跑进了防空洞。"
+    },
+    "crab": {
+      "he caught a crab and lost the race": "他划船时桨叶卡住了水面，因此输了比赛。"
+    },
+    "farming": {
+      "This land is ideal for farming.": "这片土地非常适合耕种。"
+    },
+    "vinegar": {
+      "A dash of vinegar is all the salad needs.": "这道沙拉只需要加一点点醋。"
+    },
+    "remedy": {
+      "Is there a remedy?": "有补救办法吗？"
+    },
+    "purely": {
+      "It was purely by accident.": "那完全是偶然发生的。"
+    },
+    "bass": {
+      "Tom plays the bass guitar in our band.": "汤姆在我们乐队里弹贝斯。"
+    },
+    "lesser": {
+      "Choose the lesser of two evils.": "两害相权取其轻。"
+    },
+    "shiny": {
+      "Some people are fascinated by shiny new things.": "有些人会被闪亮的新东西吸引。"
+    },
+    "memo": {
+      "Lend me a memo pad or something.": "借我一本便笺本之类的东西。"
+    },
+    "colored": {
+      "Do you want to color with markers or colored pencils?": "你想用记号笔还是彩色铅笔涂色？"
+    },
+    "clutch": {
+      "Tom released the clutch too fast and stalled the engine.": "汤姆松离合器太快，导致发动机熄火了。"
+    },
+    "silently": {
+      "She sat there silently with tears in her eyes.": "她默默地坐在那里，眼里含着泪。"
+    },
+    "curl": {
+      "The cat slept curled up in a ball.": "猫蜷成一团睡着了。"
+    },
+    "kidney": {
+      "I need a new kidney.": "我需要一个新的肾脏。"
+    },
+    "healing": {
+      "The wound on my leg is healing.": "我腿上的伤口正在愈合。"
+    },
+    "trillion": {
+      "In 2004, South Korea's GDP surpassed one trillion dollars.": "二〇〇四年，韩国的国内生产总值超过了一万亿美元。"
+    },
+    "homicide": {
+      "Tom was a homicide detective before he retired.": "汤姆退休前是一名凶杀案侦探。"
+    },
+    "herd": {
+      "How many deer are there in your herd?": "你那群鹿有多少只？"
+    },
+    "atom": {
+      "Electrons orbit around the nucleus of the atom.": "电子围绕原子核运动。"
+    },
+    "pledge": {
+      "I give my pledge that I will quit smoking.": "我保证会戒烟。"
+    },
+    "infect": {
+      "The hospital quarantined the infected patients to avoid cross infection.": "医院隔离了受感染的病人，以避免交叉感染。"
+    },
+    "paradigm": {
+      "he framed the problem within the psychoanalytic paradigm": "他在精神分析的理论框架内阐述了这个问题。"
+    },
+    "comet": {
+      "He claimed that he had discovered a new comet.": "他声称自己发现了一颗新彗星。"
+    },
+    "cocktail": {
+      "Tom handed a cocktail to Mary.": "汤姆递给玛丽一杯鸡尾酒。"
+    },
+    "robe": {
+      "I hung your robe up in the bathroom.": "我把你的浴袍挂在浴室里了。"
+    },
+    "abruptly": {
+      "The taxi abruptly turned left.": "出租车突然向左拐。"
+    },
+    "cult": {
+      "Is it true that Tom joined a cult?": "汤姆真的加入了一个邪教吗？"
+    },
+    "nursing": {
+      "He fainted from the heat, but his wife's patient nursing brought him to.": "他热得昏倒了，但妻子的耐心护理让他苏醒过来。"
+    },
+    "hatred": {
+      "Love is blind. Hatred is also blind.": "爱是盲目的，恨也是盲目的。"
+    },
+    "diameter": {
+      "Is it possible to determine the diameter from the circumference?": "能根据周长算出直径吗？"
+    },
+    "acute": {
+      "He felt an acute pain in his chest.": "他感到胸口一阵剧痛。"
+    },
+    "induce": {
+      "Moderate exercise in the evening helps induce sleep.": "傍晚适度运动有助于入睡。"
+    },
+    "rookie": {
+      "Tom is still a rookie.": "汤姆还是个新手。"
+    },
+    "juvenile": {
+      "The increase in juvenile delinquency is a serious problem.": "青少年犯罪增加是一个严重的问题。"
+    },
+    "gown": {
+      "At the dance, everyone raved about my gown.": "舞会上，大家都对我的礼服赞不绝口。"
+    },
+    "notably": {
+      "Notably missing from the network's fall line-up are any half-hour scripted comedies": "这家电视网的秋季节目单中，明显没有任何半小时的剧本喜剧。"
+    },
+    "torture": {
+      "The torture made him confess to crimes he had not committed.": "酷刑迫使他承认了自己没有犯过的罪行。"
+    },
+    "exile": {
+      "Napoleon lived in exile on the island of Elba.": "拿破仑曾在厄尔巴岛过着流放生活。"
+    },
+    "chorus": {
+      "Tom sings in the school chorus.": "汤姆在学校合唱团唱歌。"
+    },
+    "lure": {
+      "He lured her away from her husband.": "他引诱她离开了丈夫。"
+    },
+    "dusty": {
+      "I like walking on dusty and rocky trails.": "我喜欢在尘土飞扬、遍布碎石的小路上行走。"
+    },
+    "cane": {
+      "Tom can no longer walk without a cane.": "汤姆现在不拄拐杖就无法行走。"
+    },
+    "forge": {
+      "Tom admitted that he forged the check.": "汤姆承认他伪造了支票。"
+    },
+    "odor": {
+      "The odor of dirty socks makes me gag.": "脏袜子的气味让我想吐。"
+    },
+    "slim": {
+      "My uncle is slim, but my aunt is fat.": "我叔叔很瘦，但我婶婶很胖。"
+    },
+    "allege": {
+      "He alleged that he was the victim of a crime": "他声称自己是一起犯罪的受害者。"
+    },
+    "hut": {
+      "Tom lived in a little hut near the beach.": "汤姆曾住在海滩附近的一间小屋里。"
+    },
+    "banner": {
+      "We made a banner.": "我们做了一条横幅。"
+    },
+    "orthodox": {
+      "Are you an orthodox priest?": "你是一位东正教神父吗？"
+    },
+    "strand": {
+      "The airline provided free accommodation to stranded passengers as a goodwill gesture.": "航空公司出于善意，为滞留的旅客提供了免费住宿。"
+    },
+    "payroll": {
+      "the company had a large payroll": "这家公司的员工很多。"
+    },
+    "freshly": {
+      "The smell of freshly brewed tea filled the room.": "刚泡好的茶香充满了房间。"
+    },
+    "grim": {
+      "The fireman's face was grim when he came out of the burning house.": "消防员从着火的房屋里出来时，神情严肃。"
+    },
+    "bead": {
+      "A bead of sweat trickled down Tom's face.": "一滴汗顺着汤姆的脸颊流下来。"
+    },
+    "drought": {
+      "The drought did severe damage to the harvest.": "干旱给收成造成了严重损害。"
+    },
+    "believer": {
+      "Tom is a believer.": "汤姆是一名信徒。"
+    },
+    "merge": {
+      "The Mitsubishi Bank merged with the Bank of Tokyo.": "三菱银行与东京银行合并了。"
+    },
+    "shaft": {
+      "Tom fell down an elevator shaft.": "汤姆掉进了电梯井。"
+    },
+    "vanilla": {
+      "Do you prefer vanilla or chocolate ice cream?": "你更喜欢香草味还是巧克力味的冰淇淋？"
+    },
+    "lone": {
+      "Tom is a lone wolf.": "汤姆是个独来独往的人。"
+    },
+    "shotgun": {
+      "The hunter aimed a shotgun at the flock of birds.": "猎人用霰弹枪瞄准了那群鸟。"
+    },
+    "venue": {
+      "The date and venue for our next concert haven't yet been set.": "我们下一场音乐会的日期和地点尚未确定。"
+    },
+    "grill": {
+      "My band will perform this week at Chuck's Bar and Grill. Please come and see us.": "我的乐队本周将在查克酒吧餐厅演出，请来看我们。"
+    },
+    "posture": {
+      "Poor posture can cause many problems.": "不良姿势可能引起很多问题。"
+    },
+    "demon": {
+      "The demon lord finally lost consciousness and fell to the floor with a thud.": "魔王终于失去知觉，砰的一声倒在地上。"
+    },
+    "viking": {
+      "They say that the Vikings discovered America before Columbus.": "据说维京人在哥伦布之前就发现了美洲。"
+    },
+    "reassure": {
+      "Tom tried to reassure Mary.": "汤姆试图让玛丽安心。"
+    },
+    "pope": {
+      "The cardinals have elected a new pope.": "枢机主教们选出了一位新教皇。"
+    },
+    "invoke": {
+      "He invoked the law that would save him": "他援引了那条能使自己免受惩罚的法律。"
+    },
+    "tub": {
+      "Tom stood up and got out of the tub.": "汤姆站起来，走出了浴缸。"
+    },
+    "theirs": {
+      "Our car is rather old, but so is theirs.": "我们的车很旧，他们的也一样。"
+    },
+    "despair": {
+      "Despair drove him to attempt suicide.": "绝望使他企图自杀。"
+    },
+    "lime": {
+      "Lemons and limes are acidic fruits.": "柠檬和青柠都是酸性水果。"
+    },
+    "fulfill": {
+      "I can no longer fulfill my obligations.": "我再也无法履行自己的义务了。"
+    },
+    "holder": {
+      "Where's your pot holder?": "你的隔热垫在哪里？"
+    },
+    "moisture": {
+      "If your windows are not airtight, moisture will seep in.": "如果窗户不密封，湿气就会渗入。"
+    },
+    "rattle": {
+      "The baby was playing with a rattle.": "宝宝正在玩拨浪鼓。"
+    },
+    "widen": {
+      "This road was widened last year.": "这条路去年拓宽了。"
+    },
+    "gospel": {
+      "Tom read a passage from the Gospel of Matthew.": "汤姆读了一段《马太福音》。"
+    },
+    "rigid": {
+      "a table made of rigid plastic": "一张用硬塑料制成的桌子"
+    },
+    "tumble": {
+      "They tumbled the teams with no apparent pattern": "他们把各队打乱，没有明显的规律。"
+    },
+    "backup": {
+      "What kind of a backup plan do you have?": "你有什么备用计划？"
+    },
+    "detector": {
+      "Have you ever taken a lie detector test?": "你参加过测谎仪测试吗？"
+    },
+    "grid": {
+      "Experts have concluded that the country's power grid is susceptible to a cyber attack.": "专家们得出结论，该国电网容易遭到网络攻击。"
+    },
+    "recount": {
+      "We demanded a recount.": "我们要求重新计票。"
+    },
+    "settler": {
+      "The Indians gave the settlers food.": "印第安人给了定居者食物。"
+    },
+    "breed": {
+      "Some animals will not breed when kept in cages.": "有些动物关在笼子里就不繁殖。"
+    },
+    "reckon": {
+      "I reckon Tom will be interested.": "我估计汤姆会感兴趣。"
+    },
+    "clockwise": {
+      "How do you tighten a screw, clockwise or counterclockwise?": "拧紧螺丝应该顺时针转，还是逆时针转？"
+    },
+    "faithfully": {
+      "He served his king faithfully.": "他忠诚地为国王效力。"
+    },
+    "alright": {
+      "Tom is alright now.": "汤姆现在没事了。"
+    },
+    "rubbish": {
+      "Put all the rubbish in the barrel.": "把所有垃圾都放进桶里。"
+    },
+    "colorless": {
+      "Carbon monoxide is colorless and odorless.": "一氧化碳无色无味。"
+    },
+    "ox": {
+      "Tom is as strong as an ox.": "汤姆壮得像头牛。"
+    },
+    "sneaker": {
+      "Tom put his new sneakers in his bag.": "汤姆把新运动鞋放进了包里。"
+    }
+  },
+  "examples": {
+    "welcoming": [
+      {
+        "en": "The staff were welcoming guests at the door.",
+        "zh": "工作人员正在门口迎接客人。"
+      }
+    ],
+    "contrasting": [
+      {
+        "en": "The report begins by contrasting the two approaches.",
+        "zh": "报告开头对这两种方法进行了比较。"
+      }
+    ],
+    "mirrored": [
+      {
+        "en": "The lake mirrored the mountains.",
+        "zh": "湖面映照出群山的倒影。"
+      }
+    ],
+    "granting": [
+      {
+        "en": "The council is considering granting permission for the event.",
+        "zh": "市政委员会正在考虑批准这次活动。"
+      }
+    ],
+    "traveller": [
+      {
+        "en": "The traveller stopped to ask for directions.",
+        "zh": "这位旅行者停下来问路。"
+      }
+    ],
+    "averaged": [
+      {
+        "en": "The class averaged eighty points on the test.",
+        "zh": "全班这次考试平均得了八十分。"
+      }
+    ],
+    "conflicted": [
+      {
+        "en": "His account conflicted with the other witness's statement.",
+        "zh": "他的叙述与另一位证人的陈述相矛盾。"
+      }
+    ],
+    "reviewing": [
+      {
+        "en": "She is reviewing her notes before the exam.",
+        "zh": "她正在考前复习笔记。"
+      }
+    ],
+    "assessed": [
+      {
+        "en": "The teacher assessed each student's progress.",
+        "zh": "老师评估了每个学生的进步情况。"
+      }
+    ],
+    "farmed": [
+      {
+        "en": "His family farmed this land for generations.",
+        "zh": "他的家族世世代代耕种这片土地。"
+      }
+    ],
+    "cited": [
+      {
+        "en": "The article cited several recent studies.",
+        "zh": "这篇文章引用了几项近期研究。"
+      }
+    ],
+    "cheque": [
+      {
+        "en": "She paid for the repairs by cheque.",
+        "zh": "她用支票支付了修理费。"
+      }
+    ],
+    "thinned": [
+      {
+        "en": "He thinned the paint with a little water.",
+        "zh": "他加了少量水把油漆稀释。"
+      }
+    ],
+    "honoring": [
+      {
+        "en": "The town is honoring its volunteers today.",
+        "zh": "这个镇今天正在表彰志愿者。"
+      }
+    ],
+    "recalling": [
+      {
+        "en": "She smiled while recalling her school days.",
+        "zh": "回忆起学生时代时，她笑了。"
+      }
+    ],
+    "zucchini": [
+      {
+        "en": "We added sliced zucchini to the soup.",
+        "zh": "我们在汤里加入了切片的西葫芦。"
+      }
+    ],
+    "moisturizer": [
+      {
+        "en": "She applied moisturizer after washing her face.",
+        "zh": "洗脸后，她涂了保湿霜。"
+      }
+    ],
+    "workbook": [
+      {
+        "en": "Complete the exercises in your workbook.",
+        "zh": "完成练习册上的习题。"
+      }
+    ],
+    "dustbin": [
+      {
+        "en": "Please put the empty packet in the dustbin.",
+        "zh": "请把空包装袋扔进垃圾箱。"
+      }
+    ],
+    "congratulation": [
+      {
+        "en": "He sent her a letter of congratulation.",
+        "zh": "他给她寄去了一封贺信。"
+      }
+    ],
+    "westwards": [
+      {
+        "en": "The road continues westwards through the valley.",
+        "zh": "这条路穿过山谷，继续向西延伸。"
+      }
+    ],
+    "broadway": [
+      {
+        "en": "The musical opened on Broadway last spring.",
+        "zh": "这部音乐剧去年春天在百老汇首演。"
+      }
+    ],
+    "elk": [
+      {
+        "en": "An elk stood among the trees.",
+        "zh": "一只马鹿站在树丛中。"
+      }
+    ],
+    "crap": [
+      {
+        "en": "The drawer was full of old crap.",
+        "zh": "抽屉里塞满了破烂东西。"
+      }
+    ],
+    "militant": [
+      {
+        "en": "The group adopted a more militant approach.",
+        "zh": "这个团体采取了更加激进的做法。"
+      }
+    ],
+    "mistress": [
+      {
+        "en": "She was the mistress of the household.",
+        "zh": "她是这户人家的女主人。"
+      }
+    ],
+    "gee": [
+      {
+        "en": "Gee, that was fast!",
+        "zh": "哎呀，真快！"
+      }
+    ],
+    "serbian": [
+      {
+        "en": "Our Serbian neighbor invited us to dinner.",
+        "zh": "我们的塞尔维亚邻居邀请我们共进晚餐。"
+      }
+    ],
+    "um": [
+      {
+        "en": "Um, could you repeat the question?",
+        "zh": "嗯，你能重复一下问题吗？"
+      }
+    ],
+    "hurl": [
+      {
+        "en": "Do not hurl stones into the garden.",
+        "zh": "不要把石头猛扔进花园。"
+      }
+    ],
+    "whoa": [
+      {
+        "en": "Whoa, that box is heavier than I expected!",
+        "zh": "哇，那个箱子比我预想的还重！"
+      }
+    ],
+    "madame": [
+      {
+        "en": "Madame Dupont greeted the visitors warmly.",
+        "zh": "杜邦夫人热情地迎接了来访者。"
+      }
+    ],
+    "crave": [
+      {
+        "en": "After the long walk, I began to crave something sweet.",
+        "zh": "走了很长一段路后，我开始特别想吃甜食。"
+      }
+    ],
+    "novice": [
+      {
+        "en": "This course is designed for a complete novice.",
+        "zh": "这门课是为零基础的初学者设计的。"
+      }
+    ],
+    "runoff": [
+      {
+        "en": "Heavy rain increased runoff from the fields.",
+        "zh": "大雨增加了农田的地表径流。"
+      }
+    ],
+    "mastery": [
+      {
+        "en": "Mastery of the skill requires regular practice.",
+        "zh": "熟练掌握这项技能需要经常练习。"
+      }
+    ],
+    "facade": [
+      {
+        "en": "The building has a beautiful stone facade.",
+        "zh": "这座建筑有一面漂亮的石砌外立面。"
+      }
+    ],
+    "creamy": [
+      {
+        "en": "Stir the sauce until it becomes smooth and creamy.",
+        "zh": "搅拌酱汁，直到它变得顺滑浓稠。"
+      }
+    ],
+    "peril": [
+      {
+        "en": "The rescue team faced great peril in the storm.",
+        "zh": "救援队在暴风雨中面临巨大的危险。"
+      }
+    ],
+    "genetics": [
+      {
+        "en": "She studies genetics at the university.",
+        "zh": "她在大学研究遗传学。"
+      }
+    ],
+    "payoff": [
+      {
+        "en": "The payoff for months of training was a place in the final.",
+        "zh": "数月训练的回报是获得了决赛资格。"
+      }
+    ],
+    "lebanese": [
+      {
+        "en": "The restaurant serves Lebanese food.",
+        "zh": "这家餐厅供应黎巴嫩美食。"
+      }
+    ],
+    "elevated": [
+      {
+        "en": "The path leads to an elevated viewing platform.",
+        "zh": "这条小路通向一个高处的观景台。"
+      }
+    ],
+    "abound": [
+      {
+        "en": "Wildflowers abound in the valley in spring.",
+        "zh": "春天，山谷里长满了野花。"
+      }
+    ],
+    "linkage": [
+      {
+        "en": "The study explores the linkage between sleep and memory.",
+        "zh": "这项研究探讨睡眠与记忆之间的联系。"
+      }
+    ],
+    "plummet": [
+      {
+        "en": "Temperatures can plummet after sunset.",
+        "zh": "日落后气温可能骤降。"
+      }
+    ],
+    "drainage": [
+      {
+        "en": "The garden needs better drainage.",
+        "zh": "这个花园需要改善排水。"
+      }
+    ],
+    "navajo": [
+      {
+        "en": "The exhibition features work by Navajo artists.",
+        "zh": "这次展览展出了纳瓦霍艺术家的作品。"
+      }
+    ],
+    "inning": [
+      {
+        "en": "The team scored twice in the final inning.",
+        "zh": "这支球队在最后一局得了两分。"
+      }
+    ],
+    "mesh": [
+      {
+        "en": "A fine mesh keeps insects out.",
+        "zh": "细密的网可以阻挡昆虫进入。"
+      }
+    ],
+    "discern": [
+      {
+        "en": "I could barely discern a shape in the fog.",
+        "zh": "我在雾中勉强能辨认出一个轮廓。"
+      }
+    ],
+    "alarming": [
+      {
+        "en": "The report revealed an alarming rise in waste.",
+        "zh": "报告显示废弃物数量出现了令人担忧的增长。"
+      }
+    ],
+    "nasal": [
+      {
+        "en": "He spoke in a nasal voice.",
+        "zh": "他说话带着鼻音。"
+      }
+    ],
+    "orderly": [
+      {
+        "en": "The students left the room in an orderly line.",
+        "zh": "学生们排着整齐的队伍离开了房间。"
+      }
+    ],
+    "flake": [
+      {
+        "en": "A flake of paint fell from the ceiling.",
+        "zh": "一片油漆从天花板上脱落。"
+      }
+    ],
+    "newborn": [
+      {
+        "en": "The newborn slept in her father's arms.",
+        "zh": "新生儿在父亲怀里睡着了。"
+      }
+    ],
+    "saga": [
+      {
+        "en": "The novel tells the saga of a family across three generations.",
+        "zh": "这部小说讲述了一个家族三代人的传奇故事。"
+      }
+    ],
+    "offshore": [
+      {
+        "en": "A wind farm is being built offshore.",
+        "zh": "一个风力发电场正在近海建设。"
+      }
+    ],
+    "psyche": [
+      {
+        "en": "The experience left a deep mark on her psyche.",
+        "zh": "这段经历在她心灵深处留下了印记。"
+      }
+    ],
+    "loft": [
+      {
+        "en": "We store old boxes in the loft.",
+        "zh": "我们把旧箱子存放在阁楼里。"
+      }
+    ],
+    "layoff": [
+      {
+        "en": "The factory announced another layoff.",
+        "zh": "工厂又宣布了一次裁员。"
+      }
+    ],
+    "champ": [
+      {
+        "en": "She became the club's youngest tennis champ.",
+        "zh": "她成了这个俱乐部最年轻的网球冠军。"
+      }
+    ],
+    "amongst": [
+      {
+        "en": "A small cottage stood amongst the trees.",
+        "zh": "一间小屋坐落在树林中。"
+      }
+    ],
+    "fiery": [
+      {
+        "en": "The sunset painted the sky a fiery orange.",
+        "zh": "落日把天空染成了火红的橙色。"
+      }
+    ],
+    "breach": [
+      {
+        "en": "Sharing the password was a breach of the rules.",
+        "zh": "泄露密码违反了规定。"
+      }
+    ],
+    "polling": [
+      {
+        "en": "The polling station opens at seven.",
+        "zh": "投票站七点开放。"
+      }
+    ],
+    "lobbying": [
+      {
+        "en": "They are lobbying for better public transport.",
+        "zh": "他们正在游说，争取改善公共交通。"
+      }
+    ],
+    "akin": [
+      {
+        "en": "Her feeling was akin to relief.",
+        "zh": "她的感觉有些像如释重负。"
+      }
+    ],
+    "estrogen": [
+      {
+        "en": "Estrogen is one of the hormones discussed in the chapter.",
+        "zh": "雌激素是本章讨论的激素之一。"
+      }
+    ],
+    "succumb": [
+      {
+        "en": "He refused to succumb to pressure.",
+        "zh": "他拒绝屈服于压力。"
+      }
+    ],
+    "forearm": [
+      {
+        "en": "She rested her forearm on the table.",
+        "zh": "她把前臂放在桌子上。"
+      }
+    ],
+    "stellar": [
+      {
+        "en": "The team delivered a stellar performance.",
+        "zh": "这支团队表现得非常出色。"
+      }
+    ],
+    "outreach": [
+      {
+        "en": "The library runs an outreach program for local schools.",
+        "zh": "图书馆为当地学校开展外展服务项目。"
+      }
+    ],
+    "regimen": [
+      {
+        "en": "He follows a strict training regimen.",
+        "zh": "他遵循严格的训练计划。"
+      }
+    ],
+    "fetus": [
+      {
+        "en": "The diagram shows the position of the fetus.",
+        "zh": "这张图展示了胎儿的位置。"
+      }
+    ],
+    "casting": [
+      {
+        "en": "The director is in charge of casting for the play.",
+        "zh": "导演负责这部戏的选角。"
+      }
+    ],
+    "shaky": [
+      {
+        "en": "The old table stood on shaky legs.",
+        "zh": "那张旧桌子的桌腿摇摇晃晃。"
+      }
+    ],
+    "podium": [
+      {
+        "en": "The speaker walked up to the podium.",
+        "zh": "演讲者走上讲台。"
+      }
+    ],
+    "novelty": [
+      {
+        "en": "The novelty of the new toy soon wore off.",
+        "zh": "这个新玩具的新鲜感很快就消失了。"
+      }
+    ],
+    "pastel": [
+      {
+        "en": "She painted the room in soft pastel colors.",
+        "zh": "她把房间刷成了柔和的淡色。"
+      }
+    ],
+    "dropout": [
+      {
+        "en": "The program helps each school dropout return to education.",
+        "zh": "这个项目帮助每一位辍学生重新接受教育。"
+      }
+    ],
+    "grouping": [
+      {
+        "en": "The grouping of the books by topic makes them easy to find.",
+        "zh": "按主题给图书分组，便于查找。"
+      }
+    ],
+    "neon": [
+      {
+        "en": "The sign glowed with bright neon light.",
+        "zh": "招牌闪烁着明亮的霓虹灯光。"
+      }
+    ],
+    "spinal": [
+      {
+        "en": "The diagram shows the spinal cord.",
+        "zh": "这张图展示了脊髓。"
+      }
+    ],
+    "gland": [
+      {
+        "en": "Each gland produces a different substance.",
+        "zh": "每个腺体产生不同的物质。"
+      }
+    ],
+    "colorfully": [
+      {
+        "en": "The children dressed colorfully for the festival.",
+        "zh": "孩子们穿得五颜六色来参加节日活动。"
+      }
+    ],
+    "employable": [
+      {
+        "en": "The course aims to make graduates more employable.",
+        "zh": "这门课程旨在提升毕业生的就业能力。"
+      }
+    ],
+    "evangelical": [
+      {
+        "en": "The church belongs to an evangelical tradition.",
+        "zh": "这座教堂属于福音派传统。"
+      }
+    ],
+    "sensibility": [
+      {
+        "en": "The designer has a strong artistic sensibility.",
+        "zh": "这位设计师具有敏锐的艺术感受力。"
+      }
+    ],
+    "strategist": [
+      {
+        "en": "The coach is a skilled strategist.",
+        "zh": "这位教练擅长制定策略。"
+      }
+    ],
+    "demise": [
+      {
+        "en": "The closure marked the demise of the local newspaper.",
+        "zh": "这次停刊标志着这家地方报纸的终结。"
+      }
+    ],
+    "planetary": [
+      {
+        "en": "The telescope is used for planetary observation.",
+        "zh": "这台望远镜用于行星观测。"
+      }
+    ],
+    "accompanying": [
+      {
+        "en": "Please read the accompanying notes.",
+        "zh": "请阅读随附的说明。"
+      }
+    ],
+    "irrigation": [
+      {
+        "en": "The farms rely on irrigation during the dry season.",
+        "zh": "这些农场在旱季依靠灌溉。"
+      }
+    ],
+    "deduction": [
+      {
+        "en": "The mistake led to a deduction of five points.",
+        "zh": "这个错误导致被扣了五分。"
+      }
+    ],
+    "interpersonal": [
+      {
+        "en": "The job requires good interpersonal skills.",
+        "zh": "这份工作需要良好的人际交往能力。"
+      }
+    ],
+    "inconsistent": [
+      {
+        "en": "His account was inconsistent with the evidence.",
+        "zh": "他的叙述与证据不符。"
+      }
+    ],
+    "relentless": [
+      {
+        "en": "The relentless noise made it hard to concentrate.",
+        "zh": "持续不断的噪声让人难以集中注意力。"
+      }
+    ],
+    "authoritarian": [
+      {
+        "en": "The novel describes life under an authoritarian government.",
+        "zh": "这部小说描写了威权政府统治下的生活。"
+      }
+    ],
+    "disparity": [
+      {
+        "en": "There is a large disparity in income between the two regions.",
+        "zh": "这两个地区之间存在很大的收入差距。"
+      }
+    ],
+    "activism": [
+      {
+        "en": "Her environmental activism inspired many students.",
+        "zh": "她的环保行动激励了许多学生。"
+      }
+    ],
+    "subcommittee": [
+      {
+        "en": "The proposal will be examined by a subcommittee.",
+        "zh": "该提案将交由一个小组委员会审议。"
+      }
+    ],
+    "ethic": [
+      {
+        "en": "A strong work ethic helped her succeed.",
+        "zh": "强烈的工作责任感帮助她取得了成功。"
+      }
+    ],
+    "realism": [
+      {
+        "en": "The painting impressed us with its realism.",
+        "zh": "这幅画的逼真程度给我们留下了深刻印象。"
+      }
+    ],
+    "tangible": [
+      {
+        "en": "The project has brought tangible benefits.",
+        "zh": "这个项目带来了实实在在的好处。"
+      }
+    ],
+    "tactical": [
+      {
+        "en": "The coach made a tactical change at halftime.",
+        "zh": "教练在中场休息时作出了战术调整。"
+      }
+    ],
+    "socialism": [
+      {
+        "en": "The course examines the history of socialism.",
+        "zh": "这门课研究社会主义的历史。"
+      }
+    ],
+    "intricate": [
+      {
+        "en": "The rug has an intricate pattern.",
+        "zh": "这张地毯的图案非常精细复杂。"
+      }
+    ],
+    "theatrical": [
+      {
+        "en": "She made a theatrical gesture of surprise.",
+        "zh": "她用夸张的动作表示惊讶。"
+      }
+    ],
+    "severity": [
+      {
+        "en": "The response depends on the severity of the problem.",
+        "zh": "应对措施取决于问题的严重程度。"
+      }
+    ],
+    "deposition": [
+      {
+        "en": "The lawyer read the witness's deposition.",
+        "zh": "律师读了证人的书面证词。"
+      }
+    ],
+    "openness": [
+      {
+        "en": "Her openness made the discussion easier.",
+        "zh": "她坦诚的态度让讨论更加轻松。"
+      }
+    ],
+    "reconstruct": [
+      {
+        "en": "They used old photographs to reconstruct the building.",
+        "zh": "他们利用旧照片重建了这座建筑。"
+      }
+    ],
+    "analytical": [
+      {
+        "en": "The role requires strong analytical skills.",
+        "zh": "这个职位需要很强的分析能力。"
+      }
+    ],
+    "chaotic": [
+      {
+        "en": "The station was chaotic after the delay.",
+        "zh": "列车晚点后，车站一片混乱。"
+      }
+    ],
+    "frantic": [
+      {
+        "en": "They made a frantic search for the missing keys.",
+        "zh": "他们焦急万分地寻找丢失的钥匙。"
+      }
+    ],
+    "southwestern": [
+      {
+        "en": "The storm moved across the southwestern coast.",
+        "zh": "暴风雨横扫了西南海岸。"
+      }
+    ],
+    "northeastern": [
+      {
+        "en": "She grew up in a northeastern city.",
+        "zh": "她在一座东北部城市长大。"
+      }
+    ],
+    "liberate": [
+      {
+        "en": "Education can liberate people from ignorance.",
+        "zh": "教育能够使人摆脱无知。"
+      }
+    ],
+    "feminism": [
+      {
+        "en": "The book explores the history of feminism.",
+        "zh": "这本书探讨了女权主义的历史。"
+      }
+    ]
+  },
+  "meaningFixes": {
+    "elk": {
+      "meaningZh": "n. 马鹿（美式英语）；驼鹿（英式英语）",
+      "reason": "与麋鹿区分，按本词常见英美动物义说明。"
+    },
+    "champ": {
+      "meaningZh": "n. 冠军（champion 的口语形式）；咀嚼声；v. 用力咬；大声咀嚼",
+      "reason": "补常见冠军义以匹配当前用法，保留原义。"
+    },
+    "outreach": {
+      "meaningZh": "n. 外展服务；主动接触；扩大服务范围的活动；v. 伸出；超出",
+      "partOfSpeech": "n. / v.",
+      "reason": "补社区、教育、公共服务语境常见名词义。"
+    },
+    "spinal": {
+      "meaningZh": "adj. 脊柱的；脊髓的",
+      "reason": "去掉误导的针、尖刺义。"
+    },
+    "severity": {
+      "meaningZh": "n. 严重程度；严厉；严峻",
+      "reason": "补常见问题严重程度义。"
+    },
+    "re": {
+      "meaningZh": "n. 唱名 re（大调音阶的第二音）；prep. 关于；就…而言",
+      "partOfSpeech": "n. / prep.",
+      "reason": "清除与小写词无关的房地产缩写义；将re-和you’re误命中例句替换为真实唱名语境。"
+    },
+    "colonial": {
+      "meaningZh": "adj. 殖民的；殖民地的；（生物）群体生活的",
+      "reason": "补足既有珊瑚例句对应的群体生物义。"
+    },
+    "bureau": {
+      "meaningZh": "n. 局；办事处；五斗柜；带抽屉的书桌",
+      "reason": "补足现有bureau drawer例句对应的柜子义。"
+    }
+  },
+  "englishFixes": {
+    "peer": {
+      "Tom gave into peer pressure.": {
+        "en": "Tom gave in to peer pressure.",
+        "zh": "汤姆屈服于同伴的压力。",
+        "reason": "give in to的介词分词须分开。"
+      }
+    },
+    "withdraw": {
+      "How much money you would like to withdraw?": {
+        "en": "How much money would you like to withdraw?",
+        "zh": "你想取多少钱？",
+        "reason": "疑问句需要主谓倒装。"
+      }
+    },
+    "guideline": {
+      "What you're wearing on your feet don't meet safety guidelines.": {
+        "en": "What you're wearing on your feet doesn't meet safety guidelines.",
+        "zh": "你脚上穿的东西不符合安全规范。",
+        "reason": "what名词性从句作单数主语时助动词用does。"
+      }
+    },
+    "vast": {
+      "the vast accumulation of knowledge … which we call civilization": {
+        "en": "Civilization represents a vast accumulation of knowledge.",
+        "zh": "文明体现了庞大的知识积累。",
+        "reason": "以原创完整句替代无主句的原语料片段，原文另存。"
+      }
+    },
+    "canvas": {
+      "She canvassed the walls of her living room so as to conceal the ugly cracks": {
+        "en": "The painter stretched a fresh canvas over the frame.",
+        "zh": "画家在画框上绷好了一块新画布。",
+        "reason": "以当前名词画布义的原创例句替换不匹配的动词语境，原句保留用于追溯。"
+      }
+    },
+    "diabetes": {
+      "Camel milk is good for people with diabetes.": {
+        "en": "The article explains how diabetes affects the body.",
+        "zh": "这篇文章解释了糖尿病如何影响身体。",
+        "reason": "替换缺乏内部依据的具体饮食疗效断言，保留中性的词义语境。"
+      }
+    },
+    "syndrome": {
+      "Asperger syndrome is a form of autism.": {
+        "en": "The doctor explained the symptoms of the syndrome.",
+        "zh": "医生解释了这种综合征的症状。",
+        "reason": "采用不依赖疾病分类变动的中性语境。"
+      }
+    },
+    "intact": {
+      "she was intact, virginal": {
+        "en": "The package arrived intact.",
+        "zh": "包裹完好无损地送达了。",
+        "reason": "用完整、常用的完好无损语境替换古旧义项片段。"
+      }
+    },
+    "soak": {
+      "You have tennis elbow. Soak your arm in warm water.": {
+        "en": "Leave the cloth to soak in warm water.",
+        "zh": "把这块布留在温水里浸泡。",
+        "reason": "以日常浸泡语境替换未经复核的具体治疗建议。"
+      }
+    },
+    "youngster": {
+      "‘tiddler’ is a British term for youngster": {
+        "en": "The youngster waved to us from the gate.",
+        "zh": "那个孩子站在门口向我们挥手。",
+        "reason": "用日常完整例句替换另一个词的词典释义式句子。"
+      }
+    },
+    "embody": {
+      "He embodies all that is evil wrong with the system": {
+        "en": "He embodies all that is wrong with the system.",
+        "zh": "他身上集中体现了这个体制的一切弊端。",
+        "reason": "修复原句evil wrong连写造成的语法错误。"
+      }
+    },
+    "crab": {
+      "he caught a crab and lost the race": {
+        "en": "A crab crawled across the sand.",
+        "zh": "一只螃蟹爬过沙滩。",
+        "reason": "以当前螃蟹名词义替换未说明的划船习语。"
+      }
+    },
+    "tumble": {
+      "They tumbled the teams with no apparent pattern": {
+        "en": "The empty box began to tumble down the stairs.",
+        "zh": "空箱子开始滚落楼梯。",
+        "reason": "采用本词常见的滚落语境。"
+      }
+    },
+    "rigid": {
+      "a table made of rigid plastic": {
+        "en": "The table is made of rigid plastic.",
+        "zh": "这张桌子由硬塑料制成。",
+        "reason": "将短语补成完整例句。"
+      }
+    }
+  },
+  "replaceExamples": {
+    "re": [
+      {
+        "en": "Sing do, re, and mi in order.",
+        "zh": "依次唱出 do、re 和 mi。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1693 @@
+{
+  "meta": {
+    "version": "internal-review-v12",
+    "descriptionZh": "仅使用项目内置条目互证、现有句子原创译文与原创语境；不访问或导入外部词库。不能逐条实证确认的字段保留缺口。",
+    "license": "CC0 1.0（仅本轮原创文字；原有句子归属保留）"
+  },
+  "exampleTranslations": {
+    "wisdom": {
+      "Tom had two of his wisdom teeth pulled.": "汤姆拔掉了两颗智齿。"
+    },
+    "instance": {
+      "For instance, what would you have done if you were in my place?": "比如说，如果你处在我的位置，你会怎么做？"
+    },
+    "gesture": {
+      "He made a gesture with his hand.": "他用手做了个手势。"
+    },
+    "counselor": {
+      "I don't need a counselor.": "我不需要咨询师。"
+    },
+    "mount": {
+      "He was the first man that climbed Mount Everest.": "他是第一个登上珠穆朗玛峰的人。"
+    },
+    "pile": {
+      "Tom has a pile of textbooks on his desk.": "汤姆的书桌上放着一摞课本。"
+    },
+    "carbon": {
+      "Trees give off oxygen and absorb carbon dioxide.": "树木释放氧气，吸收二氧化碳。"
+    },
+    "scheme": {
+      "Were you the one who picked this color scheme?": "这个配色方案是你选的吗？"
+    },
+    "galaxy": {
+      "Our galaxy is called the Milky Way.": "我们所在的星系叫银河系。"
+    },
+    "publicly": {
+      "Tom publicly insulted me.": "汤姆当众侮辱了我。"
+    },
+    "fighter": {
+      "Tom has always wanted to be a fire fighter.": "汤姆一直想当消防员。"
+    },
+    "infant": {
+      "The young woman was carrying an infant in her arms.": "那位年轻女子怀里抱着一个婴儿。"
+    },
+    "porch": {
+      "Tom and Mary are on the porch, drinking coffee.": "汤姆和玛丽在门廊上喝咖啡。"
+    },
+    "guideline": {
+      "These are just guidelines, not hard and fast rules.": "这些只是指导原则，不是不可变通的规定。"
+    },
+    "publisher": {
+      "This publisher has put out some very good books.": "这家出版社出版过一些非常好的书。"
+    },
+    "myth": {
+      "It's a myth that poor people are lazy.": "穷人懒惰的说法是一种错误观念。"
+    },
+    "barrel": {
+      "The price of oil has dipped below $30 a barrel.": "油价已跌至每桶三十美元以下。"
+    },
+    "bombing": {
+      "Tom and Mary survived the bombing.": "汤姆和玛丽在轰炸中幸存了下来。"
+    },
+    "scope": {
+      "We need to understand the scope of the problem.": "我们需要了解这个问题涉及的范围。"
+    },
+    "prompt": {
+      "He wrote a prompt answer to my letter.": "他很快给我的信写了回复。"
+    },
+    "taxpayer": {
+      "This is a waste of taxpayers' money.": "这是在浪费纳税人的钱。"
+    },
+    "auto": {
+      "Lawyers and auto mechanics are the people I trust the least.": "我最不信任的人是律师和汽车修理工。"
+    },
+    "motor": {
+      "Figure seven shows all the parts of the motor.": "图七展示了这台电动机的所有部件。"
+    },
+    "assert": {
+      "He asserts that she is innocent.": "他坚称她是无辜的。"
+    },
+    "blade": {
+      "How often do you change your razor blade?": "你多久换一次剃须刀片？"
+    },
+    "dominant": {
+      "Less than one percent of the population is truly ambidextrous, that is, they have no dominant hand.": "真正左右手同样灵活的人不到总人口的百分之一，也就是说，他们没有惯用手。"
+    },
+    "heritage": {
+      "That's part of our heritage.": "那是我们传承的一部分。"
+    },
+    "wander": {
+      "You had better not wander around here by yourself.": "你最好不要独自在这一带闲逛。"
+    },
+    "legacy": {
+      "What do you want your legacy to be?": "你希望给后人留下什么？"
+    },
+    "shrug": {
+      "Tom answered with another shrug.": "汤姆又耸了耸肩，作为回答。"
+    },
+    "flesh": {
+      "You're my flesh and blood.": "你是我的骨肉。"
+    },
+    "mortgage": {
+      "A mortgage is a kind of loan that people can use to buy a house.": "抵押贷款是一种可用于买房的贷款。"
+    },
+    "comedy": {
+      "I saw an amusing comedy last night.": "我昨晚看了一部有趣的喜剧。"
+    },
+    "civilian": {
+      "The civilian unrest is showing no signs of abating.": "民众的骚乱没有任何平息的迹象。"
+    },
+    "weekly": {
+      "Tom's commissions often exceed his weekly salary.": "汤姆的佣金常常超过他的周薪。"
+    },
+    "habitat": {
+      "Their habitat is threatened by deforestation.": "它们的栖息地受到森林砍伐的威胁。"
+    },
+    "province": {
+      "Canada has thirteen provinces and territories.": "加拿大共有十三个省和地区。"
+    },
+    "summit": {
+      "The summit of the mountain is covered with snow.": "山顶覆盖着积雪。"
+    },
+    "odds": {
+      "The drawer is stuffed full of odds and ends.": "抽屉里塞满了零碎杂物。"
+    },
+    "ah": {
+      "Ah, I see what you mean.": "啊，我明白你的意思了。"
+    },
+    "competitor": {
+      "Do you think Tom is selling company secrets to competitors?": "你认为汤姆在向竞争对手出售公司机密吗？"
+    },
+    "portray": {
+      "The father is portrayed as a good-looking man in this painting": "这幅画把父亲描绘成一位相貌英俊的男子。"
+    },
+    "rhythm": {
+      "I like the slow rhythm of that song.": "我喜欢那首歌舒缓的节奏。"
+    },
+    "script": {
+      "That wasn't in the script.": "剧本里没有那一段。"
+    },
+    "headline": {
+      "That headline was extremely misleading.": "那个标题极具误导性。"
+    },
+    "grocery": {
+      "This grocery store only sells organic food.": "这家食品杂货店只卖有机食品。"
+    },
+    "margin": {
+      "Leave a margin on the paper when you write.": "写字时要在纸边留出空白。"
+    },
+    "recruit": {
+      "Tom is recruiting new workers.": "汤姆正在招募新工人。"
+    },
+    "brick": {
+      "Talking to Tom is like talking to a brick wall.": "跟汤姆说话就像对着一堵砖墙说话。"
+    },
+    "patch": {
+      "Tom has a patch of gray in his hair.": "汤姆的头发有一小片变灰白了。"
+    },
+    "recording": {
+      "We soundproofed our basement and use it as a recording studio.": "我们给地下室做了隔音处理，把它用作录音室。"
+    },
+    "colonial": {
+      "In the 15th century, Portugal was a great colonial power.": "十五世纪时，葡萄牙是一个强大的殖民国家。"
+    },
+    "reinforce": {
+      "We need to reinforce the roof.": "我们需要加固屋顶。"
+    },
+    "sacred": {
+      "This is said to be a sacred place.": "据说这是一个神圣的地方。"
+    },
+    "formula": {
+      "He may not have known the formula.": "他当时可能不知道这个公式。"
+    },
+    "gallery": {
+      "When was the last time you visited an art gallery?": "你上次参观美术馆是什么时候？"
+    },
+    "lap": {
+      "The cat is snoring in my lap.": "那只猫正趴在我腿上打呼噜。"
+    },
+    "virtue": {
+      "Patience is a rare virtue these days.": "如今，耐心是一种难得的美德。"
+    },
+    "inquiry": {
+      "I made some inquiries.": "我作了一些询问。"
+    },
+    "highlight": {
+      "the highlight of the tour was our visit to the Vatican": "这次旅行最精彩的部分是参观梵蒂冈。"
+    },
+    "rail": {
+      "Hold on to the rail while going down these stairs.": "下这些楼梯时要扶住栏杆。"
+    },
+    "compose": {
+      "Tom tried to compose himself.": "汤姆努力使自己镇定下来。"
+    },
+    "legend": {
+      "I thought that it was just an urban legend.": "我原以为那只是个都市传说。"
+    },
+    "norm": {
+      "Depravity is becoming the norm in modern life.": "堕落正逐渐成为现代生活中的常态。"
+    },
+    "concerning": {
+      "Nothing was said concerning the matter.": "关于那件事，什么也没说。"
+    },
+    "lightly": {
+      "The team took the loss of the game lightly.": "球队并没有把这场失利看得太重。"
+    },
+    "receiver": {
+      "I forgot to lift the receiver before dialing the number.": "我忘了先拿起听筒就拨了号码。"
+    },
+    "ritual": {
+      "It looks like some kind of ritual.": "这看起来像是某种仪式。"
+    },
+    "stem": {
+      "A rose has thorns on its stem.": "玫瑰的茎上有刺。"
+    },
+    "counsel": {
+      "The lawyer counselled me when I was accused of tax fraud": "我被指控税务欺诈时，那位律师给了我建议。"
+    },
+    "echo": {
+      "Did you hear an echo?": "你听到回声了吗？"
+    },
+    "pill": {
+      "Tom found an empty pill bottle under the bed.": "汤姆在床下发现了一个空药瓶。"
+    },
+    "sculpture": {
+      "I just don't get modern sculpture.": "我就是看不懂现代雕塑。"
+    },
+    "medal": {
+      "Who do you think will get the gold medal?": "你认为谁会拿到金牌？"
+    },
+    "sponsor": {
+      "And now a word from our sponsor.": "现在插播赞助商的几句话。"
+    },
+    "curve": {
+      "A smile is the most beautiful curve on a woman's body.": "微笑是女性身上最美的曲线。"
+    },
+    "harsh": {
+      "The harsh winter left its mark.": "严冬留下了痕迹。"
+    },
+    "commander": {
+      "He is commander of our troops.": "他是我们部队的指挥官。"
+    },
+    "headquarters": {
+      "Napoleon's headquarters were in an unused windmill.": "拿破仑的指挥部设在一座闲置的风车里。"
+    }
+  },
+  "examples": {
+    "reverend": [
+      {
+        "en": "The Reverend Smith welcomed everyone to the church.",
+        "zh": "史密斯牧师欢迎大家来到教堂。"
+      }
+    ],
+    "wan": [
+      {
+        "en": "She gave a wan smile after the long journey.",
+        "zh": "长途旅行后，她露出了一丝疲惫的微笑。"
+      }
+    ],
+    "prostitute": [
+      {
+        "en": "The report includes an interview with a former prostitute.",
+        "zh": "报告收录了一位前性工作者的访谈。"
+      }
+    ],
+    "freeman": [
+      {
+        "en": "He was made a freeman of the city.",
+        "zh": "他被授予该市荣誉市民称号。"
+      }
+    ],
+    "lesbian": [
+      {
+        "en": "The organization supports lesbian women and their families.",
+        "zh": "这个组织为女同性恋者及其家人提供支持。"
+      }
+    ],
+    "darling": [
+      {
+        "en": "Good morning, darling. Did you sleep well?",
+        "zh": "早上好，亲爱的。你睡得好吗？"
+      }
+    ],
+    "northwestern": [
+      {
+        "en": "Heavy rain is expected in the northwestern region.",
+        "zh": "预计西北地区将有大雨。"
+      }
+    ],
+    "massacre": [
+      {
+        "en": "The memorial honors the victims of the massacre.",
+        "zh": "这座纪念碑悼念那场大屠杀的遇难者。"
+      }
+    ],
+    "spawn": [
+      {
+        "en": "Salmon return to the river to spawn.",
+        "zh": "鲑鱼回到河里产卵。"
+      }
+    ],
+    "clergy": [
+      {
+        "en": "Members of the clergy attended the ceremony.",
+        "zh": "神职人员参加了仪式。"
+      }
+    ],
+    "rite": [
+      {
+        "en": "The ceremony is an important rite of passage.",
+        "zh": "这个仪式是人生阶段过渡的一项重要礼仪。"
+      }
+    ],
+    "fury": [
+      {
+        "en": "She could barely contain her fury.",
+        "zh": "她几乎无法抑制自己的愤怒。"
+      }
+    ],
+    "linebacker": [
+      {
+        "en": "The linebacker stopped the runner before he reached the goal line.",
+        "zh": "线卫在跑球者到达达阵线前将他拦下。"
+      }
+    ],
+    "turf": [
+      {
+        "en": "They laid new turf in the garden.",
+        "zh": "他们在花园里铺了新草皮。"
+      }
+    ],
+    "goddess": [
+      {
+        "en": "Athena is a Greek goddess.",
+        "zh": "雅典娜是一位希腊女神。"
+      }
+    ],
+    "bipartisan": [
+      {
+        "en": "The proposal received bipartisan support.",
+        "zh": "这项提案获得了两党支持。"
+      }
+    ],
+    "reformer": [
+      {
+        "en": "The reformer argued for changes to the education system.",
+        "zh": "这位改革者主张改革教育制度。"
+      }
+    ],
+    "prevailing": [
+      {
+        "en": "The report describes the prevailing economic conditions.",
+        "zh": "报告描述了当前普遍的经济状况。"
+      }
+    ],
+    "homosexual": [
+      {
+        "en": "The survey included both homosexual and heterosexual respondents.",
+        "zh": "这项调查包括同性恋和异性恋受访者。"
+      }
+    ],
+    "angler": [
+      {
+        "en": "An angler was fishing quietly beside the lake.",
+        "zh": "一位垂钓者正在湖边静静地钓鱼。"
+      }
+    ],
+    "theologian": [
+      {
+        "en": "The theologian studies the history of religious thought.",
+        "zh": "这位神学家研究宗教思想史。"
+      }
+    ],
+    "jersey": [
+      {
+        "en": "Each player wore a blue jersey.",
+        "zh": "每位球员都穿着蓝色球衣。"
+      }
+    ],
+    "loosely": [
+      {
+        "en": "Tie the scarf loosely around your neck.",
+        "zh": "把围巾松松地系在脖子上。"
+      }
+    ],
+    "unwanted": [
+      {
+        "en": "The filter blocks unwanted messages.",
+        "zh": "这个过滤器会拦截不需要的消息。"
+      }
+    ],
+    "projected": [
+      {
+        "en": "The projected cost is higher than we expected.",
+        "zh": "预计费用比我们想象的高。"
+      }
+    ],
+    "laborer": [
+      {
+        "en": "He worked as a laborer on a building site.",
+        "zh": "他在建筑工地做体力劳动。"
+      }
+    ],
+    "cater": [
+      {
+        "en": "The company can cater for large events.",
+        "zh": "这家公司能为大型活动提供餐饮服务。"
+      }
+    ],
+    "heck": [
+      {
+        "en": "What the heck is that noise?",
+        "zh": "那到底是什么声音？"
+      }
+    ],
+    "sedan": [
+      {
+        "en": "They bought a small sedan for the family.",
+        "zh": "他们给家里买了一辆小型轿车。"
+      }
+    ],
+    "apartheid": [
+      {
+        "en": "The exhibition examines the history of apartheid.",
+        "zh": "这个展览探讨种族隔离制度的历史。"
+      }
+    ],
+    "withstand": [
+      {
+        "en": "These boots can withstand heavy rain.",
+        "zh": "这双靴子能经受大雨。"
+      }
+    ],
+    "societal": [
+      {
+        "en": "The project studies the societal effects of new technology.",
+        "zh": "这个项目研究新技术的社会影响。"
+      }
+    ],
+    "prevalent": [
+      {
+        "en": "This belief is prevalent among local residents.",
+        "zh": "这种观念在当地居民中很普遍。"
+      }
+    ],
+    "optimal": [
+      {
+        "en": "We tested several designs to find the optimal solution.",
+        "zh": "我们测试了几种设计，以找到最佳方案。"
+      }
+    ],
+    "plaque": [
+      {
+        "en": "Brushing helps remove plaque from your teeth.",
+        "zh": "刷牙有助于清除牙菌斑。"
+      }
+    ],
+    "sleek": [
+      {
+        "en": "The car has a sleek body and a quiet engine.",
+        "zh": "这辆车车身线条流畅，发动机也很安静。"
+      }
+    ],
+    "dune": [
+      {
+        "en": "The wind slowly changed the shape of the sand dune.",
+        "zh": "风慢慢改变了沙丘的形状。"
+      }
+    ],
+    "tester": [
+      {
+        "en": "The tester checked each feature of the new software.",
+        "zh": "测试人员检查了新软件的每项功能。"
+      }
+    ],
+    "canopy": [
+      {
+        "en": "We sat beneath the canopy to escape the sun.",
+        "zh": "我们坐在遮篷下避开阳光。"
+      }
+    ],
+    "fungus": [
+      {
+        "en": "Mold is a type of fungus.",
+        "zh": "霉菌是一类真菌。"
+      }
+    ],
+    "enzyme": [
+      {
+        "en": "This enzyme helps break down starch.",
+        "zh": "这种酶有助于分解淀粉。"
+      }
+    ],
+    "membrane": [
+      {
+        "en": "A thin membrane surrounds the cell.",
+        "zh": "细胞被一层薄膜包围着。"
+      }
+    ],
+    "onset": [
+      {
+        "en": "The road became dangerous with the onset of winter.",
+        "zh": "随着冬季到来，这条路变得危险起来。"
+      }
+    ],
+    "invariably": [
+      {
+        "en": "She invariably arrives before the meeting begins.",
+        "zh": "她总是在会议开始前到达。"
+      }
+    ],
+    "informant": [
+      {
+        "en": "The researcher interviewed a local informant.",
+        "zh": "研究人员采访了一位当地知情者。"
+      }
+    ],
+    "airborne": [
+      {
+        "en": "The plane was airborne within minutes.",
+        "zh": "飞机在几分钟内就升空了。"
+      }
+    ],
+    "billboard": [
+      {
+        "en": "A large billboard stood beside the road.",
+        "zh": "路旁竖着一块大型广告牌。"
+      }
+    ],
+    "precinct": [
+      {
+        "en": "She went to the local police precinct to report the theft.",
+        "zh": "她到当地警察分局报案，称东西被盗。"
+      }
+    ],
+    "shrub": [
+      {
+        "en": "A small shrub grows beside the gate.",
+        "zh": "大门旁长着一棵小灌木。"
+      }
+    ],
+    "tribunal": [
+      {
+        "en": "The tribunal heard evidence from both sides.",
+        "zh": "仲裁庭听取了双方的证据。"
+      }
+    ],
+    "cockpit": [
+      {
+        "en": "The pilot checked the instruments in the cockpit.",
+        "zh": "飞行员检查了驾驶舱里的仪表。"
+      }
+    ],
+    "affluent": [
+      {
+        "en": "They moved to an affluent suburb.",
+        "zh": "他们搬到了一个富裕的郊区。"
+      }
+    ],
+    "takeover": [
+      {
+        "en": "The takeover was approved by the shareholders.",
+        "zh": "这项收购获得了股东批准。"
+      }
+    ],
+    "renowned": [
+      {
+        "en": "The town is renowned for its beautiful gardens.",
+        "zh": "这座小镇以美丽的花园闻名。"
+      }
+    ],
+    "platter": [
+      {
+        "en": "She served the fruit on a large platter.",
+        "zh": "她把水果盛在一个大浅盘里端上来。"
+      }
+    ],
+    "felony": [
+      {
+        "en": "The lawyer explained the difference between a felony and a minor offense.",
+        "zh": "律师解释了重罪与轻微违法行为的区别。"
+      }
+    ],
+    "graceful": [
+      {
+        "en": "The dancer made a graceful turn.",
+        "zh": "舞者优雅地转了个身。"
+      }
+    ],
+    "pastoral": [
+      {
+        "en": "The painting shows a peaceful pastoral scene.",
+        "zh": "这幅画描绘了宁静的田园景色。"
+      }
+    ],
+    "auditor": [
+      {
+        "en": "The auditor examined the company's financial records.",
+        "zh": "审计员检查了公司的财务记录。"
+      }
+    ],
+    "mural": [
+      {
+        "en": "Local artists painted a mural on the school wall.",
+        "zh": "当地艺术家在学校墙上画了一幅壁画。"
+      }
+    ],
+    "turbine": [
+      {
+        "en": "The wind turbine supplies electricity to nearby homes.",
+        "zh": "这台风力涡轮机为附近住户供电。"
+      }
+    ],
+    "frenzy": [
+      {
+        "en": "The announcement sent reporters into a frenzy.",
+        "zh": "这则公告让记者们陷入一片狂热。"
+      }
+    ],
+    "betrayal": [
+      {
+        "en": "She regarded the broken promise as a betrayal.",
+        "zh": "她把违背承诺视为背叛。"
+      }
+    ],
+    "condo": [
+      {
+        "en": "They rented a condo near the beach.",
+        "zh": "他们在海滩附近租了一套公寓。"
+      }
+    ],
+    "focal": [
+      {
+        "en": "The old fountain is the focal point of the square.",
+        "zh": "那座古老的喷泉是广场的中心景观。"
+      }
+    ],
+    "competency": [
+      {
+        "en": "The test measures competency in written English.",
+        "zh": "这项测试衡量书面英语能力。"
+      }
+    ],
+    "torso": [
+      {
+        "en": "The statue has a head and torso but no arms.",
+        "zh": "这座雕像有头部和躯干，但没有双臂。"
+      }
+    ],
+    "foliage": [
+      {
+        "en": "The autumn foliage turned red and gold.",
+        "zh": "秋天的树叶变成了红色和金色。"
+      }
+    ],
+    "pollutant": [
+      {
+        "en": "Lead is a harmful pollutant.",
+        "zh": "铅是一种有害污染物。"
+      }
+    ],
+    "examiner": [
+      {
+        "en": "The examiner explained the rules before the test.",
+        "zh": "考官在考试前讲解了规则。"
+      }
+    ],
+    "cohort": [
+      {
+        "en": "The study followed a cohort of new employees.",
+        "zh": "这项研究追踪了一组新员工。"
+      }
+    ],
+    "multimedia": [
+      {
+        "en": "The course uses multimedia to explain difficult ideas.",
+        "zh": "这门课程利用多媒体解释难懂的概念。"
+      }
+    ],
+    "palette": [
+      {
+        "en": "The artist mixed the colors on her palette.",
+        "zh": "画家在调色板上调配颜色。"
+      }
+    ],
+    "spa": [
+      {
+        "en": "They spent the afternoon relaxing at a spa.",
+        "zh": "他们下午在一家水疗中心放松。"
+      }
+    ],
+    "arsenal": [
+      {
+        "en": "The castle once served as an arsenal.",
+        "zh": "这座城堡曾用作军械库。"
+      }
+    ],
+    "plight": [
+      {
+        "en": "The article describes the plight of homeless families.",
+        "zh": "这篇文章描述了无家可归家庭的困境。"
+      }
+    ],
+    "youthful": [
+      {
+        "en": "She has a youthful smile and plenty of energy.",
+        "zh": "她笑容充满青春气息，而且精力充沛。"
+      }
+    ],
+    "flatten": [
+      {
+        "en": "Use a rolling pin to flatten the dough.",
+        "zh": "用擀面杖把面团擀平。"
+      }
+    ],
+    "reclaim": [
+      {
+        "en": "The company hopes to reclaim land damaged by mining.",
+        "zh": "这家公司希望修复遭采矿破坏的土地。"
+      }
+    ],
+    "slab": [
+      {
+        "en": "The path was built from thick stone slabs.",
+        "zh": "这条小路由厚石板铺成。"
+      }
+    ],
+    "daunting": [
+      {
+        "en": "Writing a first novel can be a daunting task.",
+        "zh": "写第一部小说可能是一项令人望而生畏的任务。"
+      }
+    ],
+    "prose": [
+      {
+        "en": "The author writes clear and elegant prose.",
+        "zh": "这位作家的散文清晰而优美。"
+      }
+    ],
+    "crest": [
+      {
+        "en": "We finally reached the crest of the hill.",
+        "zh": "我们终于到达了山顶。"
+      }
+    ],
+    "rancher": [
+      {
+        "en": "The rancher checked the fence before sunset.",
+        "zh": "牧场主在日落前检查了围栏。"
+      }
+    ],
+    "capsule": [
+      {
+        "en": "The capsule returned safely to Earth.",
+        "zh": "太空舱安全返回了地球。"
+      }
+    ],
+    "morale": [
+      {
+        "en": "The team's morale improved after the victory.",
+        "zh": "获胜后，队伍的士气提高了。"
+      }
+    ],
+    "persona": [
+      {
+        "en": "Her public persona differs from her private life.",
+        "zh": "她的公众形象与私下生活有所不同。"
+      }
+    ],
+    "cruiser": [
+      {
+        "en": "A police cruiser stopped beside the building.",
+        "zh": "一辆警用巡逻车停在楼旁。"
+      }
+    ],
+    "rubble": [
+      {
+        "en": "Workers cleared the rubble from the street.",
+        "zh": "工人清理了街上的瓦砾。"
+      }
+    ],
+    "mackerel": [
+      {
+        "en": "Fresh mackerel is sold at the market.",
+        "zh": "市场上出售新鲜的鲭鱼。"
+      }
+    ],
+    "mope": [
+      {
+        "en": "Don't mope all day; come for a walk with us.",
+        "zh": "别整天闷闷不乐；和我们一起出去走走吧。"
+      }
+    ],
+    "moped": [
+      {
+        "en": "He rides a moped to work.",
+        "zh": "他骑轻便摩托车上班。"
+      }
+    ],
+    "snoopy": [
+      {
+        "en": "A snoopy neighbor kept asking about our visitors.",
+        "zh": "一位爱打听的邻居不停地询问我们访客的情况。"
+      }
+    ],
+    "rounder": [
+      {
+        "en": "The novel follows an aging rounder who spends his nights in bars.",
+        "zh": "小说描写了一位夜夜泡在酒吧里的年老浪荡子。"
+      }
+    ],
+    "march": [
+      {
+        "en": "He joined the march through the city.",
+        "zh": "他参加了穿过市区的游行。"
+      }
+    ],
+    "august": [
+      {
+        "en": "They gathered in the august halls of the university.",
+        "zh": "他们聚集在大学庄严的大厅里。"
+      }
+    ],
+    "cumin": [
+      {
+        "en": "Add a little cumin to the soup.",
+        "zh": "往汤里加一点孜然。"
+      }
+    ],
+    "corgi": [
+      {
+        "en": "The corgi ran across the garden.",
+        "zh": "那只柯基犬跑过了花园。"
+      }
+    ],
+    "kohlrabi": [
+      {
+        "en": "She sliced the kohlrabi for a salad.",
+        "zh": "她把苤蓝切片，用来做沙拉。"
+      }
+    ],
+    "shoji": [
+      {
+        "en": "Light filtered through the paper of the shoji.",
+        "zh": "光线透过纸拉门上的纸照了进来。"
+      }
+    ],
+    "tiki": [
+      {
+        "en": "A wooden tiki stood near the entrance.",
+        "zh": "入口附近立着一尊木制提基像。"
+      }
+    ]
+  },
+  "collocations": {
+    "reverend": [
+      {
+        "en": "the Reverend Smith",
+        "zh": "史密斯牧师"
+      }
+    ],
+    "wan": [
+      {
+        "en": "a wan smile",
+        "zh": "疲惫无力的微笑"
+      }
+    ],
+    "prostitute": [
+      {
+        "en": "a former prostitute",
+        "zh": "曾经的性工作者"
+      }
+    ],
+    "freeman": [
+      {
+        "en": "a freeman of the city",
+        "zh": "城市荣誉市民"
+      }
+    ],
+    "lesbian": [
+      {
+        "en": "a lesbian couple",
+        "zh": "一对女同性恋伴侣"
+      }
+    ],
+    "darling": [
+      {
+        "en": "my darling",
+        "zh": "我的亲爱的"
+      }
+    ],
+    "northwestern": [
+      {
+        "en": "the northwestern region",
+        "zh": "西北地区"
+      }
+    ],
+    "massacre": [
+      {
+        "en": "the victims of a massacre",
+        "zh": "大屠杀的遇难者"
+      }
+    ],
+    "spawn": [
+      {
+        "en": "spawn new ideas",
+        "zh": "催生新想法"
+      }
+    ],
+    "clergy": [
+      {
+        "en": "members of the clergy",
+        "zh": "神职人员"
+      }
+    ],
+    "rite": [
+      {
+        "en": "a rite of passage",
+        "zh": "人生阶段转换的仪式"
+      }
+    ],
+    "fury": [
+      {
+        "en": "in a fury",
+        "zh": "勃然大怒"
+      }
+    ],
+    "linebacker": [
+      {
+        "en": "a starting linebacker",
+        "zh": "首发线卫"
+      }
+    ],
+    "turf": [
+      {
+        "en": "lay turf",
+        "zh": "铺草皮"
+      }
+    ],
+    "goddess": [
+      {
+        "en": "a Greek goddess",
+        "zh": "希腊女神"
+      }
+    ],
+    "bipartisan": [
+      {
+        "en": "bipartisan support",
+        "zh": "两党支持"
+      }
+    ],
+    "reformer": [
+      {
+        "en": "a social reformer",
+        "zh": "社会改革者"
+      }
+    ],
+    "prevailing": [
+      {
+        "en": "the prevailing view",
+        "zh": "普遍观点"
+      }
+    ],
+    "homosexual": [
+      {
+        "en": "homosexual people",
+        "zh": "同性恋者"
+      }
+    ],
+    "angler": [
+      {
+        "en": "an experienced angler",
+        "zh": "经验丰富的垂钓者"
+      }
+    ],
+    "theologian": [
+      {
+        "en": "a Christian theologian",
+        "zh": "基督教神学家"
+      }
+    ],
+    "jersey": [
+      {
+        "en": "a team jersey",
+        "zh": "球队队服"
+      }
+    ],
+    "loosely": [
+      {
+        "en": "loosely connected",
+        "zh": "联系松散的"
+      }
+    ],
+    "unwanted": [
+      {
+        "en": "unwanted attention",
+        "zh": "不受欢迎的关注"
+      }
+    ],
+    "projected": [
+      {
+        "en": "the projected cost",
+        "zh": "预计费用"
+      }
+    ],
+    "laborer": [
+      {
+        "en": "a construction laborer",
+        "zh": "建筑工人"
+      }
+    ],
+    "cater": [
+      {
+        "en": "cater for an event",
+        "zh": "为活动提供餐饮"
+      }
+    ],
+    "heck": [
+      {
+        "en": "what the heck",
+        "zh": "到底怎么回事；管它呢"
+      }
+    ],
+    "sedan": [
+      {
+        "en": "a four-door sedan",
+        "zh": "四门轿车"
+      }
+    ],
+    "apartheid": [
+      {
+        "en": "the apartheid system",
+        "zh": "种族隔离制度"
+      }
+    ],
+    "withstand": [
+      {
+        "en": "withstand pressure",
+        "zh": "承受压力"
+      }
+    ],
+    "societal": [
+      {
+        "en": "societal change",
+        "zh": "社会变迁"
+      }
+    ],
+    "prevalent": [
+      {
+        "en": "a prevalent belief",
+        "zh": "普遍的观念"
+      }
+    ],
+    "optimal": [
+      {
+        "en": "the optimal solution",
+        "zh": "最佳方案"
+      }
+    ],
+    "plaque": [
+      {
+        "en": "dental plaque",
+        "zh": "牙菌斑"
+      }
+    ],
+    "sleek": [
+      {
+        "en": "a sleek design",
+        "zh": "流畅简洁的设计"
+      }
+    ],
+    "dune": [
+      {
+        "en": "a sand dune",
+        "zh": "沙丘"
+      }
+    ],
+    "tester": [
+      {
+        "en": "a software tester",
+        "zh": "软件测试人员"
+      }
+    ],
+    "canopy": [
+      {
+        "en": "a forest canopy",
+        "zh": "森林冠层"
+      }
+    ],
+    "fungus": [
+      {
+        "en": "a type of fungus",
+        "zh": "一种真菌"
+      }
+    ],
+    "enzyme": [
+      {
+        "en": "an enzyme reaction",
+        "zh": "酶反应"
+      }
+    ],
+    "membrane": [
+      {
+        "en": "the cell membrane",
+        "zh": "细胞膜"
+      }
+    ],
+    "onset": [
+      {
+        "en": "the onset of winter",
+        "zh": "冬季的到来"
+      }
+    ],
+    "invariably": [
+      {
+        "en": "invariably true",
+        "zh": "始终成立的"
+      }
+    ],
+    "informant": [
+      {
+        "en": "a police informant",
+        "zh": "警方的线人"
+      }
+    ],
+    "airborne": [
+      {
+        "en": "airborne particles",
+        "zh": "空气中的悬浮颗粒"
+      }
+    ],
+    "billboard": [
+      {
+        "en": "a roadside billboard",
+        "zh": "路边广告牌"
+      }
+    ],
+    "precinct": [
+      {
+        "en": "a police precinct",
+        "zh": "警察分局；警区"
+      }
+    ],
+    "shrub": [
+      {
+        "en": "a flowering shrub",
+        "zh": "开花灌木"
+      }
+    ],
+    "tribunal": [
+      {
+        "en": "an employment tribunal",
+        "zh": "劳动争议审裁机构"
+      }
+    ],
+    "cockpit": [
+      {
+        "en": "the aircraft cockpit",
+        "zh": "飞机驾驶舱"
+      }
+    ],
+    "affluent": [
+      {
+        "en": "an affluent neighborhood",
+        "zh": "富裕社区"
+      }
+    ],
+    "takeover": [
+      {
+        "en": "a company takeover",
+        "zh": "公司收购"
+      }
+    ],
+    "renowned": [
+      {
+        "en": "be renowned for",
+        "zh": "因……而闻名"
+      }
+    ],
+    "platter": [
+      {
+        "en": "a serving platter",
+        "zh": "盛菜的大浅盘"
+      }
+    ],
+    "felony": [
+      {
+        "en": "a felony charge",
+        "zh": "重罪指控"
+      }
+    ],
+    "graceful": [
+      {
+        "en": "a graceful movement",
+        "zh": "优雅的动作"
+      }
+    ],
+    "pastoral": [
+      {
+        "en": "a pastoral scene",
+        "zh": "田园景色"
+      }
+    ],
+    "auditor": [
+      {
+        "en": "an independent auditor",
+        "zh": "独立审计员"
+      }
+    ],
+    "mural": [
+      {
+        "en": "a wall mural",
+        "zh": "壁画"
+      }
+    ],
+    "turbine": [
+      {
+        "en": "a wind turbine",
+        "zh": "风力涡轮机"
+      }
+    ],
+    "frenzy": [
+      {
+        "en": "a buying frenzy",
+        "zh": "抢购热潮"
+      }
+    ],
+    "betrayal": [
+      {
+        "en": "a sense of betrayal",
+        "zh": "被背叛的感觉"
+      }
+    ],
+    "condo": [
+      {
+        "en": "a beachfront condo",
+        "zh": "海滨公寓"
+      }
+    ],
+    "focal": [
+      {
+        "en": "a focal point",
+        "zh": "焦点；中心"
+      }
+    ],
+    "competency": [
+      {
+        "en": "professional competency",
+        "zh": "职业胜任力"
+      }
+    ],
+    "torso": [
+      {
+        "en": "the upper torso",
+        "zh": "上半身"
+      }
+    ],
+    "foliage": [
+      {
+        "en": "dense foliage",
+        "zh": "茂密的枝叶"
+      }
+    ],
+    "pollutant": [
+      {
+        "en": "an air pollutant",
+        "zh": "空气污染物"
+      }
+    ],
+    "examiner": [
+      {
+        "en": "a driving examiner",
+        "zh": "驾驶考试考官"
+      }
+    ],
+    "cohort": [
+      {
+        "en": "a cohort study",
+        "zh": "队列研究"
+      }
+    ],
+    "multimedia": [
+      {
+        "en": "a multimedia presentation",
+        "zh": "多媒体演示"
+      }
+    ],
+    "palette": [
+      {
+        "en": "a color palette",
+        "zh": "配色方案；调色板"
+      }
+    ],
+    "spa": [
+      {
+        "en": "a spa treatment",
+        "zh": "水疗护理"
+      }
+    ],
+    "arsenal": [
+      {
+        "en": "an arsenal of weapons",
+        "zh": "武器储备"
+      }
+    ],
+    "plight": [
+      {
+        "en": "a desperate plight",
+        "zh": "绝境"
+      }
+    ],
+    "youthful": [
+      {
+        "en": "youthful enthusiasm",
+        "zh": "年轻人的热情"
+      }
+    ],
+    "flatten": [
+      {
+        "en": "flatten the dough",
+        "zh": "把面团擀平"
+      }
+    ],
+    "reclaim": [
+      {
+        "en": "reclaim land",
+        "zh": "开垦；恢复土地"
+      }
+    ],
+    "slab": [
+      {
+        "en": "a slab of stone",
+        "zh": "一块厚石板"
+      }
+    ],
+    "daunting": [
+      {
+        "en": "a daunting task",
+        "zh": "艰巨的任务"
+      }
+    ],
+    "prose": [
+      {
+        "en": "prose and poetry",
+        "zh": "散文与诗歌"
+      }
+    ],
+    "crest": [
+      {
+        "en": "the crest of a hill",
+        "zh": "山顶"
+      }
+    ],
+    "rancher": [
+      {
+        "en": "a cattle rancher",
+        "zh": "养牛的牧场主"
+      }
+    ],
+    "capsule": [
+      {
+        "en": "a space capsule",
+        "zh": "太空舱"
+      }
+    ],
+    "morale": [
+      {
+        "en": "boost morale",
+        "zh": "鼓舞士气"
+      }
+    ],
+    "persona": [
+      {
+        "en": "a public persona",
+        "zh": "公众形象"
+      }
+    ],
+    "cruiser": [
+      {
+        "en": "a police cruiser",
+        "zh": "警用巡逻车"
+      }
+    ],
+    "rubble": [
+      {
+        "en": "a pile of rubble",
+        "zh": "一堆瓦砾"
+      }
+    ],
+    "mackerel": [
+      {
+        "en": "grilled mackerel",
+        "zh": "烤鲭鱼"
+      }
+    ],
+    "mope": [
+      {
+        "en": "mope around",
+        "zh": "闷闷不乐地闲荡"
+      }
+    ],
+    "moped": [
+      {
+        "en": "ride a moped",
+        "zh": "骑轻便摩托车"
+      }
+    ],
+    "snoopy": [
+      {
+        "en": "a snoopy neighbor",
+        "zh": "爱打听的邻居"
+      }
+    ],
+    "rounder": [
+      {
+        "en": "an aging rounder",
+        "zh": "年老的浪荡子"
+      }
+    ],
+    "march": [
+      {
+        "en": "a protest march",
+        "zh": "抗议游行"
+      }
+    ],
+    "august": [
+      {
+        "en": "an august institution",
+        "zh": "庄严而受尊敬的机构"
+      }
+    ],
+    "cumin": [
+      {
+        "en": "ground cumin",
+        "zh": "孜然粉"
+      }
+    ],
+    "corgi": [
+      {
+        "en": "a Welsh corgi",
+        "zh": "威尔士柯基犬"
+      }
+    ],
+    "kohlrabi": [
+      {
+        "en": "raw kohlrabi",
+        "zh": "生苤蓝"
+      }
+    ],
+    "shoji": [
+      {
+        "en": "a shoji screen",
+        "zh": "日式纸拉门"
+      }
+    ],
+    "tiki": [
+      {
+        "en": "a carved tiki",
+        "zh": "雕刻的提基像"
+      }
+    ],
+    "eventually": [
+      {
+        "en": "eventually succeed",
+        "zh": "最终成功"
+      }
+    ],
+    "supposed": [
+      {
+        "en": "be supposed to",
+        "zh": "应该；按要求应当"
+      }
+    ],
+    "amazing": [
+      {
+        "en": "an amazing experience",
+        "zh": "令人惊叹的经历"
+      }
+    ]
+  },
+  "meaningFixes": {
+    "plaque": {
+      "meaningZh": "n. 匾牌；饰板；（牙齿或血管等的）斑块；牙菌斑",
+      "reason": "去除与 platelet 混淆的血小板义"
+    },
+    "angler": {
+      "meaningZh": "n. 垂钓者；钓鱼爱好者；鮟鱇鱼",
+      "reason": "原释义把钓鱼者误写成动作"
+    },
+    "competency": {
+      "meaningZh": "n. 能力；胜任力；专业技能",
+      "reason": "补回常用能力义，避免仅列生计收入义"
+    },
+    "morale": {
+      "meaningZh": "n. 士气；信心；精神状态",
+      "reason": "去除与 moral 混淆的道德义"
+    },
+    "bipartisan": {
+      "meaningZh": "adj. 两党的；获两党支持的；两党合作的",
+      "reason": "两党支持不等于组成联合政府"
+    },
+    "condo": {
+      "meaningZh": "n. （具有独立产权的）公寓单元；公寓住宅楼",
+      "reason": "突出 condo 的现代常用公寓义"
+    },
+    "magi": {
+      "meaningZh": "n. 占星术士；贤士（magus 的复数）",
+      "reason": "本库 magus 明示复数 magi，原释义误收无关缩写"
+    },
+    "cumin": {
+      "meaningZh": "n. 孜然；枯茗；孜然籽",
+      "reason": "区别于本库 dill 的莳萝义"
+    },
+    "corgi": {
+      "meaningZh": "n. 柯基犬",
+      "reason": "原小狗释义过泛"
+    },
+    "kohlrabi": {
+      "meaningZh": "n. 苤蓝",
+      "reason": "更正撇蓝错字"
+    },
+    "shoji": {
+      "meaningZh": "n. （日式房屋中的）纸拉门；纸糊木框隔扇",
+      "reason": "更正本房屋错字并明确物件"
+    },
+    "linebacker": {
+      "meaningZh": "n. （美式橄榄球的）线卫",
+      "reason": "修正中后卫球员的运动位置混淆"
+    },
+    "invariably": {
+      "meaningZh": "adv. 总是；无一例外地；始终如一地",
+      "reason": "明确主要副词义"
+    },
+    "fungus": {
+      "meaningZh": "n. 真菌；真菌类生物",
+      "reason": "真菌不属于植物，去除真菌类植物表述"
+    },
+    "foliage": {
+      "meaningZh": "n. （统称）叶子；枝叶",
+      "reason": "避免将 foliage 泛译为植物"
+    },
+    "flatten": {
+      "meaningZh": "v. 使变平；弄平；压平；变平",
+      "reason": "修正及物不及物标注与常用义顺序"
+    },
+    "projected": {
+      "meaningZh": "adj. 预计的；预测的；投影的；投射的",
+      "reason": "与本轮复核的词义、例句及词内关系一致；修正缺漏或错字"
+    },
+    "canopy": {
+      "meaningZh": "n. 遮篷；天篷；（树木的）冠层；v. 遮盖",
+      "reason": "与本轮复核的词义、例句及词内关系一致；修正缺漏或错字"
+    },
+    "precinct": {
+      "meaningZh": "n. 警区；警察分局；选区；特定区域",
+      "reason": "与本轮复核的词义、例句及词内关系一致；修正缺漏或错字"
+    },
+    "dishwashing": {
+      "meaningZh": "n. 洗碗",
+      "reason": "与本轮复核的词义、例句及词内关系一致；修正缺漏或错字"
+    }
+  },
+  "removeExamples": {
+    "mope": [
+      "He can borrow my moped for a few days.",
+      "Tom rides a moped."
+    ],
+    "snoopy": [
+      "Let's call him Snoopy."
+    ],
+    "rounder": [
+      "Tom's eyes grew rounder."
+    ],
+    "tiki": [
+      "I have a dog. He is black and his name is Tiki."
+    ],
+    "mackerel": [
+      "Holy mackerel! Is that a shark?"
+    ],
+    "august": [
+      "The office is usually quiet in August."
+    ],
+    "march": [
+      "It's valid until March thirty-first, nineteen-ninety-seven."
+    ]
+  },
+  "confirmedFixesFile": "confirmed_content_fixes_v12.json",
+  "synonymSenseTranslations": {
+    "(often followed by `of') a large number or amount or extent": "大量的；许多的（常接 of）",
+    "the fleshy part of the human body that you sit on": "臀部（此处为身体部位义）",
+    "informal or slang terms for mentally irregular": "发疯的；神经兮兮的（俚语，可能带贬义）",
+    "be a mystery or bewildering to": "使困惑；使费解",
+    "someone who is dazzlingly skilled in any field": "高手；某领域技艺出众的人",
+    "the choicest or most essential or most vital part of some idea or experience": "精华；核心部分",
+    "causing fear or dread or terror": "令人害怕的；可怕的",
+    "expletives used informally as intensifiers": "用于加强语气的感叹或咒骂词（非正式）",
+    "tastelessly showy": "俗艳的；花哨而缺乏品味的",
+    "without qualification; used informally as (often pejorative) intensifiers": "十足的；彻底的（非正式，常带贬义）",
+    "eject the contents of the stomach through the mouth": "呕吐",
+    "very good": "极好的",
+    "move about aimlessly or without any destination, often in search of food or employment": "漫游；四处游荡",
+    "mix together different elements": "混合；把不同成分混在一起",
+    "informal terms for money": "钱；金钱（非正式用语）",
+    "extraordinarily good or great ; used especially as intensifiers": "好极了的；非常出色的（常用于加强语气）",
+    "attract; cause to be enamored": "吸引；使着迷",
+    "a young person of either sex": "年轻人；孩子",
+    "marked by up-to-dateness in dress and manners": "时髦的；入时的",
+    "censure severely or angrily": "严厉斥责；痛斥",
+    "alternative names for the body of a human being": "身体；躯体",
+    "of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies": "红色的",
+    "the descendants of one individual": "后代；子孙",
+    "very drunk": "酩酊大醉的",
+    "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)": "逃避；回避（职责、问题等）",
+    "reflect deeply on a subject": "深思；仔细考虑",
+    "a quantity of no importance": "零；无足轻重的数量",
+    "widely known and esteemed": "著名的；享有盛誉的",
+    "informal terms for a mother": "妈妈（非正式称呼）",
+    "repeated too often; overfamiliar through overuse": "陈旧乏味的；老生常谈的",
+    "goods carried by a large vehicle": "货物；运载的货物",
+    "make off with belongings of others": "偷窃；偷走",
+    "causing irritation or annoyance": "令人恼火的；烦人的",
+    "to a moderately sufficient extent or degree": "相当地；颇为",
+    "to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')": "完全地；彻底地",
+    "cause annoyance in; disturb, especially by minor irritations": "使烦恼；打扰",
+    "a composition that imitates or misrepresents somebody's style, usually in a humorous way": "滑稽模仿作品；戏仿",
+    "two items of the same kind": "一对；两个同类事物",
+    "treat with excessive indulgence": "溺爱；过分纵容",
+    "indicate by signs": "示意；用信号表示",
+    "a device or control that is very useful for a particular job": "实用的小装置；专用工具",
+    "deeply or seriously thoughtful": "沉思的；深思熟虑的",
+    "(of actions or states) slightly short of or not quite accomplished; all but": "几乎；差不多",
+    "have sexual intercourse with": "与……发生性关系（部分词为粗俗用语）",
+    "put up with something or somebody unpleasant": "忍受；容忍",
+    "the first light of day": "黎明；曙光",
+    "causing dejection": "令人沮丧的",
+    "lacking orderly continuity": "杂乱的；缺乏条理的",
+    "very thin especially from disease or hunger or cold": "骨瘦如柴的；憔悴的",
+    "pass from physical life and lose all bodily attributes and functions necessary to sustain life": "死亡；去世",
+    "a close friend who accompanies his buddies in their activities": "伙伴；好友",
+    "unmistakably (`plain' is often used informally for `plainly')": "明显地；清楚地",
+    "a person who makes deceitful pretenses": "骗子；冒充者",
+    "incongruous;inviting ridicule": "荒谬可笑的",
+    "highly offensive; arousing aversion or disgust": "令人厌恶的；令人反感的",
+    "the cardinal number that is the sum of one and one and one": "三",
+    "a large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the United States": "长条形夹馅三明治（美国各地名称不同）",
+    "of very poor quality; flimsy": "劣质的；粗制滥造的",
+    "morally reprehensible": "应受道德谴责的；卑劣的",
+    "any new participant in some activity": "新手；新参加者",
+    "command against": "禁止；不准",
+    "annoy continually or chronically": "不断烦扰；纠缠",
+    "so lacking in interest as to cause mental weariness": "乏味的；令人厌倦的",
+    "extending out above or beyond a surface or boundary": "突出的；伸出的",
+    "a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)": "独裁统治；专制政体",
+    "effusively or insincerely emotional": "过分煽情的；感情做作的",
+    "a tiny or scarcely detectable amount": "微量；极少量",
+    "rich and superior in quality": "优质而奢华的",
+    "any thick, viscous matter": "黏稠物；黏糊糊的东西",
+    "full of trivial conversation": "闲话连篇的；絮叨的",
+    "require as useful, just, or proper": "需要；要求",
+    "a human being": "人；人类个体",
+    "give away information about somebody": "告发；泄露关于某人的消息",
+    "beyond or deviating from the usual or expected": "异常的；不同寻常的",
+    "the highest level or degree attainable; the highest stage of development": "顶点；最高水平；巅峰",
+    "make a mess of, destroy or ruin": "弄糟；毁掉",
+    "(of soil) soft and watery": "（土壤）泥泞松软的",
+    "a platform raised above the surrounding level to give prominence to the person on it": "讲台；高台",
+    "a boy or man": "男孩；男子",
+    "unpleasantly and excessively suave or ingratiating in manner or speech": "油嘴滑舌的；过分讨好的",
+    "having or showing arrogant superiority to and disdain of those one views as unworthy": "傲慢的；自命不凡的",
+    "a phenomenon that follows and is caused by some previous phenomenon": "结果；后果",
+    "a very wealthy or powerful businessman": "商业巨头；大亨",
+    "large in amount or extent or degree": "大量的；程度很大的",
+    "a very attractive or seductive looking woman": "非常迷人的女性（部分称呼可能不礼貌）",
+    "affected with madness or insanity": "精神失常的（部分词为非正式或贬义用语）",
+    "having or demonstrating ability to recognize or draw fine distinctions": "敏锐的；有辨别力的",
+    "lock up or confine, in or as in a jail": "监禁；关押",
+    "a person who is gullible and easy to take advantage of": "容易受骗的人",
+    "rip off; ask an unreasonable price": "敲竹杠；索取不合理的高价",
+    "somewhat ill or prone to illness": "有些不舒服的；体弱多病的",
+    "showing a brooding ill humor": "闷闷不乐的；愠怒的",
+    "marked by skill in deception": "狡猾的；善于欺骗的",
+    "having sections or patches colored differently and usually brightly": "斑驳的；杂色的",
+    "characterized by intense emotion": "感情强烈的；热烈的",
+    "being in a tense state": "紧张的；绷紧的",
+    "a characteristic language of a particular group (as among thieves)": "行话；某群体的特殊用语",
+    "the time at which something is supposed to begin": "开始时间；预定开始的时刻",
+    "filled with melancholy and despondency": "忧郁的；沮丧的",
+    "a job in an organization": "职位；职务",
+    "getting higher or more vigorous": "上升的；好转的；更加旺盛的",
+    "terminate the employment of; discharge from an office or position": "解雇；免职",
+    "a plumbing fixture for defecation and urination": "便器；坐便器",
+    "of timepieces": "（钟表）走慢的"
+  }
+}

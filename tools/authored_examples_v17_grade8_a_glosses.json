@@ -1,0 +1,82 @@
+{
+  "depressive": {
+    "partOfSpeech": "adj. / n.",
+    "meaningZh": "adj. 抑郁的；与抑郁有关的；令人情绪低落的\nn. （较旧用法）抑郁症患者"
+  },
+  "counterproductive": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 适得其反的；产生反作用的"
+  },
+  "infidelity": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. （婚姻或伴侣关系中的）不忠；背信；（旧用法）不信宗教"
+  },
+  "utterance": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 发言；说出的话；发声；表达"
+  },
+  "epitomize": {
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 是……的典型；集中体现；概括"
+  },
+  "exhaustive": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 详尽的；彻底的；全面的"
+  },
+  "elitist": {
+    "partOfSpeech": "n. / adj.",
+    "meaningZh": "n. 精英主义者\nadj. 精英主义的；只顾少数精英的"
+  },
+  "complicity": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 共谋；串通；同谋参与"
+  },
+  "defection": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 叛离；脱离原所属组织或阵营；转投另一方"
+  },
+  "decimate": {
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 大量毁坏；严重削减；大量杀害；（历史用法）每十人杀一人"
+  },
+  "orthopedic": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 骨科的；矫形外科的"
+  },
+  "representational": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. （艺术）具象的，写实的；表象的；代表性的"
+  },
+  "childbearing": {
+    "partOfSpeech": "n. / adj.",
+    "meaningZh": "n. 生育；怀孕和分娩\nadj. 生育的"
+  },
+  "nondescript": {
+    "partOfSpeech": "adj. / n.",
+    "meaningZh": "adj. 普通而无特征的；不起眼的\nn. 难以归类的人或物"
+  },
+  "housekeeping": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 家务管理；客房清洁；日常维护事务"
+  },
+  "marshmallow": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 棉花糖；药蜀葵"
+  },
+  "ideologue": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 意识形态的信奉者或倡导者；思想体系的鼓吹者"
+  },
+  "throwback": {
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 使人想起旧时代的人或事物；返祖现象；退回"
+  },
+  "multiracial": {
+    "partOfSpeech": "adj.",
+    "meaningZh": "adj. 多种族的；由多个种族组成的"
+  },
+  "shuttered": {
+    "partOfSpeech": "adj. / v.",
+    "meaningZh": "adj. 关闭的；装有或关上百叶窗的\nv. 关闭；装上百叶窗（shutter 的过去式和过去分词）"
+  }
+}

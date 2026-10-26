@@ -1,0 +1,111 @@
+{
+  "version": "v16-grade6-b-audit",
+  "englishUnchanged": true,
+  "issues": [
+    {
+      "word": "challenger",
+      "en": "Challenger exploded on January 28th 1986.",
+      "kind": "proper-name mismatch",
+      "note": "词条释义只有“挑战者”，例句却使用 Challenger 航天飞机专名，不展示普通名词义。",
+      "suggestion": "换成普通挑战者的原创语境，或明确新增并区分专名义项。"
+    },
+    {
+      "word": "bob",
+      "en": "What's your favorite Bob Dylan song?",
+      "kind": "proper-name mismatch",
+      "note": "Bob Dylan 是人名；现有 bob 释义为剪短、摆动等，例句与这些义项无关。",
+      "suggestion": "替换为描写物体上下浮动或轻轻点头的句子。"
+    },
+    {
+      "word": "beta",
+      "en": "the candidate, considered a beta male, was perceived to be unable to lead his party to victory",
+      "kind": "missing sense / stereotype",
+      "note": "现有 beta 只解释希腊字母，原句却使用有争议的人际等级标签 beta male，不能对应现有义项。",
+      "suggestion": "优先替换为希腊字母 beta 的中性语境。"
+    },
+    {
+      "word": "tier",
+      "en": "the sail is fastened to the yard with tiers",
+      "kind": "unlisted specialist sense",
+      "note": "例句 tiers 指绑帆用的绳索，现有 tier 只有“排、层、等级”，存在义项错配。",
+      "suggestion": "换成层级或看台排次语境，不将绳索义误译成层。"
+    },
+    {
+      "word": "fatty",
+      "en": "The other children call him Fatty.",
+      "kind": "part-of-speech mismatch",
+      "note": "Fatty 在此是对人的绰号，另句 Tom is a fatty 也用名词；现有词条只列形容词“含脂肪的”等。",
+      "suggestion": "改为 fatty 作形容词的语境，或明确补列贬义名词及语体标签。"
+    },
+    {
+      "word": "jumper",
+      "en": "Tom always keeps a set of jumper cables in the trunk of his car.",
+      "kind": "unlisted compound sense",
+      "note": "jumper cables 指汽车搭电线，现有 jumper 仅解释跳跃者、工作服，译文未把它当作跳跃者。",
+      "suggestion": "若保留该句，应补列 jumper cable 搭配说明。"
+    },
+    {
+      "word": "cartridge",
+      "en": "he loaded a cartridge of fresh tape into the tape deck",
+      "kind": "unlisted specialist sense",
+      "note": "此处指磁带盒；现有释义只列弹药筒、软片卷、墨粉鼓，建议补充泛指盒匣的义项或改例句。",
+      "suggestion": "选择已有义项的句子，或补录磁带盒含义。"
+    },
+    {
+      "word": "eighteenth",
+      "en": "Iran is the eighteenth largest country in the world.",
+      "kind": "unverified ranking",
+      "note": "面积排名未给出年代、面积口径或是否计入属地；译文仅忠实保留原句，未核实排名。",
+      "suggestion": "换成无排名事实依赖的第十八名、十八岁生日等原创场景。"
+    },
+    {
+      "word": "eighteenth",
+      "en": "In the late eighteenth century, a passport for an American was usually signed by the President of the United States.",
+      "kind": "historical claim needs source",
+      "note": "usual 的历史概括需要护照史资料支持，当前词条未提供具体史料。",
+      "suggestion": "查证后保留，或改成不含待核实制度史断言的世纪语境。"
+    },
+    {
+      "word": "camper",
+      "en": "I heard that a South American camper was eaten by an anaconda.",
+      "kind": "unverified hearsay",
+      "note": "原句只是 I heard 引出的猎奇传闻，没有可核查事件来源；中文保留“我听说”，未改成确认事实。",
+      "suggestion": "换成可以作为普通露营场景学习的原创句。"
+    },
+    {
+      "word": "digest",
+      "en": "Wine helps digest food.",
+      "kind": "health claim needs evidence",
+      "note": "未说明适用条件或证据的饮酒促消化断言，不宜作为普遍健康知识。",
+      "suggestion": "换成个人消化状态的中性原创句。"
+    },
+    {
+      "word": "unhealthy",
+      "en": "Beer is not really so unhealthy, at least in moderation.",
+      "kind": "health claim needs evidence",
+      "note": "对饮酒健康性的笼统评价缺乏限定与出处；中文忠实翻译不代表已验证健康收益。",
+      "suggestion": "换成不包含饮酒健康评价的 unhealthy 使用场景。"
+    },
+    {
+      "word": "sane",
+      "en": "Sane people are more of a threat to mentally ill people than vice versa.",
+      "kind": "social comparison needs evidence",
+      "note": "比较两个群体对彼此的威胁，需要明确统计口径及证据，原句没有交代来源。",
+      "suggestion": "换成描述个体判断能力的中性语境，避免无来源群体比较。"
+    },
+    {
+      "word": "locus",
+      "en": "the locus of points equidistant from a given point is a circle",
+      "kind": "mathematical conditions omitted",
+      "note": "作为严格定义应明确在平面内、到定点的距离固定且为正；三维空间相应轨迹为球面。",
+      "suggestion": "如重写为平面内到定点距离为固定正数的点的轨迹，再声明是圆。"
+    },
+    {
+      "word": "decree",
+      "en": "The King only can decree",
+      "kind": "ambiguous word order",
+      "note": "only 的位置使“只有国王能下令”和“国王只能下令”两义不清；本次译为前者。",
+      "suggestion": "用清晰语序改写英语，再按实际 intended scope 翻译。"
+    }
+  ]
+}

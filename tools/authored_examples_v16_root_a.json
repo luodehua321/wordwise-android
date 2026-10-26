@@ -1,0 +1,1331 @@
+{
+  "version": "v16-root-a",
+  "license": "CC0 1.0",
+  "words": {
+    "fuck": {
+      "examples": [
+        {
+          "en": "He apologized for saying fuck in front of the children.",
+          "zh": "他为在孩子们面前说了脏话“fuck”而道歉。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "condom": {
+      "examples": [
+        {
+          "en": "The clinic provides information about condom use.",
+          "zh": "那家诊所提供有关避孕套使用的信息。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "homosexuality": {
+      "examples": [
+        {
+          "en": "The documentary explores social attitudes toward homosexuality.",
+          "zh": "这部纪录片探讨了社会对同性恋的态度。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "investigative": {
+      "examples": [
+        {
+          "en": "Her investigative report exposed problems in the company.",
+          "zh": "她的调查报道揭露了那家公司的问题。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "exploitation": {
+      "examples": [
+        {
+          "en": "The union demanded an end to the exploitation of temporary workers.",
+          "zh": "工会要求停止剥削临时工。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "periodically": {
+      "examples": [
+        {
+          "en": "The software checks for updates periodically.",
+          "zh": "这个软件会定期检查更新。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "astronomical": {
+      "examples": [
+        {
+          "en": "The observatory collects astronomical data every night.",
+          "zh": "这座天文台每晚都会收集天文观测数据。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "substantive": {
+      "examples": [
+        {
+          "en": "The two proposals contain no substantive differences.",
+          "zh": "这两项提案没有实质性的区别。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "nationalist": {
+      "examples": [
+        {
+          "en": "The nationalist party gained several seats in parliament.",
+          "zh": "那个民族主义政党在议会中增加了几个席位。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "pornography": {
+      "examples": [
+        {
+          "en": "The school network blocks websites that contain pornography.",
+          "zh": "学校网络会屏蔽含有色情内容的网站。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "entitlement": {
+      "examples": [
+        {
+          "en": "Please check your entitlement to paid leave with the personnel office.",
+          "zh": "请向人事办公室确认你享有的带薪休假权利。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "elimination": {
+      "examples": [
+        {
+          "en": "The plan calls for the gradual elimination of unnecessary paperwork.",
+          "zh": "这项计划要求逐步取消不必要的文书工作。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "segregation": {
+      "examples": [
+        {
+          "en": "The exhibition documents the history of racial segregation.",
+          "zh": "这个展览记录了种族隔离的历史。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "respiratory": {
+      "examples": [
+        {
+          "en": "The doctor asked about her respiratory symptoms.",
+          "zh": "医生询问了她的呼吸道症状。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "readiness": {
+      "examples": [
+        {
+          "en": "The drill tested the team's readiness for an emergency.",
+          "zh": "这次演练检验了团队应对紧急情况的准备程度。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "anonymity": {
+      "examples": [
+        {
+          "en": "The reporter promised to protect the witness's anonymity.",
+          "zh": "记者承诺不公开那名证人的身份。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "autonomous": {
+      "examples": [
+        {
+          "en": "The region has its own autonomous local government.",
+          "zh": "这个地区有自己的自治地方政府。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "interstate": {
+      "examples": [
+        {
+          "en": "We passed an interstate bus terminal on the way to the hotel.",
+          "zh": "去酒店的路上，我们经过了一座州际长途汽车站。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "subsidiary": {
+      "examples": [
+        {
+          "en": "The company opened a subsidiary in another country.",
+          "zh": "这家公司在另一个国家设立了子公司。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "protagonist": {
+      "examples": [
+        {
+          "en": "The protagonist must choose between loyalty and ambition.",
+          "zh": "主人公必须在忠诚与个人抱负之间作出选择。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "discretion": {
+      "examples": [
+        {
+          "en": "The manager handled the complaint with discretion.",
+          "zh": "经理谨慎地处理了这起投诉。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "conjunction": {
+      "examples": [
+        {
+          "en": "In this sentence, and is a conjunction joining two clauses.",
+          "zh": "在这个句子里，and 是连接两个分句的连词。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "progression": {
+      "examples": [
+        {
+          "en": "The chart shows a steady progression from simple to complex tasks.",
+          "zh": "这张图展示了任务从简单到复杂的稳步递进。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "animation": {
+      "examples": [
+        {
+          "en": "She studied animation before working on children's films.",
+          "zh": "她在从事儿童电影制作之前学过动画制作。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "directive": {
+      "examples": [
+        {
+          "en": "The director issued a directive on workplace safety.",
+          "zh": "主管发布了一项有关工作场所安全的指令。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "perpetuate": {
+      "examples": [
+        {
+          "en": "Repeating the rumor would only perpetuate the misunderstanding.",
+          "zh": "重复那个传言只会让误解继续存在。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "parliamentary": {
+      "examples": [
+        {
+          "en": "The bill will be discussed at the next parliamentary session.",
+          "zh": "这项法案将在下一次议会会议上讨论。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "methodist": {
+      "examples": [
+        {
+          "en": "The Methodist church holds a service on Sunday mornings.",
+          "zh": "那座卫理公会教堂在星期日上午举行礼拜。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ],
+      "meaningZh": "n. 卫理公会教徒；循道宗信徒\nadj. 卫理公会的",
+      "partOfSpeech": "n. / adj."
+    },
+    "depiction": {
+      "examples": [
+        {
+          "en": "The novel offers a vivid depiction of village life.",
+          "zh": "这部小说生动地描绘了乡村生活。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "culminate": {
+      "examples": [
+        {
+          "en": "Months of preparation will culminate in a public performance.",
+          "zh": "数月的准备工作将以一场公开演出达到高潮。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "trajectory": {
+      "examples": [
+        {
+          "en": "The engineers calculated the rocket's planned trajectory.",
+          "zh": "工程师们计算了火箭的预定轨迹。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "endurance": {
+      "examples": [
+        {
+          "en": "The long race tested both her speed and her endurance.",
+          "zh": "这场长距离比赛同时考验了她的速度和耐力。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "degradation": {
+      "examples": [
+        {
+          "en": "The study examines the degradation of farmland after years of intensive use.",
+          "zh": "这项研究考察了农田在多年高强度使用后的退化情况。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "adulthood": {
+      "examples": [
+        {
+          "en": "Many of those friendships continued into adulthood.",
+          "zh": "那些友谊中有许多一直延续到了成年时期。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "penis": {
+      "examples": [
+        {
+          "en": "The medical diagram labels the main parts of the penis.",
+          "zh": "这张医学示意图标出了阴茎的主要部位。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "compassionate": {
+      "examples": [
+        {
+          "en": "The counselor gave her a compassionate response.",
+          "zh": "辅导员给了她一个充满同情和关怀的回应。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "specification": {
+      "examples": [
+        {
+          "en": "The supplier must meet every specification in the contract.",
+          "zh": "供应商必须满足合同中的每一项规格要求。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "enhancement": {
+      "examples": [
+        {
+          "en": "The latest version includes an enhancement to the search function.",
+          "zh": "最新版本对搜索功能作了改进。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "alignment": {
+      "examples": [
+        {
+          "en": "The mechanic checked the alignment of the wheels.",
+          "zh": "修理工检查了车轮是否正确对齐。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "ordinance": {
+      "examples": [
+        {
+          "en": "A local ordinance limits noise after ten at night.",
+          "zh": "当地一项条例限制晚上十点之后的噪声。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "specially": {
+      "examples": [
+        {
+          "en": "These shelves were specially made for the narrow room.",
+          "zh": "这些架子是专为这间狭窄的房间制作的。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "brightness": {
+      "examples": [
+        {
+          "en": "You can adjust the brightness of the screen.",
+          "zh": "你可以调节屏幕的亮度。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "stimulation": {
+      "examples": [
+        {
+          "en": "The study compared the effects of different kinds of sensory stimulation.",
+          "zh": "这项研究比较了不同种类感官刺激的效果。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "categorize": {
+      "examples": [
+        {
+          "en": "Please categorize the documents by date and subject.",
+          "zh": "请按日期和主题对文件进行分类。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "prostitution": {
+      "examples": [
+        {
+          "en": "The documentary examines the social conditions surrounding prostitution.",
+          "zh": "这部纪录片考察了与卖淫相关的社会状况。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "acceleration": {
+      "examples": [
+        {
+          "en": "The driver noticed a delay in acceleration.",
+          "zh": "司机注意到车辆加速有些迟缓。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "atrocity": {
+      "examples": [
+        {
+          "en": "The investigators collected evidence of the wartime atrocity.",
+          "zh": "调查人员收集了那起战争暴行的证据。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "physiological": {
+      "examples": [
+        {
+          "en": "The researchers compared physiological responses in the two groups.",
+          "zh": "研究人员比较了两组的生理反应。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "relaxation": {
+      "examples": [
+        {
+          "en": "I set aside half an hour for relaxation after work.",
+          "zh": "下班后，我留出半小时放松休息。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "imbalance": {
+      "examples": [
+        {
+          "en": "The report highlights an imbalance between supply and demand.",
+          "zh": "这份报告指出了供需之间的不平衡。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "ubiquitous": {
+      "examples": [
+        {
+          "en": "Smartphones have become ubiquitous in daily life.",
+          "zh": "智能手机在日常生活中已经随处可见。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "liberalism": {
+      "examples": [
+        {
+          "en": "The course examines different traditions within liberalism.",
+          "zh": "这门课程考察自由主义内部的不同思想传统。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "designation": {
+      "examples": [
+        {
+          "en": "The building received official designation as a historic site.",
+          "zh": "这座建筑被正式指定为历史遗址。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "deception": {
+      "examples": [
+        {
+          "en": "The investigation uncovered a deliberate act of deception.",
+          "zh": "调查发现了一起蓄意欺骗行为。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "systemic": {
+      "examples": [
+        {
+          "en": "The audit identified systemic weaknesses rather than a single mistake.",
+          "zh": "审计发现的是系统性缺陷，而非单一错误。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "subdivision": {
+      "examples": [
+        {
+          "en": "The manual uses a clear subdivision of each topic.",
+          "zh": "这本手册对每个主题都作了清晰的细分。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "directory": {
+      "examples": [
+        {
+          "en": "Her phone number is listed in the staff directory.",
+          "zh": "员工名录中列有她的电话号码。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "evacuation": {
+      "examples": [
+        {
+          "en": "The building manager organized an evacuation drill.",
+          "zh": "大楼管理员组织了一次疏散演习。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "redemption": {
+      "examples": [
+        {
+          "en": "The voucher has a clear deadline for redemption.",
+          "zh": "这张代金券有明确的兑换截止日期。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "adaptive": {
+      "examples": [
+        {
+          "en": "The app uses an adaptive learning system.",
+          "zh": "这个应用使用一种自适应学习系统。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "insecurity": {
+      "examples": [
+        {
+          "en": "The sudden change increased his sense of insecurity.",
+          "zh": "这个突然的变化加重了他的不安全感。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "characterization": {
+      "examples": [
+        {
+          "en": "The review praised the novel's careful characterization.",
+          "zh": "这篇评论赞扬了小说细致的人物塑造。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "compression": {
+      "examples": [
+        {
+          "en": "The program uses compression to reduce the file size.",
+          "zh": "这个程序通过压缩来减小文件大小。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "citation": {
+      "examples": [
+        {
+          "en": "Each quotation should be followed by a proper citation.",
+          "zh": "每处引文后面都应注明规范的出处。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "eligibility": {
+      "examples": [
+        {
+          "en": "Applicants must provide documents proving their eligibility.",
+          "zh": "申请人必须提供证明自己符合资格的文件。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "variability": {
+      "examples": [
+        {
+          "en": "The researchers recorded considerable variability in the measurements.",
+          "zh": "研究人员记录到测量结果存在相当大的变动。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "empowerment": {
+      "examples": [
+        {
+          "en": "The project focuses on the economic empowerment of local women.",
+          "zh": "这个项目着重帮助当地女性获得更大的经济自主权。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "materialize": {
+      "examples": [
+        {
+          "en": "The promised funding did not materialize.",
+          "zh": "承诺的资金最终没有到位。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "abstraction": {
+      "examples": [
+        {
+          "en": "The painter moved from realistic portraits toward abstraction.",
+          "zh": "这位画家从写实肖像画转向了抽象绘画。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "lesion": {
+      "examples": [
+        {
+          "en": "The scan showed a small lesion that required further examination.",
+          "zh": "扫描显示了一处需要进一步检查的小病灶。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "temperament": {
+      "examples": [
+        {
+          "en": "The two sisters have very different temperaments.",
+          "zh": "这两姐妹的性情很不一样。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "democratization": {
+      "examples": [
+        {
+          "en": "The book compares several paths to democratization.",
+          "zh": "这本书比较了几种不同的民主化道路。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "narcotic": {
+      "examples": [
+        {
+          "en": "The nurse recorded the dose of the prescribed narcotic.",
+          "zh": "护士记录了医嘱所开麻醉性药物的剂量。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "multitude": {
+      "examples": [
+        {
+          "en": "A multitude of small shops lined the street.",
+          "zh": "街道两旁开着许多小店。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "vitality": {
+      "examples": [
+        {
+          "en": "The festival brought new vitality to the neighborhood.",
+          "zh": "这个节日为街区注入了新的活力。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "accumulation": {
+      "examples": [
+        {
+          "en": "Dust accumulation can be seen along the window frame.",
+          "zh": "窗框边缘可以看到积聚的灰尘。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "retaliation": {
+      "examples": [
+        {
+          "en": "The employee feared retaliation for reporting the problem.",
+          "zh": "那名员工担心举报问题后会遭到报复。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "archaeology": {
+      "examples": [
+        {
+          "en": "She developed an interest in archaeology while visiting ancient ruins.",
+          "zh": "参观古代遗址时，她对考古学产生了兴趣。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "sensory": {
+      "examples": [
+        {
+          "en": "The exhibition includes sensory activities involving sound and texture.",
+          "zh": "展览中有涉及声音和质感的感官体验活动。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "customary": {
+      "examples": [
+        {
+          "en": "It is customary to thank the hosts before leaving.",
+          "zh": "离开前向主人道谢是一种惯常做法。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "mystical": {
+      "examples": [
+        {
+          "en": "The story describes a mystical journey through an imagined world.",
+          "zh": "这个故事描写了一段穿越虚构世界的神秘旅程。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "metallic": {
+      "examples": [
+        {
+          "en": "We heard a sharp metallic sound from the machine.",
+          "zh": "我们听到机器发出了一声尖锐的金属声。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "restrictive": {
+      "examples": [
+        {
+          "en": "The committee questioned the need for such a restrictive rule.",
+          "zh": "委员会质疑是否有必要制定如此严格的限制性规定。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "doctorate": {
+      "examples": [
+        {
+          "en": "She completed a doctorate in environmental history.",
+          "zh": "她获得了环境史专业的博士学位。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "sizable": {
+      "examples": [
+        {
+          "en": "The museum received a sizable donation.",
+          "zh": "博物馆收到了一笔相当可观的捐款。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "absorption": {
+      "examples": [
+        {
+          "en": "The students measured the absorption of light by different materials.",
+          "zh": "学生们测量了不同材料对光的吸收情况。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "epic": {
+      "examples": [
+        {
+          "en": "The poet spent years writing an epic about the sea.",
+          "zh": "这位诗人花了多年时间创作一部长篇叙事诗，讲述大海的故事。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "cleric": {
+      "examples": [
+        {
+          "en": "A local cleric helped organize the community meeting.",
+          "zh": "当地一位神职人员帮助组织了这次社区会议。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ],
+      "meaningZh": "n. 神职人员；教士\nadj. 教士的",
+      "partOfSpeech": "n. / adj."
+    },
+    "affective": {
+      "examples": [
+        {
+          "en": "The questionnaire measures the affective aspects of the experience.",
+          "zh": "这份问卷测量了这段经历在情感方面的影响。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "normative": {
+      "examples": [
+        {
+          "en": "The essay distinguishes descriptive claims from normative judgments.",
+          "zh": "这篇文章区分了描述性陈述与规范性判断。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "mutation": {
+      "examples": [
+        {
+          "en": "The laboratory detected a mutation in the sample.",
+          "zh": "实验室在样本中检测到了一处突变。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "brutality": {
+      "examples": [
+        {
+          "en": "The witness described the brutality of the attack.",
+          "zh": "证人描述了那次袭击的残暴程度。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "electorate": {
+      "examples": [
+        {
+          "en": "The candidates tried to win the confidence of the electorate.",
+          "zh": "候选人努力争取全体选民的信任。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "deregulation": {
+      "examples": [
+        {
+          "en": "The panel debated the possible consequences of deregulation.",
+          "zh": "小组讨论了放松管制可能带来的后果。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "municipality": {
+      "examples": [
+        {
+          "en": "The municipality is responsible for maintaining the public park.",
+          "zh": "市政当局负责维护这座公共公园。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "antiquity": {
+      "examples": [
+        {
+          "en": "The exhibition displays objects from classical antiquity.",
+          "zh": "这场展览展出了古典时代的物品。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "automotive": {
+      "examples": [
+        {
+          "en": "She works as an engineer in the automotive industry.",
+          "zh": "她在汽车行业担任工程师。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "fulfillment": {
+      "examples": [
+        {
+          "en": "He found personal fulfillment in teaching.",
+          "zh": "他在教学工作中找到了个人的满足感。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "intrusion": {
+      "examples": [
+        {
+          "en": "The alarm warns residents of a possible intrusion.",
+          "zh": "这个警报会提醒住户可能有人闯入。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "rhythmic": {
+      "examples": [
+        {
+          "en": "The dancers moved to a rhythmic beat.",
+          "zh": "舞者随着有节奏的节拍起舞。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "freelance": {
+      "examples": [
+        {
+          "en": "He began a freelance career after leaving the newspaper.",
+          "zh": "离开报社后，他开始了自由职业生涯。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "preoccupation": {
+      "examples": [
+        {
+          "en": "Her preoccupation with the deadline made it hard to relax.",
+          "zh": "她一心想着截止日期，很难放松下来。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "collegiate": {
+      "examples": [
+        {
+          "en": "The tournament attracted several collegiate teams.",
+          "zh": "这项比赛吸引了几支大学代表队参加。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "hypothesize": {
+      "examples": [
+        {
+          "en": "The researchers hypothesize that the two changes are connected.",
+          "zh": "研究人员假设这两种变化之间存在联系。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "geological": {
+      "examples": [
+        {
+          "en": "The map shows the region's main geological features.",
+          "zh": "这张地图展示了该地区的主要地质特征。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "continuation": {
+      "examples": [
+        {
+          "en": "The second volume is a continuation of the first.",
+          "zh": "第二卷是第一卷的续篇。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "persecution": {
+      "examples": [
+        {
+          "en": "The family fled their home to escape religious persecution.",
+          "zh": "这家人为躲避宗教迫害而逃离家园。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "kinship": {
+      "examples": [
+        {
+          "en": "The novel explores kinship and responsibility across three generations.",
+          "zh": "这部小说探讨了三代人之间的亲属关系与责任。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "surrogate": {
+      "examples": [
+        {
+          "en": "The researcher used a computer model as a surrogate for the real system.",
+          "zh": "研究人员用计算机模型代替真实系统进行研究。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "punitive": {
+      "examples": [
+        {
+          "en": "The committee rejected a purely punitive response to the mistake.",
+          "zh": "委员会否决了对这次错误采取纯粹惩罚性的处理方式。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "disparate": {
+      "examples": [
+        {
+          "en": "The project brought together people from disparate backgrounds.",
+          "zh": "这个项目把背景迥异的人聚集到了一起。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "contentious": {
+      "examples": [
+        {
+          "en": "The proposed boundary change remains a contentious issue.",
+          "zh": "拟议中的边界调整仍然是一个有争议的问题。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "universally": {
+      "examples": [
+        {
+          "en": "The new design was not universally welcomed.",
+          "zh": "这个新设计并没有得到所有人的欢迎。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "orchestrate": {
+      "examples": [
+        {
+          "en": "She helped orchestrate the move to the new office.",
+          "zh": "她协助周密安排了搬迁到新办公室的工作。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ],
+      "meaningZh": "v. 把（乐曲）编配成管弦乐；精心组织，周密策划"
+    },
+    "congestion": {
+      "examples": [
+        {
+          "en": "The city is trying to reduce traffic congestion.",
+          "zh": "这座城市正设法缓解交通拥堵。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "deterioration": {
+      "examples": [
+        {
+          "en": "The survey recorded a gradual deterioration in the building's condition.",
+          "zh": "调查记录了这座建筑状况的逐步恶化。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "alteration": {
+      "examples": [
+        {
+          "en": "The tailor made a small alteration to the jacket.",
+          "zh": "裁缝对那件夹克作了一处小修改。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "symbolism": {
+      "examples": [
+        {
+          "en": "We discussed the symbolism of the river in the poem.",
+          "zh": "我们讨论了诗中河流的象征意义。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "retrospective": {
+      "examples": [
+        {
+          "en": "The gallery organized a retrospective of her early paintings.",
+          "zh": "画廊举办了一场她早期画作的回顾展。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "checklist": {
+      "examples": [
+        {
+          "en": "Use this checklist before submitting the application.",
+          "zh": "提交申请前，请使用这份核对清单逐项检查。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    }
+  }
+}

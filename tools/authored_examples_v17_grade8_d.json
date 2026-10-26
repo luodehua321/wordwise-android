@@ -1,0 +1,1249 @@
+{
+  "license": "CC0 1.0",
+  "words": {
+    "disfigure": {
+      "examples": [
+        {
+          "en": "The new signs should not disfigure the historic square.",
+          "zh": "新招牌不应破坏历史广场的外观。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "skewed": {
+      "examples": [
+        {
+          "en": "The survey results were skewed by the small sample.",
+          "zh": "样本太小，影响了调查结果的准确性。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "fistful": {
+      "examples": [
+        {
+          "en": "She picked up a fistful of sand from the beach.",
+          "zh": "她从海滩上抓起了一把沙子。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "monolith": {
+      "examples": [
+        {
+          "en": "A tall stone monolith stood in the centre of the site.",
+          "zh": "遗址中央矗立着一块高大的独石。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "jaunty": {
+      "examples": [
+        {
+          "en": "He walked into the room with a jaunty step.",
+          "zh": "他迈着轻快的步子走进房间。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "reveler": {
+      "examples": [
+        {
+          "en": "A lone reveler was still dancing after the music stopped.",
+          "zh": "音乐停下后，还有一个狂欢者独自在跳舞。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "superhighway": {
+      "examples": [
+        {
+          "en": "The superhighway connects the city with the coastal region.",
+          "zh": "这条高速干道把城市与沿海地区连接起来。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "chomp": {
+      "examples": [
+        {
+          "en": "The horse began to chomp on the fresh grass.",
+          "zh": "马开始大口咀嚼新鲜的青草。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "starched": {
+      "examples": [
+        {
+          "en": "He wore a neatly pressed shirt with a starched collar.",
+          "zh": "他穿着一件熨烫整齐、领口浆得挺括的衬衫。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "adjuster": {
+      "examples": [
+        {
+          "en": "The insurance adjuster inspected the damaged roof.",
+          "zh": "保险理赔员检查了受损的屋顶。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 保险理赔员；调节器；调整者"
+    },
+    "plotter": {
+      "examples": [
+        {
+          "en": "The plotter printed a large architectural drawing.",
+          "zh": "绘图仪打印出了一张大型建筑图纸。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "despairing": {
+      "examples": [
+        {
+          "en": "She gave a despairing sigh when the computer failed again.",
+          "zh": "电脑再次出故障时，她绝望地叹了口气。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "disembodied": {
+      "examples": [
+        {
+          "en": "A disembodied voice came from the hidden speaker.",
+          "zh": "一个不见说话者身影的声音从隐藏的扬声器里传来。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "burlap": {
+      "examples": [
+        {
+          "en": "The potatoes were stored in a burlap sack.",
+          "zh": "土豆被装在一个粗麻布袋里。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "wanderer": {
+      "examples": [
+        {
+          "en": "The wanderer stopped in the village to rest.",
+          "zh": "那个流浪者在村里停下来休息。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "neophyte": {
+      "examples": [
+        {
+          "en": "As a neophyte, he welcomed advice from experienced climbers.",
+          "zh": "作为一个新手，他很欢迎经验丰富的登山者提出建议。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 初学者；新手；新入教者"
+    },
+    "forefather": {
+      "examples": [
+        {
+          "en": "She researched the life of a forefather who had worked at sea.",
+          "zh": "她研究了一位曾以航海为业的祖先的生平。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "unkempt": {
+      "examples": [
+        {
+          "en": "The empty house had an unkempt garden full of weeds.",
+          "zh": "那间空屋有一个无人照料、杂草丛生的花园。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "variegated": {
+      "examples": [
+        {
+          "en": "The plant has variegated leaves with green and white patches.",
+          "zh": "这种植物的叶片上有绿白相间的斑纹。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "languid": {
+      "examples": [
+        {
+          "en": "She gave a languid wave from the hammock.",
+          "zh": "她躺在吊床里，懒洋洋地挥了挥手。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "cachet": {
+      "examples": [
+        {
+          "en": "The award gave the small publisher considerable cachet.",
+          "zh": "这个奖项给那家小出版社带来了很高的声望。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "wham": {
+      "examples": [
+        {
+          "en": "Wham, the heavy door slammed shut behind us.",
+          "zh": "砰，沉重的门在我们身后猛地关上了。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "int. / n. / v.",
+      "meaningZh": "int. 砰，轰（模拟猛烈撞击声）\nn. 猛击声\nv. 猛击"
+    },
+    "powdery": {
+      "examples": [
+        {
+          "en": "A powdery layer of snow covered the path.",
+          "zh": "一层粉状的雪覆盖了小路。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "sheathe": {
+      "examples": [
+        {
+          "en": "The actor learned to sheathe the sword safely.",
+          "zh": "演员学会了安全地把剑插回鞘中。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "cellophane": {
+      "examples": [
+        {
+          "en": "The flowers were wrapped in clear cellophane.",
+          "zh": "那些花用透明玻璃纸包着。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "cuticle": {
+      "examples": [
+        {
+          "en": "She carefully pushed back the cuticle at the base of the nail.",
+          "zh": "她小心地把指甲根部的角质层往后推。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "raiser": {
+      "examples": [
+        {
+          "en": "The cattle raiser checked the animals before sunset.",
+          "zh": "那位养牛者在日落前检查了牲畜。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "spectrometer": {
+      "examples": [
+        {
+          "en": "The spectrometer measured the light emitted by the sample.",
+          "zh": "光谱仪测量了样本发出的光。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "stoplight": {
+      "examples": [
+        {
+          "en": "We waited for the stoplight to turn green.",
+          "zh": "我们等着交通信号灯变绿。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "porridge": {
+      "examples": [
+        {
+          "en": "She made a bowl of warm porridge for breakfast.",
+          "zh": "她早餐做了一碗热粥。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "crisply": {
+      "examples": [
+        {
+          "en": "He answered crisply and returned to his work.",
+          "zh": "他干脆利落地回答后，继续工作。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "glower": {
+      "examples": [
+        {
+          "en": "He could only glower at the broken machine.",
+          "zh": "他只能怒视着那台坏掉的机器。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "mete": {
+      "examples": [
+        {
+          "en": "The committee must mete out penalties fairly.",
+          "zh": "委员会必须公正地施加处罚。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "pilings": {
+      "examples": [
+        {
+          "en": "The pier rests on wooden pilings driven into the riverbed.",
+          "zh": "码头由打入河床的木桩支撑。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "welt": {
+      "examples": [
+        {
+          "en": "The tight strap left a red welt on his skin.",
+          "zh": "过紧的带子在他的皮肤上留下了一道红色隆痕。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "overrated": {
+      "examples": [
+        {
+          "en": "She thought the much-praised film was overrated.",
+          "zh": "她认为那部备受赞誉的电影被高估了。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "endear": {
+      "examples": [
+        {
+          "en": "Her kindness helped endear her to the neighbours.",
+          "zh": "她的善良使邻居们逐渐喜欢上了她。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "sortie": {
+      "examples": [
+        {
+          "en": "The aircraft returned safely from its first sortie.",
+          "zh": "飞机完成首次出动后安全返回。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "fucker": {
+      "examples": [
+        {
+          "en": "Calling someone a fucker is a strong insult.",
+          "zh": "称某人为“混蛋”是一种很重的辱骂。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. （粗俗、辱骂用语）混蛋；讨厌的家伙"
+    },
+    "staid": {
+      "examples": [
+        {
+          "en": "The staid office became livelier after the renovation.",
+          "zh": "装修后，原本古板的办公室变得更有活力。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "coddle": {
+      "examples": [
+        {
+          "en": "They were careful not to coddle the child excessively.",
+          "zh": "他们注意不过分溺爱那个孩子。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "dyad": {
+      "examples": [
+        {
+          "en": "The researcher studied communication within each parent-child dyad.",
+          "zh": "研究人员考察了每一对亲子之间的沟通。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 二人组；一对；二元组"
+    },
+    "malignancy": {
+      "examples": [
+        {
+          "en": "The pathologist examined the tissue for signs of malignancy.",
+          "zh": "病理学家检查了组织中是否有恶性病变的迹象。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 恶性；恶性肿瘤；恶性病变；恶意"
+    },
+    "bide": {
+      "examples": [
+        {
+          "en": "She decided to bide her time until a better opportunity arose.",
+          "zh": "她决定耐心等待，直到更好的机会出现。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "mishandle": {
+      "examples": [
+        {
+          "en": "The company was criticized for continuing to mishandle complaints.",
+          "zh": "公司因持续不当处理投诉而受到批评。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "girlish": {
+      "examples": [
+        {
+          "en": "She recalled her girlish enthusiasm for adventure stories.",
+          "zh": "她回想起自己少女时代对冒险故事的热情。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "nicety": {
+      "examples": [
+        {
+          "en": "The discussion turned to a technical nicety in the proposal.",
+          "zh": "讨论转向了提案中的一个技术细节。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "jetliner": {
+      "examples": [
+        {
+          "en": "The jetliner landed smoothly despite the strong wind.",
+          "zh": "尽管风很大，喷气客机还是平稳着陆了。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "feverishly": {
+      "examples": [
+        {
+          "en": "The team worked feverishly to finish before the deadline.",
+          "zh": "团队争分夺秒地工作，力争在截止时间前完成。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "copier": {
+      "examples": [
+        {
+          "en": "The office copier needs more paper.",
+          "zh": "办公室的复印机需要加纸了。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 复印机；复制设备；抄写者；模仿者"
+    },
+    "firebird": {
+      "examples": [
+        {
+          "en": "The illustration shows a brilliant firebird from a folktale.",
+          "zh": "这幅插图展示了民间故事里一只绚丽的火鸟。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 火鸟（传说中的神鸟）；北美黄鹂鸟"
+    },
+    "awed": {
+      "examples": [
+        {
+          "en": "The children were awed by the size of the telescope.",
+          "zh": "孩子们对望远镜的巨大体积感到敬畏。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "inscribed": {
+      "examples": [
+        {
+          "en": "Her name was inscribed on a small metal plate.",
+          "zh": "她的名字刻在一块小金属牌上。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "stirrup": {
+      "examples": [
+        {
+          "en": "He placed one foot in the stirrup before mounting the horse.",
+          "zh": "他上马前先把一只脚放进马镫。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "kitsch": {
+      "examples": [
+        {
+          "en": "The exhibition explores the appeal of kitsch in popular culture.",
+          "zh": "展览探讨了媚俗艺术在大众文化中的吸引力。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "interlocutor": {
+      "examples": [
+        {
+          "en": "She listened carefully before responding to her interlocutor.",
+          "zh": "她仔细听完，才回答对话者。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "naw": {
+      "examples": [
+        {
+          "en": "Naw, I don't think that is the right address.",
+          "zh": "不，我觉得那不是正确地址。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "faltering": {
+      "examples": [
+        {
+          "en": "He took a few faltering steps after standing up.",
+          "zh": "他站起来后，蹒跚地走了几步。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "despondent": {
+      "examples": [
+        {
+          "en": "She felt despondent after several unsuccessful attempts.",
+          "zh": "几次尝试失败后，她感到很沮丧。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "vendetta": {
+      "examples": [
+        {
+          "en": "He warned against turning the disagreement into a personal vendetta.",
+          "zh": "他告诫说，不要把分歧变成个人的报复行动。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "undeterred": {
+      "examples": [
+        {
+          "en": "Undeterred by the rain, they continued their walk.",
+          "zh": "他们没有被雨水阻止，继续散步。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "bodice": {
+      "examples": [
+        {
+          "en": "The dress had a fitted bodice and a full skirt.",
+          "zh": "这条连衣裙上身贴身，下摆宽大。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "regalia": {
+      "examples": [
+        {
+          "en": "The portrait shows the monarch wearing ceremonial regalia.",
+          "zh": "画像中的君主身着礼仪服饰、佩戴王权标志。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "colonizer": {
+      "examples": [
+        {
+          "en": "The historian compared the accounts of the colonizer and the local community.",
+          "zh": "历史学家比较了殖民者与当地族群的叙述。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "leathery": {
+      "examples": [
+        {
+          "en": "The plant has thick, leathery leaves.",
+          "zh": "这种植物的叶片厚实，质地像皮革。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "goblin": {
+      "examples": [
+        {
+          "en": "A mischievous goblin appears in the children's story.",
+          "zh": "这个儿童故事里出现了一个淘气的小妖精。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "softened": {
+      "examples": [
+        {
+          "en": "The butter softened as the kitchen warmed up.",
+          "zh": "随着厨房变暖，黄油变软了。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj. / v.",
+      "meaningZh": "adj. 软化的；变柔和的\nv. 使变软；使缓和（soften 的过去式和过去分词）"
+    },
+    "ugh": {
+      "examples": [
+        {
+          "en": "Ugh, these socks are still wet!",
+          "zh": "呃，这些袜子还是湿的！",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "shapely": {
+      "examples": [
+        {
+          "en": "The vase had a shapely curve and a narrow neck.",
+          "zh": "这个花瓶曲线优美，瓶颈纤细。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "accost": {
+      "examples": [
+        {
+          "en": "A stranger tried to accost her outside the station.",
+          "zh": "一名陌生人在车站外试图上前搭讪她。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "idiosyncrasy": {
+      "examples": [
+        {
+          "en": "He regarded her unusual filing system as a harmless idiosyncrasy.",
+          "zh": "他把她不同寻常的归档方式看作一种无伤大雅的个人习惯。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 个人特有的习惯或特点；独特癖好；特异性"
+    },
+    "keypad": {
+      "examples": [
+        {
+          "en": "Enter the code using the keypad beside the door.",
+          "zh": "请用门旁的数字键盘输入密码。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "chowder": {
+      "examples": [
+        {
+          "en": "They served hot clam chowder with fresh bread.",
+          "zh": "他们端上了热蛤蜊浓汤和新鲜面包。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "grudging": {
+      "examples": [
+        {
+          "en": "He gave a grudging nod of agreement.",
+          "zh": "他勉强地点了点头表示同意。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "headliner": {
+      "examples": [
+        {
+          "en": "The festival announced its headliner a month before opening.",
+          "zh": "音乐节在开幕前一个月公布了主打表演者。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 主打表演者；领衔明星；报纸标题撰写者"
+    },
+    "threadbare": {
+      "examples": [
+        {
+          "en": "He wore a threadbare coat that had belonged to his father.",
+          "zh": "他穿着父亲留下的一件已经磨薄的旧外套。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "concourse": {
+      "examples": [
+        {
+          "en": "We met in the main concourse of the railway station.",
+          "zh": "我们在火车站的主大厅见了面。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. （车站、机场等的）大厅；汇合处；人群"
+    },
+    "nirvana": {
+      "examples": [
+        {
+          "en": "The lecture introduced the Buddhist concept of nirvana.",
+          "zh": "讲座介绍了佛教中涅槃的概念。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. （佛教）涅槃；极乐境界；理想的幸福状态"
+    },
+    "diatribe": {
+      "examples": [
+        {
+          "en": "The letter became a lengthy diatribe against the new policy.",
+          "zh": "那封信变成了对新政策的一篇长篇抨击。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "dais": {
+      "examples": [
+        {
+          "en": "The speaker stepped onto the dais to begin her address.",
+          "zh": "演讲者走上讲台，开始致辞。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "visage": {
+      "examples": [
+        {
+          "en": "The portrait captures the old man's solemn visage.",
+          "zh": "这幅肖像捕捉到了老人的庄严面容。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "nonmember": {
+      "examples": [
+        {
+          "en": "A nonmember can attend by paying a small entrance fee.",
+          "zh": "非会员可以支付少量入场费参加。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "livid": {
+      "examples": [
+        {
+          "en": "He was livid when he discovered that his work had been deleted.",
+          "zh": "发现自己的工作成果被删除后，他暴跳如雷。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj.",
+      "meaningZh": "adj. 狂怒的；铁青色的；青紫色的"
+    },
+    "preen": {
+      "examples": [
+        {
+          "en": "The birds began to preen their feathers after bathing.",
+          "zh": "鸟儿洗浴后开始梳理羽毛。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "courtier": {
+      "examples": [
+        {
+          "en": "The courtier waited outside the royal chamber.",
+          "zh": "那位宫廷侍臣在王室寝宫外等候。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "dutiful": {
+      "examples": [
+        {
+          "en": "She made a dutiful visit to her elderly neighbour each week.",
+          "zh": "她每周都尽责地探望年迈的邻居。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "upswing": {
+      "examples": [
+        {
+          "en": "The shop saw an upswing in sales during the holidays.",
+          "zh": "假日期间，这家商店的销售额有所回升。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "catharsis": {
+      "examples": [
+        {
+          "en": "Writing the memoir gave her a sense of emotional catharsis.",
+          "zh": "撰写回忆录让她感到情绪得到了宣泄。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "wintry": {
+      "examples": [
+        {
+          "en": "A wintry wind blew across the empty fields.",
+          "zh": "一阵冬日般寒冷的风吹过空旷的田野。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "cajole": {
+      "examples": [
+        {
+          "en": "He tried to cajole his friend into joining the rehearsal.",
+          "zh": "他试图用好言好语哄朋友参加排练。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "enjoin": {
+      "examples": [
+        {
+          "en": "The notice will enjoin visitors to remain on the marked paths.",
+          "zh": "告示将要求游客留在标明的小路上。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "mangle": {
+      "examples": [
+        {
+          "en": "The old printer can mangle paper if it is overloaded.",
+          "zh": "那台旧打印机如果装纸过多，就可能把纸绞坏。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "glib": {
+      "examples": [
+        {
+          "en": "She was not satisfied with his glib explanation.",
+          "zh": "她对他那套油滑的解释并不满意。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "headfirst": {
+      "examples": [
+        {
+          "en": "He dived headfirst into the pool.",
+          "zh": "他头朝下扎进泳池。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "prong": {
+      "examples": [
+        {
+          "en": "One prong of the fork was slightly bent.",
+          "zh": "叉子的一根叉齿有些弯。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "wrenching": {
+      "examples": [
+        {
+          "en": "She described the separation as a wrenching experience.",
+          "zh": "她把那次分离描述为一段痛彻心扉的经历。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj. / v. / n.",
+      "meaningZh": "adj. 极其痛苦的；令人心碎的\nv. 猛扭；扭伤；痛苦地夺走（wrench 的现在分词）\nn. （林业）苗木切根"
+    },
+    "naysayer": {
+      "examples": [
+        {
+          "en": "The team proved the naysayer wrong by finishing early.",
+          "zh": "团队提前完成了任务，证明那个唱反调的人错了。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "networked": {
+      "examples": [
+        {
+          "en": "The networked printers can be used from any computer in the office.",
+          "zh": "办公室里任何一台电脑都能使用这些联网打印机。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj. / v.",
+      "meaningZh": "adj. 联网的；相互连接的\nv. 联网；建立联系（network 的过去式和过去分词）"
+    },
+    "collegial": {
+      "examples": [
+        {
+          "en": "The department encouraged a collegial approach to solving problems.",
+          "zh": "这个部门鼓励同事合作解决问题。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj.",
+      "meaningZh": "adj. 同事间合作的；合议的；学院的"
+    },
+    "matriarch": {
+      "examples": [
+        {
+          "en": "The family gathered to celebrate its much-loved matriarch.",
+          "zh": "全家聚在一起，为深受爱戴的女家长庆祝。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "faze": {
+      "examples": [
+        {
+          "en": "The unexpected question did not faze her.",
+          "zh": "那个出乎意料的问题并没有让她慌乱。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "weedy": {
+      "examples": [
+        {
+          "en": "They cleared the weedy patch beside the shed.",
+          "zh": "他们清理了棚屋旁那片杂草丛生的地。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "sunspot": {
+      "examples": [
+        {
+          "en": "The students observed a sunspot through a filtered telescope.",
+          "zh": "学生们通过装有滤光装置的望远镜观察了一处太阳黑子。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "gavel": {
+      "examples": [
+        {
+          "en": "The chair struck the gavel to call the meeting to order.",
+          "zh": "主席敲了敲槌，宣布会议开始并要求大家安静。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "degraded": {
+      "examples": [
+        {
+          "en": "The team tested whether the material had degraded over time.",
+          "zh": "团队检测了这种材料是否随时间发生了性能退化。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj. / v.",
+      "meaningZh": "adj. 退化的；降解的；受损的；被降级的\nv. 使退化；降解；贬低（degrade 的过去式和过去分词）"
+    },
+    "illegitimacy": {
+      "examples": [
+        {
+          "en": "The debate focused on the alleged illegitimacy of the decision.",
+          "zh": "辩论围绕着那项决定被指缺乏正当性的问题展开。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "sharecropper": {
+      "examples": [
+        {
+          "en": "The novel describes the life of a sharecropper and his family.",
+          "zh": "小说描写了一名分成佃农及其家人的生活。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 分成佃农（以部分收成向地主交租的耕作者）"
+    },
+    "wherewithal": {
+      "examples": [
+        {
+          "en": "They lacked the financial wherewithal to repair the building.",
+          "zh": "他们缺乏修缮这座建筑所需的资金。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "bedevil": {
+      "examples": [
+        {
+          "en": "Technical faults continue to bedevil the ageing system.",
+          "zh": "技术故障继续困扰着这个老化的系统。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "newsworthy": {
+      "examples": [
+        {
+          "en": "The editor did not consider the announcement newsworthy.",
+          "zh": "编辑认为这则公告没有新闻价值。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "disparaging": {
+      "examples": [
+        {
+          "en": "She objected to his disparaging comments about the volunteers.",
+          "zh": "她反对他那些贬低志愿者的言论。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "facile": {
+      "examples": [
+        {
+          "en": "The report offered a facile answer to a complex problem.",
+          "zh": "这份报告给一个复杂问题提供了一个过于简单的答案。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "adj.",
+      "meaningZh": "adj. 过于简单的；肤浅的；轻而易举的；流畅但缺乏深度的"
+    },
+    "maelstrom": {
+      "examples": [
+        {
+          "en": "The small boat was caught in a maelstrom near the rocks.",
+          "zh": "小船在岩石附近卷入了一个大漩涡。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "brocade": {
+      "examples": [
+        {
+          "en": "The ceremonial robe was made from richly patterned brocade.",
+          "zh": "那件礼袍由花纹华丽的织锦制成。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "revile": {
+      "examples": [
+        {
+          "en": "The article argues that disagreement is no excuse to revile others.",
+          "zh": "文章认为，意见不合并不是辱骂他人的借口。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "sodomy": {
+      "examples": [
+        {
+          "en": "The historian examined how the term sodomy was used in older texts.",
+          "zh": "历史学家考察了旧文献中“鸡奸”这个词的用法。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 鸡奸（主要见于法律或宗教用语，具体含义依语境而异）"
+    },
+    "undergrowth": {
+      "examples": [
+        {
+          "en": "The path disappeared into dense undergrowth.",
+          "zh": "小路隐没在浓密的林下灌丛中。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "conservator": {
+      "examples": [
+        {
+          "en": "The conservator carefully cleaned the damaged painting.",
+          "zh": "文物修复师小心地清洁了那幅受损的画。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ],
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 文物或艺术品修复师；保护者；管理人"
+    },
+    "unrestrained": {
+      "examples": [
+        {
+          "en": "The children greeted the news with unrestrained delight.",
+          "zh": "孩子们听到消息后毫不掩饰地欢呼雀跃。",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    },
+    "yum": {
+      "examples": [
+        {
+          "en": "Yum, this soup tastes wonderful!",
+          "zh": "真好吃，这汤味道棒极了！",
+          "source": "项目原创语境 v17 · CC0",
+          "attribution": "项目原创（CC0）"
+        }
+      ]
+    }
+  }
+}

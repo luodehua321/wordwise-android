@@ -1,0 +1,4223 @@
+{
+  "version": "v16",
+  "license": "CC0 1.0",
+  "words": {
+    "constitutional": {
+      "exampleTranslations": {
+        "Subsequent constitutional reforms restored relative political stability.": "随后的宪法改革恢复了相对的政治稳定。"
+      }
+    },
+    "establishment": {
+      "exampleTranslations": {
+        "A bloodless revolution in 1932 led to the establishment of a constitutional monarchy.": "1932年的一场不流血革命促成了君主立宪制的建立。"
+      }
+    },
+    "representation": {
+      "exampleTranslations": {
+        "certain representations were made concerning police brutality": "有人就警方暴力问题提出了交涉。"
+      }
+    },
+    "psychology": {
+      "exampleTranslations": {
+        "My mother is a psychology teacher.": "我母亲是一名心理学教师。"
+      }
+    },
+    "restriction": {
+      "exampleTranslations": {
+        "They decided to abolish the old restriction.": "他们决定废除原来的限制。"
+      }
+    },
+    "measurement": {
+      "exampleTranslations": {
+        "The measurement has to be exact.": "测量结果必须准确。"
+      }
+    },
+    "frustration": {
+      "exampleTranslations": {
+        "I understand your frustration.": "我理解你的沮丧。"
+      }
+    },
+    "dramatically": {
+      "exampleTranslations": {
+        "The cost of living increased dramatically.": "生活成本大幅上升。"
+      }
+    },
+    "continuous": {
+      "exampleTranslations": {
+        "The brain needs a continuous supply of blood.": "大脑需要持续的血液供应。"
+      }
+    },
+    "acceptance": {
+      "exampleTranslations": {
+        "he anticipated their acceptance of his offer": "他预期他们会接受他的提议。"
+      }
+    },
+    "secondary": {
+      "exampleTranslations": {
+        "the stone will be hauled to a secondary crusher": "石料将被运送到二级破碎机。"
+      }
+    },
+    "civilization": {
+      "exampleTranslations": {
+        "The Middle East is the cradle of civilization.": "中东是文明的摇篮。"
+      }
+    },
+    "integrity": {
+      "exampleTranslations": {
+        "Are you questioning my integrity?": "你是在质疑我的诚信吗？"
+      }
+    },
+    "correlation": {
+      "exampleTranslations": {
+        "Is there a direct correlation?": "两者有直接的相关关系吗？"
+      }
+    },
+    "excitement": {
+      "exampleTranslations": {
+        "There was a murmur of excitement from the crowd.": "人群中响起了一阵兴奋的低语。"
+      }
+    },
+    "allegation": {
+      "exampleTranslations": {
+        "Tom has denied the allegation.": "汤姆否认了这项指控。"
+      }
+    },
+    "implementation": {
+      "exampleTranslations": {
+        "the agency was created for the implementation of the policy": "这个机构是为实施该政策而设立的。"
+      }
+    },
+    "recession": {
+      "exampleTranslations": {
+        "This increase in unemployment is a consequence of the recession.": "失业人数的这次增加是经济衰退的结果。"
+      }
+    },
+    "ownership": {
+      "exampleTranslations": {
+        "They disputed the ownership of the land for years.": "他们为这块土地的所有权争论了多年。"
+      }
+    },
+    "inspection": {
+      "exampleTranslations": {
+        "You have to unpack your luggage for customs inspection.": "你得打开行李，接受海关检查。"
+      }
+    },
+    "announcement": {
+      "exampleTranslations": {
+        "An announcement of his death appeared in the newspapers.": "报纸上刊登了他的讣告。"
+      }
+    },
+    "infrastructure": {
+      "exampleTranslations": {
+        "Chronic problems include a shortage of skilled labor and a deficient infrastructure.": "长期存在的问题包括熟练劳动力短缺和基础设施不完善。"
+      }
+    },
+    "replacement": {
+      "exampleTranslations": {
+        "Are you already thinking of a replacement for Tom?": "你已经在考虑找人接替汤姆了吗？"
+      }
+    },
+    "amendment": {
+      "exampleTranslations": {
+        "The Thirteenth Amendment freed all Negro slaves.": "第十三修正案解放了所有被奴役的黑人。"
+      }
+    },
+    "adoption": {
+      "exampleTranslations": {
+        "Tom's biological parents gave him up for adoption.": "汤姆的亲生父母把他送给别人收养。"
+      }
+    },
+    "modify": {
+      "exampleTranslations": {
+        "Tom wears a modified fishing vest to hold all his harmonicas when he performs on stage.": "汤姆在舞台上表演时，会穿一件经过改装的钓鱼背心来放所有的口琴。"
+      }
+    },
+    "separation": {
+      "exampleTranslations": {
+        "Several attempts at separation failed.": "几次分离的尝试都失败了。"
+      }
+    },
+    "traditionally": {
+      "exampleTranslations": {
+        "traditionally, we eat fried foods on Hanukah": "按照传统，我们在光明节吃油炸食物。"
+      }
+    },
+    "wilderness": {
+      "exampleTranslations": {
+        "Just three kilometers past my house is complete wilderness.": "离我家仅三公里远的地方就是一片荒野。"
+      }
+    },
+    "praise": {
+      "exampleTranslations": {
+        "Three other people were singled out for special praise.": "另外三个人被挑选出来，受到了特别表扬。"
+      }
+    },
+    "endless": {
+      "exampleTranslations": {
+        "An endless flow of tears fell from her eyes.": "她的眼泪流个不停。"
+      }
+    },
+    "mechanical": {
+      "exampleTranslations": {
+        "We've got a mechanical problem.": "我们遇到了机械故障。"
+      }
+    },
+    "corruption": {
+      "exampleTranslations": {
+        "The speaker hinted at corruption in the political world.": "发言人暗示政界存在腐败。"
+      }
+    },
+    "unity": {
+      "exampleTranslations": {
+        "The main idea in his speech was unity.": "他演讲的中心思想是团结。"
+      }
+    },
+    "exclusive": {
+      "exampleTranslations": {
+        "We have the exclusive right to sell them.": "我们拥有这些产品的独家销售权。"
+      }
+    },
+    "complexity": {
+      "exampleTranslations": {
+        "he enjoyed the complexity of modern computers": "他喜欢现代计算机的复杂性。"
+      }
+    },
+    "residence": {
+      "exampleTranslations": {
+        "The next meeting will be held at Tom's new residence.": "下次会议将在汤姆的新居举行。"
+      }
+    },
+    "theoretical": {
+      "exampleTranslations": {
+        "Theoretical physics was child's play to Einstein, but he couldn't figure out his income tax.": "理论物理对爱因斯坦来说轻而易举，但他却搞不清自己的所得税。"
+      }
+    },
+    "pension": {
+      "exampleTranslations": {
+        "The old man lives on his pension.": "那位老人靠养老金生活。"
+      }
+    },
+    "promotion": {
+      "exampleTranslations": {
+        "You are the next in line for promotion.": "接下来就轮到你晋升了。"
+      }
+    },
+    "delicate": {
+      "exampleTranslations": {
+        "I find myself in a rather delicate situation.": "我发现自己处于一个相当微妙的境地。"
+      }
+    },
+    "compensation": {
+      "exampleTranslations": {
+        "You may be entitled to compensation.": "你或许有权获得赔偿。"
+      }
+    },
+    "transaction": {
+      "exampleTranslations": {
+        "Do you wish to make any other transaction?": "你还想办理其他交易吗？"
+      }
+    },
+    "historically": {
+      "replaceExamples": [
+        {
+          "en": "Historically, the town grew around its busy port.",
+          "zh": "历史上，这个城镇围绕繁忙的港口发展起来。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "The two regions were historically connected by trade.",
+          "zh": "这两个地区在历史上通过贸易相互联系。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "Historically, the Persian Gulf belongs to Iran.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #863456 (AsliAbbasi) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/863456",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        },
+        {
+          "en": "historically they have never coexisted peacefully",
+          "zh": "",
+          "source": "Open English WordNet 2025",
+          "attribution": "Open English WordNet team · Princeton WordNet · oewn-00110430-r · CC BY 4.0",
+          "sourceUrl": "https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition",
+          "synsetId": "oewn-00110430-r",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "replacementReason": "原例句把复杂领土历史笼统断言为单一归属，且另一句缺乏明确上下文；改用中性且完整的历史语境。"
+    },
+    "identical": {
+      "exampleTranslations": {
+        "Every house in our neighborhood is practically identical.": "我们社区的每栋房子几乎都一模一样。"
+      }
+    },
+    "theology": {
+      "exampleTranslations": {
+        "he studied theology at Oxford": "他曾在牛津大学学习神学。"
+      }
+    },
+    "acquisition": {
+      "exampleTranslations": {
+        "This is the latest acquisition to my library.": "这是我的藏书中最新添置的一本。"
+      }
+    },
+    "exploration": {
+      "exampleTranslations": {
+        "he called for a careful exploration of the consequences": "他呼吁认真探讨可能的后果。"
+      }
+    },
+    "expertise": {
+      "exampleTranslations": {
+        "This is not my area of expertise.": "这不是我的专业领域。"
+      }
+    },
+    "therapist": {
+      "exampleTranslations": {
+        "Are you still seeing a therapist?": "你还在接受治疗师的治疗吗？"
+      }
+    },
+    "minimize": {
+      "exampleTranslations": {
+        "What can be done to minimize the risk?": "可以采取什么措施来尽量降低风险？"
+      }
+    },
+    "reception": {
+      "exampleTranslations": {
+        "His new book met with a favorable reception.": "他的新书获得了好评。"
+      }
+    },
+    "prevention": {
+      "exampleTranslations": {
+        "The prevention of forest fires is everyone's responsibility.": "预防森林火灾是每个人的责任。"
+      }
+    },
+    "productive": {
+      "exampleTranslations": {
+        "You are really very productive today.": "你今天确实很有成效。"
+      }
+    },
+    "inventory": {
+      "exampleTranslations": {
+        "We have too much inventory.": "我们的库存太多了。"
+      }
+    },
+    "civic": {
+      "exampleTranslations": {
+        "I believe it to be my civic duty.": "我认为这是我的公民义务。"
+      }
+    },
+    "magnitude": {
+      "exampleTranslations": {
+        "He realized the magnitude of his crime.": "他意识到了自己罪行的严重性。"
+      }
+    },
+    "popularity": {
+      "exampleTranslations": {
+        "The actor died at the height of his popularity.": "那位演员在最受欢迎的时候去世了。"
+      }
+    },
+    "equation": {
+      "exampleTranslations": {
+        "Find the solution to the following equation.": "求解下面的方程。"
+      }
+    },
+    "realistic": {
+      "exampleTranslations": {
+        "Do you really think that your plan is realistic?": "你真的认为你的计划切实可行吗？"
+      }
+    },
+    "revolutionary": {
+      "exampleTranslations": {
+        "That's a truly revolutionary idea.": "那确实是一个具有革新性的想法。"
+      }
+    },
+    "cooperate": {
+      "exampleTranslations": {
+        "All governments will have to cooperate in this matter.": "各国政府都必须在这件事上合作。"
+      }
+    },
+    "romance": {
+      "exampleTranslations": {
+        "There is no room for romance in my life.": "我的生活中没有浪漫的空间。"
+      }
+    },
+    "annually": {
+      "exampleTranslations": {
+        "The Japanese economy continued to grow by more than 5% annually.": "日本经济继续以每年超过百分之五的速度增长。"
+      }
+    },
+    "automatic": {
+      "exampleTranslations": {
+        "Tom has an automatic card shuffler.": "汤姆有一台自动洗牌机。"
+      }
+    },
+    "mate": {
+      "exampleTranslations": {
+        "Tom and I are soul mates.": "汤姆和我是灵魂伴侣。"
+      }
+    },
+    "monument": {
+      "exampleTranslations": {
+        "A monument was erected in memory of the deceased.": "人们为纪念逝者建起了一座纪念碑。"
+      }
+    },
+    "officially": {
+      "exampleTranslations": {
+        "Officially, he works for us as an interpreter.": "从正式职务来说，他为我们担任口译员。"
+      }
+    },
+    "toxic": {
+      "exampleTranslations": {
+        "Initial readings indicate an influx of toxic chemicals.": "初步读数表明有有毒化学品流入。"
+      }
+    },
+    "inmate": {
+      "exampleTranslations": {
+        "Tom was a model inmate.": "汤姆是一名模范囚犯。"
+      }
+    },
+    "specialize": {
+      "exampleTranslations": {
+        "That psychiatrist specialized in eating disorders.": "那位精神科医生专门治疗进食障碍。"
+      }
+    },
+    "glory": {
+      "exampleTranslations": {
+        "The adventurers were promised untold wealth and glory.": "他们向这些冒险者许诺了无尽的财富和荣耀。"
+      }
+    },
+    "protective": {
+      "exampleTranslations": {
+        "We must take protective measures against floods.": "我们必须采取防洪措施。"
+      }
+    },
+    "symbolic": {
+      "replaceExamples": [
+        {
+          "en": "The gift had a symbolic meaning for the family.",
+          "zh": "这份礼物对这个家庭具有象征意义。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "The handshake was a symbolic gesture of cooperation.",
+          "zh": "这次握手是象征合作的举动。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "the spinning wheel was as symbolic of colonical Massachusetts as the codfish",
+          "zh": "",
+          "source": "Open English WordNet 2025",
+          "attribution": "Open English WordNet team · Princeton WordNet · oewn-01989251-s · CC BY 4.0",
+          "sourceUrl": "https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition",
+          "synsetId": "oewn-01989251-s",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "replacementReason": "原句存在 colonical 拼写错误；以原创完整句示范象征意义，避免改写后继续挂原作者署名。"
+    },
+    "revelation": {
+      "exampleTranslations": {
+        "It was a revelation to me.": "这让我恍然大悟。"
+      }
+    },
+    "willingness": {
+      "exampleTranslations": {
+        "Willingness to take responsibility is a sign of maturity.": "愿意承担责任是成熟的表现。"
+      }
+    },
+    "exotic": {
+      "exampleTranslations": {
+        "I like exotic foods.": "我喜欢异国风味的食物。"
+      }
+    },
+    "ideological": {
+      "exampleTranslations": {
+        "the drama's symbolism was very ideological": "这部戏剧中的象征手法具有很强的意识形态色彩。"
+      }
+    },
+    "intimate": {
+      "exampleTranslations": {
+        "He intimated that all is not well in his marriage.": "他暗示自己的婚姻并非一切顺利。"
+      }
+    },
+    "documentary": {
+      "exampleTranslations": {
+        "A documentary has been made about Tom Jackson.": "有人拍摄了一部关于汤姆·杰克逊的纪录片。"
+      }
+    },
+    "progressive": {
+      "exampleTranslations": {
+        "His policies were too progressive.": "他的政策过于激进。"
+      }
+    },
+    "terrific": {
+      "exampleTranslations": {
+        "A car went by at terrific speed.": "一辆汽车以惊人的速度驶过。"
+      }
+    },
+    "manipulate": {
+      "exampleTranslations": {
+        "Are you trying to manipulate me?": "你是在试图操纵我吗？"
+      }
+    },
+    "utilize": {
+      "exampleTranslations": {
+        "Atomic energy can be utilized for peaceful purposes.": "原子能可以用于和平目的。"
+      }
+    },
+    "isolation": {
+      "exampleTranslations": {
+        "We shouldn't confuse solitude with isolation. They are two separate things.": "我们不应把独处和孤立混为一谈，它们是两回事。"
+      }
+    },
+    "ambitious": {
+      "exampleTranslations": {
+        "Both Tom and I are ambitious.": "汤姆和我都很有抱负。"
+      }
+    },
+    "aesthetic": {
+      "exampleTranslations": {
+        "the illustrations made the book an aesthetic success": "这些插图使这本书在美感上获得了成功。"
+      }
+    },
+    "appreciation": {
+      "exampleTranslations": {
+        "I wish to express my deep appreciation for your kindness.": "我想对你的善意表示深切的感谢。"
+      }
+    },
+    "flexibility": {
+      "exampleTranslations": {
+        "Flexibility is one of the many advantages of working from home.": "灵活性是在家办公的众多优势之一。"
+      }
+    },
+    "organism": {
+      "exampleTranslations": {
+        "It's a single-cell organism.": "它是一种单细胞生物。"
+      }
+    },
+    "sensation": {
+      "exampleTranslations": {
+        "The news of the fire in the factory caused a sensation.": "工厂失火的消息引起了轰动。"
+      }
+    },
+    "partially": {
+      "exampleTranslations": {
+        "I partially understand what he means.": "我部分理解了他的意思。"
+      }
+    },
+    "unprecedented": {
+      "exampleTranslations": {
+        "This is totally unprecedented.": "这完全是前所未有的。"
+      }
+    },
+    "speculation": {
+      "exampleTranslations": {
+        "he knew the stock was a speculation when he bought it": "他买入这只股票时，就知道这是一项投机。"
+      }
+    },
+    "attendance": {
+      "exampleTranslations": {
+        "Your attendance will affect your final grade.": "你的出勤情况会影响期末成绩。"
+      }
+    },
+    "innovative": {
+      "exampleTranslations": {
+        "is British industry innovative enough?": "英国工业是否具备足够的创新能力？"
+      }
+    },
+    "installation": {
+      "exampleTranslations": {
+        "Your computer will restart several times during installation.": "安装过程中，你的计算机会重启几次。"
+      }
+    },
+    "stance": {
+      "exampleTranslations": {
+        "What's your stance on the death penalty?": "你对死刑持什么立场？"
+      }
+    },
+    "vertical": {
+      "exampleTranslations": {
+        "He drew some vertical lines on the paper.": "他在纸上画了几条竖线。"
+      }
+    },
+    "illustration": {
+      "exampleTranslations": {
+        "An illustration may make the point clear.": "一幅插图或许能把这个要点说明白。"
+      }
+    },
+    "envision": {
+      "exampleTranslations": {
+        "I cannot envision him as President": "我无法想象他担任总统的样子。"
+      }
+    },
+    "classify": {
+      "exampleTranslations": {
+        "That information is classified.": "那份信息是机密。"
+      }
+    },
+    "aggression": {
+      "exampleTranslations": {
+        "Is aggression natural, or is it learned?": "攻击性是天生的，还是后天学来的？"
+      }
+    },
+    "supportive": {
+      "exampleTranslations": {
+        "Tom told me how supportive you were.": "汤姆告诉我，你给予了很大的支持。"
+      }
+    },
+    "journalism": {
+      "exampleTranslations": {
+        "He is a big man in journalism.": "他是新闻界的重要人物。"
+      }
+    },
+    "likewise": {
+      "exampleTranslations": {
+        "some people have little power to do good, and have likewise little strength to resist evil": "有些人没什么能力行善，同样也没什么力量抵制邪恶。"
+      }
+    },
+    "publicity": {
+      "exampleTranslations": {
+        "The case received widespread publicity.": "这起案件受到了广泛宣传。"
+      }
+    },
+    "legally": {
+      "exampleTranslations": {
+        "When did you find out that Tom couldn't legally drive?": "你是什么时候发现汤姆不能合法驾驶的？"
+      }
+    },
+    "excessive": {
+      "exampleTranslations": {
+        "Excessive concern with safety can be dangerous.": "过分担心安全也可能带来危险。"
+      }
+    },
+    "harassment": {
+      "exampleTranslations": {
+        "so great was his harassment that he wanted to destroy his tormentors": "他遭受了如此严重的折磨，以至于想要杀死折磨他的人。"
+      }
+    },
+    "rally": {
+      "exampleTranslations": {
+        "A group of about 40 counterprotesters showed up to the rally.": "大约四十名反对抗议的人出现在集会上。"
+      }
+    },
+    "thrive": {
+      "exampleTranslations": {
+        "The deer population in this town is thriving": "这个镇的鹿群数量正在迅速增长。"
+      }
+    },
+    "auction": {
+      "exampleTranslations": {
+        "I met Tom at an auction a few years ago.": "几年前，我在一场拍卖会上遇见了汤姆。"
+      }
+    },
+    "considerably": {
+      "exampleTranslations": {
+        "Tom is much shorter and weighs considerably less than Mary.": "汤姆比玛丽矮得多，体重也轻得多。"
+      }
+    },
+    "feminist": {
+      "exampleTranslations": {
+        "Mary is a feminist.": "玛丽是一名女权主义者。"
+      }
+    },
+    "similarity": {
+      "exampleTranslations": {
+        "What are the similarities?": "有哪些相似之处？"
+      }
+    },
+    "mortality": {
+      "exampleTranslations": {
+        "The mortality rate has fallen.": "死亡率下降了。"
+      }
+    },
+    "tolerance": {
+      "exampleTranslations": {
+        "I have a low tolerance for pain.": "我对疼痛的耐受力很低。"
+      }
+    },
+    "cruise": {
+      "exampleTranslations": {
+        "Have you ever been on a cruise ship?": "你坐过游轮吗？"
+      }
+    },
+    "voluntary": {
+      "exampleTranslations": {
+        "Participation is voluntary and free of charge.": "参加是自愿且免费的。"
+      }
+    },
+    "fraction": {
+      "exampleTranslations": {
+        "Any whole number can be written as a fraction.": "任何整数都可以写成分数。"
+      }
+    },
+    "fragment": {
+      "exampleTranslations": {
+        "It looks like your hard disk is fragmented.": "你的硬盘似乎出现了碎片化。"
+      }
+    },
+    "fantastic": {
+      "exampleTranslations": {
+        "In terms of salary, that job is fantastic.": "就薪酬而言，那份工作好极了。"
+      }
+    },
+    "projection": {
+      "exampleTranslations": {
+        "a prime ingredient of public speaking is projection of the voice": "公开演讲的一个关键要素是让声音清楚地传出去。"
+      }
+    },
+    "graduation": {
+      "exampleTranslations": {
+        "What do you plan to do after graduation?": "毕业后你打算做什么？"
+      }
+    },
+    "ironically": {
+      "exampleTranslations": {
+        "ironically, he ended up losing money under his own plan": "讽刺的是，他最后在自己制定的计划中赔了钱。"
+      }
+    },
+    "speculate": {
+      "exampleTranslations": {
+        "I don't want to speculate.": "我不想猜测。"
+      }
+    },
+    "confession": {
+      "exampleTranslations": {
+        "I have a confession to make.": "我有件事要坦白。"
+      }
+    },
+    "coordinate": {
+      "exampleTranslations": {
+        "Give me the coordinates.": "把坐标给我。"
+      }
+    },
+    "frustrate": {
+      "exampleTranslations": {
+        "Tom became frustrated when his suggestions fell on deaf ears.": "汤姆的建议无人理会，这让他感到沮丧。"
+      }
+    },
+    "contributor": {
+      "exampleTranslations": {
+        "Tom is our top contributor.": "汤姆是贡献最多的人。"
+      }
+    },
+    "importantly": {
+      "exampleTranslations": {
+        "The quality is good enough and more importantly it's in your price range.": "质量已经足够好了，更重要的是，价格也在你的承受范围之内。"
+      }
+    },
+    "specify": {
+      "exampleTranslations": {
+        "Tom didn't specify how many pencils to buy.": "汤姆没有说明要买多少支铅笔。"
+      }
+    },
+    "electronics": {
+      "exampleTranslations": {
+        "He has no equal in the field of electronics.": "在电子学领域，无人能与他匹敌。"
+      }
+    },
+    "articulate": {
+      "exampleTranslations": {
+        "Mary is an intelligent and highly articulate young woman.": "玛丽是一位聪明且十分善于表达的年轻女性。"
+      }
+    },
+    "accusation": {
+      "exampleTranslations": {
+        "Tom denied the accusation immediately.": "汤姆立即否认了这项指控。"
+      }
+    },
+    "biography": {
+      "exampleTranslations": {
+        "Lincoln's biography is read by children all around the world.": "世界各地的孩子都在读林肯的传记。"
+      }
+    },
+    "missionary": {
+      "exampleTranslations": {
+        "Tom became a missionary.": "汤姆成了一名传教士。"
+      }
+    },
+    "summary": {
+      "exampleTranslations": {
+        "he gave a summary of the conclusions": "他概述了这些结论。"
+      }
+    },
+    "accelerate": {
+      "exampleTranslations": {
+        "He accelerated his car and overtook me.": "他加速行驶，超过了我。"
+      }
+    },
+    "dictate": {
+      "exampleTranslations": {
+        "Tom dictated a letter to his secretary.": "汤姆口述了一封信，让秘书记录。"
+      }
+    },
+    "devise": {
+      "exampleTranslations": {
+        "We must devise some means of escape.": "我们必须想出逃脱的办法。"
+      }
+    },
+    "consistency": {
+      "exampleTranslations": {
+        "when the dough has enough consistency it is ready to bake": "面团达到足够的稠度后，就可以烘烤了。"
+      }
+    },
+    "challenging": {
+      "exampleTranslations": {
+        "Swimming across this river will be challenging.": "游过这条河会很有挑战性。"
+      }
+    },
+    "strive": {
+      "exampleTranslations": {
+        "We still have something to strive for.": "我们仍然有值得为之奋斗的目标。"
+      }
+    },
+    "monetary": {
+      "exampleTranslations": {
+        "Interest rates will rise due to monetary tightening.": "由于货币紧缩，利率将会上升。"
+      }
+    },
+    "organizer": {
+      "exampleTranslations": {
+        "I spoke with the organizers of the event.": "我和活动的组织者交谈过。"
+      }
+    },
+    "morality": {
+      "replaceExamples": [
+        {
+          "en": "The class discussed the morality of using animals in research.",
+          "zh": "全班讨论了将动物用于研究的道德问题。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "They disagreed about the morality of the decision.",
+          "zh": "他们对这个决定是否合乎道德意见不一。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "If religion were synonymous with morality, Brazil would be the most uncorrupted country in the world.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #1522369 (erikspen) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/1522369",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "replacementReason": "原例句以国别作未经限定的道德与腐败评判，不适合作为常用义项范例；换为中性的伦理讨论。"
+    },
+    "breakdown": {
+      "exampleTranslations": {
+        "She is on the verge of a nervous breakdown.": "她濒临精神崩溃。"
+      }
+    },
+    "nineteenth": {
+      "exampleTranslations": {
+        "Mary sat under the tree, reading an old book from the nineteenth century.": "玛丽坐在树下，读着一本十九世纪的旧书。"
+      }
+    },
+    "goodness": {
+      "exampleTranslations": {
+        "Tom did it out of the goodness of his heart.": "汤姆这么做完全出于好心。"
+      }
+    },
+    "hood": {
+      "replaceExamples": [
+        {
+          "en": "She pulled up her hood when the rain began.",
+          "zh": "开始下雨时，她拉起了兜帽。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "I told you to open the hood, not the trunk.",
+          "zh": "我叫你打开的是引擎盖，不是后备箱。",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #558473 (darinmex) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/558473",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/",
+          "translationCredit": "中文译文：项目原创复核 v16（CC0）",
+          "translationLicense": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "We are familiar with the legend of Robin Hood.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #23111 (CK) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/23111",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "replacementReason": "原首句 Robin Hood 是人名误命中，并非兜帽义；保留一条真正的汽车引擎盖用法。",
+      "meaningZh": "n. 头巾、兜帽；引擎盖（美式）；覆盖物；强盗\nvt. 罩上、覆盖",
+      "partOfSpeech": "n. / vt."
+    },
+    "positively": {
+      "exampleTranslations": {
+        "People of average height appear positively pint-sized next to Tom.": "在汤姆身边，普通身高的人简直显得小巧玲珑。"
+      }
+    },
+    "supplement": {
+      "exampleTranslations": {
+        "You had better supplement your diet with vitamins.": "你最好在饮食中补充维生素。"
+      }
+    },
+    "homeowner": {
+      "exampleTranslations": {
+        "Are you a tenant or homeowner?": "你是租客还是房主？"
+      }
+    },
+    "temporarily": {
+      "exampleTranslations": {
+        "Due to the fog, traffic is temporarily suspended.": "由于大雾，交通暂时中断。"
+      }
+    },
+    "spectator": {
+      "exampleTranslations": {
+        "The spectators cheered the players on.": "观众为运动员加油。"
+      }
+    },
+    "explicitly": {
+      "exampleTranslations": {
+        "I explicitly told Tom not to do that.": "我明确告诉过汤姆不要那样做。"
+      }
+    },
+    "delegate": {
+      "exampleTranslations": {
+        "Delegates from many countries participated in the conference.": "许多国家的代表参加了这次会议。"
+      }
+    },
+    "rotation": {
+      "exampleTranslations": {
+        "the manager had only four starting pitchers in his rotation": "教练的先发投手轮值阵容中只有四人。"
+      }
+    },
+    "cautious": {
+      "exampleTranslations": {
+        "He is too cautious to try anything new.": "他过于谨慎，不愿尝试任何新事物。"
+      }
+    },
+    "enlist": {
+      "exampleTranslations": {
+        "Tom enlisted in the service.": "汤姆应征入伍了。"
+      }
+    },
+    "predecessor": {
+      "exampleTranslations": {
+        "Tom thanked his predecessor.": "汤姆感谢了他的前任。"
+      }
+    },
+    "disclosure": {
+      "exampleTranslations": {
+        "To get technical information from that company, we first have to sign a non-disclosure agreement.": "为了从那家公司获取技术资料，我们首先得签署一份保密协议。"
+      }
+    },
+    "persistent": {
+      "exampleTranslations": {
+        "Any problem can be solved if you are persistent and patient.": "只要你坚持不懈并保持耐心，任何问题都能解决。"
+      }
+    },
+    "humanitarian": {
+      "exampleTranslations": {
+        "Humanitarian aid must be increased.": "必须增加人道主义援助。"
+      }
+    },
+    "revive": {
+      "exampleTranslations": {
+        "Tom tried to revive Mary.": "汤姆试图使玛丽苏醒。"
+      }
+    },
+    "caution": {
+      "exampleTranslations": {
+        "We should proceed with great caution.": "我们应当非常谨慎地继续进行。"
+      }
+    },
+    "fortunate": {
+      "exampleTranslations": {
+        "You are very fortunate that you have such friends.": "你有这样的朋友，真是幸运。"
+      }
+    },
+    "breakthrough": {
+      "exampleTranslations": {
+        "This is a real breakthrough.": "这确实是一个突破。"
+      }
+    },
+    "specialized": {
+      "exampleTranslations": {
+        "That psychiatrist specialized in eating disorders.": "那位精神科医生专门治疗进食障碍。"
+      }
+    },
+    "underground": {
+      "exampleTranslations": {
+        "Tom parked his car in an underground parking garage.": "汤姆把车停在了地下停车场。"
+      }
+    },
+    "congressman": {
+      "exampleTranslations": {
+        "Each congressman could vote.": "每位国会议员都可以投票。"
+      }
+    },
+    "champagne": {
+      "exampleTranslations": {
+        "Tom and Mary clinked glasses and sipped the champagne.": "汤姆和玛丽碰了杯，抿着香槟。"
+      }
+    },
+    "rehearsal": {
+      "exampleTranslations": {
+        "Run over your part again before the rehearsal.": "排练前，再复习一遍你的台词。"
+      }
+    },
+    "restraint": {
+      "exampleTranslations": {
+        "I admire your restraint.": "我佩服你的克制。"
+      }
+    },
+    "successor": {
+      "exampleTranslations": {
+        "I've already picked my successor.": "我已经选好了接班人。"
+      }
+    },
+    "guerrilla": {
+      "exampleTranslations": {
+        "He was waylaid by a band of guerrillas.": "他遭到了一支游击队的伏击。"
+      }
+    },
+    "spotlight": {
+      "exampleTranslations": {
+        "We'll put up spotlights.": "我们会架设聚光灯。"
+      }
+    },
+    "magnificent": {
+      "exampleTranslations": {
+        "This hotel has a magnificent view of the sea.": "这家酒店能看到壮丽的海景。"
+      }
+    },
+    "audit": {
+      "exampleTranslations": {
+        "The IRS is auditing me.": "美国国税局正在审查我的税务。"
+      }
+    },
+    "peculiar": {
+      "exampleTranslations": {
+        "Tom is a very peculiar person.": "汤姆是一个很古怪的人。"
+      }
+    },
+    "supporting": {
+      "exampleTranslations": {
+        "Thank you for supporting me.": "谢谢你支持我。"
+      }
+    },
+    "firefighter": {
+      "exampleTranslations": {
+        "Tom made up his mind to be a firefighter.": "汤姆下定决心要当消防员。"
+      }
+    },
+    "modem": {
+      "exampleTranslations": {
+        "You should reset the modem.": "你应该重置调制解调器。"
+      }
+    },
+    "goose": {
+      "exampleTranslations": {
+        "This is the goose that lays the golden eggs.": "这就是那只下金蛋的鹅。"
+      }
+    },
+    "summarize": {
+      "exampleTranslations": {
+        "Let me summarize what I said.": "让我概括一下刚才说的内容。"
+      }
+    },
+    "nurture": {
+      "exampleTranslations": {
+        "they debated whether nature or nurture was more important": "他们争论先天因素和后天培养哪个更重要。"
+      }
+    },
+    "vivid": {
+      "exampleTranslations": {
+        "The accident is still vivid in his memory.": "那次事故在他的记忆中仍然历历在目。"
+      }
+    },
+    "keyboard": {
+      "exampleTranslations": {
+        "Can someone tell me where the keyboard is?": "有人能告诉我键盘在哪里吗？"
+      }
+    },
+    "tenant": {
+      "exampleTranslations": {
+        "Are you a tenant or homeowner?": "你是租客还是房主？"
+      }
+    },
+    "undoubtedly": {
+      "replaceExamples": [
+        {
+          "en": "Her experience will undoubtedly help the team.",
+          "zh": "她的经验无疑会帮助这个团队。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "This is undoubtedly the best result we have achieved.",
+          "zh": "这无疑是我们取得的最好结果。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "Investment in education is undoubtedly the only effective way to bring a country out of poverty.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #1296473 (CM) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/1296473",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        },
+        {
+          "en": "it's undoubtedly very beautiful",
+          "zh": "",
+          "source": "Open English WordNet 2025",
+          "attribution": "Open English WordNet team · Princeton WordNet · oewn-00079373-r · CC BY 4.0",
+          "sourceUrl": "https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition",
+          "synsetId": "oewn-00079373-r",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "replacementReason": "原句将教育投资说成使国家脱贫的唯一有效途径，属于无依据的绝对化论断；换为普通语境。"
+    },
+    "certainty": {
+      "exampleTranslations": {
+        "his victory is a certainty": "他的胜利已成定局。"
+      }
+    },
+    "melody": {
+      "exampleTranslations": {
+        "I tried to learn the melody by heart.": "我试着把这段旋律熟记于心。"
+      }
+    },
+    "memoir": {
+      "exampleTranslations": {
+        "Tom is writing his memoirs.": "汤姆正在写回忆录。"
+      }
+    },
+    "plug": {
+      "exampleTranslations": {
+        "Tom yanked the plug from the wall.": "汤姆猛地把插头从墙上拔了下来。"
+      }
+    },
+    "mining": {
+      "exampleTranslations": {
+        "I grew up in a mining town.": "我在一个矿业小镇长大。"
+      }
+    },
+    "accordingly": {
+      "exampleTranslations": {
+        "continued to have severe headaches and accordingly returned to the doctor": "头痛仍然很严重，因此又去看了医生。"
+      }
+    },
+    "lamb": {
+      "exampleTranslations": {
+        "The lamb was killed by the wolf.": "那只羊羔被狼杀死了。"
+      }
+    },
+    "wildly": {
+      "exampleTranslations": {
+        "the storyline is wildly unrealistic": "这个故事情节极不现实。"
+      }
+    },
+    "inject": {
+      "exampleTranslations": {
+        "He injected new life into the performance": "他为这场表演注入了新的活力。"
+      }
+    },
+    "axis": {
+      "exampleTranslations": {
+        "The earth revolves on its axis once every 24 hours.": "地球每二十四小时绕地轴自转一周。"
+      }
+    },
+    "evenly": {
+      "exampleTranslations": {
+        "The money will probably be split evenly between those two.": "这笔钱很可能会由那两个人平分。"
+      }
+    },
+    "dual": {
+      "exampleTranslations": {
+        "I want my children to have dual citizenship.": "我希望我的孩子拥有双重国籍。"
+      }
+    },
+    "triangle": {
+      "exampleTranslations": {
+        "The sum of all the angles in a triangle equals 180 degrees.": "三角形的内角和等于一百八十度。"
+      }
+    },
+    "shield": {
+      "exampleTranslations": {
+        "I tried to shield you from all this.": "我曾试图保护你，不让你受到这一切的影响。"
+      }
+    },
+    "inclined": {
+      "exampleTranslations": {
+        "I'm inclined to agree with Tom.": "我倾向于同意汤姆。"
+      }
+    },
+    "con": {
+      "exampleTranslations": {
+        "Tom talks like a con man.": "汤姆说起话来像个骗子。"
+      }
+    },
+    "gravel": {
+      "exampleTranslations": {
+        "We gravelled the driveway": "我们用砾石铺了车道。"
+      }
+    },
+    "calf": {
+      "exampleTranslations": {
+        "The cow gave birth to a calf with two heads.": "那头母牛生下了一头双头牛犊。"
+      }
+    },
+    "skillet": {
+      "exampleTranslations": {
+        "Mary clobbered Tom with a skillet.": "玛丽用平底煎锅狠打了汤姆。"
+      }
+    },
+    "immense": {
+      "exampleTranslations": {
+        "Technology has given us immense power.": "科技赋予了我们巨大的力量。"
+      }
+    },
+    "hop": {
+      "exampleTranslations": {
+        "Tom tried to hop the turnstile without paying.": "汤姆试图不付钱就跳过检票闸机。"
+      }
+    },
+    "bitch": {
+      "exampleTranslations": {
+        "this problem is a real bitch": "这个问题真够折磨人的（粗俗用法）。"
+      },
+      "meaningZh": "n. 母狗、母狼、母狐；（粗俗、冒犯用法）讨厌的人或棘手的事",
+      "partOfSpeech": "n."
+    },
+    "crust": {
+      "exampleTranslations": {
+        "I usually cut the crust off bread.": "我通常会把面包皮切掉。"
+      }
+    },
+    "gasp": {
+      "exampleTranslations": {
+        "Tom heard Mary gasp.": "汤姆听见玛丽倒吸了一口气。"
+      }
+    },
+    "altar": {
+      "exampleTranslations": {
+        "The groom left the bride standing at the altar.": "新郎把新娘独自留在了婚礼祭坛前。"
+      }
+    },
+    "embarrassing": {
+      "exampleTranslations": {
+        "Did you think of how embarrassing it would be for Tom?": "你想过这会让汤姆多么尴尬吗？"
+      }
+    },
+    "millennium": {
+      "exampleTranslations": {
+        "A millennium comprises ten centuries.": "一千年包含十个世纪。"
+      }
+    },
+    "intimacy": {
+      "exampleTranslations": {
+        "Their intimacy grew with the years.": "他们之间的亲密感随着岁月不断加深。"
+      }
+    },
+    "guardian": {
+      "exampleTranslations": {
+        "Do you believe in guardian angels?": "你相信守护天使的存在吗？"
+      }
+    },
+    "vine": {
+      "exampleTranslations": {
+        "You don't get eggplants from a gourd vine.": "葫芦藤上长不出茄子。"
+      }
+    },
+    "permanently": {
+      "exampleTranslations": {
+        "It can't be removed. It's attached permanently.": "它不能被取下来，因为它是永久固定的。"
+      }
+    },
+    "awaken": {
+      "exampleTranslations": {
+        "This book will awaken your imagination.": "这本书会激发你的想象力。"
+      }
+    },
+    "outrage": {
+      "exampleTranslations": {
+        "Your outrage is completely justified.": "你的愤怒完全有理由。"
+      }
+    },
+    "nun": {
+      "exampleTranslations": {
+        "Mary wants to be a nun.": "玛丽想成为一名修女。"
+      }
+    },
+    "attachment": {
+      "exampleTranslations": {
+        "I feel a strong attachment to this house.": "我对这座房子有很深的感情。"
+      }
+    },
+    "summon": {
+      "exampleTranslations": {
+        "I summoned up my courage, and walked inside.": "我鼓起勇气，走了进去。"
+      }
+    },
+    "optional": {
+      "exampleTranslations": {
+        "The word \"the\" is optional in this sentence.": "这个句子中的 the 可以省略。"
+      }
+    },
+    "miner": {
+      "exampleTranslations": {
+        "I was a coal miner for thirty years.": "我当了三十年的煤矿工人。"
+      }
+    },
+    "aloud": {
+      "exampleTranslations": {
+        "He makes it a rule to read aloud every day.": "他坚持每天大声朗读。"
+      }
+    },
+    "dangle": {
+      "exampleTranslations": {
+        "Tom dangled his feet in the water.": "汤姆把双脚垂进水里。"
+      }
+    },
+    "haven": {
+      "replaceExamples": [
+        {
+          "en": "The library is a quiet haven from the noise outside.",
+          "zh": "图书馆是远离外面噪声的清静之所。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "The garden became a haven for birds.",
+          "zh": "这个花园成了鸟儿的安全栖息地。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "I haven’t talked about this to anyone.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #6794129 (Hybrid) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/6794129",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        },
+        {
+          "en": "Now that's a name I haven’t heard in a long time.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #7356848 (Hybrid) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/7356848",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "replacementReason": "两条例句均把 haven’t 错当作名词 haven；整组换为避风港、安全处的真正语境。"
+    },
+    "competing": {
+      "exampleTranslations": {
+        "The two companies are competing with each other.": "这两家公司正在相互竞争。"
+      }
+    },
+    "mob": {
+      "exampleTranslations": {
+        "The police could not control the mob.": "警察无法控制那群暴民。"
+      }
+    },
+    "affirm": {
+      "exampleTranslations": {
+        "He affirmed that he saw the crash.": "他肯定地说自己看见了那场撞车事故。"
+      }
+    },
+    "lifelong": {
+      "exampleTranslations": {
+        "Tom and Mary became lifelong friends.": "汤姆和玛丽成了终身好友。"
+      }
+    },
+    "applaud": {
+      "exampleTranslations": {
+        "I applaud your decision to quit smoking.": "我赞赏你戒烟的决定。"
+      }
+    },
+    "preacher": {
+      "exampleTranslations": {
+        "Tom is an itinerant preacher.": "汤姆是一名巡回传教士。"
+      }
+    },
+    "facial": {
+      "exampleTranslations": {
+        "This is more like a liquid than a facial cream. That makes it easy to use.": "这更像液体，而不是面霜，因此使用起来很方便。"
+      }
+    },
+    "constituent": {
+      "exampleTranslations": {
+        "two constituents of a musical composition are melody and harmony": "旋律和和声是音乐作品的两个组成部分。"
+      }
+    },
+    "vietnamese": {
+      "exampleTranslations": {
+        "I have a Vietnamese friend. Her name is Tiên.": "我有一位越南朋友，她叫 Tiên。"
+      }
+    },
+    "dairy": {
+      "exampleTranslations": {
+        "A dairy cow is a useful animal.": "奶牛是一种有用的动物。"
+      }
+    },
+    "wit": {
+      "exampleTranslations": {
+        "Nature endowed her with wit and beauty.": "大自然赋予了她才智和美貌。"
+      }
+    },
+    "curse": {
+      "exampleTranslations": {
+        "Is immortality a blessing or a curse?": "长生不死是福还是祸？"
+      }
+    },
+    "closure": {
+      "exampleTranslations": {
+        "they regretted the closure of the day care center": "他们为那家日托中心的关闭感到遗憾。"
+      }
+    },
+    "terminal": {
+      "exampleTranslations": {
+        "Please stay seated until we reach the terminal.": "到达航站楼前，请保持就座。"
+      }
+    },
+    "irrelevant": {
+      "exampleTranslations": {
+        "Whether you like Tom or not is irrelevant.": "你是否喜欢汤姆并不相关。"
+      }
+    },
+    "armor": {
+      "exampleTranslations": {
+        "Tom came to save Mary like a knight in shining armor.": "汤姆像一位身披闪亮盔甲的骑士一样，前来拯救玛丽。"
+      }
+    },
+    "mosque": {
+      "exampleTranslations": {
+        "The mosque was torched in the middle of the night.": "那座清真寺在半夜被纵火焚毁。"
+      }
+    },
+    "reasoning": {
+      "exampleTranslations": {
+        "I can try reasoning with Tom.": "我可以试着跟汤姆讲道理。"
+      }
+    },
+    "par": {
+      "exampleTranslations": {
+        "The UAE's per capita GDP is on par with those of leading West European nations.": "阿联酋的人均国内生产总值与西欧主要国家相当。"
+      }
+    },
+    "ant": {
+      "exampleTranslations": {
+        "An ant can lift more than 50 times its weight.": "一只蚂蚁能举起超过自身体重五十倍的东西。"
+      }
+    },
+    "feminine": {
+      "exampleTranslations": {
+        "Some women look more masculine than feminine.": "有些女性看起来更有男子气概，而不是女性气质。"
+      }
+    },
+    "niche": {
+      "exampleTranslations": {
+        "he found his niche in the academic world": "他在学术界找到了适合自己的位置。"
+      }
+    },
+    "courtyard": {
+      "exampleTranslations": {
+        "There's a peacock in the courtyard.": "院子里有一只孔雀。"
+      }
+    },
+    "generator": {
+      "exampleTranslations": {
+        "Do you have a generator?": "你有发电机吗？"
+      }
+    },
+    "propaganda": {
+      "exampleTranslations": {
+        "Stop listening to propaganda.": "别再听那些宣传了。"
+      }
+    },
+    "prop": {
+      "exampleTranslations": {
+        "He fetched a few cushions to prop up her head.": "他取来几个靠垫，垫在她的头下。"
+      }
+    },
+    "fulfil": {
+      "exampleTranslations": {
+        "I have fulfilled my promise.": "我已经履行了承诺。"
+      }
+    },
+    "specimen": {
+      "exampleTranslations": {
+        "This is a very rare specimen.": "这是一个非常罕见的标本。"
+      }
+    },
+    "spectacle": {
+      "exampleTranslations": {
+        "It was quite the spectacle.": "那场面相当壮观。"
+      }
+    },
+    "heroin": {
+      "exampleTranslations": {
+        "The police searched the house and seized 2 kilograms of heroin.": "警方搜查了那所房子，并缴获了两公斤海洛因。"
+      }
+    },
+    "setup": {
+      "exampleTranslations": {
+        "it takes time to learn the setup around here": "熟悉这里的运作安排需要时间。"
+      }
+    },
+    "spatial": {
+      "exampleTranslations": {
+        "the first dimension to concentrate on is the spatial one": "首先要关注的是空间维度。"
+      }
+    },
+    "sniff": {
+      "exampleTranslations": {
+        "One sniff of that stuff was enough to make me sick.": "那东西只闻一下就让我恶心。"
+      }
+    },
+    "runway": {
+      "exampleTranslations": {
+        "An airplane touched down on the runway.": "一架飞机在跑道上着陆。"
+      }
+    },
+    "stroll": {
+      "exampleTranslations": {
+        "Tom and Mary took a stroll together.": "汤姆和玛丽一起散了步。"
+      }
+    },
+    "integral": {
+      "exampleTranslations": {
+        "Death is an integral part of life.": "死亡是生命不可分割的一部分。"
+      }
+    },
+    "rebound": {
+      "exampleTranslations": {
+        "Since then, the economy has slowly rebounded.": "从那以后，经济缓慢复苏。"
+      }
+    },
+    "intriguing": {
+      "exampleTranslations": {
+        "The title of the book is intriguing.": "这本书的书名很引人好奇。"
+      }
+    },
+    "advisor": {
+      "exampleTranslations": {
+        "Mary invested in the stock because the financial advisor fooled her.": "玛丽因为受到财务顾问的欺骗而投资了那只股票。"
+      }
+    },
+    "breeding": {
+      "exampleTranslations": {
+        "Tom kept a pair of rabbits for breeding.": "汤姆养了一对兔子用于繁殖。"
+      }
+    },
+    "footage": {
+      "exampleTranslations": {
+        "Tom was seen on surveillance camera footage stuffing merchandise down his pants.": "监控录像拍到汤姆往裤子里塞商品。"
+      }
+    },
+    "thrust": {
+      "exampleTranslations": {
+        "I thrust my hand into my pocket.": "我猛地把手插进口袋。"
+      }
+    },
+    "reservoir": {
+      "exampleTranslations": {
+        "Is there enough water in the reservoir?": "水库里有足够的水吗？"
+      }
+    },
+    "strap": {
+      "exampleTranslations": {
+        "How do you loosen the straps on a backpack?": "怎样把背包上的带子调松？"
+      }
+    },
+    "conductor": {
+      "exampleTranslations": {
+        "Could the tenors and basses please watch the conductor?": "请男高音和男低音声部看指挥，好吗？"
+      }
+    },
+    "analogy": {
+      "exampleTranslations": {
+        "I don't understand the analogy.": "我不理解这个类比。"
+      }
+    },
+    "inhabitant": {
+      "exampleTranslations": {
+        "Tom is the only inhabitant of that island.": "汤姆是那座岛上唯一的居民。"
+      }
+    },
+    "logo": {
+      "exampleTranslations": {
+        "The company logo is light blue.": "公司的标志是浅蓝色的。"
+      }
+    },
+    "sway": {
+      "exampleTranslations": {
+        "Look how the trees sway in that wind.": "看，树木在那阵风中摇摆。"
+      }
+    },
+    "upgrade": {
+      "exampleTranslations": {
+        "The program gets upgraded regularly.": "这个程序会定期升级。"
+      }
+    },
+    "manifest": {
+      "exampleTranslations": {
+        "each passenger must be manifested": "每位乘客都必须登记在旅客名单上。"
+      }
+    },
+    "sophomore": {
+      "exampleTranslations": {
+        "She is a sophomore.": "她是二年级学生。"
+      }
+    },
+    "recreational": {
+      "exampleTranslations": {
+        "reading matter that is both recreational and mentally stimulating": "既能消遣又能激发思考的读物。"
+      }
+    },
+    "unaware": {
+      "exampleTranslations": {
+        "He seems to be unaware of his mistake.": "他似乎没有意识到自己的错误。"
+      }
+    },
+    "predominantly": {
+      "exampleTranslations": {
+        "The audience was predominantly female.": "观众主要是女性。"
+      }
+    },
+    "mighty": {
+      "exampleTranslations": {
+        "Tom is a mighty important figure in our town.": "汤姆在我们镇是个非常重要的人物。"
+      }
+    },
+    "accountant": {
+      "exampleTranslations": {
+        "I was an accountant before I became a teacher.": "我成为教师以前是一名会计。"
+      }
+    },
+    "sufficiently": {
+      "exampleTranslations": {
+        "I hope you're all sufficiently rested.": "希望你们都已经得到了充分的休息。"
+      }
+    },
+    "valve": {
+      "exampleTranslations": {
+        "This valve is broken.": "这个阀门坏了。"
+      }
+    },
+    "slash": {
+      "exampleTranslations": {
+        "Tom slashed his wrists.": "汤姆割伤了自己的手腕。"
+      }
+    },
+    "artery": {
+      "exampleTranslations": {
+        "The bullet cut through an artery.": "子弹击穿了一条动脉。"
+      }
+    },
+    "curator": {
+      "exampleTranslations": {
+        "Tom is a museum curator.": "汤姆是一位博物馆馆长。"
+      }
+    },
+    "grower": {
+      "exampleTranslations": {
+        "Mali is one of Africa’s largest cotton growers.": "马里是非洲最大的棉花生产国之一。"
+      }
+    },
+    "baseline": {
+      "exampleTranslations": {
+        "they established a baseline for the budget": "他们为预算确立了一个基准。"
+      }
+    },
+    "audio": {
+      "exampleTranslations": {
+        "It's getting easier to find audio files by native speakers for almost any language you might want to study.": "无论你想学习哪种语言，找到母语者的音频文件都变得越来越容易了。"
+      }
+    },
+    "dressing": {
+      "exampleTranslations": {
+        "Have you finished dressing?": "你穿好衣服了吗？"
+      }
+    },
+    "ponder": {
+      "exampleTranslations": {
+        "She pondered the question for a while.": "她把这个问题仔细考虑了一会儿。"
+      }
+    },
+    "denounce": {
+      "exampleTranslations": {
+        "Many people denounced Tom.": "许多人谴责了汤姆。"
+      }
+    },
+    "stool": {
+      "exampleTranslations": {
+        "Tom sat on a stool in the corner.": "汤姆坐在角落的一张凳子上。"
+      }
+    },
+    "lounge": {
+      "exampleTranslations": {
+        "Tom sat on the lounge chair and stared at the stars overhead.": "汤姆坐在躺椅上，凝视着头顶的星空。"
+      }
+    },
+    "simmer": {
+      "exampleTranslations": {
+        "Simmer the butter and garlic in a small saucepan.": "把黄油和大蒜放在小炖锅里用文火加热。"
+      }
+    },
+    "exceptional": {
+      "exampleTranslations": {
+        "This is an exceptional case.": "这是一个例外情况。"
+      }
+    },
+    "battlefield": {
+      "exampleTranslations": {
+        "The battlefield was full of the dead and the dying.": "战场上到处都是死者和奄奄一息的人。"
+      }
+    },
+    "bundle": {
+      "exampleTranslations": {
+        "He bound old letters into a bundle.": "他把旧信件扎成了一捆。"
+      }
+    },
+    "embed": {
+      "exampleTranslations": {
+        "The young reporter was embedded with the Third Division": "那名年轻记者随第三师驻扎，进行随军报道。"
+      }
+    },
+    "linen": {
+      "exampleTranslations": {
+        "He gave me a half dozen linen handkerchiefs.": "他给了我六块亚麻手帕。"
+      }
+    },
+    "nicely": {
+      "exampleTranslations": {
+        "A three-room apartment suits our family nicely.": "一套三居室公寓很适合我们一家。"
+      }
+    },
+    "clove": {
+      "exampleTranslations": {
+        "Is eating a clove of garlic every day beneficial to your health?": "每天吃一瓣大蒜对健康有益吗？"
+      }
+    },
+    "shocking": {
+      "exampleTranslations": {
+        "What I saw was shocking.": "我看到的情景令人震惊。"
+      }
+    },
+    "chore": {
+      "exampleTranslations": {
+        "Laundry is a chore.": "洗衣服是一件日常琐事。"
+      }
+    },
+    "fringe": {
+      "exampleTranslations": {
+        "That's a fringe theory.": "那是一种边缘理论。"
+      }
+    },
+    "telecommunications": {
+      "exampleTranslations": {
+        "I work in telecommunications.": "我从事电信行业。"
+      }
+    },
+    "maid": {
+      "exampleTranslations": {
+        "Tell the maid to make the beds.": "让女佣把床铺整理好。"
+      }
+    },
+    "census": {
+      "exampleTranslations": {
+        "In the United States, there is a census every ten years.": "美国每十年进行一次人口普查。"
+      }
+    },
+    "corps": {
+      "exampleTranslations": {
+        "Tom joined the Marine Corps.": "汤姆加入了海军陆战队。"
+      }
+    },
+    "lieutenant": {
+      "exampleTranslations": {
+        "Tom was a lieutenant.": "汤姆曾是一名中尉。"
+      }
+    },
+    "inhabit": {
+      "replaceExamples": [
+        {
+          "en": "Many species inhabit this forest.",
+          "zh": "许多物种栖息在这片森林中。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "What animals inhabit those islands?",
+          "zh": "哪些动物栖息在那些岛上？",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #44727 (CM) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/44727",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/",
+          "translationCredit": "中文译文：项目原创复核 v16（CC0）",
+          "translationLicense": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "Approximately seven billion people inhabit our planet.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #3689865 (karloelkebekio) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/3689865",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "replacementReason": "原句人口数字已过时；换成不依赖变化人口数字的语境，保留有效的动物栖息原句。"
+    },
+    "injustice": {
+      "exampleTranslations": {
+        "There's a lot of injustice in the world.": "世界上有许多不公正的事情。"
+      }
+    },
+    "quota": {
+      "exampleTranslations": {
+        "the quota for Japanese imports was negotiated": "有关日本进口商品的配额经过了协商。"
+      }
+    },
+    "stride": {
+      "exampleTranslations": {
+        "He hurried down the road with long strides.": "他迈着大步，沿着路匆匆走去。"
+      }
+    },
+    "excerpt": {
+      "exampleTranslations": {
+        "he presented excerpts from William James' philosophical writings": "他展示了威廉·詹姆斯哲学著作中的一些节选。"
+      }
+    },
+    "soy": {
+      "exampleTranslations": {
+        "I need to buy some mayonnaise and soy sauce.": "我需要买一些蛋黄酱和酱油。"
+      }
+    },
+    "miniature": {
+      "exampleTranslations": {
+        "They played miniature golf.": "他们玩了迷你高尔夫。"
+      }
+    },
+    "oversight": {
+      "exampleTranslations": {
+        "Tom said that the mistake was due to an oversight.": "汤姆说那个错误是由于疏忽造成的。"
+      }
+    },
+    "dub": {
+      "exampleTranslations": {
+        "I don't like dubbed movies.": "我不喜欢配音电影。"
+      }
+    },
+    "copyright": {
+      "exampleTranslations": {
+        "This book is still copyrighted.": "这本书仍受版权保护。"
+      }
+    },
+    "viewpoint": {
+      "exampleTranslations": {
+        "They adopted my viewpoint.": "他们采纳了我的观点。"
+      }
+    },
+    "snatch": {
+      "exampleTranslations": {
+        "A boy snatched my purse as he rode by on his bicycle.": "一个男孩骑自行车经过时，抢走了我的手提包。"
+      }
+    },
+    "jewel": {
+      "exampleTranslations": {
+        "Tom has been accused of being a jewel thief.": "汤姆被指控是珠宝窃贼。"
+      }
+    },
+    "slogan": {
+      "exampleTranslations": {
+        "I like this slogan.": "我喜欢这句口号。"
+      }
+    },
+    "overly": {
+      "exampleTranslations": {
+        "Tom is not overly friendly.": "汤姆并不是特别友好。"
+      }
+    },
+    "buffalo": {
+      "exampleTranslations": {
+        "Is that a cow or a buffalo?": "那是牛还是水牛？"
+      }
+    },
+    "perch": {
+      "exampleTranslations": {
+        "She perched her hat on her head": "她把帽子轻轻放在头上。"
+      }
+    },
+    "shrine": {
+      "exampleTranslations": {
+        "On New Year's Day, many people visit neighborhood shrines.": "元旦，许多人会去附近的神社参拜。"
+      }
+    },
+    "mold": {
+      "exampleTranslations": {
+        "Tom is allergic to mold.": "汤姆对霉菌过敏。"
+      }
+    },
+    "misery": {
+      "exampleTranslations": {
+        "Tom shot the injured horse to put it out of its misery.": "汤姆射杀了那匹受伤的马，结束了它的痛苦。"
+      }
+    },
+    "adequately": {
+      "exampleTranslations": {
+        "Tom said that no words could adequately describe his feelings of devastation and grief on losing his best friend.": "汤姆说，失去挚友给他带来的沉重打击和悲伤，无论什么语言都无法充分形容。"
+      }
+    },
+    "mustard": {
+      "exampleTranslations": {
+        "Do you usually put mustard on a ham and cheese sandwich?": "你通常会在火腿奶酪三明治里加芥末酱吗？"
+      }
+    },
+    "berry": {
+      "exampleTranslations": {
+        "This berry is good to eat.": "这种浆果可以吃。"
+      }
+    },
+    "mug": {
+      "exampleTranslations": {
+        "Tom took a sip from his coffee mug.": "汤姆从咖啡杯里抿了一口。"
+      }
+    },
+    "controller": {
+      "exampleTranslations": {
+        "I work as an air traffic controller.": "我是一名空中交通管制员。"
+      }
+    },
+    "villager": {
+      "exampleTranslations": {
+        "The villagers went in search of the missing child.": "村民们出发寻找那个失踪的孩子。"
+      }
+    },
+    "exert": {
+      "exampleTranslations": {
+        "Don't exert yourself so much.": "别让自己这么劳累。"
+      }
+    },
+    "caregiver": {
+      "exampleTranslations": {
+        "I've been told that you were looking for a caregiver.": "有人告诉我，你们正在寻找一名照护员。"
+      }
+    },
+    "kindergarten": {
+      "exampleTranslations": {
+        "I learned that when I was in kindergarten.": "我上幼儿园时就学过那个。"
+      }
+    },
+    "cereal": {
+      "exampleTranslations": {
+        "Tom usually eats a bowl of cereal for breakfast.": "汤姆早餐通常吃一碗谷物麦片。"
+      }
+    },
+    "fracture": {
+      "exampleTranslations": {
+        "The fracture needs to be X-rayed.": "骨折部位需要拍X光片。"
+      }
+    },
+    "tract": {
+      "exampleTranslations": {
+        "Millions of beneficial organisms live in the human digestive tract.": "人体消化道中生活着数以百万计的有益生物。"
+      }
+    },
+    "operational": {
+      "exampleTranslations": {
+        "they assumed their operational positions": "他们进入了各自的操作岗位。"
+      }
+    },
+    "convincing": {
+      "exampleTranslations": {
+        "Tom can be pretty convincing.": "汤姆有时很有说服力。"
+      }
+    },
+    "descendant": {
+      "exampleTranslations": {
+        "Dogs are believed to be descendants of wolves.": "人们认为狗是狼的后代。"
+      }
+    },
+    "lump": {
+      "exampleTranslations": {
+        "Tom paid for it in a lump sum.": "汤姆一次性付清了那笔钱。"
+      }
+    },
+    "freeway": {
+      "exampleTranslations": {
+        "There was a terrible accident on the freeway.": "高速公路上发生了一起严重事故。"
+      }
+    },
+    "clash": {
+      "exampleTranslations": {
+        "His interests clash with mine.": "他的利益与我的利益相冲突。"
+      }
+    },
+    "upward": {
+      "exampleTranslations": {
+        "the cards were face upward": "那些牌都正面朝上。"
+      }
+    },
+    "newsletter": {
+      "exampleTranslations": {
+        "Sign up for our monthly newsletter.": "订阅我们的每月通讯。"
+      }
+    },
+    "multiply": {
+      "exampleTranslations": {
+        "Multiply three by five to get fifteen.": "三乘以五等于十五。"
+      }
+    },
+    "pumpkin": {
+      "exampleTranslations": {
+        "Wash the pumpkin and cut it into quarters.": "把南瓜洗净，切成四块。"
+      }
+    },
+    "velvet": {
+      "exampleTranslations": {
+        "This cloth feels like velvet.": "这块布摸起来像天鹅绒。"
+      }
+    },
+    "compost": {
+      "exampleTranslations": {
+        "Tom's compost heap got so hot that it spontaneously combusted.": "汤姆的堆肥堆温度升得太高，竟然自燃了。"
+      }
+    },
+    "entail": {
+      "exampleTranslations": {
+        "What does your job entail?": "你的工作包括哪些内容？"
+      }
+    },
+    "broadly": {
+      "exampleTranslations": {
+        "he interprets the law broadly": "他对法律作宽泛的解释。"
+      }
+    },
+    "fling": {
+      "exampleTranslations": {
+        "He flung a stream of abuse at me.": "他对我破口大骂。"
+      }
+    },
+    "livestock": {
+      "exampleTranslations": {
+        "The principal livestock is sheep.": "主要饲养的牲畜是绵羊。"
+      }
+    },
+    "basin": {
+      "exampleTranslations": {
+        "The water in the basin has frozen solid.": "盆里的水已经完全结冰了。"
+      }
+    },
+    "roam": {
+      "exampleTranslations": {
+        "Tom roamed through the streets of Boston.": "汤姆在波士顿的街道上漫步。"
+      }
+    },
+    "heir": {
+      "exampleTranslations": {
+        "Which prince is the legitimate heir to the throne?": "哪位王子是王位的合法继承人？"
+      }
+    },
+    "foam": {
+      "exampleTranslations": {
+        "the beer had a thick head of foam": "啤酒上浮着一层厚厚的泡沫。"
+      }
+    },
+    "offset": {
+      "exampleTranslations": {
+        "Is there any way to offset those costs?": "有没有办法抵消那些费用？"
+      }
+    },
+    "asteroid": {
+      "exampleTranslations": {
+        "What is an asteroid?": "什么是小行星？"
+      }
+    },
+    "interface": {
+      "exampleTranslations": {
+        "The interface is very intuitive.": "这个界面使用起来很直观。"
+      }
+    },
+    "don": {
+      "replaceExamples": [
+        {
+          "en": "I don my coat before stepping outside.",
+          "zh": "出门前，我穿上外套。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "The actor donned a long cloak for the scene.",
+          "zh": "为了拍摄这个场景，那位演员穿上了一件长斗篷。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "My parents don’t like the way I dress.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #4006533 (Hybrid) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/4006533",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        },
+        {
+          "en": "I don’t feel like talking about it.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #10049810 (espamatics) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/10049810",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "replacementReason": "两条例句均把 don’t 错当作动词 don；整组换为穿上衣物的真正语境。"
+    },
+    "protester": {
+      "exampleTranslations": {
+        "A ragtag group of protesters marched on the capital.": "一群衣衫不整的抗议者朝首都进发。"
+      }
+    },
+    "overturn": {
+      "exampleTranslations": {
+        "The road is blocked by an overturned truck.": "一辆翻倒的卡车堵住了道路。"
+      }
+    },
+    "transcript": {
+      "exampleTranslations": {
+        "he read a transcript of the interrogation": "他读了一份审讯记录。"
+      }
+    },
+    "mainland": {
+      "exampleTranslations": {
+        "We took a ferry from the island to the mainland.": "我们乘渡轮从岛上去了大陆。"
+      }
+    },
+    "flourish": {
+      "exampleTranslations": {
+        "Your business is flourishing, I hear.": "听说你的生意很兴旺。"
+      }
+    },
+    "tug": {
+      "exampleTranslations": {
+        "I tugged on the rope.": "我拉了拉绳子。"
+      }
+    },
+    "discharge": {
+      "exampleTranslations": {
+        "Tom will likely be discharged from the hospital tomorrow.": "汤姆很可能明天出院。"
+      }
+    },
+    "artwork": {
+      "exampleTranslations": {
+        "A Japanese businessman bought the artwork for 200 million yen.": "一位日本商人花两亿日元买下了那件艺术品。"
+      }
+    },
+    "lasting": {
+      "exampleTranslations": {
+        "The scenery of the Alps left a lasting impression on me.": "阿尔卑斯山的景色给我留下了持久的印象。"
+      }
+    },
+    "prone": {
+      "exampleTranslations": {
+        "Tom is prone to mood swings.": "汤姆容易情绪波动。"
+      }
+    },
+    "hose": {
+      "exampleTranslations": {
+        "Take this piece of rubber hose.": "拿上这段橡胶软管。"
+      }
+    },
+    "confusing": {
+      "exampleTranslations": {
+        "Life is full of confusing things.": "生活中充满了令人困惑的事情。"
+      }
+    },
+    "unwilling": {
+      "exampleTranslations": {
+        "Tom seems to be unwilling to lower the price.": "汤姆似乎不愿降低价格。"
+      }
+    },
+    "surplus": {
+      "exampleTranslations": {
+        "That country has a trade surplus. It exports more than it imports.": "那个国家存在贸易顺差，出口额大于进口额。"
+      }
+    },
+    "marital": {
+      "exampleTranslations": {
+        "Tom has marital problems.": "汤姆的婚姻出了问题。"
+      }
+    },
+    "homemade": {
+      "exampleTranslations": {
+        "This is homemade jam.": "这是自制果酱。"
+      }
+    },
+    "drape": {
+      "exampleTranslations": {
+        "Can you close the drapes?": "你能把窗帘拉上吗？"
+      }
+    },
+    "coffin": {
+      "exampleTranslations": {
+        "The coffin was loaded into the hearse.": "棺材被抬上了灵车。"
+      }
+    },
+    "sandy": {
+      "exampleTranslations": {
+        "The river bed is sandy.": "河床是沙质的。"
+      }
+    },
+    "prototype": {
+      "exampleTranslations": {
+        "he is the prototype of good breeding": "他是举止有教养的典范。"
+      }
+    },
+    "magnet": {
+      "exampleTranslations": {
+        "This is a very strong magnet.": "这块磁铁的磁性很强。"
+      }
+    },
+    "emit": {
+      "exampleTranslations": {
+        "The lights emit a faint buzzing sound.": "这些灯会发出轻微的嗡嗡声。"
+      }
+    },
+    "contempt": {
+      "exampleTranslations": {
+        "I feel nothing but contempt for such dishonest behavior.": "我对这种不诚实的行为只有鄙视。"
+      }
+    },
+    "seasonal": {
+      "exampleTranslations": {
+        "Do you suffer from seasonal allergies?": "你有季节性过敏吗？"
+      }
+    },
+    "bastard": {
+      "exampleTranslations": {
+        "the architecture was a kind of bastard suggesting Gothic but not true Gothic": "那建筑风格是种混杂的仿制品，带有哥特式的影子，却不是真正的哥特式。"
+      }
+    },
+    "marry": {
+      "collocations": [
+        {
+          "en": "marry someone",
+          "zh": "与某人结婚",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "survive": {
+      "collocations": [
+        {
+          "en": "survive an accident",
+          "zh": "在事故中幸存",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "worth": {
+      "collocations": [
+        {
+          "en": "worth the effort",
+          "zh": "值得付出努力",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "insist": {
+      "collocations": [
+        {
+          "en": "insist on an answer",
+          "zh": "坚持要求答复",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "ignore": {
+      "collocations": [
+        {
+          "en": "ignore a warning",
+          "zh": "无视警告",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "anybody": {
+      "collocations": [
+        {
+          "en": "anybody else",
+          "zh": "其他任何人",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "engage": {
+      "collocations": [
+        {
+          "en": "engage in conversation",
+          "zh": "参与交谈",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "anyway": {
+      "collocations": [
+        {
+          "en": "thanks anyway",
+          "zh": "不管怎样还是谢谢你",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "threaten": {
+      "collocations": [
+        {
+          "en": "threaten to leave",
+          "zh": "威胁要离开",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "afraid": {
+      "collocations": [
+        {
+          "en": "afraid of the dark",
+          "zh": "怕黑",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "wonderful": {
+      "collocations": [
+        {
+          "en": "a wonderful idea",
+          "zh": "一个好主意",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "deny": {
+      "collocations": [
+        {
+          "en": "deny a claim",
+          "zh": "否认一项说法",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "apparently": {
+      "collocations": [
+        {
+          "en": "apparently harmless",
+          "zh": "看起来无害的",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "slightly": {
+      "collocations": [
+        {
+          "en": "slightly different",
+          "zh": "略有不同的",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "connection": {
+      "collocations": [
+        {
+          "en": "internet connection",
+          "zh": "网络连接",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "neighbor": {
+      "collocations": [
+        {
+          "en": "a friendly neighbor",
+          "zh": "友好的邻居",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "hey": {
+      "collocations": [
+        {
+          "en": "hey there",
+          "zh": "嘿，你好",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "mistake": {
+      "collocations": [
+        {
+          "en": "make a mistake",
+          "zh": "犯错误",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "aware": {
+      "collocations": [
+        {
+          "en": "aware of the risk",
+          "zh": "意识到风险",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "remind": {
+      "collocations": [
+        {
+          "en": "remind someone of home",
+          "zh": "使某人想起家",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "united": {
+      "collocations": [
+        {
+          "en": "a united team",
+          "zh": "团结的团队",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "relatively": {
+      "collocations": [
+        {
+          "en": "relatively simple",
+          "zh": "相对简单的",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "following": {
+      "collocations": [
+        {
+          "en": "the following day",
+          "zh": "接下来的一天",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "participate": {
+      "collocations": [
+        {
+          "en": "participate in a discussion",
+          "zh": "参加讨论",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "appropriate": {
+      "collocations": [
+        {
+          "en": "appropriate clothing",
+          "zh": "合适的衣服",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "colleague": {
+      "collocations": [
+        {
+          "en": "a former colleague",
+          "zh": "以前的同事",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "intend": {
+      "collocations": [
+        {
+          "en": "intend to stay",
+          "zh": "打算留下",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "disappear": {
+      "collocations": [
+        {
+          "en": "disappear from view",
+          "zh": "从视野中消失",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "somewhere": {
+      "collocations": [
+        {
+          "en": "somewhere nearby",
+          "zh": "附近的某个地方",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "explore": {
+      "collocations": [
+        {
+          "en": "explore a new city",
+          "zh": "探索一座新城市",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "surround": {
+      "collocations": [
+        {
+          "en": "surround the building",
+          "zh": "包围那栋楼",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "athlete": {
+      "collocations": [
+        {
+          "en": "a professional athlete",
+          "zh": "职业运动员",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "repeat": {
+      "collocations": [
+        {
+          "en": "repeat a question",
+          "zh": "重复一个问题",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "carefully": {
+      "collocations": [
+        {
+          "en": "read carefully",
+          "zh": "仔细阅读",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "predict": {
+      "collocations": [
+        {
+          "en": "predict the outcome",
+          "zh": "预测结果",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "adopt": {
+      "collocations": [
+        {
+          "en": "adopt a child",
+          "zh": "收养一个孩子",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "connect": {
+      "collocations": [
+        {
+          "en": "connect to the internet",
+          "zh": "连接互联网",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "somehow": {
+      "collocations": [
+        {
+          "en": "manage somehow",
+          "zh": "想办法应付过去",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "largely": {
+      "collocations": [
+        {
+          "en": "largely unchanged",
+          "zh": "基本未变的",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "difficulty": {
+      "collocations": [
+        {
+          "en": "have difficulty reading",
+          "zh": "阅读有困难",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "recommend": {
+      "collocations": [
+        {
+          "en": "recommend a book",
+          "zh": "推荐一本书",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "anymore": {
+      "collocations": [
+        {
+          "en": "not live here anymore",
+          "zh": "不再住在这里",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "propose": {
+      "collocations": [
+        {
+          "en": "propose a solution",
+          "zh": "提出解决办法",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "possibly": {
+      "collocations": [
+        {
+          "en": "possibly true",
+          "zh": "可能是真的",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "visitor": {
+      "collocations": [
+        {
+          "en": "a first-time visitor",
+          "zh": "首次来访者",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "currently": {
+      "collocations": [
+        {
+          "en": "currently available",
+          "zh": "目前可用的",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "capture": {
+      "collocations": [
+        {
+          "en": "capture an image",
+          "zh": "拍摄一幅图像",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "prefer": {
+      "collocations": [
+        {
+          "en": "prefer tea to coffee",
+          "zh": "比起咖啡更喜欢茶",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "unique": {
+      "collocations": [
+        {
+          "en": "a unique opportunity",
+          "zh": "独特的机会",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "defend": {
+      "collocations": [
+        {
+          "en": "defend a decision",
+          "zh": "为一个决定辩护",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "warn": {
+      "collocations": [
+        {
+          "en": "warn of danger",
+          "zh": "提醒注意危险",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "neither": {
+      "collocations": [
+        {
+          "en": "neither of them",
+          "zh": "他们两人都不",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "hill": {
+      "collocations": [
+        {
+          "en": "a steep hill",
+          "zh": "陡峭的山丘",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "frequently": {
+      "collocations": [
+        {
+          "en": "frequently asked questions",
+          "zh": "常见问题",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "solve": {
+      "collocations": [
+        {
+          "en": "solve a problem",
+          "zh": "解决问题",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "except": {
+      "collocations": [
+        {
+          "en": "everyone except me",
+          "zh": "除了我之外的所有人",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "afford": {
+      "collocations": [
+        {
+          "en": "afford a new car",
+          "zh": "买得起一辆新车",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "confirm": {
+      "collocations": [
+        {
+          "en": "confirm a reservation",
+          "zh": "确认预订",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "entirely": {
+      "collocations": [
+        {
+          "en": "entirely different",
+          "zh": "完全不同的",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "complain": {
+      "collocations": [
+        {
+          "en": "complain about the noise",
+          "zh": "抱怨噪声",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "attract": {
+      "collocations": [
+        {
+          "en": "attract attention",
+          "zh": "吸引注意",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "anywhere": {
+      "collocations": [
+        {
+          "en": "anywhere else",
+          "zh": "其他任何地方",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "somewhat": {
+      "collocations": [
+        {
+          "en": "somewhat unusual",
+          "zh": "有点不寻常的",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "seriously": {
+      "collocations": [
+        {
+          "en": "take a warning seriously",
+          "zh": "认真对待警告",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "everywhere": {
+      "collocations": [
+        {
+          "en": "look everywhere",
+          "zh": "到处寻找",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "divide": {
+      "collocations": [
+        {
+          "en": "divide into groups",
+          "zh": "分成若干组",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "oppose": {
+      "collocations": [
+        {
+          "en": "oppose a proposal",
+          "zh": "反对一项提议",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "employ": {
+      "collocations": [
+        {
+          "en": "employ skilled workers",
+          "zh": "雇用熟练工人",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "vast": {
+      "collocations": [
+        {
+          "en": "a vast area",
+          "zh": "广阔的区域",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "fewer": {
+      "collocations": [
+        {
+          "en": "fewer people",
+          "zh": "更少的人",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "barely": {
+      "collocations": [
+        {
+          "en": "barely visible",
+          "zh": "勉强看得见的",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "incident": {
+      "collocations": [
+        {
+          "en": "a minor incident",
+          "zh": "小事件",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "beside": {
+      "collocations": [
+        {
+          "en": "sit beside a friend",
+          "zh": "坐在朋友旁边",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "increased": {
+      "collocations": [
+        {
+          "en": "increased demand",
+          "zh": "增加的需求",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "merely": {
+      "collocations": [
+        {
+          "en": "merely a suggestion",
+          "zh": "仅仅是一个建议",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "definitely": {
+      "collocations": [
+        {
+          "en": "definitely agree",
+          "zh": "完全同意",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "invest": {
+      "collocations": [
+        {
+          "en": "invest in education",
+          "zh": "投资教育",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "towards": {
+      "collocations": [
+        {
+          "en": "walk towards the station",
+          "zh": "向车站走去",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "accuse": {
+      "collocations": [
+        {
+          "en": "accuse someone of lying",
+          "zh": "指责某人说谎",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "useful": {
+      "collocations": [
+        {
+          "en": "useful information",
+          "zh": "有用的信息",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "reject": {
+      "collocations": [
+        {
+          "en": "reject an offer",
+          "zh": "拒绝一项提议",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "convince": {
+      "collocations": [
+        {
+          "en": "convince someone to stay",
+          "zh": "说服某人留下",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "approve": {
+      "collocations": [
+        {
+          "en": "approve a plan",
+          "zh": "批准一项计划",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "campus": {
+      "collocations": [
+        {
+          "en": "on campus",
+          "zh": "在校园里",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "acquire": {
+      "collocations": [
+        {
+          "en": "acquire new skills",
+          "zh": "获得新技能",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "compete": {
+      "collocations": [
+        {
+          "en": "compete for a prize",
+          "zh": "争夺奖项",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "sir": {
+      "collocations": [
+        {
+          "en": "Dear Sir",
+          "zh": "尊敬的先生",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "scream": {
+      "collocations": [
+        {
+          "en": "scream for help",
+          "zh": "尖声呼救",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "deeply": {
+      "collocations": [
+        {
+          "en": "deeply concerned",
+          "zh": "深感担忧的",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "recover": {
+      "collocations": [
+        {
+          "en": "recover from an illness",
+          "zh": "病后康复",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "fairly": {
+      "collocations": [
+        {
+          "en": "fairly common",
+          "zh": "相当常见的",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "suppose": {
+      "collocations": [
+        {
+          "en": "suppose so",
+          "zh": "认为是这样",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "inform": {
+      "collocations": [
+        {
+          "en": "inform someone of a change",
+          "zh": "通知某人发生了变化",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "bother": {
+      "collocations": [
+        {
+          "en": "bother to ask",
+          "zh": "费心询问",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "shall": {
+      "collocations": [
+        {
+          "en": "Shall we begin?",
+          "zh": "我们开始吧？",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "pause": {
+      "collocations": [
+        {
+          "en": "pause for a moment",
+          "zh": "暂停片刻",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "unclear": {
+      "collocations": [
+        {
+          "en": "remain unclear",
+          "zh": "仍不清楚",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "imagined": {
+      "collocations": [
+        {
+          "en": "an imagined future",
+          "zh": "想象中的未来",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "missed": {
+      "collocations": [
+        {
+          "en": "a missed opportunity",
+          "zh": "错失的机会",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "approaching": {
+      "collocations": [
+        {
+          "en": "an approaching storm",
+          "zh": "即将来临的暴风雨",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "choosing": {
+      "collocations": [
+        {
+          "en": "choosing a course",
+          "zh": "选择一门课程",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "treated": {
+      "collocations": [
+        {
+          "en": "treated with respect",
+          "zh": "受到尊重",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "hated": {
+      "collocations": [
+        {
+          "en": "hated the noise",
+          "zh": "讨厌那噪声",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "feared": {
+      "collocations": [
+        {
+          "en": "feared for her safety",
+          "zh": "担心她的安全",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "offered": {
+      "collocations": [
+        {
+          "en": "offered to help",
+          "zh": "主动提出帮助",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "imagining": {
+      "collocations": [
+        {
+          "en": "imagining the future",
+          "zh": "想象未来",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "attacking": {
+      "collocations": [
+        {
+          "en": "attacking the problem",
+          "zh": "着手解决问题",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "joined": {
+      "collocations": [
+        {
+          "en": "joined a team",
+          "zh": "加入了一支队伍",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "typed": {
+      "collocations": [
+        {
+          "en": "typed a message",
+          "zh": "打了一条消息",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "opened": {
+      "collocations": [
+        {
+          "en": "opened the door",
+          "zh": "打开了门",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "helped": {
+      "collocations": [
+        {
+          "en": "helped a neighbor",
+          "zh": "帮助了邻居",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "favourite": {
+      "collocations": [
+        {
+          "en": "a favourite song",
+          "zh": "最喜欢的歌曲",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "remembered": {
+      "collocations": [
+        {
+          "en": "remembered her name",
+          "zh": "记起了她的名字",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "pictured": {
+      "collocations": [
+        {
+          "en": "pictured a quiet beach",
+          "zh": "想象了一片宁静的海滩",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "owned": {
+      "collocations": [
+        {
+          "en": "a family-owned business",
+          "zh": "家族经营的企业",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "cleared": {
+      "collocations": [
+        {
+          "en": "cleared the table",
+          "zh": "清理了餐桌",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "warmed": {
+      "collocations": [
+        {
+          "en": "warmed the milk",
+          "zh": "把牛奶加热了",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "partying": {
+      "collocations": [
+        {
+          "en": "partying all night",
+          "zh": "通宵聚会",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "explaining": {
+      "collocations": [
+        {
+          "en": "explaining the rules",
+          "zh": "解释规则",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "interviewing": {
+      "collocations": [
+        {
+          "en": "interviewing a candidate",
+          "zh": "面试一名应聘者",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "explained": {
+      "collocations": [
+        {
+          "en": "explained the difference",
+          "zh": "解释了区别",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "described": {
+      "collocations": [
+        {
+          "en": "described the scene",
+          "zh": "描述了现场",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "protecting": {
+      "collocations": [
+        {
+          "en": "protecting the environment",
+          "zh": "保护环境",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "produced": {
+      "collocations": [
+        {
+          "en": "produced good results",
+          "zh": "取得了良好效果",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "studying": {
+      "collocations": [
+        {
+          "en": "studying abroad",
+          "zh": "在国外学习",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "cleaned": {
+      "collocations": [
+        {
+          "en": "cleaned the kitchen",
+          "zh": "打扫了厨房",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "reaching": {
+      "collocations": [
+        {
+          "en": "reaching an agreement",
+          "zh": "达成协议",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "moved": {
+      "collocations": [
+        {
+          "en": "moved to a new city",
+          "zh": "搬到了一座新城市",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "questioned": {
+      "collocations": [
+        {
+          "en": "questioned the decision",
+          "zh": "对决定提出了质疑",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "answered": {
+      "collocations": [
+        {
+          "en": "answered the phone",
+          "zh": "接了电话",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "liked": {
+      "collocations": [
+        {
+          "en": "liked the idea",
+          "zh": "喜欢那个想法",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "discussed": {
+      "collocations": [
+        {
+          "en": "discussed the plan",
+          "zh": "讨论了计划",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "interviewed": {
+      "collocations": [
+        {
+          "en": "interviewed for a job",
+          "zh": "参加了求职面试",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "avoided": {
+      "collocations": [
+        {
+          "en": "avoided an accident",
+          "zh": "避免了一场事故",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "does": {
+      "collocations": [
+        {
+          "en": "does not",
+          "zh": "不（用于第三人称单数的否定结构）",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "grandparents": {
+      "collocations": [
+        {
+          "en": "visit grandparents",
+          "zh": "看望祖父母或外祖父母",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "latest": {
+      "collocations": [
+        {
+          "en": "the latest news",
+          "zh": "最新消息",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "recognise": {
+      "collocations": [
+        {
+          "en": "recognise a face",
+          "zh": "认出一张脸",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "impose": {
+      "collocations": [
+        {
+          "en": "impose a fine",
+          "zh": "处以罚款",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "emphasis": {
+      "collocations": [
+        {
+          "en": "place emphasis on safety",
+          "zh": "重视安全",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "vary": {
+      "collocations": [
+        {
+          "en": "vary from person to person",
+          "zh": "因人而异",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "capable": {
+      "collocations": [
+        {
+          "en": "capable of learning",
+          "zh": "有学习能力的",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "pray": {
+      "collocations": [
+        {
+          "en": "pray for peace",
+          "zh": "祈求和平",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "confront": {
+      "collocations": [
+        {
+          "en": "confront a problem",
+          "zh": "面对问题",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "resist": {
+      "collocations": [
+        {
+          "en": "resist temptation",
+          "zh": "抵制诱惑",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "assist": {
+      "collocations": [
+        {
+          "en": "assist with a task",
+          "zh": "协助完成任务",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "install": {
+      "collocations": [
+        {
+          "en": "install software",
+          "zh": "安装软件",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "assign": {
+      "collocations": [
+        {
+          "en": "assign a task",
+          "zh": "分配任务",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "overcome": {
+      "collocations": [
+        {
+          "en": "overcome a difficulty",
+          "zh": "克服困难",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "guarantee": {
+      "collocations": [
+        {
+          "en": "guarantee quality",
+          "zh": "保证质量",
+          "source": "项目原创搭配 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        }
+      ]
+    },
+    "browser": {
+      "meaningZh": "n. 网络浏览器；吃嫩叶的动物；浏览书本的人",
+      "partOfSpeech": "n.",
+      "replaceExamples": [
+        {
+          "en": "Open the address in your browser.",
+          "zh": "在浏览器中打开这个地址。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "What browser are you using?",
+          "zh": "你用什么浏览器？",
+          "source": "Tatoeba / ManyThings.org",
+          "attribution": "CC-BY 2.0 (France) Attribution: tatoeba.org #2659659 (WestofEden) & #9007587 (jacintoo)",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/2659659",
+          "translationSourceUrl": "https://tatoeba.org/en/sentences/show/9007587",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "What OS and browser do you use?",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #1229145 (Scott) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/1229145",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "replacementReason": "补充常用现代义项及原创语境，保留一条有效的原例句；受原双例句上限影响而移出的原文与归属在本补丁审计记录中保存。"
+    },
+    "microwave": {
+      "meaningZh": "n. 微波；微波炉\nv. 用微波炉加热（或烹调）",
+      "partOfSpeech": "n. / v.",
+      "replaceExamples": [
+        {
+          "en": "You can microwave the soup for one minute.",
+          "zh": "你可以用微波炉把汤加热一分钟。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "Tom doesn't have a microwave oven.",
+          "zh": "汤姆没有微波炉。",
+          "source": "Tatoeba / ManyThings.org",
+          "attribution": "CC-BY 2.0 (France) Attribution: tatoeba.org #1026169 (CK) & #1358526 (sadhen)",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/1026169",
+          "translationSourceUrl": "https://tatoeba.org/en/sentences/show/1358526",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "Tom is heating up a burrito in the microwave.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #2957103 (CK) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/2957103",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "replacementReason": "补充常用现代义项及原创语境，保留一条有效的原例句；受原双例句上限影响而移出的原文与归属在本补丁审计记录中保存。"
+    },
+    "tablet": {
+      "meaningZh": "n. 平板电脑；药片；（书写或绘画用）平板；碑、匾、门牌；便笺本",
+      "partOfSpeech": "n.",
+      "replaceExamples": [
+        {
+          "en": "I use a tablet to read books on the train.",
+          "zh": "我在火车上用平板电脑看书。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "Dissolve the tablet in a glass of water.",
+          "zh": "把药片溶解在一杯水中。",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #2265755 (_undertoad) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/2265755",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/",
+          "translationReuseWordId": "dissolve",
+          "translationCredit": "中文译文：项目原创复核 v14（CC0）",
+          "translationLicense": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "I can't swallow these tablets without a drink of water.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #270737 (CK) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/270737",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "replacementReason": "补充常用现代义项及原创语境，保留一条有效的原例句；受原双例句上限影响而移出的原文与归属在本补丁审计记录中保存。"
+    },
+    "jumper": {
+      "meaningZh": "n. 套头毛衣（英式）；无袖连衣裙、背带裙（美式）；跳跃者；工作服；跳线、跨接线",
+      "partOfSpeech": "n.",
+      "replaceExamples": [
+        {
+          "en": "She wore a wool jumper on the cold morning.",
+          "zh": "那个寒冷的早晨，她穿着一件羊毛套头毛衣。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "Tom always keeps a set of jumper cables in the trunk of his car.",
+          "zh": "汤姆总在汽车后备箱里放着一套应急启动搭电线。",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #1163488 (CK) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/1163488",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/",
+          "translationCredit": "中文译文：项目原创复核 v16（CC0）",
+          "translationLicense": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "as the jumper neared the ground he lost control",
+          "zh": "",
+          "source": "Open English WordNet 2025",
+          "attribution": "Open English WordNet team · Princeton WordNet · oewn-10246663-n · CC BY 4.0",
+          "sourceUrl": "https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition",
+          "synsetId": "oewn-10246663-n",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "replacementReason": "补充常用现代义项及原创语境，保留一条有效的原例句；受原双例句上限影响而移出的原文与归属在本补丁审计记录中保存。"
+    },
+    "boarding": {
+      "meaningZh": "n. 登机、上船；寄宿；木板、铺板",
+      "partOfSpeech": "n.",
+      "replaceExamples": [
+        {
+          "en": "The school offers boarding for students from distant towns.",
+          "zh": "这所学校为来自远方城镇的学生提供寄宿服务。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "May I see your boarding pass, please?",
+          "zh": "請讓我看看您的登機證好嗎?",
+          "source": "Tatoeba / ManyThings.org",
+          "attribution": "CC-BY 2.0 (France) Attribution: tatoeba.org #279695 (CK) & #894238 (Martha)",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/279695",
+          "translationSourceUrl": "https://tatoeba.org/en/sentences/show/894238",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "What time does boarding begin?",
+          "zh": "什麼時候開始登機？",
+          "source": "Tatoeba / ManyThings.org",
+          "attribution": "CC-BY 2.0 (France) Attribution: tatoeba.org #24568 (CK) & #838586 (Martha)",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/24568",
+          "translationSourceUrl": "https://tatoeba.org/en/sentences/show/838586",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "replacementReason": "补充常用现代义项及原创语境，保留一条有效的原例句；受原双例句上限影响而移出的原文与归属在本补丁审计记录中保存。"
+    },
+    "booking": {
+      "meaningZh": "n. 预订、预约；预约演出合同",
+      "partOfSpeech": "n.",
+      "replaceExamples": [
+        {
+          "en": "Your hotel booking is confirmed.",
+          "zh": "你的酒店预订已经确认。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "wondered who had made the booking",
+          "zh": "想知道是谁作了预订。",
+          "source": "Open English WordNet 2025",
+          "attribution": "Open English WordNet team · Princeton WordNet · oewn-01220817-n · CC BY 4.0",
+          "sourceUrl": "https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition",
+          "synsetId": "oewn-01220817-n",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "translationCredit": "中文译文：项目原创复核 v16（CC0）",
+          "translationLicense": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "the play had bookings throughout the summer",
+          "zh": "",
+          "source": "Open English WordNet 2025",
+          "attribution": "Open English WordNet team · Princeton WordNet · oewn-00271763-n · CC BY 4.0",
+          "sourceUrl": "https://github.com/globalwordnet/english-wordnet/releases/tag/2025-edition",
+          "synsetId": "oewn-00271763-n",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "replacementReason": "补充常用现代义项及原创语境，保留一条有效的原例句；受原双例句上限影响而移出的原文与归属在本补丁审计记录中保存。"
+    },
+    "roundabout": {
+      "meaningZh": "n. 交通环岛；迂回路线\nadj. 迂回的；委婉的",
+      "partOfSpeech": "adj. / n.",
+      "replaceExamples": [
+        {
+          "en": "At the roundabout, take the second exit.",
+          "zh": "在交通环岛处，从第二个出口驶出。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "Tom does everything in such a roundabout way.",
+          "zh": "汤姆做什么事都这么绕弯子。",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #2985403 (sharptoothed) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/2985403",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/",
+          "translationCredit": "中文译文：项目原创复核 v16（CC0）",
+          "translationLicense": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "Don't say it in a roundabout way.",
+          "zh": "",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #22321 (CK) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/22321",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "replacementReason": "补充常用现代义项及原创语境，保留一条有效的原例句；受原双例句上限影响而移出的原文与归属在本补丁审计记录中保存。"
+    },
+    "canteen": {
+      "meaningZh": "n. 食堂、餐厅；水壶；军中俱乐部；临时流动餐馆；小卖部",
+      "partOfSpeech": "n.",
+      "replaceExamples": [
+        {
+          "en": "We eat lunch in the school canteen.",
+          "zh": "我们在学校食堂吃午饭。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "My canteen is already half empty.",
+          "zh": "我的水壶已经空了一半。",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #3454102 (CK) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/3454102",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/",
+          "translationCredit": "中文译文：项目原创复核 v16（CC0）",
+          "translationLicense": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [],
+      "replacementReason": "补充常用现代义项及原创语境，保留一条有效的原例句；受原双例句上限影响而移出的原文与归属在本补丁审计记录中保存。"
+    },
+    "tram": {
+      "meaningZh": "n. 有轨电车；电车轨道；煤车；纬纱、纬丝\nvt. 用煤车运载\nvi. 乘电车",
+      "partOfSpeech": "n. / vt. / vi.",
+      "replaceExamples": [
+        {
+          "en": "The tram stops outside the museum.",
+          "zh": "有轨电车在博物馆外停靠。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "Who invented the tram?",
+          "zh": "谁发明了有轨电车？",
+          "source": "Tatoeba / ManyThings.org · 英文原句",
+          "attribution": "Tatoeba #10128269 (ddnktr) · ManyThings.org · CC BY 2.0 FR",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/10128269",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/",
+          "translationCredit": "中文译文：项目原创复核 v16（CC0）",
+          "translationLicense": "CC0 1.0"
+        }
+      ],
+      "removedExamples": [],
+      "replacementReason": "补充常用现代义项及原创语境，保留一条有效的原例句；受原双例句上限影响而移出的原文与归属在本补丁审计记录中保存。"
+    },
+    "conditioner": {
+      "meaningZh": "n. 护发素；调节器、调节设备；土壤改良剂",
+      "partOfSpeech": "n.",
+      "replaceExamples": [
+        {
+          "en": "Use a little conditioner after washing your hair.",
+          "zh": "洗发后用少量护发素。",
+          "source": "项目原创语境 v16 · CC0",
+          "attribution": "项目原创（CC0）",
+          "license": "CC0 1.0"
+        },
+        {
+          "en": "The air conditioner in the lab is broken.",
+          "zh": "实验室里的空调坏了。",
+          "source": "Tatoeba / ManyThings.org",
+          "attribution": "CC-BY 2.0 (France) Attribution: tatoeba.org #10632778 (Robomb999) & #1750358 (sadhen)",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/10632778",
+          "translationSourceUrl": "https://tatoeba.org/en/sentences/show/1750358",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "removedExamples": [
+        {
+          "en": "The air conditioner doesn't work.",
+          "zh": "空調故障了。",
+          "source": "Tatoeba / ManyThings.org",
+          "attribution": "CC-BY 2.0 (France) Attribution: tatoeba.org #65398 (CK) & #836365 (Martha)",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/65398",
+          "translationSourceUrl": "https://tatoeba.org/en/sentences/show/836365",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "replacementReason": "补充常用现代义项及原创语境，保留一条有效的原例句；受原双例句上限影响而移出的原文与归属在本补丁审计记录中保存。"
+    }
+  },
+  "notes": [
+    "words 为按词ID索引的独立补丁；existing examples 只用 exact English 字符串匹配补译，保留原英文与全部归属。",
+    "replaceExamples 为最终两条例句；全部原创新句明确标 CC0，保留的公开原句保留其原署名与独立译文署名。",
+    "removedExamples 为不再展示的原文和归属审计，不应作为新的学习例句追加。",
+    "collocations 只对原本没有搭配的词新增；所有词ID、等级、原音标与词频保持原值。"
+  ]
+}

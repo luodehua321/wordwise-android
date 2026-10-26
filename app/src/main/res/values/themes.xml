@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.Wordwise" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F4F6FA</item>
+        <item name="android:navigationBarColor">#F4F6FA</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:colorAccent">#33373D</item>
+    </style>
+    <style name="Theme.Wordwise" parent="Base.Theme.Wordwise" />
+</resources>

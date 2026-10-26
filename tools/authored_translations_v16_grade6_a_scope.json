@@ -1,0 +1,4275 @@
+{
+  "version": "v16-grade6-a",
+  "wordIds": [
+    "abortion",
+    "terrorism",
+    "rape",
+    "radiation",
+    "collaboration",
+    "accomplishment",
+    "confrontation",
+    "disappointment",
+    "calculation",
+    "emotionally",
+    "jurisdiction",
+    "philosophical",
+    "distinctive",
+    "contemplate",
+    "substantially",
+    "surveillance",
+    "citizenship",
+    "economically",
+    "convenience",
+    "skeptical",
+    "unfortunate",
+    "intensive",
+    "compassion",
+    "complication",
+    "authentic",
+    "concession",
+    "restoration",
+    "rejection",
+    "inadequate",
+    "completion",
+    "affirmative",
+    "compensate",
+    "countless",
+    "antibiotic",
+    "prosperity",
+    "probability",
+    "disagreement",
+    "mandatory",
+    "affection",
+    "geography",
+    "parliament",
+    "passionate",
+    "addiction",
+    "psychiatrist",
+    "adaptation",
+    "sympathetic",
+    "hostility",
+    "preservation",
+    "certificate",
+    "designate",
+    "correlate",
+    "empirical",
+    "originate",
+    "endorsement",
+    "desirable",
+    "profitable",
+    "hazardous",
+    "confirmation",
+    "wireless",
+    "graphic",
+    "circulation",
+    "explosive",
+    "penetrate",
+    "evolutionary",
+    "optimism",
+    "systematic",
+    "inclusion",
+    "prospective",
+    "duration",
+    "proposition",
+    "ethnicity",
+    "assassination",
+    "portable",
+    "clarity",
+    "environmentalist",
+    "trophy",
+    "ironic",
+    "contradiction",
+    "gorgeous",
+    "precision",
+    "financially",
+    "statistically",
+    "psychiatric",
+    "rotate",
+    "contrary",
+    "optical",
+    "enthusiastic",
+    "continually",
+    "salvation",
+    "modification",
+    "formally",
+    "communist",
+    "furious",
+    "obsession",
+    "problematic",
+    "nutrition",
+    "vocabulary",
+    "physicist",
+    "cultivate",
+    "realization",
+    "magical",
+    "socialist",
+    "fundamentally",
+    "declaration",
+    "aspiration",
+    "supervision",
+    "nationalism",
+    "indictment",
+    "collision",
+    "useless",
+    "reproduction",
+    "simulation",
+    "passive",
+    "assurance",
+    "consultation",
+    "accountable",
+    "stabilize",
+    "injection",
+    "plantation",
+    "predictable",
+    "manipulation",
+    "fabulous",
+    "resignation",
+    "culturally",
+    "miserable",
+    "embarrassment",
+    "primitive",
+    "worship",
+    "justification",
+    "tuition",
+    "destructive",
+    "repetition",
+    "inexpensive",
+    "terrify",
+    "formulate",
+    "incidence",
+    "technically",
+    "reproductive",
+    "recreation",
+    "locally",
+    "respective",
+    "circulate",
+    "maximize",
+    "intensify",
+    "erosion",
+    "additionally",
+    "petition",
+    "correspondence",
+    "static",
+    "correction",
+    "sanctuary",
+    "credible",
+    "revision",
+    "wary",
+    "memorable",
+    "appliance",
+    "unbelievable",
+    "outrageous",
+    "individually",
+    "notify",
+    "garment",
+    "activate",
+    "decoration",
+    "notorious",
+    "olive",
+    "distraction",
+    "heroic",
+    "straightforward",
+    "anticipation",
+    "glorious",
+    "selective",
+    "meditation",
+    "deprive",
+    "detection",
+    "occurrence",
+    "formidable",
+    "liberation",
+    "vigorous",
+    "questionable",
+    "poise",
+    "vicious",
+    "photographic",
+    "disturbance",
+    "comparative",
+    "vegetation",
+    "unusually",
+    "dominance",
+    "decisive",
+    "visually",
+    "awesome",
+    "deliberate",
+    "novelist",
+    "dietary",
+    "altitude",
+    "collaborate",
+    "succession",
+    "cement",
+    "morally",
+    "interference",
+    "maturity",
+    "devastate",
+    "navigate",
+    "accessory",
+    "generic",
+    "bureaucratic",
+    "devotion",
+    "governance",
+    "appropriately",
+    "migrate",
+    "perfection",
+    "mathematical",
+    "radically",
+    "unacceptable",
+    "pavement",
+    "moist",
+    "relevance",
+    "contention",
+    "helpless",
+    "velocity",
+    "critically",
+    "compartment",
+    "madness",
+    "symbolize",
+    "replicate",
+    "ivory",
+    "decorative",
+    "lucrative",
+    "detention",
+    "fascination",
+    "signify",
+    "elevation",
+    "poetic",
+    "amusement",
+    "interestingly",
+    "forthcoming",
+    "complement",
+    "allocate",
+    "probable",
+    "millionaire",
+    "pervasive",
+    "territorial",
+    "solitary",
+    "casually",
+    "synthetic",
+    "qualification",
+    "ammunition",
+    "discrepancy",
+    "roommate",
+    "overwhelmingly",
+    "comfortably",
+    "responsive",
+    "hardship",
+    "relocate",
+    "affiliate",
+    "marvelous",
+    "skepticism",
+    "continuously",
+    "immunity",
+    "reliance",
+    "extinction",
+    "reluctance",
+    "extensively",
+    "simplicity",
+    "confidential",
+    "compatible",
+    "ambiguity",
+    "loneliness",
+    "cynical",
+    "gratitude",
+    "communism",
+    "precaution",
+    "infectious",
+    "unstable",
+    "reluctantly",
+    "insufficient",
+    "exemption",
+    "plausible",
+    "abusive",
+    "obesity",
+    "exacerbate",
+    "terminate",
+    "populate",
+    "probation",
+    "disappointing",
+    "disastrous",
+    "adversary",
+    "subsidize",
+    "renovation",
+    "visibility",
+    "traumatic",
+    "renewable",
+    "restless",
+    "insistence",
+    "extraordinarily",
+    "friction",
+    "voluntarily",
+    "prosperous",
+    "domination",
+    "prostate",
+    "mediate",
+    "imitation",
+    "lament",
+    "alternate",
+    "disbelief",
+    "enormously",
+    "sickness",
+    "corresponding",
+    "unexpectedly",
+    "presently",
+    "distributor",
+    "cautiously",
+    "accidental",
+    "librarian",
+    "announcer",
+    "validate",
+    "undercover",
+    "cavity",
+    "troubling",
+    "blueprint",
+    "pedestrian",
+    "feasible",
+    "dubious",
+    "playwright",
+    "binoculars",
+    "harmless",
+    "bruise",
+    "convicted",
+    "packaging",
+    "expectancy",
+    "kidnapping",
+    "inherently",
+    "watershed",
+    "pronounced",
+    "multinational",
+    "unsuccessful",
+    "ornament",
+    "reconsider",
+    "fingernail",
+    "gigantic",
+    "crate",
+    "ceramic",
+    "violently",
+    "scattered",
+    "psychic",
+    "painfully",
+    "dependency",
+    "ideally",
+    "chemotherapy",
+    "bartender",
+    "simulate",
+    "incumbent",
+    "celebrated",
+    "perpetrator",
+    "aviation",
+    "pathetic",
+    "struggling",
+    "silhouette",
+    "durable",
+    "cardiovascular",
+    "schooling",
+    "institute",
+    "mutually",
+    "functioning",
+    "latitude",
+    "equate",
+    "clearing",
+    "rabbi",
+    "twisted",
+    "wavelength",
+    "contingency",
+    "punk",
+    "distinctly",
+    "paw",
+    "whirl",
+    "flirt",
+    "computerized",
+    "sovereign",
+    "plow",
+    "flutter",
+    "flicker",
+    "cooler",
+    "brag",
+    "plank",
+    "blaze",
+    "narrowly",
+    "conversely",
+    "disciple",
+    "angrily",
+    "lousy",
+    "monastery",
+    "sniper",
+    "headlight",
+    "backlash",
+    "vet",
+    "intern",
+    "apron",
+    "coyote",
+    "uneven",
+    "waterfall",
+    "litter"
+  ],
+  "entries": [
+    {
+      "id": "abortion",
+      "rank": 1969,
+      "en": "Are you against abortion?"
+    },
+    {
+      "id": "terrorism",
+      "rank": 2598,
+      "en": "This could be construed as an act of terrorism."
+    },
+    {
+      "id": "terrorism",
+      "rank": 2598,
+      "en": "The government is determined to put an end to terrorism."
+    },
+    {
+      "id": "rape",
+      "rank": 3416,
+      "en": "The woman was raped on her way home at night"
+    },
+    {
+      "id": "radiation",
+      "rank": 3652,
+      "en": "Is there any danger of radiation?"
+    },
+    {
+      "id": "collaboration",
+      "rank": 4176,
+      "en": "they worked either in collaboration or independently"
+    },
+    {
+      "id": "accomplishment",
+      "rank": 4308,
+      "en": "The accomplishment of this task took many years."
+    },
+    {
+      "id": "accomplishment",
+      "rank": 4308,
+      "en": "It was an awesome accomplishment."
+    },
+    {
+      "id": "confrontation",
+      "rank": 4459,
+      "en": "the government was not ready for a confrontation with the unions"
+    },
+    {
+      "id": "disappointment",
+      "rank": 4566,
+      "en": "To our disappointment, our team lost the game."
+    },
+    {
+      "id": "calculation",
+      "rank": 4642,
+      "en": "Tom did a quick calculation in his head."
+    },
+    {
+      "id": "emotionally",
+      "rank": 4650,
+      "en": "People tend to react emotionally to events."
+    },
+    {
+      "id": "emotionally",
+      "rank": 4650,
+      "en": "Tom is an emotionally unstable person."
+    },
+    {
+      "id": "jurisdiction",
+      "rank": 4651,
+      "en": "It's outside your jurisdiction."
+    },
+    {
+      "id": "philosophical",
+      "rank": 4661,
+      "en": "That's a philosophical matter."
+    },
+    {
+      "id": "distinctive",
+      "rank": 4723,
+      "en": "Jerusalem has a distinctive Middle East flavor"
+    },
+    {
+      "id": "contemplate",
+      "rank": 4802,
+      "en": "She is contemplating a trip."
+    },
+    {
+      "id": "contemplate",
+      "rank": 4802,
+      "en": "I contemplated leaving school and taking a full-time job"
+    },
+    {
+      "id": "substantially",
+      "rank": 4815,
+      "en": "Over the last few decades, Thailand has reduced poverty substantially."
+    },
+    {
+      "id": "substantially",
+      "rank": 4815,
+      "en": "painting the room white made it seem considerably (or substantially) larger"
+    },
+    {
+      "id": "surveillance",
+      "rank": 4825,
+      "en": "Somebody tipped off the gang members to the police surveillance."
+    },
+    {
+      "id": "citizenship",
+      "rank": 4851,
+      "en": "I want my children to have dual citizenship."
+    },
+    {
+      "id": "citizenship",
+      "rank": 4851,
+      "en": "Neither Tom nor Mary has dual citizenship."
+    },
+    {
+      "id": "economically",
+      "rank": 4883,
+      "en": "The country stagnated economically for the next half century."
+    },
+    {
+      "id": "convenience",
+      "rank": 4892,
+      "en": "Please visit us at your convenience."
+    },
+    {
+      "id": "skeptical",
+      "rank": 4963,
+      "en": "I admit that I was skeptical at first."
+    },
+    {
+      "id": "skeptical",
+      "rank": 4963,
+      "en": "I admit I was skeptical at first."
+    },
+    {
+      "id": "unfortunate",
+      "rank": 4970,
+      "en": "There was an unfortunate incident at home."
+    },
+    {
+      "id": "unfortunate",
+      "rank": 4970,
+      "en": "She sympathized with those unfortunate people."
+    },
+    {
+      "id": "intensive",
+      "rank": 4973,
+      "en": "Tom is still in intensive care."
+    },
+    {
+      "id": "intensive",
+      "rank": 4973,
+      "en": "Tom is in intensive care."
+    },
+    {
+      "id": "compassion",
+      "rank": 4986,
+      "en": "Nothing is more important than compassion."
+    },
+    {
+      "id": "compassion",
+      "rank": 4986,
+      "en": "Where is your compassion?"
+    },
+    {
+      "id": "complication",
+      "rank": 4995,
+      "en": "There's been a complication."
+    },
+    {
+      "id": "complication",
+      "rank": 4995,
+      "en": "What complications can occur with such an operation?"
+    },
+    {
+      "id": "authentic",
+      "rank": 5000,
+      "en": "It isn't authentic, Tom."
+    },
+    {
+      "id": "concession",
+      "rank": 5001,
+      "en": "We had to make concessions."
+    },
+    {
+      "id": "concession",
+      "rank": 5001,
+      "en": "We have to make concessions."
+    },
+    {
+      "id": "restoration",
+      "rank": 5002,
+      "en": "The museum is closed for restoration."
+    },
+    {
+      "id": "restoration",
+      "rank": 5002,
+      "en": "The museum is closing for restorations."
+    },
+    {
+      "id": "rejection",
+      "rank": 5003,
+      "en": "his proposals were met with rejection"
+    },
+    {
+      "id": "inadequate",
+      "rank": 5006,
+      "en": "The allotment is inadequate."
+    },
+    {
+      "id": "inadequate",
+      "rank": 5006,
+      "en": "the staff was inadequate"
+    },
+    {
+      "id": "completion",
+      "rank": 5019,
+      "en": "The first stage is nearing completion."
+    },
+    {
+      "id": "completion",
+      "rank": 5019,
+      "en": "This building is near completion."
+    },
+    {
+      "id": "affirmative",
+      "rank": 5022,
+      "en": "he answered in the affirmative"
+    },
+    {
+      "id": "compensate",
+      "rank": 5037,
+      "en": "I worked hard to compensate for the loss."
+    },
+    {
+      "id": "countless",
+      "rank": 5052,
+      "en": "A human body consists of a countless number of cells."
+    },
+    {
+      "id": "antibiotic",
+      "rank": 5080,
+      "en": "Are antibiotics sold over the counter in your country?"
+    },
+    {
+      "id": "antibiotic",
+      "rank": 5080,
+      "en": "Antibiotics are a cure for infection."
+    },
+    {
+      "id": "prosperity",
+      "rank": 5082,
+      "en": "The prosperity of a country depends upon its citizens."
+    },
+    {
+      "id": "prosperity",
+      "rank": 5082,
+      "en": "The prosperity of a country depends more or less on its citizens."
+    },
+    {
+      "id": "probability",
+      "rank": 5104,
+      "en": "The probability of Tom being punished is very small."
+    },
+    {
+      "id": "probability",
+      "rank": 5104,
+      "en": "There is very little probability of an agreement being reached."
+    },
+    {
+      "id": "disagreement",
+      "rank": 5117,
+      "en": "That disagreement resulted in a complete break between them."
+    },
+    {
+      "id": "mandatory",
+      "rank": 5119,
+      "en": "In France, voting isn't mandatory."
+    },
+    {
+      "id": "affection",
+      "rank": 5137,
+      "en": "She has a great affection for her parents."
+    },
+    {
+      "id": "geography",
+      "rank": 5163,
+      "en": "Tom cheated on the geography exam."
+    },
+    {
+      "id": "parliament",
+      "rank": 5169,
+      "en": "The queen is going to address parliament next week."
+    },
+    {
+      "id": "parliament",
+      "rank": 5169,
+      "en": "He was elected a member of parliament."
+    },
+    {
+      "id": "passionate",
+      "rank": 5175,
+      "en": "Tom greeted Mary with a passionate kiss."
+    },
+    {
+      "id": "passionate",
+      "rank": 5175,
+      "en": "What are you most passionate about?"
+    },
+    {
+      "id": "addiction",
+      "rank": 5177,
+      "en": "Drug addiction is a cancer in modern society."
+    },
+    {
+      "id": "addiction",
+      "rank": 5177,
+      "en": "Stopgap measures won't make a dent in drug addiction."
+    },
+    {
+      "id": "psychiatrist",
+      "rank": 5180,
+      "en": "Tom has been seeing a psychiatrist once a week."
+    },
+    {
+      "id": "psychiatrist",
+      "rank": 5180,
+      "en": "You need to consult a psychiatrist."
+    },
+    {
+      "id": "adaptation",
+      "rank": 5196,
+      "en": "Adaptation is the key to survival."
+    },
+    {
+      "id": "adaptation",
+      "rank": 5196,
+      "en": "the play is an adaptation of a short novel"
+    },
+    {
+      "id": "sympathetic",
+      "rank": 5209,
+      "en": "A good doctor is sympathetic to his patients."
+    },
+    {
+      "id": "sympathetic",
+      "rank": 5209,
+      "en": "Tom seems to be sympathetic."
+    },
+    {
+      "id": "hostility",
+      "rank": 5211,
+      "en": "They began to prepare for possible hostilities."
+    },
+    {
+      "id": "hostility",
+      "rank": 5211,
+      "en": "The USA and Cuba are set to mend their relationship after half a century of hostilities."
+    },
+    {
+      "id": "preservation",
+      "rank": 5229,
+      "en": "He has dedicated his life to the preservation of nature."
+    },
+    {
+      "id": "preservation",
+      "rank": 5229,
+      "en": "What are your views on the importance of language preservation?"
+    },
+    {
+      "id": "certificate",
+      "rank": 5237,
+      "en": "Let me see your health insurance certificate."
+    },
+    {
+      "id": "certificate",
+      "rank": 5237,
+      "en": "Sorry, but we need your original birth certificate, not a copy."
+    },
+    {
+      "id": "designate",
+      "rank": 5240,
+      "en": "Blue lines on the map designate rivers."
+    },
+    {
+      "id": "designate",
+      "rank": 5240,
+      "en": "Churches are designated on the map with crosses."
+    },
+    {
+      "id": "correlate",
+      "rank": 5266,
+      "en": "I cannot correlate these two pieces of information"
+    },
+    {
+      "id": "empirical",
+      "rank": 5285,
+      "en": "an empirical treatment of a disease about which little is known"
+    },
+    {
+      "id": "originate",
+      "rank": 5287,
+      "en": "Soccer and the word \"soccer\" originated in England."
+    },
+    {
+      "id": "endorsement",
+      "rank": 5296,
+      "en": "the cashier would not cash the check without an endorsement"
+    },
+    {
+      "id": "endorsement",
+      "rank": 5296,
+      "en": "a Democrat usually gets the union's endorsement"
+    },
+    {
+      "id": "desirable",
+      "rank": 5313,
+      "en": "What's desirable isn't always doable."
+    },
+    {
+      "id": "profitable",
+      "rank": 5352,
+      "en": "Tom owns a very profitable company."
+    },
+    {
+      "id": "hazardous",
+      "rank": 5358,
+      "en": "Too much drinking may be hazardous to your health."
+    },
+    {
+      "id": "hazardous",
+      "rank": 5358,
+      "en": "skydiving is a hazardous sport"
+    },
+    {
+      "id": "confirmation",
+      "rank": 5360,
+      "en": "Please cancel my order and send confirmation that this has been done."
+    },
+    {
+      "id": "wireless",
+      "rank": 5363,
+      "en": "Tom has wireless headphones."
+    },
+    {
+      "id": "graphic",
+      "rank": 5381,
+      "en": "Tom is a graphic designer."
+    },
+    {
+      "id": "circulation",
+      "rank": 5384,
+      "en": "He works for a big newspaper with a very large circulation."
+    },
+    {
+      "id": "circulation",
+      "rank": 5384,
+      "en": "Is it true that ginger increases circulation and improves your metabolism?"
+    },
+    {
+      "id": "explosive",
+      "rank": 5387,
+      "en": "No explosives were found."
+    },
+    {
+      "id": "penetrate",
+      "rank": 5392,
+      "en": "The bullet penetrated his chest, leaving him in critical condition."
+    },
+    {
+      "id": "penetrate",
+      "rank": 5392,
+      "en": "The bullet penetrated the wall."
+    },
+    {
+      "id": "evolutionary",
+      "rank": 5393,
+      "en": "Darwin developed the evolutionary theory."
+    },
+    {
+      "id": "optimism",
+      "rank": 5401,
+      "en": "There is considerable optimism that the economy will improve."
+    },
+    {
+      "id": "optimism",
+      "rank": 5401,
+      "en": "Optimism is the key to a happy life."
+    },
+    {
+      "id": "systematic",
+      "rank": 5408,
+      "en": "the investigation was very systematic"
+    },
+    {
+      "id": "inclusion",
+      "rank": 5409,
+      "en": "he admired the inclusion of so many ideas in such a short work"
+    },
+    {
+      "id": "prospective",
+      "rank": 5420,
+      "en": "the statute is solely prospective in operation"
+    },
+    {
+      "id": "duration",
+      "rank": 5426,
+      "en": "the ceremony was of short duration"
+    },
+    {
+      "id": "proposition",
+      "rank": 5428,
+      "en": "He was in favor of the proposition."
+    },
+    {
+      "id": "proposition",
+      "rank": 5428,
+      "en": "I have a business proposition for you."
+    },
+    {
+      "id": "ethnicity",
+      "rank": 5432,
+      "en": "ethnicity has a strong influence on community status relations"
+    },
+    {
+      "id": "assassination",
+      "rank": 5434,
+      "en": "Older people still remember the Kennedy assassination."
+    },
+    {
+      "id": "assassination",
+      "rank": 5434,
+      "en": "Despite the government's protection, he was the victim of an assassination attempt which killed him."
+    },
+    {
+      "id": "portable",
+      "rank": 5441,
+      "en": "Tom doesn't want an iPad. He wants a portable device that supports Flash."
+    },
+    {
+      "id": "clarity",
+      "rank": 5443,
+      "en": "Water clarity is excellent."
+    },
+    {
+      "id": "clarity",
+      "rank": 5443,
+      "en": "when she awoke the clarity was back in her eyes"
+    },
+    {
+      "id": "environmentalist",
+      "rank": 5444,
+      "en": "He is an environmentalist."
+    },
+    {
+      "id": "environmentalist",
+      "rank": 5444,
+      "en": "Tom is an environmentalist."
+    },
+    {
+      "id": "trophy",
+      "rank": 5448,
+      "en": "Mary is a trophy wife."
+    },
+    {
+      "id": "ironic",
+      "rank": 5450,
+      "en": "I was being ironic."
+    },
+    {
+      "id": "ironic",
+      "rank": 5450,
+      "en": "Don't you think it's ironic?"
+    },
+    {
+      "id": "contradiction",
+      "rank": 5451,
+      "en": "I see no contradiction here."
+    },
+    {
+      "id": "contradiction",
+      "rank": 5451,
+      "en": "Is there a contradiction there?"
+    },
+    {
+      "id": "gorgeous",
+      "rank": 5457,
+      "en": "The gorgeous cake made my mouth water."
+    },
+    {
+      "id": "gorgeous",
+      "rank": 5457,
+      "en": "This is a gorgeous town."
+    },
+    {
+      "id": "precision",
+      "rank": 5466,
+      "en": "Precision in measurement is necessary."
+    },
+    {
+      "id": "financially",
+      "rank": 5474,
+      "en": "I was thinking we might want to help Tom financially."
+    },
+    {
+      "id": "statistically",
+      "rank": 5475,
+      "en": "this is statistically impossible"
+    },
+    {
+      "id": "psychiatric",
+      "rank": 5478,
+      "en": "Have you ever been hospitalized in a psychiatric hospital?"
+    },
+    {
+      "id": "rotate",
+      "rank": 5483,
+      "en": "ballet dancers can rotate their legs out by 90 degrees"
+    },
+    {
+      "id": "rotate",
+      "rank": 5483,
+      "en": "Interns have to rotate for a few months"
+    },
+    {
+      "id": "contrary",
+      "rank": 5495,
+      "en": "I have no proof to the contrary."
+    },
+    {
+      "id": "optical",
+      "rank": 5497,
+      "en": "This is an optical illusion."
+    },
+    {
+      "id": "optical",
+      "rank": 5497,
+      "en": "It's an optical illusion."
+    },
+    {
+      "id": "enthusiastic",
+      "rank": 5508,
+      "en": "He pretends to be enthusiastic when his boss is around."
+    },
+    {
+      "id": "enthusiastic",
+      "rank": 5508,
+      "en": "His speech met with enthusiastic applause."
+    },
+    {
+      "id": "continually",
+      "rank": 5510,
+      "en": "She complained continually that there was no money left."
+    },
+    {
+      "id": "continually",
+      "rank": 5510,
+      "en": "He became bad-tempered, continually criticized his wife's cooking and complained of a pain in his stomach."
+    },
+    {
+      "id": "salvation",
+      "rank": 5519,
+      "en": "I gave some of my old clothes to the Salvation Army."
+    },
+    {
+      "id": "salvation",
+      "rank": 5519,
+      "en": "they turned to individualism as their salvation"
+    },
+    {
+      "id": "modification",
+      "rank": 5523,
+      "en": "I made some modifications."
+    },
+    {
+      "id": "formally",
+      "rank": 5538,
+      "en": "Nobody has been formally charged."
+    },
+    {
+      "id": "formally",
+      "rank": 5538,
+      "en": "We haven't been formally introduced."
+    },
+    {
+      "id": "communist",
+      "rank": 5543,
+      "en": "Tom grew up in a communist country."
+    },
+    {
+      "id": "communist",
+      "rank": 5543,
+      "en": "Tom is not a communist."
+    },
+    {
+      "id": "furious",
+      "rank": 5544,
+      "en": "When Tom found out the truth, he was furious."
+    },
+    {
+      "id": "obsession",
+      "rank": 5558,
+      "en": "I don't understand this obsession of yours."
+    },
+    {
+      "id": "obsession",
+      "rank": 5558,
+      "en": "I can't understand his obsession with football."
+    },
+    {
+      "id": "problematic",
+      "rank": 5561,
+      "en": "This could prove problematic."
+    },
+    {
+      "id": "problematic",
+      "rank": 5561,
+      "en": "If you ever get married, which seems to be extremely problematic"
+    },
+    {
+      "id": "nutrition",
+      "rank": 5563,
+      "en": "You should pay more attention to nutrition."
+    },
+    {
+      "id": "vocabulary",
+      "rank": 5564,
+      "en": "I want to build up my vocabulary."
+    },
+    {
+      "id": "physicist",
+      "rank": 5568,
+      "en": "His father is a physicist."
+    },
+    {
+      "id": "physicist",
+      "rank": 5568,
+      "en": "He is a physicist."
+    },
+    {
+      "id": "cultivate",
+      "rank": 5574,
+      "en": "Rice is cultivated in several parts of the world."
+    },
+    {
+      "id": "cultivate",
+      "rank": 5574,
+      "en": "They cultivated the land."
+    },
+    {
+      "id": "realization",
+      "rank": 5579,
+      "en": "the victory was the realization of a whole year's work"
+    },
+    {
+      "id": "magical",
+      "rank": 5584,
+      "en": "It was a magical time."
+    },
+    {
+      "id": "magical",
+      "rank": 5584,
+      "en": "It was a magical moment."
+    },
+    {
+      "id": "socialist",
+      "rank": 5591,
+      "en": "The Socialist Party only got 18% of the votes."
+    },
+    {
+      "id": "socialist",
+      "rank": 5591,
+      "en": "I know that Tom is a socialist."
+    },
+    {
+      "id": "fundamentally",
+      "rank": 5593,
+      "en": "This is fundamentally unfair."
+    },
+    {
+      "id": "declaration",
+      "rank": 5595,
+      "en": "A customs declaration is required."
+    },
+    {
+      "id": "aspiration",
+      "rank": 5607,
+      "en": "What are your aspirations for the future?"
+    },
+    {
+      "id": "supervision",
+      "rank": 5614,
+      "en": "The children need adult supervision."
+    },
+    {
+      "id": "nationalism",
+      "rank": 5625,
+      "en": "British nationalism was in the air and patriotic sentiments ran high"
+    },
+    {
+      "id": "indictment",
+      "rank": 5627,
+      "en": "the book is an indictment of modern philosophy"
+    },
+    {
+      "id": "collision",
+      "rank": 5633,
+      "en": "The car exploded a few moments after the collision."
+    },
+    {
+      "id": "collision",
+      "rank": 5633,
+      "en": "The Himalayas were formed by the collision of the tectonic plates of India and Eurasia about 50 million years ago."
+    },
+    {
+      "id": "useless",
+      "rank": 5657,
+      "en": "I wish I had not bought such a useless thing."
+    },
+    {
+      "id": "useless",
+      "rank": 5657,
+      "en": "Why do we learn so much useless stuff in school?"
+    },
+    {
+      "id": "reproduction",
+      "rank": 5658,
+      "en": "Gutenberg's reproduction of holy texts was far more efficient"
+    },
+    {
+      "id": "simulation",
+      "rank": 5678,
+      "en": "a simulation should imitate the internal processes and not merely the results of the thing being simulated"
+    },
+    {
+      "id": "passive",
+      "rank": 5680,
+      "en": "He has a passive character."
+    },
+    {
+      "id": "assurance",
+      "rank": 5702,
+      "en": "his assurance in his superiority did not make him popular"
+    },
+    {
+      "id": "assurance",
+      "rank": 5702,
+      "en": "the President's assurances were not respected"
+    },
+    {
+      "id": "consultation",
+      "rank": 5710,
+      "en": "I'd like to have a consultation about getting braces."
+    },
+    {
+      "id": "consultation",
+      "rank": 5710,
+      "en": "he had a consultation with the judge"
+    },
+    {
+      "id": "accountable",
+      "rank": 5713,
+      "en": "You will be held accountable."
+    },
+    {
+      "id": "accountable",
+      "rank": 5713,
+      "en": "Someone's got to be held accountable."
+    },
+    {
+      "id": "stabilize",
+      "rank": 5723,
+      "en": "The authorities managed to stabilize the currency."
+    },
+    {
+      "id": "injection",
+      "rank": 5734,
+      "en": "The nurse gave the patient an injection."
+    },
+    {
+      "id": "plantation",
+      "rank": 5736,
+      "en": "Tom has a sugar cane plantation and dozens of hired workers."
+    },
+    {
+      "id": "plantation",
+      "rank": 5736,
+      "en": "the practice of sending convicted criminals to serve on the Plantations was common in the 17th century"
+    },
+    {
+      "id": "predictable",
+      "rank": 5738,
+      "en": "It was predictable that this would happen."
+    },
+    {
+      "id": "predictable",
+      "rank": 5738,
+      "en": "This movie has a predictable plot."
+    },
+    {
+      "id": "manipulation",
+      "rank": 5754,
+      "en": "his manipulation of his friends was scandalous"
+    },
+    {
+      "id": "fabulous",
+      "rank": 5757,
+      "en": "You look fabulous in black."
+    },
+    {
+      "id": "fabulous",
+      "rank": 5757,
+      "en": "Everyone did a fabulous job."
+    },
+    {
+      "id": "resignation",
+      "rank": 5762,
+      "en": "I was surprised by his resignation."
+    },
+    {
+      "id": "culturally",
+      "rank": 5763,
+      "en": "Culturally, the two countries have a lot in common."
+    },
+    {
+      "id": "miserable",
+      "rank": 5769,
+      "en": "Tom was absolutely miserable when his dog ran away."
+    },
+    {
+      "id": "miserable",
+      "rank": 5769,
+      "en": "It was a miserable day for a walk."
+    },
+    {
+      "id": "embarrassment",
+      "rank": 5794,
+      "en": "Tom tried to hide his embarrassment."
+    },
+    {
+      "id": "embarrassment",
+      "rank": 5794,
+      "en": "I almost died of embarrassment."
+    },
+    {
+      "id": "primitive",
+      "rank": 5798,
+      "en": "‘pick’ is the primitive from which ‘picket’ is derived"
+    },
+    {
+      "id": "primitive",
+      "rank": 5798,
+      "en": "the okapi is a short-necked primitive cousin of the giraffe"
+    },
+    {
+      "id": "worship",
+      "rank": 5808,
+      "en": "The Greeks used to worship several gods."
+    },
+    {
+      "id": "justification",
+      "rank": 5816,
+      "en": "he considered misrule a justification for revolution"
+    },
+    {
+      "id": "tuition",
+      "rank": 5817,
+      "en": "Tom got a part-time job to help pay for his tuition."
+    },
+    {
+      "id": "tuition",
+      "rank": 5817,
+      "en": "The university administration lowered tuition."
+    },
+    {
+      "id": "destructive",
+      "rank": 5818,
+      "en": "Hurricanes are very destructive."
+    },
+    {
+      "id": "destructive",
+      "rank": 5818,
+      "en": "a policy that is destructive to the economy"
+    },
+    {
+      "id": "repetition",
+      "rank": 5821,
+      "en": "Repetition is the mother of learning."
+    },
+    {
+      "id": "inexpensive",
+      "rank": 5823,
+      "en": "This tool is inexpensive and easy to use."
+    },
+    {
+      "id": "inexpensive",
+      "rank": 5823,
+      "en": "Is there an inexpensive hotel somewhere around here?"
+    },
+    {
+      "id": "terrify",
+      "rank": 5828,
+      "en": "Tom said he was terrified of snakes."
+    },
+    {
+      "id": "terrify",
+      "rank": 5828,
+      "en": "I think that Tom is terrified."
+    },
+    {
+      "id": "formulate",
+      "rank": 5843,
+      "en": "He formulated his concerns to the board of trustees"
+    },
+    {
+      "id": "incidence",
+      "rank": 5847,
+      "en": "he measured the angle of incidence of the reflected light"
+    },
+    {
+      "id": "technically",
+      "rank": 5848,
+      "en": "This is technically impossible."
+    },
+    {
+      "id": "technically",
+      "rank": 5848,
+      "en": "Tomatoes aren't technically vegetables."
+    },
+    {
+      "id": "reproductive",
+      "rank": 5864,
+      "en": "the reproductive potential of a species is its relative capacity to reproduce itself under optimal conditions"
+    },
+    {
+      "id": "recreation",
+      "rank": 5867,
+      "en": "What do you do for recreation around here?"
+    },
+    {
+      "id": "recreation",
+      "rank": 5867,
+      "en": "for recreation he wrote poetry and solved crossword puzzles"
+    },
+    {
+      "id": "locally",
+      "rank": 5879,
+      "en": "it was locally decided"
+    },
+    {
+      "id": "respective",
+      "rank": 5883,
+      "en": "We each went to our respective homes."
+    },
+    {
+      "id": "respective",
+      "rank": 5883,
+      "en": "They took their respective places in line."
+    },
+    {
+      "id": "circulate",
+      "rank": 5888,
+      "en": "There are a lot of rumors circulating about Tom."
+    },
+    {
+      "id": "circulate",
+      "rank": 5888,
+      "en": "A full description of him has been circulated in every newspaper."
+    },
+    {
+      "id": "maximize",
+      "rank": 5895,
+      "en": "I minimized the document and then maximized it again."
+    },
+    {
+      "id": "maximize",
+      "rank": 5895,
+      "en": "He maximized his role"
+    },
+    {
+      "id": "intensify",
+      "rank": 5921,
+      "en": "The efforts were intensified"
+    },
+    {
+      "id": "erosion",
+      "rank": 5930,
+      "en": "after the accounting scandal there was an erosion of confidence in the auditors"
+    },
+    {
+      "id": "additionally",
+      "rank": 5948,
+      "en": "he serves additionally as the CEO"
+    },
+    {
+      "id": "petition",
+      "rank": 5959,
+      "en": "We hope that you all will sign this petition."
+    },
+    {
+      "id": "petition",
+      "rank": 5959,
+      "en": "We hope you all will sign this petition."
+    },
+    {
+      "id": "correspondence",
+      "rank": 5961,
+      "en": "Your correspondence with Tom is no secret to anyone."
+    },
+    {
+      "id": "correspondence",
+      "rank": 5961,
+      "en": "the results of two tests were in correspondence"
+    },
+    {
+      "id": "static",
+      "rank": 5963,
+      "en": "What causes static electricity?"
+    },
+    {
+      "id": "static",
+      "rank": 5963,
+      "en": "they will probably give you a lot of static about your editorial"
+    },
+    {
+      "id": "correction",
+      "rank": 5966,
+      "en": "Thank you for the correction."
+    },
+    {
+      "id": "correction",
+      "rank": 5966,
+      "en": "Thanks for the correction."
+    },
+    {
+      "id": "sanctuary",
+      "rank": 5985,
+      "en": "The church offered them sanctuary."
+    },
+    {
+      "id": "credible",
+      "rank": 5991,
+      "en": "Tom was a credible witness."
+    },
+    {
+      "id": "credible",
+      "rank": 5991,
+      "en": "Your story sounds credible."
+    },
+    {
+      "id": "revision",
+      "rank": 5994,
+      "en": "The revision of this dictionary took six years."
+    },
+    {
+      "id": "revision",
+      "rank": 5994,
+      "en": "it would require a drastic revision of his opinion"
+    },
+    {
+      "id": "wary",
+      "rank": 6004,
+      "en": "My parents always told me to be wary of strangers."
+    },
+    {
+      "id": "wary",
+      "rank": 6004,
+      "en": "I'm always wary of such people."
+    },
+    {
+      "id": "memorable",
+      "rank": 6013,
+      "en": "This was a memorable day for me."
+    },
+    {
+      "id": "appliance",
+      "rank": 6043,
+      "en": "We have too many household appliances."
+    },
+    {
+      "id": "unbelievable",
+      "rank": 6070,
+      "en": "The speed with which we forget is just unbelievable."
+    },
+    {
+      "id": "unbelievable",
+      "rank": 6070,
+      "en": "This is just unbelievable."
+    },
+    {
+      "id": "outrageous",
+      "rank": 6077,
+      "en": "This is just outrageous."
+    },
+    {
+      "id": "outrageous",
+      "rank": 6077,
+      "en": "Tom's demands became more and more outrageous."
+    },
+    {
+      "id": "individually",
+      "rank": 6085,
+      "en": "taken individually, the rooms were, in fact, square"
+    },
+    {
+      "id": "notify",
+      "rank": 6111,
+      "en": "Tom is going to notify us if that happens."
+    },
+    {
+      "id": "notify",
+      "rank": 6111,
+      "en": "We will notify you when your order arrives."
+    },
+    {
+      "id": "garment",
+      "rank": 6112,
+      "en": "You should always wash new garments before wearing them."
+    },
+    {
+      "id": "garment",
+      "rank": 6112,
+      "en": "These garments are made from wool."
+    },
+    {
+      "id": "activate",
+      "rank": 6113,
+      "en": "Tom hasn't activated his account yet."
+    },
+    {
+      "id": "decoration",
+      "rank": 6136,
+      "en": "He hung an old, wooden oar on his wall as a decoration."
+    },
+    {
+      "id": "notorious",
+      "rank": 6155,
+      "en": "This district is notorious for air pollution."
+    },
+    {
+      "id": "notorious",
+      "rank": 6155,
+      "en": "He's a notorious liar."
+    },
+    {
+      "id": "olive",
+      "rank": 6160,
+      "en": "Tom poured some olive oil on the salad."
+    },
+    {
+      "id": "distraction",
+      "rank": 6171,
+      "en": "he drives me to distraction"
+    },
+    {
+      "id": "heroic",
+      "rank": 6176,
+      "en": "It was a heroic effort."
+    },
+    {
+      "id": "heroic",
+      "rank": 6176,
+      "en": "Tom died a heroic death."
+    },
+    {
+      "id": "straightforward",
+      "rank": 6187,
+      "en": "Tom is a very straightforward person."
+    },
+    {
+      "id": "straightforward",
+      "rank": 6187,
+      "en": "This is a straightforward case."
+    },
+    {
+      "id": "anticipation",
+      "rank": 6188,
+      "en": "I can't stand the anticipation."
+    },
+    {
+      "id": "anticipation",
+      "rank": 6188,
+      "en": "each of them had their own anticipations"
+    },
+    {
+      "id": "glorious",
+      "rank": 6191,
+      "en": "We had a glorious time at the seaside."
+    },
+    {
+      "id": "glorious",
+      "rank": 6191,
+      "en": "It was glorious weather."
+    },
+    {
+      "id": "selective",
+      "rank": 6195,
+      "en": "the school was very selective in its admissions"
+    },
+    {
+      "id": "meditation",
+      "rank": 6196,
+      "en": "Meditation can be practiced nearly anywhere."
+    },
+    {
+      "id": "deprive",
+      "rank": 6202,
+      "en": "No one shall be arbitrarily deprived of his property."
+    },
+    {
+      "id": "detection",
+      "rank": 6216,
+      "en": "early detection can often lead to a cure"
+    },
+    {
+      "id": "detection",
+      "rank": 6216,
+      "en": "detection is hard on the feet"
+    },
+    {
+      "id": "occurrence",
+      "rank": 6221,
+      "en": "Things like this are becoming an everyday occurrence."
+    },
+    {
+      "id": "occurrence",
+      "rank": 6221,
+      "en": "Fights are an everyday occurrence here."
+    },
+    {
+      "id": "formidable",
+      "rank": 6229,
+      "en": "He is a formidable opponent."
+    },
+    {
+      "id": "formidable",
+      "rank": 6229,
+      "en": "the challenge was formidable"
+    },
+    {
+      "id": "liberation",
+      "rank": 6230,
+      "en": "she worked for women's liberation"
+    },
+    {
+      "id": "vigorous",
+      "rank": 6236,
+      "en": "My grandmother is still vigorous at 82 years old."
+    },
+    {
+      "id": "vigorous",
+      "rank": 6236,
+      "en": "We had a very vigorous debate."
+    },
+    {
+      "id": "questionable",
+      "rank": 6242,
+      "en": "It's a questionable policy."
+    },
+    {
+      "id": "poise",
+      "rank": 6244,
+      "en": "He has a lot of poise."
+    },
+    {
+      "id": "poise",
+      "rank": 6244,
+      "en": "Tom has a lot of poise."
+    },
+    {
+      "id": "vicious",
+      "rank": 6247,
+      "en": "We were caught in a vicious cycle."
+    },
+    {
+      "id": "vicious",
+      "rank": 6247,
+      "en": "You must break the vicious circle."
+    },
+    {
+      "id": "photographic",
+      "rank": 6248,
+      "en": "He has a photographic memory."
+    },
+    {
+      "id": "photographic",
+      "rank": 6248,
+      "en": "I have a photographic memory."
+    },
+    {
+      "id": "disturbance",
+      "rank": 6265,
+      "en": "he looked around for the source of the disturbance"
+    },
+    {
+      "id": "disturbance",
+      "rank": 6265,
+      "en": "they were amazed by the furious disturbance they had caused"
+    },
+    {
+      "id": "comparative",
+      "rank": 6267,
+      "en": "‘more surely’ is the comparative of the adverb ‘surely’"
+    },
+    {
+      "id": "comparative",
+      "rank": 6267,
+      "en": "‘less famous’ is the comparative degree of the adjective ‘famous’"
+    },
+    {
+      "id": "vegetation",
+      "rank": 6271,
+      "en": "The vegetation was thick and lush."
+    },
+    {
+      "id": "vegetation",
+      "rank": 6271,
+      "en": "their holiday was spent in sleep and vegetation"
+    },
+    {
+      "id": "unusually",
+      "rank": 6275,
+      "en": "The hotels here are kept unusually clean."
+    },
+    {
+      "id": "dominance",
+      "rank": 6288,
+      "en": "her apparent dominance of her husband was really her attempt to make him pay attention to her"
+    },
+    {
+      "id": "decisive",
+      "rank": 6316,
+      "en": "Tom is very decisive."
+    },
+    {
+      "id": "decisive",
+      "rank": 6316,
+      "en": "Tom was very decisive."
+    },
+    {
+      "id": "visually",
+      "rank": 6319,
+      "en": "Tom is visually impaired."
+    },
+    {
+      "id": "awesome",
+      "rank": 6337,
+      "en": "You guys did an awesome job."
+    },
+    {
+      "id": "awesome",
+      "rank": 6337,
+      "en": "That was an awesome feeling."
+    },
+    {
+      "id": "deliberate",
+      "rank": 6343,
+      "en": "She was deliberate in everything she did."
+    },
+    {
+      "id": "deliberate",
+      "rank": 6343,
+      "en": "Do you think that was deliberate?"
+    },
+    {
+      "id": "novelist",
+      "rank": 6348,
+      "en": "My goal in life is to be a novelist."
+    },
+    {
+      "id": "dietary",
+      "rank": 6366,
+      "en": "Figs contain dietary fiber."
+    },
+    {
+      "id": "altitude",
+      "rank": 6370,
+      "en": "The plane climbed to an altitude of 10,000 meters."
+    },
+    {
+      "id": "altitude",
+      "rank": 6370,
+      "en": "This mountain has an altitude of 3,000 meters."
+    },
+    {
+      "id": "collaborate",
+      "rank": 6388,
+      "en": "Tom collaborated with Mary on a book."
+    },
+    {
+      "id": "succession",
+      "rank": 6389,
+      "en": "A business cycle is a recurring succession of periods of prosperity and periods of depression."
+    },
+    {
+      "id": "cement",
+      "rank": 6395,
+      "en": "The cement will set in a couple of hours."
+    },
+    {
+      "id": "cement",
+      "rank": 6395,
+      "en": "I need to buy a bag of cement."
+    },
+    {
+      "id": "morally",
+      "rank": 6396,
+      "en": "I think it is morally wrong to eat people."
+    },
+    {
+      "id": "morally",
+      "rank": 6396,
+      "en": "Is it morally wrong to eat meat?"
+    },
+    {
+      "id": "interference",
+      "rank": 6409,
+      "en": "he ran interference for the quarterback"
+    },
+    {
+      "id": "maturity",
+      "rank": 6413,
+      "en": "Willingness to take responsibility is a sign of maturity."
+    },
+    {
+      "id": "devastate",
+      "rank": 6414,
+      "en": "Tom was devastated when Mary broke up with him."
+    },
+    {
+      "id": "navigate",
+      "rank": 6416,
+      "en": "Tom had difficulty navigating."
+    },
+    {
+      "id": "navigate",
+      "rank": 6416,
+      "en": "Is anyone volunteering to navigate during the trip?"
+    },
+    {
+      "id": "accessory",
+      "rank": 6429,
+      "en": "he was charged with being accessory to the crime"
+    },
+    {
+      "id": "generic",
+      "rank": 6445,
+      "en": "Generic medications are almost always cheaper."
+    },
+    {
+      "id": "generic",
+      "rank": 6445,
+      "en": "‘Acetaminophen’ is the generic form of the proprietary drug ‘Tylenol’"
+    },
+    {
+      "id": "bureaucratic",
+      "rank": 6447,
+      "en": "I hope we don't run into any bureaucratic red tape."
+    },
+    {
+      "id": "devotion",
+      "rank": 6466,
+      "en": "Tom works with religious devotion."
+    },
+    {
+      "id": "devotion",
+      "rank": 6466,
+      "en": "their devotion to each other was beautiful"
+    },
+    {
+      "id": "governance",
+      "rank": 6467,
+      "en": "the governance of an association is responsible to its members"
+    },
+    {
+      "id": "appropriately",
+      "rank": 6470,
+      "en": "I wasn't dressed appropriately."
+    },
+    {
+      "id": "appropriately",
+      "rank": 6470,
+      "en": "he was appropriately dressed"
+    },
+    {
+      "id": "migrate",
+      "rank": 6504,
+      "en": "I wonder why birds migrate."
+    },
+    {
+      "id": "perfection",
+      "rank": 6505,
+      "en": "Improving upon perfection is not an easy job."
+    },
+    {
+      "id": "perfection",
+      "rank": 6505,
+      "en": "How long did you train in order to achieve such perfection?"
+    },
+    {
+      "id": "mathematical",
+      "rank": 6512,
+      "en": "Einstein was a mathematical genius."
+    },
+    {
+      "id": "radically",
+      "rank": 6520,
+      "en": "she took a radically different approach"
+    },
+    {
+      "id": "unacceptable",
+      "rank": 6531,
+      "en": "That kind of behavior is unacceptable."
+    },
+    {
+      "id": "unacceptable",
+      "rank": 6531,
+      "en": "This is unacceptable to me."
+    },
+    {
+      "id": "pavement",
+      "rank": 6540,
+      "en": "Children are drawing on the pavement with chalk."
+    },
+    {
+      "id": "pavement",
+      "rank": 6540,
+      "en": "There was blood on the pavement."
+    },
+    {
+      "id": "moist",
+      "rank": 6541,
+      "en": "The climate is moist and warm."
+    },
+    {
+      "id": "relevance",
+      "rank": 6543,
+      "en": "I don't see the relevance."
+    },
+    {
+      "id": "contention",
+      "rank": 6547,
+      "en": "the teams were in fierce contention for first place"
+    },
+    {
+      "id": "helpless",
+      "rank": 6550,
+      "en": "Tom said that he felt completely helpless."
+    },
+    {
+      "id": "helpless",
+      "rank": 6550,
+      "en": "I know that you feel helpless."
+    },
+    {
+      "id": "velocity",
+      "rank": 6557,
+      "en": "The velocity of light is about 186,000 miles per second."
+    },
+    {
+      "id": "critically",
+      "rank": 6558,
+      "en": "this must be examined critically"
+    },
+    {
+      "id": "compartment",
+      "rank": 6561,
+      "en": "Tom always keeps a map in the glove compartment."
+    },
+    {
+      "id": "madness",
+      "rank": 6563,
+      "en": "We must do something to stop this madness."
+    },
+    {
+      "id": "madness",
+      "rank": 6563,
+      "en": "Let's stop this madness."
+    },
+    {
+      "id": "symbolize",
+      "rank": 6594,
+      "en": "An olive branch symbolizes peace."
+    },
+    {
+      "id": "symbolize",
+      "rank": 6594,
+      "en": "The dove symbolizes peace."
+    },
+    {
+      "id": "replicate",
+      "rank": 6621,
+      "en": "He could never replicate his brilliant performance of the magic trick"
+    },
+    {
+      "id": "ivory",
+      "rank": 6654,
+      "en": "Elephants were killed for their ivory."
+    },
+    {
+      "id": "ivory",
+      "rank": 6654,
+      "en": "Ivory Coast is the world's biggest cocoa producer."
+    },
+    {
+      "id": "decorative",
+      "rank": 6658,
+      "en": "the buildings were utilitarian rather than decorative"
+    },
+    {
+      "id": "lucrative",
+      "rank": 6660,
+      "en": "War is very lucrative."
+    },
+    {
+      "id": "detention",
+      "rank": 6676,
+      "en": "You just bought yourself another day of detention."
+    },
+    {
+      "id": "detention",
+      "rank": 6676,
+      "en": "his detention was politically motivated"
+    },
+    {
+      "id": "fascination",
+      "rank": 6681,
+      "en": "he held the children spellbound with magic tricks and other fascinations"
+    },
+    {
+      "id": "signify",
+      "rank": 6690,
+      "en": "What does his strange behavior signify?"
+    },
+    {
+      "id": "signify",
+      "rank": 6690,
+      "en": "He signified his wish to pay the bill for our meal"
+    },
+    {
+      "id": "elevation",
+      "rank": 6693,
+      "en": "there was snow at the higher elevations"
+    },
+    {
+      "id": "poetic",
+      "rank": 6703,
+      "en": "There's nothing poetic about it."
+    },
+    {
+      "id": "poetic",
+      "rank": 6703,
+      "en": "Turner's vision of the rainbow … was poetic"
+    },
+    {
+      "id": "amusement",
+      "rank": 6732,
+      "en": "It took ten years to build the amusement park."
+    },
+    {
+      "id": "amusement",
+      "rank": 6732,
+      "en": "Yesterday, I ran into my teacher at the amusement park."
+    },
+    {
+      "id": "interestingly",
+      "rank": 6739,
+      "en": "when he ceases to be just interestingly neurotic and … gets locked up"
+    },
+    {
+      "id": "forthcoming",
+      "rank": 6748,
+      "en": "federal funds were not forthcoming"
+    },
+    {
+      "id": "complement",
+      "rank": 6760,
+      "en": "a fine wine is a perfect complement to the dinner"
+    },
+    {
+      "id": "complement",
+      "rank": 6760,
+      "en": "I need some pepper to complement the sweet touch in the soup"
+    },
+    {
+      "id": "allocate",
+      "rank": 6763,
+      "en": "Why am I so bad at allocating my time?"
+    },
+    {
+      "id": "probable",
+      "rank": 6767,
+      "en": "It is probable that she will come tomorrow."
+    },
+    {
+      "id": "probable",
+      "rank": 6767,
+      "en": "It is probable that her first album will sell well."
+    },
+    {
+      "id": "millionaire",
+      "rank": 6769,
+      "en": "Everyone who worked on that project became a millionaire."
+    },
+    {
+      "id": "pervasive",
+      "rank": 6779,
+      "en": "an error is pervasive if it is material to more than one conclusion"
+    },
+    {
+      "id": "territorial",
+      "rank": 6790,
+      "en": "territorial claims made by a country"
+    },
+    {
+      "id": "solitary",
+      "rank": 6798,
+      "en": "Tom spent his birthday in solitary confinement."
+    },
+    {
+      "id": "solitary",
+      "rank": 6798,
+      "en": "She led a solitary life."
+    },
+    {
+      "id": "casually",
+      "rank": 6800,
+      "en": "he dealt with his course work casually"
+    },
+    {
+      "id": "synthetic",
+      "rank": 6824,
+      "en": "Synthetic materials usually burn well."
+    },
+    {
+      "id": "synthetic",
+      "rank": 6824,
+      "en": "counterfeit rhetoric that flourishes when passions are synthetic"
+    },
+    {
+      "id": "qualification",
+      "rank": 6828,
+      "en": "What are your qualifications?"
+    },
+    {
+      "id": "qualification",
+      "rank": 6828,
+      "en": "one of the qualifications for admission is an academic degree"
+    },
+    {
+      "id": "ammunition",
+      "rank": 6837,
+      "en": "The hunter put ammunition in the gun."
+    },
+    {
+      "id": "ammunition",
+      "rank": 6837,
+      "en": "Our ammunition has run out."
+    },
+    {
+      "id": "discrepancy",
+      "rank": 6872,
+      "en": "Tom has found some interesting discrepancies."
+    },
+    {
+      "id": "roommate",
+      "rank": 6877,
+      "en": "What do you think of your new roommate?"
+    },
+    {
+      "id": "roommate",
+      "rank": 6877,
+      "en": "Tom used to be my roommate."
+    },
+    {
+      "id": "overwhelmingly",
+      "rank": 6882,
+      "en": "The scientific truth of evolution is so overwhelmingly established, that it is virtually impossible to refute."
+    },
+    {
+      "id": "comfortably",
+      "rank": 6887,
+      "en": "I want to live comfortably when I become old."
+    },
+    {
+      "id": "comfortably",
+      "rank": 6887,
+      "en": "I slept comfortably last night."
+    },
+    {
+      "id": "responsive",
+      "rank": 6912,
+      "en": "children are often the quickest and most responsive members of the audience"
+    },
+    {
+      "id": "hardship",
+      "rank": 6922,
+      "en": "There's no life without hardships."
+    },
+    {
+      "id": "relocate",
+      "rank": 6928,
+      "en": "Tom is relocating to Boston."
+    },
+    {
+      "id": "relocate",
+      "rank": 6928,
+      "en": "We had to relocate the office because the rent was too high"
+    },
+    {
+      "id": "affiliate",
+      "rank": 6929,
+      "en": "They affiliated with a national group"
+    },
+    {
+      "id": "affiliate",
+      "rank": 6929,
+      "en": "She affiliates with her colleagues"
+    },
+    {
+      "id": "marvelous",
+      "rank": 6935,
+      "en": "She has a marvelous sense of humor."
+    },
+    {
+      "id": "marvelous",
+      "rank": 6935,
+      "en": "I had a marvelous time."
+    },
+    {
+      "id": "skepticism",
+      "rank": 6937,
+      "en": "I can understand your skepticism."
+    },
+    {
+      "id": "skepticism",
+      "rank": 6937,
+      "en": "Why all this skepticism?"
+    },
+    {
+      "id": "continuously",
+      "rank": 6940,
+      "en": "It rained continuously for three days."
+    },
+    {
+      "id": "continuously",
+      "rank": 6940,
+      "en": "It rained continuously all day."
+    },
+    {
+      "id": "immunity",
+      "rank": 6941,
+      "en": "he was granted immunity from prosecution"
+    },
+    {
+      "id": "reliance",
+      "rank": 6942,
+      "en": "he wrote the paper with considerable reliance on the work of other scientists"
+    },
+    {
+      "id": "extinction",
+      "rank": 6977,
+      "en": "Some wild animals are on the verge of extinction."
+    },
+    {
+      "id": "reluctance",
+      "rank": 6979,
+      "en": "It was with great reluctance that Tom finally agreed to the proposal."
+    },
+    {
+      "id": "reluctance",
+      "rank": 6979,
+      "en": "I don't understand his reluctance to go."
+    },
+    {
+      "id": "extensively",
+      "rank": 6985,
+      "en": "oxidation ponds are extensively used for sewage treatment in the Midwest"
+    },
+    {
+      "id": "simplicity",
+      "rank": 7007,
+      "en": "I like the simplicity of her dress."
+    },
+    {
+      "id": "simplicity",
+      "rank": 7007,
+      "en": "Simplicity is worse than robbery."
+    },
+    {
+      "id": "confidential",
+      "rank": 7010,
+      "en": "This is extremely confidential."
+    },
+    {
+      "id": "confidential",
+      "rank": 7010,
+      "en": "This information is confidential."
+    },
+    {
+      "id": "compatible",
+      "rank": 7017,
+      "en": "Tom says we're not compatible."
+    },
+    {
+      "id": "ambiguity",
+      "rank": 7034,
+      "en": "There will be no ambiguity."
+    },
+    {
+      "id": "loneliness",
+      "rank": 7051,
+      "en": "There's nothing worse than loneliness."
+    },
+    {
+      "id": "cynical",
+      "rank": 7052,
+      "en": "Please keep your cynical remarks to yourself."
+    },
+    {
+      "id": "gratitude",
+      "rank": 7058,
+      "en": "I would like to express my gratitude to her."
+    },
+    {
+      "id": "gratitude",
+      "rank": 7058,
+      "en": "This is a small token of my gratitude."
+    },
+    {
+      "id": "communism",
+      "rank": 7085,
+      "en": "Fear of communism was very strong at that time."
+    },
+    {
+      "id": "precaution",
+      "rank": 7088,
+      "en": "That seems to be a sensible precaution."
+    },
+    {
+      "id": "precaution",
+      "rank": 7088,
+      "en": "This is just a precaution."
+    },
+    {
+      "id": "infectious",
+      "rank": 7091,
+      "en": "Louis Pasteur discovered that germs cause most infectious diseases."
+    },
+    {
+      "id": "unstable",
+      "rank": 7097,
+      "en": "Antimatter is highly unstable."
+    },
+    {
+      "id": "reluctantly",
+      "rank": 7107,
+      "en": "Tom reluctantly gave Mary the money she asked for."
+    },
+    {
+      "id": "insufficient",
+      "rank": 7113,
+      "en": "This amount of money is insufficient."
+    },
+    {
+      "id": "exemption",
+      "rank": 7116,
+      "en": "additional exemptions are allowed for each dependent"
+    },
+    {
+      "id": "plausible",
+      "rank": 7125,
+      "en": "Your hypothesis is plausible."
+    },
+    {
+      "id": "plausible",
+      "rank": 7125,
+      "en": "It's a plausible story."
+    },
+    {
+      "id": "abusive",
+      "rank": 7131,
+      "en": "argued … that foster homes are abusive"
+    },
+    {
+      "id": "obesity",
+      "rank": 7166,
+      "en": "Obesity is a serious problem."
+    },
+    {
+      "id": "obesity",
+      "rank": 7166,
+      "en": "Obesity is considered by far the most serious health issue facing the developed world."
+    },
+    {
+      "id": "exacerbate",
+      "rank": 7171,
+      "en": "Don't exacerbate the problem."
+    },
+    {
+      "id": "terminate",
+      "rank": 7189,
+      "en": "The attack on Poland terminated the relatively peaceful period after WW I"
+    },
+    {
+      "id": "populate",
+      "rank": 7198,
+      "en": "Which is the most populated continent in the world?"
+    },
+    {
+      "id": "populate",
+      "rank": 7198,
+      "en": "Which continent is the most populated one?"
+    },
+    {
+      "id": "probation",
+      "rank": 7200,
+      "en": "Tom was sentenced to five days in jail and a year on probation for drunken driving."
+    },
+    {
+      "id": "disappointing",
+      "rank": 7229,
+      "en": "That movie was a bit disappointing."
+    },
+    {
+      "id": "disappointing",
+      "rank": 7229,
+      "en": "His new film is disappointing."
+    },
+    {
+      "id": "disastrous",
+      "rank": 7241,
+      "en": "This is going to have disastrous consequences."
+    },
+    {
+      "id": "disastrous",
+      "rank": 7241,
+      "en": "This could have disastrous consequences."
+    },
+    {
+      "id": "adversary",
+      "rank": 7244,
+      "en": "The USSR was the principal adversary of the US during the Cold War (1947-1991)."
+    },
+    {
+      "id": "subsidize",
+      "rank": 7246,
+      "en": "The arts in Europe are heavily subsidized"
+    },
+    {
+      "id": "renovation",
+      "rank": 7265,
+      "en": "The museum is closed for renovations."
+    },
+    {
+      "id": "renovation",
+      "rank": 7265,
+      "en": "the inn was a renovation of a Colonial house"
+    },
+    {
+      "id": "visibility",
+      "rank": 7273,
+      "en": "Fog has limited visibility to 100 meters."
+    },
+    {
+      "id": "traumatic",
+      "rank": 7301,
+      "en": "Sure, it might be traumatic, but so what?"
+    },
+    {
+      "id": "traumatic",
+      "rank": 7301,
+      "en": "Watching someone die is very traumatic."
+    },
+    {
+      "id": "renewable",
+      "rank": 7302,
+      "en": "We need to invest in clean, renewable energy."
+    },
+    {
+      "id": "renewable",
+      "rank": 7302,
+      "en": "We must develop renewable energy sources."
+    },
+    {
+      "id": "restless",
+      "rank": 7303,
+      "en": "I suffer from restless leg syndrome."
+    },
+    {
+      "id": "insistence",
+      "rank": 7306,
+      "en": "insistence on grammatical correctness is a conservative position"
+    },
+    {
+      "id": "extraordinarily",
+      "rank": 7314,
+      "en": "It was extraordinarily difficult."
+    },
+    {
+      "id": "extraordinarily",
+      "rank": 7314,
+      "en": "Tom was extraordinarily handsome."
+    },
+    {
+      "id": "friction",
+      "rank": 7336,
+      "en": "The newspaper reported friction between the two parties."
+    },
+    {
+      "id": "friction",
+      "rank": 7336,
+      "en": "Friction causes a match to light."
+    },
+    {
+      "id": "voluntarily",
+      "rank": 7341,
+      "en": "Did Tom sign that confession voluntarily?"
+    },
+    {
+      "id": "voluntarily",
+      "rank": 7341,
+      "en": "I did that voluntarily."
+    },
+    {
+      "id": "prosperous",
+      "rank": 7343,
+      "en": "This year is going to be prosperous."
+    },
+    {
+      "id": "domination",
+      "rank": 7356,
+      "en": "The German domination didn't last very long."
+    },
+    {
+      "id": "prostate",
+      "rank": 7368,
+      "en": "Men whose mothers had breast cancer run a higher risk of developing prostate cancer."
+    },
+    {
+      "id": "mediate",
+      "rank": 7370,
+      "en": "He mediated a settlement"
+    },
+    {
+      "id": "imitation",
+      "rank": 7375,
+      "en": "Tom tried to pass off an imitation as the original."
+    },
+    {
+      "id": "imitation",
+      "rank": 7375,
+      "en": "Tom tried to pass off an imitation for the original."
+    },
+    {
+      "id": "lament",
+      "rank": 7387,
+      "en": "their pitiful laments could be heard throughout the ward"
+    },
+    {
+      "id": "lament",
+      "rank": 7387,
+      "en": "we lamented the death of the child"
+    },
+    {
+      "id": "alternate",
+      "rank": 7396,
+      "en": "He proposed an alternate plan."
+    },
+    {
+      "id": "alternate",
+      "rank": 7396,
+      "en": "Tom must've had an alternate plan."
+    },
+    {
+      "id": "disbelief",
+      "rank": 7408,
+      "en": "We listened in disbelief."
+    },
+    {
+      "id": "enormously",
+      "rank": 7412,
+      "en": "I've always admired you enormously."
+    },
+    {
+      "id": "enormously",
+      "rank": 7412,
+      "en": "he was enormously popular"
+    },
+    {
+      "id": "sickness",
+      "rank": 7417,
+      "en": "She was absent from school because of sickness."
+    },
+    {
+      "id": "corresponding",
+      "rank": 7426,
+      "en": "I am corresponding with an American high school student."
+    },
+    {
+      "id": "unexpectedly",
+      "rank": 7441,
+      "en": "Tom died unexpectedly of a heart attack."
+    },
+    {
+      "id": "unexpectedly",
+      "rank": 7441,
+      "en": "I unexpectedly met an old friend of mine on the bus yesterday."
+    },
+    {
+      "id": "presently",
+      "rank": 7442,
+      "en": "he is presently our ambassador to the United Nations"
+    },
+    {
+      "id": "presently",
+      "rank": 7442,
+      "en": "she will arrive presently"
+    },
+    {
+      "id": "distributor",
+      "rank": 7443,
+      "en": "his company is a large distributor of software products"
+    },
+    {
+      "id": "cautiously",
+      "rank": 7457,
+      "en": "Tom cautiously entered the room."
+    },
+    {
+      "id": "cautiously",
+      "rank": 7457,
+      "en": "Tom cautiously opened the envelope."
+    },
+    {
+      "id": "accidental",
+      "rank": 7485,
+      "en": "Our meeting was quite accidental."
+    },
+    {
+      "id": "librarian",
+      "rank": 7502,
+      "en": "The librarian told Tom and Mary to be quiet."
+    },
+    {
+      "id": "librarian",
+      "rank": 7502,
+      "en": "I know that Tom is a librarian."
+    },
+    {
+      "id": "announcer",
+      "rank": 7512,
+      "en": "The mother of that child is an announcer."
+    },
+    {
+      "id": "announcer",
+      "rank": 7512,
+      "en": "Tom works as an announcer on television."
+    },
+    {
+      "id": "validate",
+      "rank": 7516,
+      "en": "Can you validate this parking ticket?"
+    },
+    {
+      "id": "undercover",
+      "rank": 7520,
+      "en": "I can't believe Tom was an undercover cop."
+    },
+    {
+      "id": "undercover",
+      "rank": 7520,
+      "en": "I'm an undercover cop."
+    },
+    {
+      "id": "cavity",
+      "rank": 7556,
+      "en": "Brushing your teeth will help prevent cavities."
+    },
+    {
+      "id": "cavity",
+      "rank": 7556,
+      "en": "I don't have cavities."
+    },
+    {
+      "id": "troubling",
+      "rank": 7561,
+      "en": "My arm has been troubling me ever since my accident."
+    },
+    {
+      "id": "troubling",
+      "rank": 7561,
+      "en": "Is there something troubling you?"
+    },
+    {
+      "id": "blueprint",
+      "rank": 7570,
+      "en": "Make a blueprint of your house."
+    },
+    {
+      "id": "blueprint",
+      "rank": 7570,
+      "en": "The architect drew blueprints of the house."
+    },
+    {
+      "id": "pedestrian",
+      "rank": 7573,
+      "en": "A policeman was gazing at a suspicious pedestrian."
+    },
+    {
+      "id": "pedestrian",
+      "rank": 7573,
+      "en": "Tom hit a pedestrian."
+    },
+    {
+      "id": "feasible",
+      "rank": 7591,
+      "en": "His plan seemed to be too difficult, but before long it proved to be feasible."
+    },
+    {
+      "id": "dubious",
+      "rank": 7599,
+      "en": "This made me a bit dubious, I must confess."
+    },
+    {
+      "id": "dubious",
+      "rank": 7599,
+      "en": "Tom has a dubious reputation."
+    },
+    {
+      "id": "playwright",
+      "rank": 7605,
+      "en": "Tom is a playwright."
+    },
+    {
+      "id": "binoculars",
+      "rank": 7607,
+      "en": "He watched the horse race with his binoculars."
+    },
+    {
+      "id": "binoculars",
+      "rank": 7607,
+      "en": "Do you have a pair of binoculars?"
+    },
+    {
+      "id": "harmless",
+      "rank": 7615,
+      "en": "Most snakes on this island are harmless."
+    },
+    {
+      "id": "harmless",
+      "rank": 7615,
+      "en": "I think Tom is harmless."
+    },
+    {
+      "id": "bruise",
+      "rank": 7621,
+      "en": "I have a bruise on my left leg."
+    },
+    {
+      "id": "bruise",
+      "rank": 7621,
+      "en": "Tom has a bruise on his right leg."
+    },
+    {
+      "id": "convicted",
+      "rank": 7635,
+      "en": "No one has been convicted of the crime yet."
+    },
+    {
+      "id": "convicted",
+      "rank": 7635,
+      "en": "Tom Jackson was convicted, sentenced to death, and executed."
+    },
+    {
+      "id": "packaging",
+      "rank": 7654,
+      "en": "The packaging is more expensive than the product."
+    },
+    {
+      "id": "packaging",
+      "rank": 7654,
+      "en": "his business is packaging for transport"
+    },
+    {
+      "id": "expectancy",
+      "rank": 7655,
+      "en": "Quitting smoking is one of the best things that you can do to improve overall health and extend life expectancy."
+    },
+    {
+      "id": "kidnapping",
+      "rank": 7669,
+      "en": "Tom had nothing to do with the kidnapping."
+    },
+    {
+      "id": "kidnapping",
+      "rank": 7669,
+      "en": "Tom was arrested for kidnapping."
+    },
+    {
+      "id": "inherently",
+      "rank": 7670,
+      "en": "Do you believe that people are inherently good?"
+    },
+    {
+      "id": "inherently",
+      "rank": 7670,
+      "en": "Do you believe people are inherently good?"
+    },
+    {
+      "id": "watershed",
+      "rank": 7689,
+      "en": "the agreement was a watershed in the history of both nations"
+    },
+    {
+      "id": "pronounced",
+      "rank": 7691,
+      "en": "I pronounced his name wrong on purpose to annoy him."
+    },
+    {
+      "id": "pronounced",
+      "rank": 7691,
+      "en": "Tom was pronounced dead on the scene."
+    },
+    {
+      "id": "multinational",
+      "rank": 7698,
+      "en": "My sister works as a secretary in a big multinational."
+    },
+    {
+      "id": "unsuccessful",
+      "rank": 7731,
+      "en": "The captain had the unsuccessful mutineers flogged."
+    },
+    {
+      "id": "unsuccessful",
+      "rank": 7731,
+      "en": "The therapy was unsuccessful."
+    },
+    {
+      "id": "ornament",
+      "rank": 7737,
+      "en": "Tom runs a Christmas tree ornament factory."
+    },
+    {
+      "id": "reconsider",
+      "rank": 7758,
+      "en": "I want you to reconsider your decision."
+    },
+    {
+      "id": "fingernail",
+      "rank": 7769,
+      "en": "I broke my fingernail."
+    },
+    {
+      "id": "gigantic",
+      "rank": 7783,
+      "en": "A gigantic bird came flying toward him."
+    },
+    {
+      "id": "crate",
+      "rank": 7796,
+      "en": "Tom helped Mary open the crate."
+    },
+    {
+      "id": "crate",
+      "rank": 7796,
+      "en": "Tom used a crowbar to pry open the lid of the crate."
+    },
+    {
+      "id": "ceramic",
+      "rank": 7807,
+      "en": "I have an interest in oriental ceramics."
+    },
+    {
+      "id": "violently",
+      "rank": 7809,
+      "en": "I felt my heart beating violently."
+    },
+    {
+      "id": "scattered",
+      "rank": 7811,
+      "en": "There were toys scattered all over the floor."
+    },
+    {
+      "id": "psychic",
+      "rank": 7820,
+      "en": "Do you have psychic powers?"
+    },
+    {
+      "id": "psychic",
+      "rank": 7820,
+      "en": "Tom is a psychic."
+    },
+    {
+      "id": "painfully",
+      "rank": 7828,
+      "en": "He was painfully thin."
+    },
+    {
+      "id": "painfully",
+      "rank": 7828,
+      "en": "She was painfully thin."
+    },
+    {
+      "id": "dependency",
+      "rank": 7839,
+      "en": "Isle of Man is a British Crown dependency but is not part of the UK or of the EU."
+    },
+    {
+      "id": "ideally",
+      "rank": 7858,
+      "en": "ideally, this will remove all problems"
+    },
+    {
+      "id": "chemotherapy",
+      "rank": 7861,
+      "en": "Tom lost his hair because of the chemotherapy."
+    },
+    {
+      "id": "bartender",
+      "rank": 7886,
+      "en": "The bartender told me you were a regular here."
+    },
+    {
+      "id": "bartender",
+      "rank": 7886,
+      "en": "The bartender asked Tom to pay his tab."
+    },
+    {
+      "id": "simulate",
+      "rank": 7892,
+      "en": "The pilots are trained in conditions simulating high-altitude flights"
+    },
+    {
+      "id": "incumbent",
+      "rank": 7904,
+      "en": "it is incumbent on them to pay their own debts"
+    },
+    {
+      "id": "celebrated",
+      "rank": 7905,
+      "en": "Tom and Mary just celebrated their silver anniversary."
+    },
+    {
+      "id": "perpetrator",
+      "rank": 7912,
+      "en": "The perpetrator was obviously insane."
+    },
+    {
+      "id": "perpetrator",
+      "rank": 7912,
+      "en": "The perpetrator was Canadian."
+    },
+    {
+      "id": "aviation",
+      "rank": 7923,
+      "en": "Tom works as an engineer in the aviation industry."
+    },
+    {
+      "id": "pathetic",
+      "rank": 7927,
+      "en": "I think Tom is pathetic."
+    },
+    {
+      "id": "pathetic",
+      "rank": 7927,
+      "en": "This is so pathetic."
+    },
+    {
+      "id": "struggling",
+      "rank": 7929,
+      "en": "Many people are struggling to keep a roof over their heads."
+    },
+    {
+      "id": "struggling",
+      "rank": 7929,
+      "en": "The company is struggling for survival."
+    },
+    {
+      "id": "silhouette",
+      "rank": 7932,
+      "en": "I saw the silhouette of a man."
+    },
+    {
+      "id": "durable",
+      "rank": 7949,
+      "en": "less durable rocks were gradually worn away to form valleys"
+    },
+    {
+      "id": "cardiovascular",
+      "rank": 7967,
+      "en": "Sometimes the first symptom of cardiovascular disease is death."
+    },
+    {
+      "id": "schooling",
+      "rank": 7968,
+      "en": "I have never let my schooling interfere with my education."
+    },
+    {
+      "id": "institute",
+      "rank": 7980,
+      "en": "The research institute was established in the late 1960s."
+    },
+    {
+      "id": "mutually",
+      "rank": 7987,
+      "en": "I think it's mutually beneficial."
+    },
+    {
+      "id": "mutually",
+      "rank": 7987,
+      "en": "the agreement was mutually satisfactory"
+    },
+    {
+      "id": "functioning",
+      "rank": 7989,
+      "en": "They say Tom's brain isn't functioning anymore."
+    },
+    {
+      "id": "latitude",
+      "rank": 7992,
+      "en": "allowed his children considerable latitude in how they spent their money"
+    },
+    {
+      "id": "equate",
+      "rank": 7997,
+      "en": "You cannot equate success in financial matters with greed"
+    },
+    {
+      "id": "clearing",
+      "rank": 8009,
+      "en": "Would you mind clearing up a few points for me?"
+    },
+    {
+      "id": "clearing",
+      "rank": 8009,
+      "en": "Thank you for clearing up the misunderstanding."
+    },
+    {
+      "id": "rabbi",
+      "rank": 8012,
+      "en": "You never told me you were a rabbi."
+    },
+    {
+      "id": "twisted",
+      "rank": 8013,
+      "en": "Tom twisted his ankle and it swelled up."
+    },
+    {
+      "id": "wavelength",
+      "rank": 8023,
+      "en": "Tom and Mary are on the same wavelength."
+    },
+    {
+      "id": "wavelength",
+      "rank": 8023,
+      "en": "Tom and Mary were on the same wavelength."
+    },
+    {
+      "id": "contingency",
+      "rank": 8027,
+      "en": "Do we have a contingency plan?"
+    },
+    {
+      "id": "contingency",
+      "rank": 8027,
+      "en": "Does Tom have a contingency plan?"
+    },
+    {
+      "id": "punk",
+      "rank": 8029,
+      "en": "Tom only listens to punk rock."
+    },
+    {
+      "id": "punk",
+      "rank": 8029,
+      "en": "Do you like punk rock?"
+    },
+    {
+      "id": "distinctly",
+      "rank": 8031,
+      "en": "urbanization in Spain is distinctly correlated with a fall in reproductive rate"
+    },
+    {
+      "id": "paw",
+      "rank": 8033,
+      "en": "Get your paws off of me."
+    },
+    {
+      "id": "paw",
+      "rank": 8033,
+      "en": "The cat was licking its paws."
+    },
+    {
+      "id": "whirl",
+      "rank": 8035,
+      "en": "Give it a whirl."
+    },
+    {
+      "id": "whirl",
+      "rank": 8035,
+      "en": "I'll give it a whirl."
+    },
+    {
+      "id": "flirt",
+      "rank": 8036,
+      "en": "I saw Tom flirt with my wife."
+    },
+    {
+      "id": "flirt",
+      "rank": 8036,
+      "en": "Tom was something of a flirt."
+    },
+    {
+      "id": "computerized",
+      "rank": 8037,
+      "en": "80% of the world's computerized information is in English."
+    },
+    {
+      "id": "sovereign",
+      "rank": 8038,
+      "en": "North America consists of 23 sovereign states, Oceania has 14, and South America 12."
+    },
+    {
+      "id": "plow",
+      "rank": 8039,
+      "en": "You need a heavier plow than this."
+    },
+    {
+      "id": "plow",
+      "rank": 8039,
+      "en": "Tom plowed the whole field in three hours."
+    },
+    {
+      "id": "flutter",
+      "rank": 8041,
+      "en": "The red and white flag fluttered in the wind."
+    },
+    {
+      "id": "flutter",
+      "rank": 8041,
+      "en": "The flags were fluttering in the wind."
+    },
+    {
+      "id": "flicker",
+      "rank": 8044,
+      "en": "The picture on this TV is no good. It keeps flickering."
+    },
+    {
+      "id": "cooler",
+      "rank": 8045,
+      "en": "Tom is a lot cooler than you are."
+    },
+    {
+      "id": "cooler",
+      "rank": 8045,
+      "en": "I hope tomorrow will be cooler than today."
+    },
+    {
+      "id": "brag",
+      "rank": 8048,
+      "en": "I don't mean to brag, but it's true."
+    },
+    {
+      "id": "plank",
+      "rank": 8053,
+      "en": "The plank froze to the ground."
+    },
+    {
+      "id": "plank",
+      "rank": 8053,
+      "en": "He planked the money on the table"
+    },
+    {
+      "id": "blaze",
+      "rank": 8056,
+      "en": "The firemen quickly extinguished the blaze."
+    },
+    {
+      "id": "blaze",
+      "rank": 8056,
+      "en": "It was a blazing hot day in August."
+    },
+    {
+      "id": "narrowly",
+      "rank": 8064,
+      "en": "I narrowly escaped being hit by a car."
+    },
+    {
+      "id": "conversely",
+      "rank": 8066,
+      "en": "conversely, not all women are mothers"
+    },
+    {
+      "id": "disciple",
+      "rank": 8067,
+      "en": "One of Jesus' disciples was named Paul."
+    },
+    {
+      "id": "angrily",
+      "rank": 8069,
+      "en": "He angrily tore up the letter from her."
+    },
+    {
+      "id": "angrily",
+      "rank": 8069,
+      "en": "Tom angrily walked out of the room."
+    },
+    {
+      "id": "lousy",
+      "rank": 8071,
+      "en": "My uncle is a lousy driver."
+    },
+    {
+      "id": "lousy",
+      "rank": 8071,
+      "en": "Tom is a lousy kisser."
+    },
+    {
+      "id": "monastery",
+      "rank": 8072,
+      "en": "This is an ancient monastery."
+    },
+    {
+      "id": "monastery",
+      "rank": 8072,
+      "en": "Ladies and gentlemen, please stand for the national anthem of the Russian Federation performed by the Sretensky Monastery Choir."
+    },
+    {
+      "id": "sniper",
+      "rank": 8073,
+      "en": "The sniper picked off his victims one by one."
+    },
+    {
+      "id": "sniper",
+      "rank": 8073,
+      "en": "The sniper is driving a white van."
+    },
+    {
+      "id": "headlight",
+      "rank": 8074,
+      "en": "Tom pointed to the broken headlight."
+    },
+    {
+      "id": "headlight",
+      "rank": 8074,
+      "en": "The headlight doesn't work."
+    },
+    {
+      "id": "backlash",
+      "rank": 8075,
+      "en": "there was a backlash of intolerance"
+    },
+    {
+      "id": "vet",
+      "rank": 8077,
+      "en": "My vet recommended putting my dog to sleep."
+    },
+    {
+      "id": "vet",
+      "rank": 8077,
+      "en": "Mary wants to become a vet because she loves animals."
+    },
+    {
+      "id": "intern",
+      "rank": 8079,
+      "en": "Tom works as an intern."
+    },
+    {
+      "id": "apron",
+      "rank": 8084,
+      "en": "Mary dried her hands on her apron."
+    },
+    {
+      "id": "coyote",
+      "rank": 8087,
+      "en": "Tom saw a coyote."
+    },
+    {
+      "id": "uneven",
+      "rank": 8088,
+      "en": "The ground was very uneven."
+    },
+    {
+      "id": "uneven",
+      "rank": 8088,
+      "en": "The floor is uneven."
+    },
+    {
+      "id": "waterfall",
+      "rank": 8091,
+      "en": "Many tourists come to see the waterfall."
+    },
+    {
+      "id": "litter",
+      "rank": 8093,
+      "en": "We used to use sawdust as cat litter."
+    }
+  ],
+  "matchingWordIdsAllGrades": [
+    "abortion",
+    "abusive",
+    "accessory",
+    "accidental",
+    "accomplishment",
+    "accountable",
+    "activate",
+    "activated",
+    "adaptation",
+    "addiction",
+    "additionally",
+    "adversary",
+    "affection",
+    "affiliate",
+    "affirmative",
+    "allocate",
+    "allotment",
+    "alternate",
+    "altitude",
+    "ambiguity",
+    "ammunition",
+    "amusement",
+    "angrily",
+    "ankle",
+    "announcer",
+    "antibiotic",
+    "anticipation",
+    "antimatter",
+    "appliance",
+    "appropriately",
+    "apron",
+    "arbitrarily",
+    "aspiration",
+    "assassination",
+    "assurance",
+    "authentic",
+    "aviation",
+    "awesome",
+    "backlash",
+    "bartender",
+    "binoculars",
+    "blaze",
+    "blazing",
+    "blueprint",
+    "brag",
+    "bruise",
+    "bureaucratic",
+    "calculation",
+    "cardiovascular",
+    "casually",
+    "cautiously",
+    "cavity",
+    "celebrated",
+    "cement",
+    "ceramic",
+    "ceramics",
+    "certificate",
+    "chemotherapy",
+    "circulate",
+    "circulating",
+    "circulation",
+    "citizenship",
+    "clarity",
+    "clearing",
+    "collaborate",
+    "collaboration",
+    "collision",
+    "comfortably",
+    "communism",
+    "communist",
+    "comparative",
+    "compartment",
+    "compassion",
+    "compatible",
+    "compensate",
+    "complement",
+    "completion",
+    "complication",
+    "computerize",
+    "computerized",
+    "concession",
+    "confidential",
+    "confinement",
+    "confirmation",
+    "confrontation",
+    "considerable",
+    "construe",
+    "consultation",
+    "contemplate",
+    "contention",
+    "contingency",
+    "continually",
+    "continuously",
+    "contradiction",
+    "contrary",
+    "convenience",
+    "conversely",
+    "convicted",
+    "cooler",
+    "correction",
+    "correlate",
+    "correspondence",
+    "corresponding",
+    "countless",
+    "coyote",
+    "crate",
+    "credible",
+    "critically",
+    "cultivate",
+    "cultivated",
+    "culturally",
+    "cynical",
+    "decisive",
+    "declaration",
+    "decoration",
+    "decorative",
+    "deliberate",
+    "dent",
+    "dependency",
+    "deprive",
+    "deprived",
+    "designate",
+    "designated",
+    "desirable",
+    "destructive",
+    "detection",
+    "detention",
+    "devastate",
+    "devastated",
+    "devotion",
+    "dietary",
+    "disagreement",
+    "disappointing",
+    "disappointment",
+    "disastrous",
+    "disbelief",
+    "disciple",
+    "discrepancy",
+    "distinctive",
+    "distinctly",
+    "distraction",
+    "distributor",
+    "disturbance",
+    "dominance",
+    "domination",
+    "dual",
+    "dubious",
+    "durable",
+    "duration",
+    "economically",
+    "elevation",
+    "embarrassment",
+    "emotionally",
+    "empirical",
+    "endorsement",
+    "enormously",
+    "enthusiastic",
+    "environmentalist",
+    "equate",
+    "erosion",
+    "ethnicity",
+    "evolutionary",
+    "exacerbate",
+    "executed",
+    "exemption",
+    "expectancy",
+    "explosive",
+    "explosives",
+    "extensively",
+    "extinction",
+    "extinguished",
+    "extraordinarily",
+    "fabulous",
+    "fascination",
+    "feasible",
+    "federation",
+    "financially",
+    "fingernail",
+    "flicker",
+    "flickering",
+    "flirt",
+    "flog",
+    "flutter",
+    "fluttering",
+    "formally",
+    "formidable",
+    "formulate",
+    "forthcoming",
+    "friction",
+    "functioning",
+    "fundamentally",
+    "furious",
+    "garment",
+    "generic",
+    "geography",
+    "germ",
+    "gigantic",
+    "ginger",
+    "glorious",
+    "gorgeous",
+    "governance",
+    "graphic",
+    "gratitude",
+    "hardship",
+    "harmless",
+    "hazardous",
+    "headlight",
+    "helpless",
+    "heroic",
+    "hospitalize",
+    "hospitalized",
+    "hostility",
+    "ideally",
+    "imitation",
+    "immunity",
+    "impair",
+    "impaired",
+    "inadequate",
+    "incidence",
+    "inclusion",
+    "incumbent",
+    "indictment",
+    "individually",
+    "inexpensive",
+    "infectious",
+    "inherently",
+    "injection",
+    "insistence",
+    "institute",
+    "insufficient",
+    "intensify",
+    "intensive",
+    "interestingly",
+    "interference",
+    "intern",
+    "ironic",
+    "isle",
+    "ivory",
+    "jurisdiction",
+    "justification",
+    "kidnapping",
+    "lament",
+    "latitude",
+    "liberation",
+    "librarian",
+    "litter",
+    "locally",
+    "loneliness",
+    "lousy",
+    "lucrative",
+    "lush",
+    "madness",
+    "magical",
+    "mandatory",
+    "manipulation",
+    "marvelous",
+    "mathematical",
+    "maturity",
+    "maximize",
+    "measurement",
+    "mediate",
+    "meditation",
+    "memorable",
+    "metabolism",
+    "migrate",
+    "millionaire",
+    "minimize",
+    "minimized",
+    "miserable",
+    "modification",
+    "moist",
+    "monastery",
+    "morally",
+    "multinational",
+    "mutineer",
+    "mutually",
+    "narrowly",
+    "nationalism",
+    "navigate",
+    "notify",
+    "notorious",
+    "novelist",
+    "nutrition",
+    "oar",
+    "obesity",
+    "obsession",
+    "occurrence",
+    "olive",
+    "optical",
+    "optimism",
+    "oriental",
+    "originate",
+    "ornament",
+    "outrageous",
+    "overwhelmingly",
+    "packaging",
+    "painfully",
+    "parliament",
+    "passionate",
+    "passive",
+    "pathetic",
+    "pavement",
+    "paw",
+    "pedestrian",
+    "penetrate",
+    "perfection",
+    "perpetrator",
+    "pervasive",
+    "petition",
+    "philosophical",
+    "photographic",
+    "physicist",
+    "plank",
+    "plantation",
+    "plausible",
+    "playwright",
+    "plow",
+    "plowed",
+    "poetic",
+    "poise",
+    "populate",
+    "populated",
+    "portable",
+    "precaution",
+    "precision",
+    "predictable",
+    "presently",
+    "preservation",
+    "primitive",
+    "probability",
+    "probable",
+    "probation",
+    "problematic",
+    "profitable",
+    "pronounced",
+    "proposition",
+    "prospective",
+    "prosperity",
+    "prosperous",
+    "prostate",
+    "psychiatric",
+    "psychiatrist",
+    "psychic",
+    "punk",
+    "qualification",
+    "questionable",
+    "rabbi",
+    "radiation",
+    "radically",
+    "rape",
+    "realization",
+    "reconsider",
+    "recreation",
+    "recur",
+    "refute",
+    "rejection",
+    "relevance",
+    "reliance",
+    "relocate",
+    "reluctance",
+    "reluctantly",
+    "renewable",
+    "renovation",
+    "repetition",
+    "replicate",
+    "reproduction",
+    "reproductive",
+    "resignation",
+    "respective",
+    "responsive",
+    "restless",
+    "restoration",
+    "revision",
+    "roommate",
+    "rotate",
+    "salvation",
+    "sanctuary",
+    "sawdust",
+    "scattered",
+    "schooling",
+    "selective",
+    "sickness",
+    "signify",
+    "silhouette",
+    "simplicity",
+    "simulate",
+    "simulation",
+    "skeptical",
+    "skepticism",
+    "sniper",
+    "socialist",
+    "solitary",
+    "sovereign",
+    "stabilize",
+    "stagnate",
+    "static",
+    "statistically",
+    "stopgap",
+    "straightforward",
+    "struggling",
+    "subsidize",
+    "substantially",
+    "succession",
+    "supervision",
+    "surveillance",
+    "symbolize",
+    "sympathetic",
+    "sympathize",
+    "syndrome",
+    "synthetic",
+    "systematic",
+    "tab",
+    "technically",
+    "tectonic",
+    "tempered",
+    "terminate",
+    "terrified",
+    "terrify",
+    "territorial",
+    "terrorism",
+    "token",
+    "traumatic",
+    "trophy",
+    "troubling",
+    "tuition",
+    "twisted",
+    "unacceptable",
+    "unbelievable",
+    "undercover",
+    "uneven",
+    "unexpectedly",
+    "unfortunate",
+    "unstable",
+    "unsuccessful",
+    "unusually",
+    "useless",
+    "validate",
+    "vegetation",
+    "velocity",
+    "vet",
+    "vicious",
+    "vigorous",
+    "violently",
+    "visibility",
+    "visually",
+    "vocabulary",
+    "voluntarily",
+    "wary",
+    "waterfall",
+    "watershed",
+    "wavelength",
+    "whirl",
+    "willingness",
+    "wireless",
+    "worship"
+  ],
+  "matchingGrade6WordIds": [
+    "abortion",
+    "abusive",
+    "accessory",
+    "accidental",
+    "accomplishment",
+    "accountable",
+    "activate",
+    "adaptation",
+    "addiction",
+    "additionally",
+    "adversary",
+    "affection",
+    "affiliate",
+    "affirmative",
+    "allocate",
+    "alternate",
+    "altitude",
+    "ambiguity",
+    "ammunition",
+    "amusement",
+    "angrily",
+    "announcer",
+    "antibiotic",
+    "anticipation",
+    "appliance",
+    "appropriately",
+    "apron",
+    "aspiration",
+    "assassination",
+    "assurance",
+    "authentic",
+    "aviation",
+    "awesome",
+    "backlash",
+    "bartender",
+    "binoculars",
+    "blaze",
+    "blueprint",
+    "brag",
+    "bruise",
+    "bureaucratic",
+    "calculation",
+    "cardiovascular",
+    "casually",
+    "cautiously",
+    "cavity",
+    "celebrated",
+    "cement",
+    "ceramic",
+    "ceramics",
+    "certificate",
+    "chemotherapy",
+    "circulate",
+    "circulation",
+    "citizenship",
+    "clarity",
+    "clearing",
+    "collaborate",
+    "collaboration",
+    "collision",
+    "comfortably",
+    "communism",
+    "communist",
+    "comparative",
+    "compartment",
+    "compassion",
+    "compatible",
+    "compensate",
+    "complement",
+    "completion",
+    "complication",
+    "computerized",
+    "concession",
+    "confidential",
+    "confirmation",
+    "confrontation",
+    "construe",
+    "consultation",
+    "contemplate",
+    "contention",
+    "contingency",
+    "continually",
+    "continuously",
+    "contradiction",
+    "contrary",
+    "convenience",
+    "conversely",
+    "convicted",
+    "cooler",
+    "correction",
+    "correlate",
+    "correspondence",
+    "corresponding",
+    "countless",
+    "coyote",
+    "crate",
+    "credible",
+    "critically",
+    "cultivate",
+    "culturally",
+    "cynical",
+    "decisive",
+    "declaration",
+    "decoration",
+    "decorative",
+    "deliberate",
+    "dent",
+    "dependency",
+    "deprive",
+    "designate",
+    "desirable",
+    "destructive",
+    "detection",
+    "detention",
+    "devastate",
+    "devotion",
+    "dietary",
+    "disagreement",
+    "disappointing",
+    "disappointment",
+    "disastrous",
+    "disbelief",
+    "disciple",
+    "discrepancy",
+    "distinctive",
+    "distinctly",
+    "distraction",
+    "distributor",
+    "disturbance",
+    "dominance",
+    "domination",
+    "dubious",
+    "durable",
+    "duration",
+    "economically",
+    "elevation",
+    "embarrassment",
+    "emotionally",
+    "empirical",
+    "endorsement",
+    "enormously",
+    "enthusiastic",
+    "environmentalist",
+    "equate",
+    "erosion",
+    "ethnicity",
+    "evolutionary",
+    "exacerbate",
+    "exemption",
+    "expectancy",
+    "explosive",
+    "extensively",
+    "extinction",
+    "extraordinarily",
+    "fabulous",
+    "fascination",
+    "feasible",
+    "financially",
+    "fingernail",
+    "flicker",
+    "flirt",
+    "flutter",
+    "formally",
+    "formidable",
+    "formulate",
+    "forthcoming",
+    "friction",
+    "functioning",
+    "fundamentally",
+    "furious",
+    "garment",
+    "generic",
+    "geography",
+    "germ",
+    "gigantic",
+    "glorious",
+    "gorgeous",
+    "governance",
+    "graphic",
+    "gratitude",
+    "hardship",
+    "harmless",
+    "hazardous",
+    "headlight",
+    "helpless",
+    "heroic",
+    "hostility",
+    "ideally",
+    "imitation",
+    "immunity",
+    "impaired",
+    "inadequate",
+    "incidence",
+    "inclusion",
+    "incumbent",
+    "indictment",
+    "individually",
+    "inexpensive",
+    "infectious",
+    "inherently",
+    "injection",
+    "insistence",
+    "institute",
+    "insufficient",
+    "intensify",
+    "intensive",
+    "interestingly",
+    "interference",
+    "intern",
+    "ironic",
+    "ivory",
+    "jurisdiction",
+    "justification",
+    "kidnapping",
+    "lament",
+    "latitude",
+    "liberation",
+    "librarian",
+    "litter",
+    "locally",
+    "loneliness",
+    "lousy",
+    "lucrative",
+    "madness",
+    "magical",
+    "mandatory",
+    "manipulation",
+    "marvelous",
+    "mathematical",
+    "maturity",
+    "maximize",
+    "mediate",
+    "meditation",
+    "memorable",
+    "migrate",
+    "millionaire",
+    "miserable",
+    "modification",
+    "moist",
+    "monastery",
+    "morally",
+    "multinational",
+    "mutually",
+    "narrowly",
+    "nationalism",
+    "navigate",
+    "notify",
+    "notorious",
+    "novelist",
+    "nutrition",
+    "obesity",
+    "obsession",
+    "occurrence",
+    "olive",
+    "optical",
+    "optimism",
+    "oriental",
+    "originate",
+    "ornament",
+    "outrageous",
+    "overwhelmingly",
+    "packaging",
+    "painfully",
+    "parliament",
+    "passionate",
+    "passive",
+    "pathetic",
+    "pavement",
+    "paw",
+    "pedestrian",
+    "penetrate",
+    "perfection",
+    "perpetrator",
+    "pervasive",
+    "petition",
+    "philosophical",
+    "photographic",
+    "physicist",
+    "plank",
+    "plantation",
+    "plausible",
+    "playwright",
+    "plow",
+    "poetic",
+    "poise",
+    "populate",
+    "portable",
+    "precaution",
+    "precision",
+    "predictable",
+    "presently",
+    "preservation",
+    "primitive",
+    "probability",
+    "probable",
+    "probation",
+    "problematic",
+    "profitable",
+    "pronounced",
+    "proposition",
+    "prospective",
+    "prosperity",
+    "prosperous",
+    "prostate",
+    "psychiatric",
+    "psychiatrist",
+    "psychic",
+    "punk",
+    "qualification",
+    "questionable",
+    "rabbi",
+    "radiation",
+    "radically",
+    "rape",
+    "realization",
+    "reconsider",
+    "recreation",
+    "refute",
+    "rejection",
+    "relevance",
+    "reliance",
+    "relocate",
+    "reluctance",
+    "reluctantly",
+    "renewable",
+    "renovation",
+    "repetition",
+    "replicate",
+    "reproduction",
+    "reproductive",
+    "resignation",
+    "respective",
+    "responsive",
+    "restless",
+    "restoration",
+    "revision",
+    "roommate",
+    "rotate",
+    "salvation",
+    "sanctuary",
+    "scattered",
+    "schooling",
+    "selective",
+    "sickness",
+    "signify",
+    "silhouette",
+    "simplicity",
+    "simulate",
+    "simulation",
+    "skeptical",
+    "skepticism",
+    "sniper",
+    "socialist",
+    "solitary",
+    "sovereign",
+    "stabilize",
+    "static",
+    "statistically",
+    "straightforward",
+    "struggling",
+    "subsidize",
+    "substantially",
+    "succession",
+    "supervision",
+    "surveillance",
+    "symbolize",
+    "sympathetic",
+    "synthetic",
+    "systematic",
+    "technically",
+    "terminate",
+    "terrified",
+    "terrify",
+    "territorial",
+    "terrorism",
+    "token",
+    "traumatic",
+    "trophy",
+    "troubling",
+    "tuition",
+    "twisted",
+    "unacceptable",
+    "unbelievable",
+    "undercover",
+    "uneven",
+    "unexpectedly",
+    "unfortunate",
+    "unstable",
+    "unsuccessful",
+    "unusually",
+    "useless",
+    "validate",
+    "vegetation",
+    "velocity",
+    "vet",
+    "vicious",
+    "vigorous",
+    "violently",
+    "visibility",
+    "visually",
+    "vocabulary",
+    "voluntarily",
+    "wary",
+    "waterfall",
+    "watershed",
+    "wavelength",
+    "whirl",
+    "wireless",
+    "worship"
+  ]
+}

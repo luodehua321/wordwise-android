@@ -1,0 +1,3994 @@
+{
+  "meta": {
+    "purpose": "v2.0.4 项目离线复核新增词头及明确修订",
+    "baselineWordCount": 28074,
+    "baselineSha256": "51d030361bb0e00e929403ee0de9322484815c0a2c0dc7ab517bacb10f3a9180",
+    "networkAccess": false,
+    "externalLexiconImported": false,
+    "newWordCount": 93,
+    "relatedMissingTargetCount": 5768,
+    "relatedMissingReferenceCount": 5911,
+    "existingCoverage": {
+      "pronunciationUk": 26272,
+      "examples": 14971,
+      "collocations": 9888,
+      "derivatives": 13908,
+      "confusables": 12520,
+      "wordForms": 16646,
+      "synonyms": 15829
+    },
+    "limitations": [
+      "遍历全部现有词条与内部人工内容，候选逐词编写；不把5,768个无独立词条的相关词一概视为漏词。",
+      "建议等级是人工暂定，不代表考试映射或标准词频。",
+      "新增美音为离线人工知识判断，原有音标源未实证覆盖；无法确信读音的候选未纳入此可执行列表。",
+      "英国音标仅按现有项目UK三表精确拼写匹配，未命中留空。",
+      "headphones/earphones/travelled/oxen/calves均为已正确覆盖词形，未补独立项；pants/glasses等则因词汇化义项未覆盖而明确单列。"
+    ],
+    "ukExactMatches": 61,
+    "wordsWithForms": 56,
+    "formItemCount": 84
+  },
+  "confirmedContentFixes": [
+    {
+      "word": "skincare",
+      "field": "related-meaning",
+      "locations": [
+        {
+          "from": "skin",
+          "field": "derivatives"
+        },
+        {
+          "from": "skinny",
+          "field": "derivatives"
+        }
+      ],
+      "before": "a. 护理皮肤的",
+      "after": "n. 皮肤护理；护肤",
+      "reason": "skincare是名词；置于products之前作名词定语不能据此标为形容词。"
+    },
+    {
+      "word": "enroll",
+      "field": "wordForms",
+      "before": [
+        {
+          "word": "enrolling",
+          "meaningZh": "现在分词"
+        },
+        {
+          "word": "enrolled",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "enrols",
+          "meaningZh": "第三人称单数"
+        }
+      ],
+      "after": [
+        {
+          "word": "enrolling",
+          "meaningZh": "现在分词"
+        },
+        {
+          "word": "enrolled",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "enrolls",
+          "meaningZh": "第三人称单数（美式拼写）"
+        },
+        {
+          "word": "enrols",
+          "meaningZh": "第三人称单数（英式变体 enrol）"
+        }
+      ],
+      "reason": "当前美式词头enroll仅列英式enrols；显式逐词修订，可同时保留两种真实拼写。"
+    },
+    {
+      "word": "earphone",
+      "field": "wordForms",
+      "target": "earphones",
+      "before": "复数 / 第三人称单数",
+      "after": "复数",
+      "reason": "当前词条仅名词耳机/听筒，不存在展示的第三人称动词义。"
+    },
+    {
+      "word": "sunscreen",
+      "field": "meaningZh",
+      "before": "n. (防晒油中的)遮光剂",
+      "after": "n. 防晒霜；防晒剂",
+      "reason": "原释义仅防晒油中的遮光剂，漏日常整件防晒用品义。"
+    },
+    {
+      "word": "pant",
+      "field": "examples",
+      "before": [
+        {
+          "en": "I want to buy a pair of pants.",
+          "zh": "我想買條褲子。",
+          "source": "Tatoeba / ManyThings.org",
+          "attribution": "CC-BY 2.0 (France) Attribution: tatoeba.org #6559104 (ren) & #6559078 (xjjAstrus)",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/6559104",
+          "translationSourceUrl": "https://tatoeba.org/en/sentences/show/6559078",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        },
+        {
+          "en": "I bought two pairs of pants.",
+          "zh": "我买了两条裤子。",
+          "source": "Tatoeba / ManyThings.org",
+          "attribution": "CC-BY 2.0 (France) Attribution: tatoeba.org #1422128 (etoile) & #817296 (fucongcong)",
+          "sourceUrl": "https://tatoeba.org/en/sentences/show/1422128",
+          "translationSourceUrl": "https://tatoeba.org/en/sentences/show/817296",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/"
+        }
+      ],
+      "after": [
+        {
+          "en": "The dog began to pant after the run.",
+          "zh": "跑步后，那只狗开始喘气。"
+        }
+      ],
+      "reason": "当前pant为喘息义，两句pants均为裤子名词，形式命中但义项错配。"
+    },
+    {
+      "word": "glass",
+      "field": "meaningZh",
+      "before": "n. 玻璃, 玻璃杯, 透镜\nvt. 装玻璃于, 反射, 反映\nvi. 成玻璃状",
+      "after": "n. 玻璃；玻璃杯；透镜；眼镜（用复数 glasses）\nvt. 装玻璃于, 反射, 反映\nvi. 成玻璃状",
+      "reason": "补充glasses词汇化眼镜义，完整保留原动词释义和词性。"
+    }
+  ],
+  "deferred": [
+    {
+      "word": "Wi-Fi",
+      "reason": "标准拼写含连字符，当前词头校验仅允许字母；不擅用不标准WiFi或wifi拼法绕过。"
+    },
+    {
+      "word": "orangutan",
+      "meaningZh": "猩猩",
+      "reason": "常用动物名确实缺失，但本轮未确信美音所有变体，未给不可靠音标。"
+    },
+    {
+      "word": "capybara",
+      "meaningZh": "水豚",
+      "reason": "当前缺失，未确信美音重音/元音细节，暂不写入候选列表。"
+    },
+    {
+      "word": "budgerigar",
+      "meaningZh": "虎皮鹦鹉",
+      "reason": "当前缺失，未确信美音，暂不写入候选列表。"
+    },
+    {
+      "word": "AI / USB / Bluetooth",
+      "reason": "缩略词/商标需要独立大小写和别名策略；不混入当前普通词头列表。"
+    }
+  ],
+  "skipped": [],
+  "version": "v13",
+  "words": [
+    {
+      "word": "laptop",
+      "partOfSpeech": "n.",
+      "meaningZh": "笔记本电脑",
+      "pronunciationUs": "/ˈlæpˌtɑp/",
+      "pronunciationUk": "/lˈæptɒp/",
+      "difficulty": 2,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "She opened her laptop to check her email.",
+          "zh": "她打开笔记本电脑查看邮件。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a laptop computer",
+          "zh": "笔记本电脑"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "laptops",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "laptop"
+    },
+    {
+      "word": "upload",
+      "partOfSpeech": "v.",
+      "meaningZh": "上传",
+      "pronunciationUs": "/ˌʌpˈloʊd/",
+      "pronunciationUk": "/ˈʌpləʊd/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Please upload the photo to your account.",
+          "zh": "请把照片上传到你的账户。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "upload a file",
+          "zh": "上传文件"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "uploaded",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "uploading",
+          "meaningZh": "现在分词"
+        },
+        {
+          "word": "uploads",
+          "meaningZh": "第三人称单数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "upload"
+    },
+    {
+      "word": "download",
+      "partOfSpeech": "v. / n.",
+      "meaningZh": "下载；下载的文件",
+      "pronunciationUs": "/ˈdaʊnˌloʊd/",
+      "pronunciationUk": "/dˈaʊnləʊd/",
+      "difficulty": 2,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "You can download the lesson and study later.",
+          "zh": "你可以下载这节课，稍后再学习。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "download a file",
+          "zh": "下载文件"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "downloaded",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "downloading",
+          "meaningZh": "现在分词"
+        },
+        {
+          "word": "downloads",
+          "meaningZh": "复数 / 第三人称单数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "download"
+    },
+    {
+      "word": "offline",
+      "partOfSpeech": "adj. / adv.",
+      "meaningZh": "离线的；未连接网络的；离线地",
+      "pronunciationUs": "/ˈɔfˌlaɪn/",
+      "pronunciationUk": "/ˈɒflaɪn/",
+      "difficulty": 2,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The app works offline during the flight.",
+          "zh": "这款应用在飞行途中离线也能使用。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "offline access",
+          "zh": "离线访问"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "offline"
+    },
+    {
+      "word": "username",
+      "partOfSpeech": "n.",
+      "meaningZh": "用户名",
+      "pronunciationUs": "/ˈjuːzɚˌneɪm/",
+      "pronunciationUk": "/jˈuːzənˌeɪm/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Choose a username that is easy to remember.",
+          "zh": "选择一个容易记住的用户名。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "enter a username",
+          "zh": "输入用户名"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "usernames",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "username"
+    },
+    {
+      "word": "login",
+      "partOfSpeech": "n.",
+      "meaningZh": "登录；登录名",
+      "pronunciationUs": "/ˈlɔɡˌɪn/",
+      "pronunciationUk": "/lˈɒɡɪn/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Keep your login details private.",
+          "zh": "请妥善保管你的登录信息。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "login details",
+          "zh": "登录信息"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "logins",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "login"
+    },
+    {
+      "word": "logout",
+      "partOfSpeech": "n.",
+      "meaningZh": "退出登录；注销登录",
+      "pronunciationUs": "/ˈlɔɡˌaʊt/",
+      "pronunciationUk": "",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The system records the time of each logout.",
+          "zh": "系统会记录每次退出登录的时间。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "automatic logout",
+          "zh": "自动退出登录"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "logouts",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "logout"
+    },
+    {
+      "word": "inbox",
+      "partOfSpeech": "n.",
+      "meaningZh": "收件箱",
+      "pronunciationUs": "/ˈɪnˌbɑks/",
+      "pronunciationUk": "",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "There are three new messages in my inbox.",
+          "zh": "我的收件箱里有三条新消息。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "an email inbox",
+          "zh": "电子邮件收件箱"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "inboxes",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "inbox"
+    },
+    {
+      "word": "hyperlink",
+      "partOfSpeech": "n.",
+      "meaningZh": "超链接",
+      "pronunciationUs": "/ˈhaɪpɚˌlɪŋk/",
+      "pronunciationUk": "/hˈaɪpəlˌɪŋk/",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Click the hyperlink to open the document.",
+          "zh": "点击超链接打开文档。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "insert a hyperlink",
+          "zh": "插入超链接"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "hyperlinks",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "hyperlink"
+    },
+    {
+      "word": "screenshot",
+      "partOfSpeech": "n.",
+      "meaningZh": "屏幕截图",
+      "pronunciationUs": "/ˈskriːnˌʃɑt/",
+      "pronunciationUk": "",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "She sent me a screenshot of the error message.",
+          "zh": "她发给我一张错误提示的截图。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "take a screenshot",
+          "zh": "截屏"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "screenshots",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "screenshot"
+    },
+    {
+      "word": "selfie",
+      "partOfSpeech": "n.",
+      "meaningZh": "自拍照",
+      "pronunciationUs": "/ˈsɛlfi/",
+      "pronunciationUk": "",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "We took a selfie beside the lake.",
+          "zh": "我们在湖边拍了一张自拍照。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "take a selfie",
+          "zh": "自拍"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "selfies",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "selfie"
+    },
+    {
+      "word": "emoji",
+      "partOfSpeech": "n.",
+      "meaningZh": "表情符号；绘文字",
+      "pronunciationUs": "/iˈmoʊdʒi/",
+      "pronunciationUk": "",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "He added a smiling emoji to the message.",
+          "zh": "他在消息末尾加了一个微笑表情符号。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a smiling emoji",
+          "zh": "微笑表情符号"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "emojis",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "emoji"
+    },
+    {
+      "word": "smartwatch",
+      "partOfSpeech": "n.",
+      "meaningZh": "智能手表",
+      "pronunciationUs": "/ˈsmɑrtˌwɑtʃ/",
+      "pronunciationUk": "",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "My smartwatch counts the steps I take each day.",
+          "zh": "我的智能手表记录我每天走的步数。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "wear a smartwatch",
+          "zh": "戴智能手表"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "smartwatches",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "smartwatch"
+    },
+    {
+      "word": "touchscreen",
+      "partOfSpeech": "n.",
+      "meaningZh": "触摸屏",
+      "pronunciationUs": "/ˈtʌtʃˌskriːn/",
+      "pronunciationUk": "/tˈʌtʃskɹiːn/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Use the touchscreen to choose your language.",
+          "zh": "使用触摸屏选择语言。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a touchscreen display",
+          "zh": "触摸显示屏"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "touchscreens",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "touchscreen"
+    },
+    {
+      "word": "ebook",
+      "partOfSpeech": "n.",
+      "meaningZh": "电子书",
+      "pronunciationUs": "/ˈiːˌbʊk/",
+      "pronunciationUk": "",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "I borrowed an ebook from the library.",
+          "zh": "我从图书馆借了一本电子书。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "read an ebook",
+          "zh": "阅读电子书"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "ebooks",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "ebook"
+    },
+    {
+      "word": "audiobook",
+      "partOfSpeech": "n.",
+      "meaningZh": "有声书",
+      "pronunciationUs": "/ˈɔdioʊˌbʊk/",
+      "pronunciationUk": "/ˈɔːdɪˌəʊbʊk/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "She listened to an audiobook on the train.",
+          "zh": "她在火车上听了一本有声书。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "listen to an audiobook",
+          "zh": "听有声书"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "audiobooks",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "audiobook"
+    },
+    {
+      "word": "webcam",
+      "partOfSpeech": "n.",
+      "meaningZh": "网络摄像头",
+      "pronunciationUs": "/ˈwɛbˌkæm/",
+      "pronunciationUk": "",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Turn on your webcam before the meeting starts.",
+          "zh": "会议开始前请打开摄像头。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a built-in webcam",
+          "zh": "内置摄像头"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "webcams",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "webcam"
+    },
+    {
+      "word": "router",
+      "partOfSpeech": "n.",
+      "meaningZh": "路由器",
+      "pronunciationUs": "/ˈraʊtɚ/",
+      "pronunciationUk": "",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The router is on a shelf near the door.",
+          "zh": "路由器放在门旁的架子上。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a wireless router",
+          "zh": "无线路由器"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "routers",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "router"
+    },
+    {
+      "word": "earbud",
+      "partOfSpeech": "n.",
+      "meaningZh": "耳塞式耳机",
+      "pronunciationUs": "/ˈɪrˌbʌd/",
+      "pronunciationUk": "",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "One earbud fell out while I was running.",
+          "zh": "我跑步时，一只耳塞式耳机掉了出来。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a wireless earbud",
+          "zh": "无线耳塞式耳机"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "earbuds",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "earbud"
+    },
+    {
+      "word": "phishing",
+      "partOfSpeech": "n.",
+      "meaningZh": "网络钓鱼；冒充可信方骗取信息的行为",
+      "pronunciationUs": "/ˈfɪʃɪŋ/",
+      "pronunciationUk": "/fˈɪʃɪŋ/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The email turned out to be a phishing attempt.",
+          "zh": "那封邮件原来是一次网络钓鱼尝试。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a phishing email",
+          "zh": "钓鱼邮件"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "phishing"
+    },
+    {
+      "word": "encryption",
+      "partOfSpeech": "n.",
+      "meaningZh": "加密",
+      "pronunciationUs": "/ɪnˈkrɪpʃən/",
+      "pronunciationUk": "/ɛnkɹˈɪpʃən/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The service uses encryption to protect messages.",
+          "zh": "这项服务使用加密来保护消息。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "data encryption",
+          "zh": "数据加密"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "encryption"
+    },
+    {
+      "word": "ransomware",
+      "partOfSpeech": "n.",
+      "meaningZh": "勒索软件",
+      "pronunciationUs": "/ˈrænsəmˌwɛr/",
+      "pronunciationUk": "",
+      "difficulty": 6,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The company restored its files after the ransomware attack.",
+          "zh": "遭受勒索软件攻击后，公司恢复了文件。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a ransomware attack",
+          "zh": "勒索软件攻击"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "ransomware"
+    },
+    {
+      "word": "cybersecurity",
+      "partOfSpeech": "n.",
+      "meaningZh": "网络安全",
+      "pronunciationUs": "/ˌsaɪbɚsɪˈkjʊrəti/",
+      "pronunciationUk": "",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The course teaches the basics of cybersecurity.",
+          "zh": "这门课程教授网络安全基础知识。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "cybersecurity training",
+          "zh": "网络安全培训"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "cybersecurity"
+    },
+    {
+      "word": "chatbot",
+      "partOfSpeech": "n.",
+      "meaningZh": "聊天机器人",
+      "pronunciationUs": "/ˈtʃætˌbɑt/",
+      "pronunciationUk": "",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "A chatbot answered my question about delivery.",
+          "zh": "聊天机器人回答了我关于配送的问题。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a customer service chatbot",
+          "zh": "客服聊天机器人"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "chatbots",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "chatbot"
+    },
+    {
+      "word": "dataset",
+      "partOfSpeech": "n.",
+      "meaningZh": "数据集",
+      "pronunciationUs": "/ˈdeɪtəˌsɛt/",
+      "pronunciationUk": "",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The researcher checked the dataset for missing values.",
+          "zh": "研究人员检查了数据集中的缺失值。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a training dataset",
+          "zh": "训练数据集"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "datasets",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "dataset"
+    },
+    {
+      "word": "webinar",
+      "partOfSpeech": "n.",
+      "meaningZh": "网络研讨会",
+      "pronunciationUs": "/ˈwɛbəˌnɑr/",
+      "pronunciationUk": "",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "I attended a webinar about teaching online.",
+          "zh": "我参加了一场关于在线教学的网络研讨会。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "attend a webinar",
+          "zh": "参加网络研讨会"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "webinars",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "webinar"
+    },
+    {
+      "word": "vlog",
+      "partOfSpeech": "n.",
+      "meaningZh": "视频博客",
+      "pronunciationUs": "/vlɑɡ/",
+      "pronunciationUk": "",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "She posted a vlog about her trip.",
+          "zh": "她发布了一篇讲述旅程的视频博客。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a travel vlog",
+          "zh": "旅行视频博客"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "vlogs",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "vlog"
+    },
+    {
+      "word": "livestream",
+      "partOfSpeech": "n. / v.",
+      "meaningZh": "网络直播；进行网络直播",
+      "pronunciationUs": "/ˈlaɪvˌstriːm/",
+      "pronunciationUk": "",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "We watched a livestream of the concert.",
+          "zh": "我们观看了音乐会的网络直播。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "watch a livestream",
+          "zh": "观看直播"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "livestreams",
+          "meaningZh": "复数 / 第三人称单数"
+        },
+        {
+          "word": "livestreamed",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "livestreaming",
+          "meaningZh": "现在分词"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "livestream"
+    },
+    {
+      "word": "hashtag",
+      "partOfSpeech": "n.",
+      "meaningZh": "话题标签；井号标签",
+      "pronunciationUs": "/ˈhæʃˌtæɡ/",
+      "pronunciationUk": "",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Use the event hashtag when you share a photo.",
+          "zh": "分享照片时请使用活动的话题标签。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a popular hashtag",
+          "zh": "热门话题标签"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "hashtags",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "hashtag"
+    },
+    {
+      "word": "influencer",
+      "partOfSpeech": "n.",
+      "meaningZh": "有影响力的人；社交媒体上的影响者",
+      "pronunciationUs": "/ˈɪnfluənsɚ/",
+      "pronunciationUk": "",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The influencer shared a video about cooking.",
+          "zh": "那位社交媒体影响者分享了一段烹饪视频。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a social media influencer",
+          "zh": "社交媒体影响者"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "influencers",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "influencer"
+    },
+    {
+      "word": "blockchain",
+      "partOfSpeech": "n.",
+      "meaningZh": "区块链",
+      "pronunciationUs": "/ˈblɑkˌtʃeɪn/",
+      "pronunciationUk": "",
+      "difficulty": 6,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The report explains how a blockchain records transactions.",
+          "zh": "报告解释了区块链如何记录交易。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "blockchain technology",
+          "zh": "区块链技术"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "blockchains",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "blockchain"
+    },
+    {
+      "word": "bitcoin",
+      "partOfSpeech": "n.",
+      "meaningZh": "比特币",
+      "pronunciationUs": "/ˈbɪtˌkɔɪn/",
+      "pronunciationUk": "",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The article discusses the history of bitcoin.",
+          "zh": "这篇文章探讨了比特币的历史。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a bitcoin transaction",
+          "zh": "比特币交易"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "bitcoins",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "bitcoin"
+    },
+    {
+      "word": "cryptocurrency",
+      "partOfSpeech": "n.",
+      "meaningZh": "加密货币",
+      "pronunciationUs": "/ˈkrɪptoʊˌkɝənsi/",
+      "pronunciationUk": "",
+      "difficulty": 6,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The museum held a talk on the history of cryptocurrency.",
+          "zh": "博物馆举办了一场关于加密货币历史的讲座。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a cryptocurrency exchange",
+          "zh": "加密货币交易平台"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "cryptocurrencies",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "cryptocurrency"
+    },
+    {
+      "word": "fintech",
+      "partOfSpeech": "n.",
+      "meaningZh": "金融科技",
+      "pronunciationUs": "/ˈfɪnˌtɛk/",
+      "pronunciationUk": "",
+      "difficulty": 6,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "She works for a fintech company.",
+          "zh": "她在一家金融科技公司工作。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a fintech company",
+          "zh": "金融科技公司"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "fintech"
+    },
+    {
+      "word": "broadband",
+      "partOfSpeech": "n. / adj.",
+      "meaningZh": "宽带；宽带的",
+      "pronunciationUs": "/ˈbrɔdˌbænd/",
+      "pronunciationUk": "/bɹˈɔːdbænd/",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The village now has reliable broadband.",
+          "zh": "这个村庄现在有了稳定的宽带网络。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "broadband access",
+          "zh": "宽带接入"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "broadband"
+    },
+    {
+      "word": "reboot",
+      "partOfSpeech": "v. / n.",
+      "meaningZh": "重新启动；重启",
+      "pronunciationUs": "/ˌriːˈbuːt/",
+      "pronunciationUk": "/ɹɪbˈuːt/",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "You may need to reboot the computer.",
+          "zh": "你可能需要重启电脑。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "reboot a computer",
+          "zh": "重启电脑"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "reboots",
+          "meaningZh": "复数 / 第三人称单数"
+        },
+        {
+          "word": "rebooted",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "rebooting",
+          "meaningZh": "现在分词"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "reboot"
+    },
+    {
+      "word": "multitask",
+      "partOfSpeech": "v.",
+      "meaningZh": "同时处理多项任务",
+      "pronunciationUs": "/ˌmʌltiˈtæsk/",
+      "pronunciationUk": "/mˈʌltɪtˌɑːsk/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "I find it difficult to multitask during a meeting.",
+          "zh": "我觉得开会时很难同时处理其他任务。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "multitask at work",
+          "zh": "在工作中同时处理多项任务"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "multitasks",
+          "meaningZh": "第三人称单数"
+        },
+        {
+          "word": "multitasked",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "multitasking",
+          "meaningZh": "现在分词"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "multitask"
+    },
+    {
+      "word": "cannot",
+      "partOfSpeech": "modal v.",
+      "meaningZh": "不能；不可以",
+      "pronunciationUs": "/ˈkænɑt/",
+      "pronunciationUk": "",
+      "difficulty": 1,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "I cannot open the door without a key.",
+          "zh": "没有钥匙，我打不开门。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "cannot afford",
+          "zh": "负担不起"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "cannot"
+    },
+    {
+      "word": "healthcare",
+      "partOfSpeech": "n.",
+      "meaningZh": "医疗保健；医疗服务",
+      "pronunciationUs": "/ˈhɛlθˌkɛr/",
+      "pronunciationUk": "/hˈɛlθkeə/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The clinic provides healthcare for local families.",
+          "zh": "这家诊所为当地家庭提供医疗服务。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "healthcare services",
+          "zh": "医疗保健服务"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "healthcare"
+    },
+    {
+      "word": "childcare",
+      "partOfSpeech": "n.",
+      "meaningZh": "儿童照护；托儿服务",
+      "pronunciationUs": "/ˈtʃaɪldˌkɛr/",
+      "pronunciationUk": "/tʃˈaɪldkeə/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The company helps employees with childcare costs.",
+          "zh": "这家公司帮助员工分担托儿费用。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "childcare services",
+          "zh": "托儿服务"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "childcare"
+    },
+    {
+      "word": "skincare",
+      "partOfSpeech": "n.",
+      "meaningZh": "皮肤护理；护肤",
+      "pronunciationUs": "/ˈskɪnˌkɛr/",
+      "pronunciationUk": "/skˈɪnkeə/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "She keeps her skincare routine simple.",
+          "zh": "她的日常护肤流程很简单。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "skincare products",
+          "zh": "护肤产品"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "skin",
+            "field": "derivatives",
+            "meaning": "a. 护理皮肤的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "skinny",
+            "field": "derivatives",
+            "meaning": "a. 护理皮肤的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "skincare"
+    },
+    {
+      "word": "haircare",
+      "partOfSpeech": "n.",
+      "meaningZh": "头发护理；护发",
+      "pronunciationUs": "/ˈhɛrˌkɛr/",
+      "pronunciationUk": "/hˈeəkeə/",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The store sells haircare products.",
+          "zh": "这家商店出售护发产品。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "haircare products",
+          "zh": "护发产品"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "haircare"
+    },
+    {
+      "word": "entrepreneurship",
+      "partOfSpeech": "n.",
+      "meaningZh": "创业；企业家精神",
+      "pronunciationUs": "/ˌɑntrəprəˈnɝʃɪp/",
+      "pronunciationUk": "/ˌɒntɹɪpɹɪnˈɜːʃɪp/",
+      "difficulty": 6,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The college offers a course in entrepreneurship.",
+          "zh": "这所学院开设创业课程。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "an entrepreneurship course",
+          "zh": "创业课程"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "entrepreneurship"
+    },
+    {
+      "word": "usability",
+      "partOfSpeech": "n.",
+      "meaningZh": "易用性；可用性",
+      "pronunciationUs": "/ˌjuːzəˈbɪləti/",
+      "pronunciationUk": "/jˌuːzəbˈɪlɪti/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "We tested the usability of the new app.",
+          "zh": "我们测试了这款新应用的易用性。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a usability test",
+          "zh": "易用性测试"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "usability"
+    },
+    {
+      "word": "employability",
+      "partOfSpeech": "n.",
+      "meaningZh": "就业能力；获得工作的能力",
+      "pronunciationUs": "/ɪmˌplɔɪəˈbɪləti/",
+      "pronunciationUk": "/ɛmplˌɔɪəbˈɪlɪti/",
+      "difficulty": 6,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The training aims to improve students' employability.",
+          "zh": "这项培训旨在提高学生的就业能力。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "improve employability",
+          "zh": "提升就业能力"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "employability"
+    },
+    {
+      "word": "mindfulness",
+      "partOfSpeech": "n.",
+      "meaningZh": "正念；对当下的觉察",
+      "pronunciationUs": "/ˈmaɪndfəlnəs/",
+      "pronunciationUk": "/mˈaɪndfəlnəs/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The class included a short mindfulness exercise.",
+          "zh": "这节课包含一项简短的正念练习。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "mindfulness practice",
+          "zh": "正念练习"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "mindful",
+            "field": "derivatives",
+            "meaning": "n. 留心, 警觉",
+            "source": "WordNet 派生关系 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "mindfulness"
+    },
+    {
+      "word": "wellbeing",
+      "partOfSpeech": "n.",
+      "meaningZh": "健康与幸福；身心安康",
+      "pronunciationUs": "/ˌwɛlˈbiːɪŋ/",
+      "pronunciationUk": "",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Regular breaks can support employees' wellbeing.",
+          "zh": "定时休息有助于员工保持身心健康。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "mental wellbeing",
+          "zh": "心理健康"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "wellbeing"
+    },
+    {
+      "word": "contactless",
+      "partOfSpeech": "adj.",
+      "meaningZh": "非接触式的；无接触的",
+      "pronunciationUs": "/ˈkɑntæktləs/",
+      "pronunciationUk": "",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The shop accepts contactless payments.",
+          "zh": "这家商店接受非接触式支付。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "contactless payment",
+          "zh": "非接触式支付"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "contactless"
+    },
+    {
+      "word": "overthink",
+      "partOfSpeech": "v.",
+      "meaningZh": "对……想得过多；过度思考",
+      "pronunciationUs": "/ˌoʊvɚˈθɪŋk/",
+      "pronunciationUk": "",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Try not to overthink every small decision.",
+          "zh": "尽量不要对每个小决定都想得过多。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "overthink a decision",
+          "zh": "对一个决定想得过多"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "overthinks",
+          "meaningZh": "第三人称单数"
+        },
+        {
+          "word": "overthought",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "overthinking",
+          "meaningZh": "现在分词"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "overthink"
+    },
+    {
+      "word": "troubleshoot",
+      "partOfSpeech": "v.",
+      "meaningZh": "排查故障；排除故障",
+      "pronunciationUs": "/ˈtrʌbəlˌʃuːt/",
+      "pronunciationUk": "/tɹˈʌbəlʃˌuːt/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The guide explains how to troubleshoot connection problems.",
+          "zh": "这份指南说明了如何排查连接问题。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "troubleshoot a problem",
+          "zh": "排查问题"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "troubleshoots",
+          "meaningZh": "第三人称单数"
+        },
+        {
+          "word": "troubleshot",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "troubleshooting",
+          "meaningZh": "现在分词"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "troubleshoot"
+    },
+    {
+      "word": "unsubscribe",
+      "partOfSpeech": "v.",
+      "meaningZh": "取消订阅",
+      "pronunciationUs": "/ˌʌnsəbˈskraɪb/",
+      "pronunciationUk": "/ʌnsəbskɹˈaɪb/",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "You can unsubscribe from these emails at any time.",
+          "zh": "你可以随时取消订阅这些邮件。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "unsubscribe from a newsletter",
+          "zh": "取消订阅电子简报"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "unsubscribes",
+          "meaningZh": "第三人称单数"
+        },
+        {
+          "word": "unsubscribed",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "unsubscribing",
+          "meaningZh": "现在分词"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "unsubscribe"
+    },
+    {
+      "word": "unfollow",
+      "partOfSpeech": "v.",
+      "meaningZh": "在社交媒体上取消关注",
+      "pronunciationUs": "/ˌʌnˈfɑloʊ/",
+      "pronunciationUk": "",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "You can unfollow an account without blocking it.",
+          "zh": "你可以取消关注一个账户，而不屏蔽它。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "unfollow an account",
+          "zh": "取消关注一个账户"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "unfollows",
+          "meaningZh": "第三人称单数"
+        },
+        {
+          "word": "unfollowed",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "unfollowing",
+          "meaningZh": "现在分词"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "unfollow"
+    },
+    {
+      "word": "unfriend",
+      "partOfSpeech": "v.",
+      "meaningZh": "在社交网络上解除好友关系",
+      "pronunciationUs": "/ʌnˈfrɛnd/",
+      "pronunciationUk": "",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "She decided to unfriend the account she did not recognize.",
+          "zh": "她决定与那个不认识的账户解除好友关系。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "unfriend someone",
+          "zh": "与某人解除网络好友关系"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "unfriends",
+          "meaningZh": "第三人称单数"
+        },
+        {
+          "word": "unfriended",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "unfriending",
+          "meaningZh": "现在分词"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "unfriend"
+    },
+    {
+      "word": "tactics",
+      "partOfSpeech": "n.",
+      "meaningZh": "战术；策略；手段",
+      "pronunciationUs": "/ˈtæktɪks/",
+      "pronunciationUk": "/tˈæktɪks/",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The coach explained the team's tactics before the match.",
+          "zh": "教练在赛前讲解了球队的战术。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "change tactics",
+          "zh": "改变策略"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "tactical",
+            "field": "derivatives",
+            "meaning": "n. 用兵学, 战术, 兵法",
+            "source": "WordNet 派生关系 · ECDICT 中文"
+          },
+          {
+            "from": "tactician",
+            "field": "derivatives",
+            "meaning": "n. 用兵学, 战术, 兵法",
+            "source": "WordNet 派生关系 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "alsoMentionedAsFormOf": [
+          "tactic"
+        ],
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "tactics"
+    },
+    {
+      "word": "grammatically",
+      "partOfSpeech": "adv.",
+      "meaningZh": "在语法上；合乎语法地",
+      "pronunciationUs": "/ɡrəˈmætɪkli/",
+      "pronunciationUk": "/ɡɹæmˈætɪkli/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The sentence is grammatically correct.",
+          "zh": "这个句子在语法上是正确的。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "grammatically correct",
+          "zh": "语法正确的"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "grammar",
+            "field": "derivatives",
+            "meaning": "adv. 符合语法规则地",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "grammatical",
+            "field": "derivatives",
+            "meaning": "词族关联 · adv. 符合语法规则地",
+            "source": "Open English WordNet 2025 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "grammatically"
+    },
+    {
+      "word": "acoustics",
+      "partOfSpeech": "n.",
+      "meaningZh": "声学；音响效果",
+      "pronunciationUs": "/əˈkuːstɪks/",
+      "pronunciationUk": "/ɐkˈuːstɪks/",
+      "difficulty": 6,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The hall has excellent acoustics.",
+          "zh": "这座大厅的音响效果很好。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "the acoustics of a room",
+          "zh": "房间的音响效果"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "acoustic",
+            "field": "derivatives",
+            "meaning": "n. 音响效果, 声学",
+            "source": "WordNet 派生关系 · ECDICT 中文"
+          },
+          {
+            "from": "acoustical",
+            "field": "derivatives",
+            "meaning": "n. 音响效果, 声学",
+            "source": "WordNet 派生关系 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "alsoMentionedAsFormOf": [
+          "acoustic"
+        ],
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "acoustics"
+    },
+    {
+      "word": "waterless",
+      "partOfSpeech": "adj.",
+      "meaningZh": "无水的；不用水的",
+      "pronunciationUs": "/ˈwɔtɚləs/",
+      "pronunciationUk": "/wˈɔːtələs/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The company developed a waterless cleaning method.",
+          "zh": "这家公司开发了一种不用水的清洁方法。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "waterless cleaning",
+          "zh": "无水清洁"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "water",
+            "field": "derivatives",
+            "meaning": "a. 无水的, 干的, 不用水的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "watery",
+            "field": "derivatives",
+            "meaning": "a. 无水的, 干的, 不用水的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "waterproof",
+            "field": "derivatives",
+            "meaning": "a. 无水的, 干的, 不用水的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "waterless"
+    },
+    {
+      "word": "friendless",
+      "partOfSpeech": "adj.",
+      "meaningZh": "没有朋友的；无依无靠的",
+      "pronunciationUs": "/ˈfrɛndləs/",
+      "pronunciationUk": "/fɹˈɛndləs/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "He felt friendless when he first moved to the city.",
+          "zh": "刚搬到这座城市时，他觉得举目无亲。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "lonely and friendless",
+          "zh": "孤独且无朋友的"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "friend",
+            "field": "derivatives",
+            "meaning": "a. 没有朋友的, 无依无靠的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "friendly",
+            "field": "derivatives",
+            "meaning": "a. 没有朋友的, 无依无靠的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "friendship",
+            "field": "derivatives",
+            "meaning": "a. 没有朋友的, 无依无靠的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "friendless"
+    },
+    {
+      "word": "windless",
+      "partOfSpeech": "adj.",
+      "meaningZh": "无风的",
+      "pronunciationUs": "/ˈwɪndləs/",
+      "pronunciationUk": "/wˈɪndləs/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "We had a quiet picnic on a windless afternoon.",
+          "zh": "我们在一个无风的下午安静地野餐。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a windless day",
+          "zh": "无风的一天"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "wind",
+            "field": "derivatives",
+            "meaning": "a. 无风的, 平静的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "windy",
+            "field": "derivatives",
+            "meaning": "a. 无风的, 平静的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "windless"
+    },
+    {
+      "word": "sunless",
+      "partOfSpeech": "adj.",
+      "meaningZh": "不见阳光的；阴暗的",
+      "pronunciationUs": "/ˈsʌnləs/",
+      "pronunciationUk": "/sˈʌnləs/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The plants struggled to grow in the sunless courtyard.",
+          "zh": "这些植物在不见阳光的院子里难以生长。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a sunless room",
+          "zh": "不见阳光的房间"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "sun",
+            "field": "derivatives",
+            "meaning": "a. 阳光照射不到的, 阴暗的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "sunny",
+            "field": "derivatives",
+            "meaning": "a. 阳光照射不到的, 阴暗的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          },
+          {
+            "from": "sunshine",
+            "field": "derivatives",
+            "meaning": "a. 阳光照射不到的, 阴暗的",
+            "source": "项目人工词族整理 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "sunless"
+    },
+    {
+      "word": "yoghurt",
+      "partOfSpeech": "n.",
+      "meaningZh": "酸奶（yogurt 的另一种拼写）",
+      "pronunciationUs": "/ˈjoʊɡɝt/",
+      "pronunciationUk": "/jˈɒɡət/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "She had yoghurt and fruit for breakfast.",
+          "zh": "她早餐吃了酸奶和水果。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "plain yoghurt",
+          "zh": "原味酸奶"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "reviewed-spelling-variant",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "internalEquivalent": "yogurt",
+        "ipaEvidence": "与内部已存在词明确为同一词的拼写变体，复用其已有美音；未用于英国音标。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "yoghurt"
+    },
+    {
+      "word": "nappy",
+      "partOfSpeech": "n.",
+      "meaningZh": "尿布（主要用于英式英语）",
+      "pronunciationUs": "/ˈnæpi/",
+      "pronunciationUk": "/nˈæpi/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The baby needs a clean nappy.",
+          "zh": "宝宝需要换一片干净的尿布。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "change a nappy",
+          "zh": "换尿布"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "nappies",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "internal-related-reference",
+        "relatedReferences": [
+          {
+            "from": "nap",
+            "field": "derivatives",
+            "meaning": "n. 尿布, 菜盆\na. 起毛的, 多毛的, 酒精含量高的",
+            "source": "WordNet 派生关系 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "nappy"
+    },
+    {
+      "word": "pram",
+      "partOfSpeech": "n.",
+      "meaningZh": "婴儿车（主要用于英式英语）",
+      "pronunciationUs": "/præm/",
+      "pronunciationUk": "",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "She pushed the pram along the path.",
+          "zh": "她沿着小路推着婴儿车。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "push a pram",
+          "zh": "推婴儿车"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "prams",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "pram"
+    },
+    {
+      "word": "courgette",
+      "partOfSpeech": "n.",
+      "meaningZh": "西葫芦（主要用于英式英语）",
+      "pronunciationUs": "/kʊrˈʒɛt/",
+      "pronunciationUk": "/kɜːdʒˈɛt/",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Slice the courgette before adding it to the pan.",
+          "zh": "把西葫芦切片后再放入锅中。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "grilled courgette",
+          "zh": "烤西葫芦"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "courgettes",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "courgette"
+    },
+    {
+      "word": "schoolbag",
+      "partOfSpeech": "n.",
+      "meaningZh": "书包",
+      "pronunciationUs": "/ˈskuːlˌbæɡ/",
+      "pronunciationUk": "/skˈuːlbæɡ/",
+      "difficulty": 2,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "He put his books into his schoolbag.",
+          "zh": "他把书放进了书包。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "pack a schoolbag",
+          "zh": "整理书包"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "schoolbags",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "schoolbag"
+    },
+    {
+      "word": "sunblock",
+      "partOfSpeech": "n.",
+      "meaningZh": "防晒霜；防晒剂",
+      "pronunciationUs": "/ˈsʌnˌblɑk/",
+      "pronunciationUk": "/sˈʌnblɒk/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "She put on sunblock before going outside.",
+          "zh": "她出门前涂了防晒霜。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "apply sunblock",
+          "zh": "涂防晒霜"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "sunblock"
+    },
+    {
+      "word": "handwash",
+      "partOfSpeech": "n.",
+      "meaningZh": "洗手液；手洗",
+      "pronunciationUs": "/ˈhændˌwɑʃ/",
+      "pronunciationUk": "",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "There is a bottle of handwash beside the sink.",
+          "zh": "洗手池旁有一瓶洗手液。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "liquid handwash",
+          "zh": "洗手液"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "handwash"
+    },
+    {
+      "word": "sanitizer",
+      "partOfSpeech": "n.",
+      "meaningZh": "消毒剂",
+      "pronunciationUs": "/ˈsænəˌtaɪzɚ/",
+      "pronunciationUk": "",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The entrance has a dispenser of hand sanitizer.",
+          "zh": "入口处有一个免洗洗手液分配器。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "hand sanitizer",
+          "zh": "免洗洗手液"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "sanitizers",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "sanitizer"
+    },
+    {
+      "word": "sanitiser",
+      "partOfSpeech": "n.",
+      "meaningZh": "消毒剂（sanitizer 的英式拼写）",
+      "pronunciationUs": "/ˈsænəˌtaɪzɚ/",
+      "pronunciationUk": "/sˈænɪtˌaɪzɐ/",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "She keeps hand sanitiser in her bag.",
+          "zh": "她在包里备着免洗洗手液。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "hand sanitiser",
+          "zh": "免洗洗手液"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "sanitisers",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "sanitiser"
+    },
+    {
+      "word": "moisturiser",
+      "partOfSpeech": "n.",
+      "meaningZh": "保湿霜；润肤品（moisturizer 的英式拼写）",
+      "pronunciationUs": "/ˈmɔɪstʃɝˌaɪzɝ/",
+      "pronunciationUk": "/mˈɔɪstʃəɹˌaɪzɐ/",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Apply moisturiser after washing your face.",
+          "zh": "洗脸后涂上保湿霜。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a facial moisturiser",
+          "zh": "面部保湿霜"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "moisturisers",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "reviewed-spelling-variant",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "internalEquivalent": "moisturizer",
+        "ipaEvidence": "与内部已存在词明确为同一词的拼写变体，复用其已有美音；未用于英国音标。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "moisturiser"
+    },
+    {
+      "word": "enrol",
+      "partOfSpeech": "v.",
+      "meaningZh": "报名；注册；登记（enroll 的英式拼写）",
+      "pronunciationUs": "/ɛnˈɹoʊɫ/, /ɪnˈɹoʊɫ/",
+      "pronunciationUk": "/ɛnɹˈəʊl/",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "You can enrol in the course online.",
+          "zh": "你可以在网上报名这门课程。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "enrol in a course",
+          "zh": "报名参加课程"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "enrols",
+          "meaningZh": "第三人称单数"
+        },
+        {
+          "word": "enrolled",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "enrolling",
+          "meaningZh": "现在分词"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "reviewed-spelling-variant",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "internalEquivalent": "enroll",
+        "ipaEvidence": "与内部已存在词明确为同一词的拼写变体，复用其已有美音；未用于英国音标。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "enrol"
+    },
+    {
+      "word": "enrolment",
+      "partOfSpeech": "n.",
+      "meaningZh": "注册；入学；登记人数（enrollment 的英式拼写）",
+      "pronunciationUs": "/ɛnˈɹoʊɫmənt/",
+      "pronunciationUk": "/ɛnɹˈəʊlmənt/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Online enrolment opens next week.",
+          "zh": "网上注册下周开始。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "student enrolment",
+          "zh": "学生注册；在校学生人数"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "enrolments",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "reviewed-spelling-variant",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "internalEquivalent": "enrollment",
+        "ipaEvidence": "与内部已存在词明确为同一词的拼写变体，复用其已有美音；未用于英国音标。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "enrolment"
+    },
+    {
+      "word": "organise",
+      "partOfSpeech": "v.",
+      "meaningZh": "组织；安排（organize 的英式拼写）",
+      "pronunciationUs": "/ˈɔɹɡəˌnaɪz/",
+      "pronunciationUk": "/ˈɔːɡɐnˌaɪz/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "We need to organise the files before the meeting.",
+          "zh": "我们需要在会前整理好文件。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "organise an event",
+          "zh": "组织活动"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "organises",
+          "meaningZh": "第三人称单数"
+        },
+        {
+          "word": "organised",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "organising",
+          "meaningZh": "现在分词"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "reviewed-spelling-variant",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "internalEquivalent": "organize",
+        "ipaEvidence": "与内部已存在词明确为同一词的拼写变体，复用其已有美音；未用于英国音标。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "organise"
+    },
+    {
+      "word": "apologise",
+      "partOfSpeech": "v.",
+      "meaningZh": "道歉（apologize 的英式拼写）",
+      "pronunciationUs": "/əˈpɑɫəˌdʒaɪz/",
+      "pronunciationUk": "/ɐpˈɒlədʒˌaɪz/",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "I would like to apologise for the delay.",
+          "zh": "我想为延误道歉。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "apologise for a mistake",
+          "zh": "为错误道歉"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "apologises",
+          "meaningZh": "第三人称单数"
+        },
+        {
+          "word": "apologised",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "apologising",
+          "meaningZh": "现在分词"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "reviewed-spelling-variant",
+        "relatedReferences": [
+          {
+            "from": "apology",
+            "field": "derivatives",
+            "meaning": "vi. 道歉（等于apologize）",
+            "source": "WordNet 派生关系 · ECDICT 中文"
+          }
+        ],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "internalEquivalent": "apologize",
+        "ipaEvidence": "与内部已存在词明确为同一词的拼写变体，复用其已有美音；未用于英国音标。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "apologise"
+    },
+    {
+      "word": "colourless",
+      "partOfSpeech": "adj.",
+      "meaningZh": "无色的；单调乏味的（colorless 的英式拼写）",
+      "pronunciationUs": "/ˈkəɫɝɫəs/",
+      "pronunciationUk": "/kˈʌlələs/",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Water is a colourless liquid.",
+          "zh": "水是一种无色液体。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a colourless liquid",
+          "zh": "无色液体"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "reviewed-spelling-variant",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "internalEquivalent": "colorless",
+        "ipaEvidence": "与内部已存在词明确为同一词的拼写变体，复用其已有美音；未用于英国音标。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "colourless"
+    },
+    {
+      "word": "colourfully",
+      "partOfSpeech": "adv.",
+      "meaningZh": "色彩鲜艳地；生动地（colorfully 的英式拼写）",
+      "pronunciationUs": "/ˈkəɫɝfɫi/",
+      "pronunciationUk": "/kˈʌləfəli/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The room was colourfully decorated.",
+          "zh": "房间装饰得色彩鲜艳。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "colourfully decorated",
+          "zh": "装饰得色彩鲜艳的"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "reviewed-spelling-variant",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "internalEquivalent": "colorfully",
+        "ipaEvidence": "与内部已存在词明确为同一词的拼写变体，复用其已有美音；未用于英国音标。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "colourfully"
+    },
+    {
+      "word": "anticlockwise",
+      "partOfSpeech": "adj. / adv.",
+      "meaningZh": "逆时针的；逆时针地（主要用于英式英语）",
+      "pronunciationUs": "/ˌæntiˈklɑkwaɪz/",
+      "pronunciationUk": "/ˌæntɪklˈɒkwaɪz/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Turn the handle anticlockwise.",
+          "zh": "逆时针转动把手。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "rotate anticlockwise",
+          "zh": "逆时针旋转"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "anticlockwise"
+    },
+    {
+      "word": "pragmatics",
+      "partOfSpeech": "n.",
+      "meaningZh": "语用学",
+      "pronunciationUs": "/præɡˈmætɪks/",
+      "pronunciationUk": "/pɹæɡmˈætɪks/",
+      "difficulty": 7,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Pragmatics studies how context affects meaning.",
+          "zh": "语用学研究语境如何影响意义。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "the study of pragmatics",
+          "zh": "语用学研究"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "pragmatics"
+    },
+    {
+      "word": "seahorse",
+      "partOfSpeech": "n.",
+      "meaningZh": "海马",
+      "pronunciationUs": "/ˈsiːˌhɔrs/",
+      "pronunciationUk": "/sˈiːhɔːs/",
+      "difficulty": 4,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "A seahorse was hiding among the plants.",
+          "zh": "一只海马藏在水草中。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a tiny seahorse",
+          "zh": "一只小海马"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "seahorses",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "seahorse"
+    },
+    {
+      "word": "meerkat",
+      "partOfSpeech": "n.",
+      "meaningZh": "狐獴",
+      "pronunciationUs": "/ˈmɪrˌkæt/",
+      "pronunciationUk": "/mˈiəkæt/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "A meerkat stood upright beside the burrow.",
+          "zh": "一只狐獴在洞穴旁直立着。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a group of meerkats",
+          "zh": "一群狐獴"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "meerkats",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "meerkat"
+    },
+    {
+      "word": "gerbil",
+      "partOfSpeech": "n.",
+      "meaningZh": "沙鼠",
+      "pronunciationUs": "/ˈdʒɝbəl/",
+      "pronunciationUk": "/dʒˈɜːbɪl/",
+      "difficulty": 5,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The gerbil carried food into its nest.",
+          "zh": "那只沙鼠把食物搬进了窝里。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a pet gerbil",
+          "zh": "宠物沙鼠"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "gerbils",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "gerbil"
+    },
+    {
+      "word": "stoat",
+      "partOfSpeech": "n.",
+      "meaningZh": "白鼬",
+      "pronunciationUs": "/stoʊt/",
+      "pronunciationUk": "/stˈəʊt/",
+      "difficulty": 6,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "A stoat ran across the path.",
+          "zh": "一只白鼬跑过了小路。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a wild stoat",
+          "zh": "野生白鼬"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "stoats",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "stoat"
+    },
+    {
+      "word": "jackdaw",
+      "partOfSpeech": "n.",
+      "meaningZh": "寒鸦",
+      "pronunciationUs": "/ˈdʒækˌdɔ/",
+      "pronunciationUk": "/dʒˈækdɔː/",
+      "difficulty": 6,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "A jackdaw landed on the old wall.",
+          "zh": "一只寒鸦落在了旧墙上。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a flock of jackdaws",
+          "zh": "一群寒鸦"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "jackdaws",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "jackdaw"
+    },
+    {
+      "word": "macaque",
+      "partOfSpeech": "n.",
+      "meaningZh": "猕猴",
+      "pronunciationUs": "/məˈkæk/",
+      "pronunciationUk": "/mˈækæk/",
+      "difficulty": 6,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "A macaque watched us from a tree.",
+          "zh": "一只猕猴在树上看着我们。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a young macaque",
+          "zh": "幼年猕猴"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "macaques",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "offline-human-common-word-review",
+        "relatedReferences": [],
+        "note": "逐项原创补充；未读取网络或外部词库；美式发音为离线语言判断，非新来源实证。",
+        "ukEvidence": "现有项目内部UK IPA三表按精确拼写匹配，不改写值。",
+        "usReview": "项目离线显式美式读音复核 v13（人工知识；非新导入来源）",
+        "formReview": "逐词显式人工枚举复核；未用后缀生成器。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0",
+      "id": "macaque"
+    },
+    {
+      "id": "pants",
+      "word": "pants",
+      "pronunciationUs": "/pænts/",
+      "pronunciationUk": "/pˈɑːnts/",
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 裤子（美式英语）；内裤（英式英语）（通常用复数）",
+      "difficulty": 2,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "These pants are too long for me.",
+          "zh": "这条裤子对我来说太长了。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a pair of pants",
+          "zh": "一条裤子"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "lexicalized-plural-or-spelling-variant",
+        "reason": "现有pant仅为喘息义；裤子义不能由pants作为pant第三单正确覆盖。",
+        "usReview": "项目离线逐词显式复核 v13",
+        "ukEvidence": "现有项目UK三表精确拼写匹配；未命中留空。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0"
+    },
+    {
+      "id": "glasses",
+      "word": "glasses",
+      "pronunciationUs": "/ˈɡlæsɪz/",
+      "pronunciationUk": "/ɡlˈɑːsɪz/",
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 眼镜（通常用复数）",
+      "difficulty": 2,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "I need my glasses to read the small print.",
+          "zh": "我需要戴上眼镜才能看清小字。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "wear glasses",
+          "zh": "戴眼镜"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "lexicalized-plural-or-spelling-variant",
+        "reason": "现有glass词头只释玻璃/杯/透镜；眼镜是词汇化复数义，需要明确呈现。",
+        "usReview": "项目离线逐词显式复核 v13",
+        "ukEvidence": "现有项目UK三表精确拼写匹配；未命中留空。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0"
+    },
+    {
+      "id": "scissors",
+      "word": "scissors",
+      "pronunciationUs": "/ˈsɪzɚz/",
+      "pronunciationUk": "/sˈɪsəz/",
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 剪刀（通常用复数）",
+      "difficulty": 2,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "Use these scissors to cut the paper.",
+          "zh": "用这把剪刀剪纸。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a pair of scissors",
+          "zh": "一把剪刀"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "lexicalized-plural-or-spelling-variant",
+        "reason": "现有scissor词形把scissors只标为动词第三单；常用剪刀为复数名词。",
+        "usReview": "项目离线逐词显式复核 v13",
+        "ukEvidence": "现有项目UK三表精确拼写匹配；未命中留空。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0"
+    },
+    {
+      "id": "leggings",
+      "word": "leggings",
+      "pronunciationUs": "/ˈlɛɡɪŋz/",
+      "pronunciationUk": "/lˈɛɡɪŋz/",
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 紧身裤；贴身弹力长裤（通常用复数）",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "She wore leggings and a long sweater.",
+          "zh": "她穿着紧身裤和长毛衣。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a pair of leggings",
+          "zh": "一条紧身裤"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "lexicalized-plural-or-spelling-variant",
+        "reason": "现有legging仅释绑腿/裹腿；leggings常用服装义未正确呈现。",
+        "usReview": "项目离线逐词显式复核 v13",
+        "ukEvidence": "现有项目UK三表精确拼写匹配；未命中留空。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0"
+    },
+    {
+      "id": "pyjamas",
+      "word": "pyjamas",
+      "pronunciationUs": "/pəˈdʒæməz/, /pəˈdʒɑməz/",
+      "pronunciationUk": "/pədʒˈɑːməz/",
+      "partOfSpeech": "n.",
+      "meaningZh": "n. 睡衣（pajamas 的英式拼写，通常用复数）",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "He changed into his pyjamas before bed.",
+          "zh": "睡觉前，他换上了睡衣。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a pair of pyjamas",
+          "zh": "一套睡衣"
+        }
+      ],
+      "wordForms": [],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "lexicalized-plural-or-spelling-variant",
+        "reason": "与内部pajamas是同一词的英美拼写变体；复用现有美音。",
+        "usReview": "项目离线逐词显式复核 v13",
+        "ukEvidence": "现有项目UK三表精确拼写匹配；未命中留空。"
+      },
+      "source": "项目离线人工补词 v13 · 原创例句与搭配 · CC0"
+    },
+    {
+      "id": "kilometer",
+      "word": "kilometer",
+      "pronunciationUs": "/ˌkɪˈɫɔˌmətɝ/, /ˌkɪɫəˈmitɝ/",
+      "pronunciationUk": "/kɪlˈɒmɪtɐ/",
+      "partOfSpeech": "n.",
+      "meaningZh": "千米；公里",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "The station is one kilometer from our house.",
+          "zh": "车站离我们家一公里。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "one kilometer",
+          "zh": "一千米"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "kilometers",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "explicit-spelling-counterpart-review",
+        "internalCounterpart": "kilometre",
+        "usReview": "内置相同读音拼写变体复用；aeroplane为项目离线显式复核",
+        "ukEvidence": "仅匹配项目内部UK记录，不命中留空"
+      }
+    },
+    {
+      "id": "litre",
+      "word": "litre",
+      "pronunciationUs": "/ˈɫitɝ/",
+      "pronunciationUk": "/lˈiːtɐ/",
+      "partOfSpeech": "n.",
+      "meaningZh": "升（容量单位，英式拼写；美式为 liter）",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "This bottle holds one litre of water.",
+          "zh": "这个瓶子能装一升水。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "a litre of milk",
+          "zh": "一升牛奶"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "litres",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "explicit-spelling-counterpart-review",
+        "internalCounterpart": "liter",
+        "usReview": "内置相同读音拼写变体复用；aeroplane为项目离线显式复核",
+        "ukEvidence": "仅匹配项目内部UK记录，不命中留空"
+      }
+    },
+    {
+      "id": "analyse",
+      "word": "analyse",
+      "pronunciationUs": "/ˈænəˌɫaɪz/",
+      "pronunciationUk": "/ˈænɐlˌaɪz/",
+      "partOfSpeech": "v.",
+      "meaningZh": "分析；细察（英式拼写；美式为 analyze）",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "We need to analyse the results carefully.",
+          "zh": "我们需要仔细分析这些结果。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "analyse the data",
+          "zh": "分析数据"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "analyses",
+          "meaningZh": "第三人称单数"
+        },
+        {
+          "word": "analysed",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "analysing",
+          "meaningZh": "现在分词"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "explicit-spelling-counterpart-review",
+        "internalCounterpart": "analyze",
+        "usReview": "内置相同读音拼写变体复用；aeroplane为项目离线显式复核",
+        "ukEvidence": "仅匹配项目内部UK记录，不命中留空"
+      }
+    },
+    {
+      "id": "aeroplane",
+      "word": "aeroplane",
+      "pronunciationUs": "/ˈɛrəˌpleɪn/",
+      "pronunciationUk": "/ˈeəɹəplˌeɪn/",
+      "partOfSpeech": "n.",
+      "meaningZh": "飞机（主要用于英式英语；美式常用 airplane）",
+      "difficulty": 3,
+      "rank": 1000000,
+      "examples": [
+        {
+          "en": "We watched an aeroplane take off.",
+          "zh": "我们看着一架飞机起飞。"
+        }
+      ],
+      "collocations": [
+        {
+          "en": "an aeroplane ticket",
+          "zh": "一张飞机票"
+        }
+      ],
+      "wordForms": [
+        {
+          "word": "aeroplanes",
+          "meaningZh": "复数"
+        }
+      ],
+      "derivatives": [],
+      "confusables": [],
+      "synonyms": [],
+      "evidence": {
+        "type": "explicit-spelling-counterpart-review",
+        "internalCounterpart": "airplane",
+        "usReview": "内置相同读音拼写变体复用；aeroplane为项目离线显式复核",
+        "ukEvidence": "仅匹配项目内部UK记录，不命中留空"
+      }
+    }
+  ],
+  "patches": {
+    "replaceExamples": {
+      "pant": [
+        {
+          "en": "The dog began to pant after the run.",
+          "zh": "跑步后，那只狗开始喘气。"
+        }
+      ]
+    },
+    "removeExamples": {
+      "pant": [
+        "I want to buy a pair of pants.",
+        "I bought two pairs of pants."
+      ]
+    },
+    "meaningFixes": {
+      "glass": {
+        "meaningZh": "n. 玻璃；玻璃杯；透镜；眼镜（用复数 glasses）\nvt. 装玻璃于, 反射, 反映\nvi. 成玻璃状",
+        "partOfSpeech": "n. / vt. / vi."
+      },
+      "sunscreen": {
+        "meaningZh": "n. 防晒霜；防晒剂",
+        "partOfSpeech": "n."
+      }
+    },
+    "replaceWordForms": {
+      "enroll": [
+        {
+          "word": "enrolling",
+          "meaningZh": "现在分词"
+        },
+        {
+          "word": "enrolled",
+          "meaningZh": "过去式 / 过去分词"
+        },
+        {
+          "word": "enrolls",
+          "meaningZh": "第三人称单数（美式拼写）"
+        },
+        {
+          "word": "enrols",
+          "meaningZh": "第三人称单数（英式变体 enrol）"
+        }
+      ],
+      "earphone": [
+        {
+          "word": "earphones",
+          "meaningZh": "复数"
+        }
+      ]
+    },
+    "relationMeaningFixes": [
+      {
+        "word": "competence",
+        "field": "synonyms",
+        "other": "competency",
+        "before": "n. 足以使人过舒适生活的富裕收入, 充裕的生活条件",
+        "after": "n. 能力；胜任力；专业技能",
+        "senseEn": "the quality of being adequately or well qualified physically and intellectually",
+        "reason": "v12主释义已修复，关系词副本仍保留旧误义；当前英语义项与新义相符。"
+      },
+      {
+        "word": "leaf",
+        "field": "synonyms",
+        "other": "foliage",
+        "before": "n. 树叶, 植物",
+        "after": "n. （统称）叶子；枝叶",
+        "senseEn": "the main organ of photosynthesis and transpiration in higher plants",
+        "reason": "v12主释义已修复，关系词副本仍保留旧误义；当前英语义项与新义相符。"
+      },
+      {
+        "word": "condominium",
+        "field": "synonyms",
+        "other": "condo",
+        "before": "n. 共同统治, 共管下的政府, 共管, 多层公寓大楼, 由个人占用的一套公寓房间",
+        "after": "n. （具有独立产权的）公寓单元；公寓住宅楼",
+        "senseEn": "one of the dwelling units in a condominium",
+        "reason": "v12主释义已修复，关系词副本仍保留旧误义；当前英语义项与新义相符。"
+      },
+      {
+        "word": "title",
+        "field": "derivatives",
+        "other": "titulary",
+        "before": "同 titular：a. 享有所有权的, 名誉上的, 有名无实的, 有头衔的\nn. 只有称号的人",
+        "after": "a. 享有所有权的, 名誉上的, 有名无实的, 有头衔的\nn. 只有称号的人",
+        "reason": "该内部关系明示=别名，且被引用词已在本库；补充已有中文，不查询外部。",
+        "internalEquivalent": "titular"
+      },
+      {
+        "word": "demography",
+        "field": "derivatives",
+        "other": "demographist",
+        "before": "同 demographer：n. 人口统计学家",
+        "after": "n. 人口统计学家",
+        "reason": "该内部关系明示=别名，且被引用词已在本库；补充已有中文，不查询外部。",
+        "internalEquivalent": "demographer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "version": "v16-semantic-examples",
+  "license": "CC0 1.0 for original English, authored Chinese translations and revisions; original removed examples retained in audit",
+  "words": {
+    "bob": {
+      "replaceByEnglish": {
+        "What's your favorite Bob Dylan song?": {
+          "en": "I watched the small boat bob on the water.",
+          "zh": "我看着小船在水面上轻轻起伏。",
+          "reason": "原例句中的 Bob 是人名，未体现 bob 的动作或名词义。"
+        }
+      },
+      "exampleTranslations": {
+        "he gave me a short bob of acknowledgement": "他向我微微点了点头，表示回应。"
+      }
+    },
+    "john": {
+      "replaceExamples": [
+        {
+          "en": "The cafe has a john at the back.",
+          "zh": "那家咖啡馆的后面有一间厕所。"
+        },
+        {
+          "en": "He asked the waiter where the john was.",
+          "zh": "他问服务员厕所在哪里。"
+        }
+      ],
+      "reason": "原例句中的 John 是人名，与条目收录的口语名词“厕所”等义项不符。"
+    },
+    "ivory": {
+      "replaceByEnglish": {
+        "Ivory Coast is the world's biggest cocoa producer.": {
+          "en": "The old piano had ivory keys.",
+          "zh": "那架旧钢琴装着象牙琴键。",
+          "reason": "Ivory Coast 为国家专名，不用来教授象牙或象牙色义。"
+        }
+      },
+      "exampleTranslations": {
+        "Elephants were killed for their ivory.": "人们为了获取象牙而杀害了大象。"
+      }
+    },
+    "mark": {
+      "replaceByEnglish": {
+        "The large crowd roared in approval as Mark Knopfler played the first few bars of \"Money for Nothing\".": {
+          "en": "There was a dark mark on the wall.",
+          "zh": "墙上有一道深色的痕迹。",
+          "reason": "原句中的 Mark 是人名，且已有中文译文曲解了句意。"
+        }
+      },
+      "translationRevisions": {
+        "Mark the words that you cannot understand.": "给你不懂的单词做上标记。"
+      }
+    }
+  }
+}

@@ -1,0 +1,978 @@
+{
+  "sector": {
+    "examples": [
+      {
+        "en": "The public sector employs many teachers and nurses.",
+        "zh": "公共部门雇用了许多教师和护士。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "the public sector",
+        "zh": "公共部门",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "beneath": {
+    "examples": [
+      {
+        "en": "A small stream flows beneath the bridge.",
+        "zh": "一条小溪从桥下流过。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "beneath the surface",
+        "zh": "在表面之下",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "limited": {
+    "examples": [
+      {
+        "en": "We have limited time to finish the work.",
+        "zh": "我们完成这项工作的时间有限。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "limited resources",
+        "zh": "有限的资源",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "enormous": {
+    "examples": [
+      {
+        "en": "The new library has an enormous collection of books.",
+        "zh": "新图书馆藏有大量书籍。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an enormous amount",
+        "zh": "巨大的数量",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "rural": {
+    "examples": [
+      {
+        "en": "Her grandparents live in a quiet rural village.",
+        "zh": "她的祖父母住在一个安静的乡村。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "rural areas",
+        "zh": "农村地区",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "typically": {
+    "examples": [
+      {
+        "en": "The shop typically closes at six in the evening.",
+        "zh": "这家商店通常在傍晚六点关门。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "typically used",
+        "zh": "通常使用的",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "legislation": {
+    "examples": [
+      {
+        "en": "The new legislation protects workers from discrimination.",
+        "zh": "新立法保护劳动者免受歧视。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "introduce legislation",
+        "zh": "提出立法",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "virtually": {
+    "examples": [
+      {
+        "en": "The streets were virtually empty after midnight.",
+        "zh": "午夜过后，街道上几乎空无一人。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "virtually impossible",
+        "zh": "几乎不可能",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "creative": {
+    "examples": [
+      {
+        "en": "The students found a creative solution to the problem.",
+        "zh": "学生们想出了一个有创意的解决办法。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "creative thinking",
+        "zh": "创造性思维",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "technical": {
+    "examples": [
+      {
+        "en": "Please contact our team if you need technical support.",
+        "zh": "如需技术支持，请联系我们的团队。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "technical support",
+        "zh": "技术支持",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "curriculum": {
+    "examples": [
+      {
+        "en": "The school added music to its curriculum this year.",
+        "zh": "这所学校今年在课程中增加了音乐。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "the school curriculum",
+        "zh": "学校课程",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "assistance": {
+    "examples": [
+      {
+        "en": "The volunteers offered assistance to elderly residents.",
+        "zh": "志愿者为老年居民提供了帮助。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "financial assistance",
+        "zh": "经济援助",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "priority": {
+    "examples": [
+      {
+        "en": "Improving road safety is our first priority.",
+        "zh": "改善道路安全是我们的首要任务。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a high priority",
+        "zh": "优先事项",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "dramatic": {
+    "examples": [
+      {
+        "en": "There has been a dramatic rise in energy costs.",
+        "zh": "能源成本大幅上涨。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a dramatic change",
+        "zh": "显著变化",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "gap": {
+    "examples": [
+      {
+        "en": "There is a small gap between the two doors.",
+        "zh": "两扇门之间有一道小缝。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "bridge the gap",
+        "zh": "缩小差距",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "selection": {
+    "examples": [
+      {
+        "en": "The shop offers a wide selection of fresh fruit.",
+        "zh": "这家商店供应种类丰富的新鲜水果。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a wide selection",
+        "zh": "丰富的选择",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "primarily": {
+    "examples": [
+      {
+        "en": "This course is primarily designed for beginners.",
+        "zh": "这门课程主要为初学者设计。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "primarily responsible",
+        "zh": "主要负责的",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "initiative": {
+    "examples": [
+      {
+        "en": "She took the initiative and arranged the meeting.",
+        "zh": "她主动安排了这次会议。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "take the initiative",
+        "zh": "采取主动",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "brief": {
+    "examples": [
+      {
+        "en": "He gave us a brief explanation before the tour.",
+        "zh": "参观前，他给我们作了简短说明。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a brief introduction",
+        "zh": "简短介绍",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "housing": {
+    "examples": [
+      {
+        "en": "The city needs more affordable housing for families.",
+        "zh": "这座城市需要更多家庭负担得起的住房。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "affordable housing",
+        "zh": "可负担的住房",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "regarding": {
+    "examples": [
+      {
+        "en": "I have a question regarding the delivery date.",
+        "zh": "关于交货日期，我有一个问题。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "regarding your request",
+        "zh": "关于你的请求",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "perceive": {
+    "examples": [
+      {
+        "en": "Different people may perceive the same event differently.",
+        "zh": "不同的人对同一事件可能有不同的理解。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "perceive a difference",
+        "zh": "察觉差异",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "layer": {
+    "examples": [
+      {
+        "en": "Spread a thin layer of butter on the bread.",
+        "zh": "在面包上涂一薄层黄油。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a thin layer",
+        "zh": "薄薄的一层",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "portion": {
+    "examples": [
+      {
+        "en": "She saved a portion of the soup for later.",
+        "zh": "她留了一部分汤，准备稍后喝。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a small portion",
+        "zh": "一小份",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "immediate": {
+    "examples": [
+      {
+        "en": "The injured passenger needed immediate medical attention.",
+        "zh": "受伤的乘客需要立即接受医疗救治。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "immediate action",
+        "zh": "立即行动",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "opponent": {
+    "examples": [
+      {
+        "en": "She shook hands with her opponent after the match.",
+        "zh": "比赛结束后，她与对手握了手。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a political opponent",
+        "zh": "政治对手",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "transform": {
+    "examples": [
+      {
+        "en": "The renovation will transform the old station into a museum.",
+        "zh": "这次改造将把旧车站变成一座博物馆。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "transform into",
+        "zh": "转变为",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "tension": {
+    "examples": [
+      {
+        "en": "A short break helped reduce the tension in the room.",
+        "zh": "短暂休息有助于缓解房间里紧张的气氛。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "reduce tension",
+        "zh": "缓解紧张",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "transition": {
+    "examples": [
+      {
+        "en": "The company supported staff during the transition to remote work.",
+        "zh": "公司在转向远程办公的过程中为员工提供了支持。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a smooth transition",
+        "zh": "平稳过渡",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "participation": {
+    "examples": [
+      {
+        "en": "The project encourages participation from local residents.",
+        "zh": "这个项目鼓励当地居民参与。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "active participation",
+        "zh": "积极参与",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "resistance": {
+    "examples": [
+      {
+        "en": "The proposal met strong resistance from local businesses.",
+        "zh": "这项提议遭到当地企业的强烈反对。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "resistance to change",
+        "zh": "对变革的抵触",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "manufacturer": {
+    "examples": [
+      {
+        "en": "Contact the manufacturer if the machine stops working.",
+        "zh": "如果机器停止运行，请联系制造商。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a car manufacturer",
+        "zh": "汽车制造商",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "discipline": {
+    "examples": [
+      {
+        "en": "Learning an instrument requires patience and discipline.",
+        "zh": "学习乐器需要耐心和自律。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "self discipline",
+        "zh": "自律",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "elsewhere": {
+    "examples": [
+      {
+        "en": "This shop is closed, so we must look elsewhere.",
+        "zh": "这家店关门了，因此我们得去别处找。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "look elsewhere",
+        "zh": "去别处寻找",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "volunteer": {
+    "examples": [
+      {
+        "en": "Each volunteer helps at the library once a week.",
+        "zh": "每位志愿者每周在图书馆帮忙一次。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "volunteer work",
+        "zh": "志愿工作",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "employer": {
+    "examples": [
+      {
+        "en": "Her employer allows staff to work flexible hours.",
+        "zh": "她的雇主允许员工采用弹性工作时间。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a former employer",
+        "zh": "前雇主",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "poverty": {
+    "examples": [
+      {
+        "en": "The charity helps families living in poverty.",
+        "zh": "这家慈善机构帮助生活贫困的家庭。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "reduce poverty",
+        "zh": "减轻贫困",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "evaluation": {
+    "examples": [
+      {
+        "en": "The team will publish its evaluation of the project.",
+        "zh": "团队将公布对这个项目的评估。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a careful evaluation",
+        "zh": "仔细评估",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "distribution": {
+    "examples": [
+      {
+        "en": "Heavy snow delayed the distribution of food supplies.",
+        "zh": "大雪延误了食品物资的分发。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "the distribution of resources",
+        "zh": "资源分配",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "transportation": {
+    "examples": [
+      {
+        "en": "Reliable public transportation makes the city easier to explore.",
+        "zh": "可靠的公共交通让游览这座城市更加方便。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "public transportation",
+        "zh": "公共交通",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "interpretation": {
+    "examples": [
+      {
+        "en": "Her interpretation of the poem surprised the class.",
+        "zh": "她对这首诗的解读令全班感到意外。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an alternative interpretation",
+        "zh": "另一种解读",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "dimension": {
+    "examples": [
+      {
+        "en": "The discovery added a new dimension to the debate.",
+        "zh": "这一发现为讨论增加了一个新的角度。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a new dimension",
+        "zh": "新的层面",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "personnel": {
+    "examples": [
+      {
+        "en": "Only authorized personnel may enter this room.",
+        "zh": "只有获授权的人员才能进入这个房间。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "trained personnel",
+        "zh": "受过培训的人员",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "immigration": {
+    "examples": [
+      {
+        "en": "They discussed how immigration had changed the city.",
+        "zh": "他们讨论了移民如何改变这座城市。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "immigration policy",
+        "zh": "移民政策",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "anxiety": {
+    "examples": [
+      {
+        "en": "Talking to a friend helped ease her anxiety.",
+        "zh": "与朋友交谈有助于缓解她的焦虑。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "reduce anxiety",
+        "zh": "减轻焦虑",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "consultant": {
+    "examples": [
+      {
+        "en": "The company hired a consultant to improve its website.",
+        "zh": "公司聘请了一位顾问来改进网站。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a management consultant",
+        "zh": "管理顾问",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "recipe": {
+    "examples": [
+      {
+        "en": "This recipe uses fresh tomatoes and a little olive oil.",
+        "zh": "这道食谱使用新鲜番茄和少量橄榄油。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "follow a recipe",
+        "zh": "按照食谱做菜",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "diversity": {
+    "examples": [
+      {
+        "en": "The festival celebrates the cultural diversity of the city.",
+        "zh": "这个节日颂扬这座城市的文化多样性。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "cultural diversity",
+        "zh": "文化多样性",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "negotiate": {
+    "examples": [
+      {
+        "en": "The two companies will negotiate a new agreement.",
+        "zh": "两家公司将就一份新协议进行谈判。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "negotiate an agreement",
+        "zh": "协商达成协议",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "constituency": {
+    "examples": [
+      {
+        "en": "She met voters across her constituency during the campaign.",
+        "zh": "竞选期间，她会见了选区各地的选民。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a parliamentary constituency",
+        "zh": "议会选区",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "spirituality": {
+    "examples": [
+      {
+        "en": "For her, spirituality is an important part of daily life.",
+        "zh": "对她来说，精神生活是日常生活的重要组成部分。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "personal spirituality",
+        "zh": "个人的精神生活",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "vibrant": {
+    "examples": [
+      {
+        "en": "The market is a vibrant place full of local produce.",
+        "zh": "这个市场充满活力，到处都是本地农产品。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a vibrant community",
+        "zh": "充满活力的社区",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "imminent": {
+    "examples": [
+      {
+        "en": "The dark clouds suggest that rain is imminent.",
+        "zh": "乌云表明雨马上就要来了。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "imminent danger",
+        "zh": "迫在眉睫的危险",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "disruption": {
+    "examples": [
+      {
+        "en": "The repairs caused some disruption to train services.",
+        "zh": "维修给列车服务带来了一些干扰。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "major disruption",
+        "zh": "严重干扰",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "multicultural": {
+    "examples": [
+      {
+        "en": "The school serves a multicultural community.",
+        "zh": "这所学校为一个多元文化社区提供服务。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a multicultural society",
+        "zh": "多元文化社会",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "gradual": {
+    "examples": [
+      {
+        "en": "We noticed a gradual improvement in her confidence.",
+        "zh": "我们注意到她的信心在逐渐增强。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "a gradual increase",
+        "zh": "逐渐增加",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "intermediate": {
+    "examples": [
+      {
+        "en": "This class is suitable for intermediate learners.",
+        "zh": "这门课适合中等水平的学习者。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "an intermediate level",
+        "zh": "中等水平",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "enrich": {
+    "examples": [
+      {
+        "en": "Learning another language can enrich your understanding of other cultures.",
+        "zh": "学习另一种语言可以丰富你对其他文化的理解。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "enrich your knowledge",
+        "zh": "丰富你的知识",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "inequality": {
+    "examples": [
+      {
+        "en": "The report examines inequality in access to education.",
+        "zh": "这份报告考察了受教育机会的不平等。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "income inequality",
+        "zh": "收入不平等",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "allocation": {
+    "examples": [
+      {
+        "en": "The committee reviewed the allocation of funds to local schools.",
+        "zh": "委员会审查了向当地学校分配资金的情况。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "resource allocation",
+        "zh": "资源分配",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  },
+  "mum": {
+    "examples": [
+      {
+        "en": "My mum reads a story to me before bed.",
+        "zh": "睡觉前，妈妈给我读一个故事。",
+        "source": "项目原创实用语境 · CC0 1.0"
+      }
+    ],
+    "collocations": [
+      {
+        "en": "mum and dad",
+        "zh": "妈妈和爸爸",
+        "source": "项目原创实用搭配 · CC0 1.0"
+      }
+    ]
+  }
+}

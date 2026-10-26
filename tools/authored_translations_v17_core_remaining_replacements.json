@@ -1,0 +1,92 @@
+{
+  "replacements": [
+    {
+      "wordId": "sperm",
+      "originalEnglish": "a sperm is mostly a nucleus surrounded by little other cellular material",
+      "reason": "替换过度简化的细胞结构描述。",
+      "suggestedExample": {
+        "en": "The diagram shows the head and tail of a sperm cell.",
+        "zh": "这幅示意图展示了精子细胞的头部和尾部。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）"
+      }
+    },
+    {
+      "wordId": "unified",
+      "originalEnglish": "A unified Thai kingdom was established in the mid-14th century.",
+      "reason": "用中性现代语境替换缺乏上下文的历史概括。",
+      "suggestedExample": {
+        "en": "The teams agreed on a unified plan.",
+        "zh": "各团队就一个统一的计划达成了一致。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）"
+      }
+    },
+    {
+      "wordId": "showcase",
+      "originalEnglish": "it was a showcase for democracy in Africa",
+      "reason": "旧句指代不明，改成完整展示语境。",
+      "suggestedExample": {
+        "en": "The exhibition is a showcase for local artists.",
+        "zh": "这场展览为本地艺术家提供了展示的平台。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）"
+      }
+    },
+    {
+      "wordId": "heighten",
+      "originalEnglish": "Pot smokers claim it heightens their awareness",
+      "reason": "以中性情境替换未经核实的药物效应断言。",
+      "suggestedExample": {
+        "en": "A sudden noise can heighten the tension.",
+        "zh": "突然的声响会加剧紧张气氛。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）"
+      }
+    },
+    {
+      "wordId": "digitally",
+      "originalEnglish": "the exam was carried out digitally",
+      "reason": "旧句缺少上下文，digitally可能指数字方式或手指检查。",
+      "suggestedExample": {
+        "en": "The documents were stored digitally.",
+        "zh": "这些文件以数字方式存储。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）"
+      }
+    },
+    {
+      "wordId": "pronoun",
+      "originalEnglish": "Wouldn't it be great if a gender-neutral pronoun for \"he\" or \"she\" existed in English?",
+      "reason": "原句错误地预设英语不存在不分性别的代词。",
+      "suggestedExample": {
+        "en": "They can be used as a gender-neutral pronoun.",
+        "zh": "They 可以用作不分性别的代词。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）"
+      }
+    },
+    {
+      "wordId": "laundromat",
+      "originalEnglish": "The shopping center has restaurants, a gym, a nail saloon, and a laundromat.",
+      "reason": "原句将 nail salon 错写为 nail saloon。",
+      "suggestedExample": {
+        "en": "The shopping centre has several shops and a laundromat.",
+        "zh": "这家购物中心有几家商店和一家自助洗衣店。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）"
+      }
+    },
+    {
+      "wordId": "sleepily",
+      "originalEnglish": "the two children who were snuggled sleepily in the back of the car",
+      "reason": "旧句是不完整的关系从句。",
+      "suggestedExample": {
+        "en": "The two children yawned sleepily in the back of the car.",
+        "zh": "两个孩子在汽车后座困倦地打着哈欠。",
+        "source": "项目原创语境 v17 · CC0",
+        "attribution": "项目原创（CC0）"
+      }
+    }
+  ]
+}

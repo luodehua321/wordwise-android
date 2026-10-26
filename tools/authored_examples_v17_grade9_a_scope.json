@@ -1,0 +1,4351 @@
+[
+  {
+    "id": "counterterrorism",
+    "word": "counterterrorism",
+    "pronunciationUs": "/ˈkaʊntɝˌtɛɹɝˌɪzəm/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 以恐怖反恐怖主义, 报复性恐怖主义",
+    "difficulty": 9,
+    "rank": 11955,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "",
+    "synonyms": []
+  },
+  {
+    "id": "interdependence",
+    "word": "interdependence",
+    "pronunciationUs": "/ˌɪntɝdəˈpɛndəns/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 互相依赖",
+    "difficulty": 9,
+    "rank": 12165,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "interdependent",
+        "meaningZh": "a. 相互依赖的, 相互依存的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "interdepend",
+        "meaningZh": "vi. 互相依赖",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "interdependences",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ˌɪntədɪpˈɛndəns/",
+    "synonyms": [
+      {
+        "word": "mutuality",
+        "meaningZh": "n. 相互关系, 相关",
+        "senseEn": "a reciprocal relation between interdependent entities (objects or individuals or groups)",
+        "source": "Princeton WordNet 3.0 synset 13841863-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "perpetually",
+    "word": "perpetually",
+    "pronunciationUs": "/pɝˈpɛtʃuəɫi/",
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 永恒地, 持久地",
+    "difficulty": 9,
+    "rank": 13089,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "perpetual",
+        "meaningZh": "词族关联 · a. 永久的, 不断的, 无期限的, 没完没了的, 四季开花的",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/pəpˈɛtʃuːəli/",
+    "synonyms": [
+      {
+        "word": "always",
+        "meaningZh": "adv. 总是, 始终",
+        "senseEn": "without interruption",
+        "source": "Princeton WordNet 3.0 synset 00020280-adv",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "forever",
+        "meaningZh": "adv. 永远",
+        "senseEn": "without interruption",
+        "source": "Princeton WordNet 3.0 synset 00020280-adv",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "constantly",
+        "meaningZh": "adv. 不变地, 不断地, 时常地",
+        "senseEn": "without interruption",
+        "source": "Princeton WordNet 3.0 synset 00020280-adv",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "incessantly",
+        "meaningZh": "adv. 不断地, 不停地; 接连不断; 连绵不断; 不已",
+        "senseEn": "without interruption",
+        "source": "Princeton WordNet 3.0 synset 00020280-adv",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "precondition",
+    "word": "precondition",
+    "pronunciationUs": "/ˌpɹikənˈdɪʃən/",
+    "partOfSpeech": "vt. / n.",
+    "meaningZh": "vt. 事先准备, 事先处理\nn. 先决条件, 前提",
+    "difficulty": 9,
+    "rank": 13103,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "recondition",
+        "meaningZh": "vt. 修理, 修复",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：p → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "preconditions",
+        "meaningZh": "复数 / 第三人称单数"
+      },
+      {
+        "word": "preconditioned",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "preconditioning",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "/pɹˌiːkəndˈɪʃən/",
+    "synonyms": [
+      {
+        "word": "condition",
+        "meaningZh": "n. 情况, 条件\nvt. 使健康, 以...为条件, 决定, 使适应",
+        "senseEn": "an assumption on which rests the validity or effect of something else",
+        "source": "Princeton WordNet 3.0 synset 06755568-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "given",
+        "meaningZh": "a. 赠予的, 沉溺的, 约定的\ngive的过去分词",
+        "senseEn": "an assumption that is taken for granted",
+        "source": "Princeton WordNet 3.0 synset 05893356-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "presumption",
+        "meaningZh": "n. 专横, 放肆, 假定, 推测",
+        "senseEn": "an assumption that is taken for granted",
+        "source": "Princeton WordNet 3.0 synset 05893356-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "stipulation",
+        "meaningZh": "n. 约束, 约定, 契约",
+        "senseEn": "an assumption on which rests the validity or effect of something else",
+        "source": "Princeton WordNet 3.0 synset 06755568-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "pornographic",
+    "word": "pornographic",
+    "pronunciationUs": "/ˌpɔɹnəˈɡɹæfɪk/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 淫秽作品的, 色情的",
+    "difficulty": 9,
+    "rank": 13215,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "pornography",
+        "meaningZh": "n. 色情描写, 黄色书刊, 色情画, 色情照片, 色情文学",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/pˌɔːnəɡɹˈæfɪk/",
+    "synonyms": [
+      {
+        "word": "adult",
+        "meaningZh": "n. 成人, 成虫\na. 成年的, 成熟的",
+        "senseEn": "designed to arouse lust",
+        "source": "Princeton WordNet 3.0 synset 02134397-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "retardation",
+    "word": "retardation",
+    "pronunciationUs": "/ɹitɑɹˈdeɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 迟延, 妨碍, 阻止",
+    "difficulty": 9,
+    "rank": 13291,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "mental retardation",
+        "zh": "精神发育迟缓",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "retard",
+        "meaningZh": "n. 阻止, 延迟\nvt. 妨碍, 延迟, 使减速\nvi. 减速, 延迟",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɹɪtɑːdˈeɪʃən/",
+    "synonyms": [
+      {
+        "word": "lag",
+        "meaningZh": "n. 落后, 囚犯, 迟延, 桶板, 防护套\na. 最后的\nvi. 落后, 蹒跚, 缓缓而行, 滞后\nvt. 落后于, 押往监狱, 加上外套",
+        "senseEn": "the act of slowing down or falling behind",
+        "source": "Princeton WordNet 3.0 synset 01067577-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "slowdown",
+        "meaningZh": "n. 降低速度, 减速",
+        "senseEn": "the act of slowing down or falling behind",
+        "source": "Princeton WordNet 3.0 synset 01067577-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "slowness",
+        "meaningZh": "n. 缓慢, 迟钝",
+        "senseEn": "lack of normal development of intellectual capacities",
+        "source": "Princeton WordNet 3.0 synset 05646218-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "backwardness",
+        "meaningZh": "n. (无比较级)向后, 相反, 倒, 回顾, 倒向, 落后, 进展缓慢, 迟疑, 智力差, 畏缩",
+        "senseEn": "lack of normal development of intellectual capacities",
+        "source": "Princeton WordNet 3.0 synset 05646218-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "deceleration",
+        "meaningZh": "n. 减速",
+        "senseEn": "a decrease in rate of change",
+        "source": "Princeton WordNet 3.0 synset 05061345-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "stereotypical",
+    "word": "stereotypical",
+    "pronunciationUs": "/ˌstɛɹiəˈtɪpɪkəɫ/, /ˌstɛɹioʊˈtɪpɪkəɫ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 典型的; 带有成见的",
+    "difficulty": 9,
+    "rank": 13300,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "stereotype",
+        "meaningZh": "n. 铅版, 陈规, 老套\nvt. 使用铅版, 把...印制成盲文, 套用老套, 使一成不变",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "stereotypically",
+        "meaningZh": "词族关联 · adv. 带有成见地(stereotype的副词形式)",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/stˌɛɹɪəʊtˈɪpɪkəl/",
+    "synonyms": [
+      {
+        "word": "stereotyped",
+        "meaningZh": "a. 用铅版印的, 老一套的, 套用老调的, 千篇一律的, 已成陈规的",
+        "senseEn": "lacking spontaneity or originality or individuality",
+        "source": "Princeton WordNet 3.0 synset 00607977-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "unimaginative",
+        "meaningZh": "a. 缺乏想象力的, 无趣的",
+        "senseEn": "lacking spontaneity or originality or individuality",
+        "source": "Princeton WordNet 3.0 synset 00607977-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "apprehensive",
+    "word": "apprehensive",
+    "pronunciationUs": "/ˌæpɹiˈhɛnsɪv/, /ˌæpɹɪˈhɛnsɪv/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 惴惴不安的, 敏悟的, 知晓的",
+    "difficulty": 9,
+    "rank": 13421,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "apprehend",
+        "meaningZh": "vt. 理解, 忧虑, 逮捕\nvi. 担心, 理解",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "apprehensiveness",
+        "meaningZh": "n. 领悟力；忧虑感",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "apprehensively",
+        "meaningZh": "词族关联 · adv. 担心地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ˌæpɹɪhˈɛnsɪv/",
+    "synonyms": [
+      {
+        "word": "worried",
+        "meaningZh": "a. 担心的, 闷闷不乐的",
+        "senseEn": "mentally upset over possible misfortune or danger etc",
+        "source": "Princeton WordNet 3.0 synset 00822907-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "discerning",
+        "meaningZh": "a. 有眼力的, 敏锐的, 有辨别能力的, 有洞察力的",
+        "senseEn": "quick to understand",
+        "source": "Princeton WordNet 3.0 synset 01745027-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "personalize",
+    "word": "personalize",
+    "pronunciationUs": "/ˈpɝsənəˌɫaɪz/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. (贬)使个人化, 体现, 使人格化, 在(物品)上标明姓名/标出地址/标出记号",
+    "difficulty": 9,
+    "rank": 13434,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "personalized",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "personalizing",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "personalizes",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/ˈpɜː.sə.nə.laɪz/, /ˈpɜːs.nə.laɪz/",
+    "synonyms": [
+      {
+        "word": "individualize",
+        "meaningZh": "vt. 使个体化, 使有个人特色, 使具有个性, 使适应个别需要",
+        "senseEn": "make personal or more personal",
+        "source": "Princeton WordNet 3.0 synset 00388065-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "postmodernism",
+    "word": "postmodernism",
+    "pronunciationUs": "/ˌpoʊstˈmɑdɝˌnɪzm/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 后现代主义",
+    "difficulty": 9,
+    "rank": 13522,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/pˈəʊstmədənˌɪzəm/",
+    "synonyms": []
+  },
+  {
+    "id": "epistemological",
+    "word": "epistemological",
+    "pronunciationUs": "/ɛˌpɪstəmɑˈɫɑˌdʒikəɫ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 认识论的",
+    "difficulty": 9,
+    "rank": 13542,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "epistemology",
+        "meaningZh": "n. 认识论",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɪˌpɪstəməˈlɒd͡ʒɪkl̩/",
+    "synonyms": [
+      {
+        "word": "epistemic",
+        "meaningZh": "a. 认识的",
+        "senseEn": "of or relating to epistemology",
+        "source": "Princeton WordNet 3.0 synset 02850132-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "methodically",
+    "word": "methodically",
+    "pronunciationUs": "/məˈθɑdɪkəɫi/, /məˈθɑdɪkɫi/",
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 有系统地, 有方法地",
+    "difficulty": 9,
+    "rank": 13601,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "methodical",
+        "meaningZh": "词族关联 · a. 有方法的, 有系统的",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/mɛθˈɒdɪkli/",
+    "synonyms": [
+      {
+        "word": "scientifically",
+        "meaningZh": "adv. 合乎科学地, 学问上, 系统地",
+        "senseEn": "公开词典同义关联；具体使用须结合语境"
+      },
+      {
+        "word": "systematically",
+        "meaningZh": "adv. 有系统地, 有组织地, 有条理地",
+        "senseEn": "公开词典同义关联；具体使用须结合语境"
+      }
+    ]
+  },
+  {
+    "id": "elaboration",
+    "word": "elaboration",
+    "pronunciationUs": "/ɪˌɫæbɝˈeɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 苦心经营, 精巧",
+    "difficulty": 9,
+    "rank": 13692,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "elaborate",
+        "meaningZh": "a. 精细的, 详尽的, 精心计划(或制作)的\nvt. 详细地说明, 用心地制作, 发挥\nvi. 变复杂, 作详细说明",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "elaborations",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɪlˌæbəɹˈeɪʃən/",
+    "synonyms": [
+      {
+        "word": "expansion",
+        "meaningZh": "n. 扩充, 开展, 膨胀",
+        "senseEn": "a discussion that provides additional information",
+        "source": "Princeton WordNet 3.0 synset 07172756-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "refinement",
+        "meaningZh": "n. 精致, 高尚, 精巧",
+        "senseEn": "the result of improving something",
+        "source": "Princeton WordNet 3.0 synset 07357679-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "enlargement",
+        "meaningZh": "n. 扩大, 肿大, 肥大, 增大, 放大的照片, 放大, 扩建部分, 增补物, 扩展",
+        "senseEn": "a discussion that provides additional information",
+        "source": "Princeton WordNet 3.0 synset 07172756-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "intricacy",
+        "meaningZh": "n. 纷乱, 复杂, 错综",
+        "senseEn": "marked by elaborately complex detail",
+        "source": "Princeton WordNet 3.0 synset 04766852-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "amplification",
+        "meaningZh": "n. 扩大, 放大",
+        "senseEn": "addition of extra material or illustration or clarifying detail",
+        "source": "Princeton WordNet 3.0 synset 00371487-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "pluralistic",
+    "word": "pluralistic",
+    "pronunciationUs": "/ˌpɫʊɹəˈɫɪstɪk/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 兼职的, 多元论的",
+    "difficulty": 9,
+    "rank": 13739,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "pluralism",
+        "meaningZh": "n. 多数状态, 多重性, 多元论, 兼任",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/plˌɔːɹəlˈɪstɪk/",
+    "synonyms": []
+  },
+  {
+    "id": "appropriateness",
+    "word": "appropriateness",
+    "pronunciationUs": "/əˈpɹoʊpɹiətnəs/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 适当；适合",
+    "difficulty": 9,
+    "rank": 13824,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "appropriate",
+        "meaningZh": "a. 适当的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɐpɹˈəʊpɹɪətnəs/",
+    "synonyms": [
+      {
+        "word": "rightness",
+        "meaningZh": "n. 廉正, 正直, 公正, 正确性",
+        "senseEn": "appropriate conduct; doing the right thing",
+        "source": "Princeton WordNet 3.0 synset 04899031-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "predominate",
+    "word": "predominate",
+    "pronunciationUs": "/pɹɪˈdɑməˌneɪt/, /pɹɪˈdɑmənət/",
+    "partOfSpeech": "vt. / vi.",
+    "meaningZh": "vt. 掌握, 控制, 支配\nvi. 占主导地位, 占优势",
+    "difficulty": 9,
+    "rank": 13934,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "predominant",
+        "meaningZh": "a. 占主导地位的, 卓越的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "predominance",
+        "meaningZh": "n. 主导地位, 优势",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "predomination",
+        "meaningZh": "n. 卓越；优势；支配",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "predominated",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "predominates",
+        "meaningZh": "第三人称单数"
+      },
+      {
+        "word": "predominating",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "/pɹɪdˈɒmɪnˌeɪt/",
+    "synonyms": [
+      {
+        "word": "rule",
+        "meaningZh": "n. 规则, 统治, 控制, 支配, 规律, 标准, 章程, 破折号, 铅线\nvt. 规定, 统治, 管理, 控制, 支配, 裁决\nvi. 统治, 管辖, 裁定",
+        "senseEn": "be larger in number, quantity, power, status or importance",
+        "source": "Princeton WordNet 3.0 synset 02644234-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "dominate",
+        "meaningZh": "v. 支配, 占优势",
+        "senseEn": "be larger in number, quantity, power, status or importance",
+        "source": "Princeton WordNet 3.0 synset 02644234-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "tower",
+        "meaningZh": "n. 塔, 高楼, 堡垒\nvi. 高耸, 翱翔",
+        "senseEn": "appear very large or occupy a commanding position",
+        "source": "Princeton WordNet 3.0 synset 02696503-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "prevail",
+        "meaningZh": "vi. 获胜, 流行, 盛行",
+        "senseEn": "be larger in number, quantity, power, status or importance",
+        "source": "Princeton WordNet 3.0 synset 02644234-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "loom",
+        "meaningZh": "n. 织布机, 若隐若现的景象\nvi. 朦胧地出现, 隐约可见, 可怕地出现",
+        "senseEn": "appear very large or occupy a commanding position",
+        "source": "Princeton WordNet 3.0 synset 02696503-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "inconclusive",
+    "word": "inconclusive",
+    "pronunciationUs": "/ˌɪnkənˈkɫusɪv/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 非决定性的, 无效果的, 不得要领的",
+    "difficulty": 9,
+    "rank": 14046,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "inconclusiveness",
+        "meaningZh": "n. 非决定性, 无结果",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "inconclusively",
+        "meaningZh": "词族关联 · adv. 非决定性地, 无结果地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "inconclusives",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɪnkənklˈuːsɪv/",
+    "synonyms": []
+  },
+  {
+    "id": "extrapolate",
+    "word": "extrapolate",
+    "pronunciationUs": "/ɛkˈstɹæpəˌɫeɪt/",
+    "partOfSpeech": "v.",
+    "meaningZh": "v. 推断, 外推",
+    "difficulty": 9,
+    "rank": 14252,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "extrapolation",
+        "meaningZh": "n. 推断, 外推法",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "extrapolating",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "extrapolated",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "extrapolates",
+        "meaningZh": "第三人称单数 / 复数"
+      }
+    ],
+    "pronunciationUk": "/ɛkstɹˈæpəlˌeɪt/",
+    "synonyms": [
+      {
+        "word": "infer",
+        "meaningZh": "vt. 推论出, 推断\nvi. 作推论",
+        "senseEn": "draw from specific cases for more general cases",
+        "source": "Princeton WordNet 3.0 synset 01022420-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "generalize",
+        "meaningZh": "vt. 一般化, 概括, 推广\nvi. 形成概念, 笼统讲",
+        "senseEn": "draw from specific cases for more general cases",
+        "source": "Princeton WordNet 3.0 synset 01022420-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "interpolate",
+        "meaningZh": "v. 篡改, 插入新语句, 添写进去",
+        "senseEn": "estimate the value of",
+        "source": "Princeton WordNet 3.0 synset 00642644-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "admonition",
+    "word": "admonition",
+    "pronunciationUs": "/ˌædməˈnɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 警告, 劝告, 训诫",
+    "difficulty": 9,
+    "rank": 14319,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "admonish",
+        "meaningZh": "vt. 警告, 劝告, 训诫, 告诫",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "admonitions",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ˌædmənˈɪʃən/",
+    "synonyms": [
+      {
+        "word": "warning",
+        "meaningZh": "n. 警告, 预告, 预兆, 通知",
+        "senseEn": "cautionary advice about something imminent (especially imminent danger or other unpleasantness)",
+        "source": "Princeton WordNet 3.0 synset 06672297-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "admonishment",
+        "meaningZh": "n. 训戒；警告（等于admonition）",
+        "senseEn": "a firm rebuke",
+        "source": "Princeton WordNet 3.0 synset 06714420-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "oscillation",
+    "word": "oscillation",
+    "pronunciationUs": "/ˌɑsəˈɫeɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 振动, 动摇, 变动, 彷徨, 电波",
+    "difficulty": 9,
+    "rank": 14373,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "oscillate",
+        "meaningZh": "vi. 振动, 彷徨, 犹豫\nvt. 使振动, 使动摇",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "oscillations",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ˌɒsɪlˈeɪʃən/",
+    "synonyms": [
+      {
+        "word": "cycle",
+        "meaningZh": "n. 周期, 循环, 自行车, 一段时间, 整套\nvi. 循环, 轮转, 骑自行车\nvt. 使循环, 使轮转",
+        "senseEn": "a single complete execution of a periodically repeated phenomenon",
+        "source": "Princeton WordNet 3.0 synset 07341038-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "vibration",
+        "meaningZh": "n. 振动, 颤动",
+        "senseEn": "(physics) a regular periodic variation in value about a mean",
+        "source": "Princeton WordNet 3.0 synset 07345166-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "roundtable",
+    "word": "roundtable",
+    "pronunciationUs": "/ˈɹaʊndˌteɪbəɫ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 圆桌的, 圆台",
+    "difficulty": 9,
+    "rank": 14394,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "",
+    "synonyms": []
+  },
+  {
+    "id": "seniority",
+    "word": "seniority",
+    "pronunciationUs": "/sinˈjɔɹɪti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 长辈, 老资格",
+    "difficulty": 9,
+    "rank": 14419,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "senior",
+        "meaningZh": "n. 年长者, 资深者, 毕业班学生\na. 年长的, 高级的, 资深的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/sˌiːnɪˈɒɹɪti/",
+    "synonyms": [
+      {
+        "word": "longevity",
+        "meaningZh": "n. 长命, 长寿, 寿命",
+        "senseEn": "the property of being long-lived",
+        "source": "Princeton WordNet 3.0 synset 04927890-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "commonality",
+    "word": "commonality",
+    "pronunciationUs": "/ˌkɑməˈnæɫəti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 共同特性, 平民百姓",
+    "difficulty": 9,
+    "rank": 14421,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "common",
+        "meaningZh": "a. 通常的, 共同的, 通俗的, 公共的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "commonalities",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/kˌɒmənˈælɪti/",
+    "synonyms": [
+      {
+        "word": "commons",
+        "meaningZh": "n. 平民, 下议院, 公共食堂",
+        "senseEn": "a class composed of persons lacking clerical or noble rank",
+        "source": "Princeton WordNet 3.0 synset 08181930-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "pretension",
+    "word": "pretension",
+    "pronunciationUs": "/pɹiˈtɛnʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 自负, 骄傲, 主张",
+    "difficulty": 9,
+    "rank": 14551,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "pretend",
+        "meaningZh": "v. 假装, 伪称, 自命, 自称",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "pretensions",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/pɹɪtˈɛnʃən/",
+    "synonyms": [
+      {
+        "word": "pretense",
+        "meaningZh": "n. 借口, 虚假, 伪装",
+        "senseEn": "a false or unsupportable quality",
+        "source": "Princeton WordNet 3.0 synset 04788853-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "largeness",
+        "meaningZh": "n. 巨大, 广大, 大量",
+        "senseEn": "the quality of being pretentious (behaving or speaking in such a manner as to create a false appearance of great importance or worth)",
+        "source": "Princeton WordNet 3.0 synset 04788982-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "desirability",
+    "word": "desirability",
+    "pronunciationUs": "/dɪˌzaɪɹəˈbɪɫɪti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 值得想望, 可取",
+    "difficulty": 9,
+    "rank": 14608,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "desirable",
+        "meaningZh": "a. 令人想望的, 可取的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "desirabilities",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/dɪzˌaɪəɹəbˈɪlɪti/",
+    "synonyms": [
+      {
+        "word": "oomph",
+        "meaningZh": "n. 性感, 热情, 精力, 吸引力",
+        "senseEn": "attractiveness to the opposite sex",
+        "source": "Princeton WordNet 3.0 synset 04686935-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "religiosity",
+    "word": "religiosity",
+    "pronunciationUs": "/ɹɪˌɫɪdʒiˈɑsəti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 笃信, 虚伪信仰, 虔诚, 宗教狂",
+    "difficulty": 9,
+    "rank": 14672,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "religious",
+        "meaningZh": "a. 宗教性的, 虔诚的, 宗教上的, 严谨的\nn. 修道士, 出家人",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɹɪlˌɪdʒɪˈɒsɪti/",
+    "synonyms": [
+      {
+        "word": "pietism",
+        "meaningZh": "n. 虔诚, 过分的虔诚, 假装的虔诚, 虔信派, 虔信主义",
+        "senseEn": "exaggerated or affected piety and religious zeal",
+        "source": "Princeton WordNet 3.0 synset 04827175-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "embankment",
+    "word": "embankment",
+    "pronunciationUs": "/ɛmˈbæŋkmənt/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 堤防, 筑堤",
+    "difficulty": 9,
+    "rank": 14695,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "protective embankment",
+        "zh": "防护堤",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "embank",
+        "meaningZh": "vt. 以堤围绕, 筑堤围堵, 以堤防堵挡",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "embankments",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɛmbˈæŋkmənt/",
+    "synonyms": []
+  },
+  {
+    "id": "exasperation",
+    "word": "exasperation",
+    "pronunciationUs": "/ˌɛkˌsæspɝˈeɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 恼怒, 恼怒的原因",
+    "difficulty": 9,
+    "rank": 15006,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "exasperate",
+        "meaningZh": "vt. 使恼怒, 激怒, 恶化\na. 糙面的, 恼怒的, 激怒的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "exasperating",
+        "meaningZh": "a. 使人恼怒的, 激怒人的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置11：o → ∅；位置13：∅ → g。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/ɛɡzˌɑːspəɹˈeɪʃən/",
+    "synonyms": [
+      {
+        "word": "aggravation",
+        "meaningZh": "n. 恶化, 加重, 恼怒",
+        "senseEn": "an exasperated feeling of annoyance",
+        "source": "Princeton WordNet 3.0 synset 07518878-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "denigrate",
+    "word": "denigrate",
+    "pronunciationUs": "/ˈdɛnəˌɡɹeɪt/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 使变黑, 玷污, 诋毁",
+    "difficulty": 9,
+    "rank": 15041,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "denigration",
+        "meaningZh": "n. 弄黑, 诋毁, 贬低, 抹黑, 变黑",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "denigratory",
+        "meaningZh": "粗斜棉布",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "denigrating",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "denigrated",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "denigrates",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/dˈɛnɪɡɹˌeɪt/",
+    "synonyms": [
+      {
+        "word": "minimize",
+        "meaningZh": "vt. 将...减到最少\nvt. 最小化\nvi. 最小化",
+        "senseEn": "cause to seem less serious; play down",
+        "source": "Princeton WordNet 3.0 synset 00864475-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "smear",
+        "meaningZh": "vt. 涂, 擦上, 玷污, 把...擦模糊\nvi. 被弄脏\nn. 污点, 污迹, 污蔑",
+        "senseEn": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+        "source": "Princeton WordNet 3.0 synset 00846509-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "belittle",
+        "meaningZh": "vt. 轻视, 贬低",
+        "senseEn": "cause to seem less serious; play down",
+        "source": "Princeton WordNet 3.0 synset 00864475-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "sully",
+        "meaningZh": "vt. 玷污, 弄脏\nn. 污点, 脏污",
+        "senseEn": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+        "source": "Princeton WordNet 3.0 synset 00846509-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "slander",
+        "meaningZh": "n. 中伤, 诽谤\nvt. 中伤, 诽谤",
+        "senseEn": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+        "source": "Princeton WordNet 3.0 synset 00846509-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "craftsmanship",
+    "word": "craftsmanship",
+    "pronunciationUs": "/ˈkɹæfsmənˌʃɪp/, /ˈkɹæftsmənˌʃɪp/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 技术, 技艺",
+    "difficulty": 9,
+    "rank": 15188,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "craftsman",
+        "meaningZh": "n. 工匠, 技工, 手艺人",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "draftsmanship",
+        "meaningZh": "n. 制图术",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：c → d。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/kɹˈɑːftsmənʃˌɪp/",
+    "synonyms": [
+      {
+        "word": "craft",
+        "meaningZh": "n. 技艺, 手艺, 诡计\nvt. 精心制作",
+        "senseEn": "skill in an occupation or trade",
+        "source": "Princeton WordNet 3.0 synset 05638063-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "workmanship",
+        "meaningZh": "n. 手艺, 技巧",
+        "senseEn": "skill in an occupation or trade",
+        "source": "Princeton WordNet 3.0 synset 05638063-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "entomologist",
+    "word": "entomologist",
+    "pronunciationUs": "/ˌɛntəˈmɑɫədʒəst/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 昆虫学者",
+    "difficulty": 9,
+    "rank": 15202,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "entomology",
+        "meaningZh": "n. 昆虫学",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "entomologists",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɛntəmˈɒlədʒˌɪst/",
+    "synonyms": []
+  },
+  {
+    "id": "acceptability",
+    "word": "acceptability",
+    "pronunciationUs": "/əkˌsɛptəˈbɪɫəti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 可接受, 合意, 可忍受",
+    "difficulty": 9,
+    "rank": 15203,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "acceptable",
+        "meaningZh": "a. 可接受的, 合意的, 可忍受的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɐksˌɛptəbˈɪlɪti/",
+    "synonyms": []
+  },
+  {
+    "id": "molestation",
+    "word": "molestation",
+    "pronunciationUs": "/ˌmoʊɫɛˈsteɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 调戏, 干扰, 妨碍",
+    "difficulty": 9,
+    "rank": 15226,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "molest",
+        "meaningZh": "vt. 妨碍, 干扰, 调戏",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "molestations",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/məlɪstˈeɪʃən/",
+    "synonyms": [
+      {
+        "word": "harassment",
+        "meaningZh": "n. 困扰, 烦扰, 烦恼",
+        "senseEn": "the act of tormenting by continued persistent attacks and criticism",
+        "source": "Princeton WordNet 3.0 synset 00419644-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "transformative",
+    "word": "transformative",
+    "pronunciationUs": "/ˌtɹænsˈfɔɹmɑˌtɪv/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 有改革能力的, 起改造作用的",
+    "difficulty": 9,
+    "rank": 15252,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/trɑːnsˈfɔːmətɪv/, /tɹæns-/",
+    "synonyms": []
+  },
+  {
+    "id": "purification",
+    "word": "purification",
+    "pronunciationUs": "/ˌpjʊɹəfəˈkeɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 纯化, 提纯, 涤罪",
+    "difficulty": 9,
+    "rank": 15434,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "purify",
+        "meaningZh": "vi. 变纯净\nvt. 使纯净, 净化, 提纯, 精炼",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "purifications",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/pjˌʊɹɪfɪkˈeɪʃən/",
+    "synonyms": [
+      {
+        "word": "refinement",
+        "meaningZh": "n. 精致, 高尚, 精巧",
+        "senseEn": "the process of removing impurities (as from oil or metals or sugar etc.)",
+        "source": "Princeton WordNet 3.0 synset 13548105-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "celebratory",
+    "word": "celebratory",
+    "pronunciationUs": "/səˈɫɛbɹəˌtɔɹi/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 快乐的, 兴高采烈的",
+    "difficulty": 9,
+    "rank": 15484,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "celebrate",
+        "meaningZh": "v. 庆祝, 祝贺, 举行",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/sˈɛləbɹətəɹˌi/",
+    "synonyms": []
+  },
+  {
+    "id": "conciliatory",
+    "word": "conciliatory",
+    "pronunciationUs": "/kənˈsɪˌɫiəˌtɔɹi/, /kənˈsɪɫjəˌtɔɹi/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 安抚的, 和好的, 调和的",
+    "difficulty": 9,
+    "rank": 15499,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "conciliate",
+        "meaningZh": "vt. 安抚, 说服, 博得...的支持, 调和",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "conciliator",
+        "meaningZh": "n. 抚慰者, 调和人",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置12：y → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/kənsˈɪlɪətəɹˌi/",
+    "synonyms": [
+      {
+        "word": "flexible",
+        "meaningZh": "a. 易曲的, 灵活的, 柔顺的, 能变形的, 可通融的",
+        "senseEn": "making or willing to make concessions",
+        "source": "Princeton WordNet 3.0 synset 01026262-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "compromising",
+        "meaningZh": "a. 妥协的；让步的",
+        "senseEn": "making or willing to make concessions",
+        "source": "Princeton WordNet 3.0 synset 01026262-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "solicitation",
+    "word": "solicitation",
+    "pronunciationUs": "/səˌɫɪsɪˈteɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 恳求, 恳请, 教唆, 诱惑",
+    "difficulty": 9,
+    "rank": 15553,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "solicit",
+        "meaningZh": "v. 请求, 乞求, 招揽, 征求",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "solicitations",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/səlˌɪsɪtˈeɪʃən/",
+    "synonyms": [
+      {
+        "word": "collection",
+        "meaningZh": "n. 收集, 采集, (一批)收藏品, 募捐",
+        "senseEn": "request for a sum of money",
+        "source": "Princeton WordNet 3.0 synset 06513764-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "appeal",
+        "meaningZh": "n. 恳求, 诉请, 上诉, 吸引力\nvi. 呼吁, 诉请, 要求, 上诉, 有吸引力\nvt. 将...上诉",
+        "senseEn": "request for a sum of money",
+        "source": "Princeton WordNet 3.0 synset 06513764-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "quandary",
+    "word": "quandary",
+    "pronunciationUs": "/ˈkwɑndɝi/, /ˈkwɑndɹi/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 困惑, 迷惑, 为难",
+    "difficulty": 9,
+    "rank": 15583,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "quandaries",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/kwˈɒndəɹi/",
+    "synonyms": [
+      {
+        "word": "dilemma",
+        "meaningZh": "n. 困境, (进退两难的)窘境",
+        "senseEn": "state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options",
+        "source": "Princeton WordNet 3.0 synset 05686086-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "plight",
+        "meaningZh": "n. 困境, 窘境\nvt. 宣誓, 保证",
+        "senseEn": "a situation from which extrication is difficult especially an unpleasant or trying one",
+        "source": "Princeton WordNet 3.0 synset 14408646-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "predicament",
+        "meaningZh": "n. 处境, 穷境, 困局",
+        "senseEn": "a situation from which extrication is difficult especially an unpleasant or trying one",
+        "source": "Princeton WordNet 3.0 synset 14408646-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "essayist",
+    "word": "essayist",
+    "pronunciationUs": "/ˈɛˌseɪɪst/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 随笔作家, 评论家",
+    "difficulty": 9,
+    "rank": 15631,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "essay",
+        "meaningZh": "n. 随笔, 短文, 评论, 企图\nvt. 试图",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "essayists",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ˈɛseɪˌɪst/",
+    "synonyms": []
+  },
+  {
+    "id": "altruism",
+    "word": "altruism",
+    "pronunciationUs": "/ˈæɫtɹuˌɪzəm/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 利他主义, 利他",
+    "difficulty": 9,
+    "rank": 15638,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "altruist",
+        "meaningZh": "n. 利他主义者, 无私者",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ˈɔːltɹuːˌɪzəm/",
+    "synonyms": [
+      {
+        "word": "selflessness",
+        "meaningZh": "n. 忘我；无私",
+        "senseEn": "the quality of unselfish concern for the welfare of others",
+        "source": "Princeton WordNet 3.0 synset 04833276-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "purist",
+    "word": "purist",
+    "pronunciationUs": "/ˈpjʊɹɪst/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 纯粹主义者",
+    "difficulty": 9,
+    "rank": 15728,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "purism",
+        "meaningZh": "n. 语言纯正主义, 纯粹派",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "priest",
+        "meaningZh": "n. 祭司, 牧师, 神父, 神质人员, 僧侣, 泰斗",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：u → ∅；位置5：∅ → e。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "purity",
+        "meaningZh": "n. 纯净, 纯正, 纯粹",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置5：s → ∅；位置7：∅ → y。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "jurist",
+        "meaningZh": "n. 法学家, 法律学者, 法律著作家",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：p → j。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "purists",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/pjˈɔːɹɪst/",
+    "synonyms": []
+  },
+  {
+    "id": "revulsion",
+    "word": "revulsion",
+    "pronunciationUs": "/ɹiˈvəɫʃən/, /ɹɪˈvəɫʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 剧变, 厌恶, 强烈反感",
+    "difficulty": 9,
+    "rank": 15759,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "revulsions",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɹɪvˈʌlʃən/",
+    "synonyms": [
+      {
+        "word": "horror",
+        "meaningZh": "n. 惊骇, 恐怖, 惨状",
+        "senseEn": "intense aversion",
+        "source": "Princeton WordNet 3.0 synset 07503987-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "cordless",
+    "word": "cordless",
+    "pronunciationUs": "/ˈkɔɹdɫəs/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 无绳索的, 交直流两用的",
+    "difficulty": 9,
+    "rank": 15786,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "wordless",
+        "meaningZh": "a. 沉默的, 无言的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：c → w。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/kˈɔːdləs/",
+    "synonyms": []
+  },
+  {
+    "id": "berate",
+    "word": "berate",
+    "pronunciationUs": "/bɪˈɹeɪt/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 严责",
+    "difficulty": 9,
+    "rank": 15807,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "beaten",
+        "meaningZh": "a. 被打败了的, 筋疲力竭的, 敲平的, 踏平的\nbeat的过去分词",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：r → ∅；位置7：∅ → n。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "beater",
+        "meaningZh": "n. 打的人, 拍打树丛惊起猎物的人, 搅拌器",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置3：r → ∅；位置7：∅ → r。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "berated",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "berating",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "berates",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/bɪɹˈeɪt/",
+    "synonyms": [
+      {
+        "word": "lecture",
+        "meaningZh": "严厉斥责；痛斥",
+        "senseEn": "censure severely or angrily",
+        "source": "Princeton WordNet 3.0 synset 00824767-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "jaw",
+        "meaningZh": "严厉斥责；痛斥",
+        "senseEn": "censure severely or angrily",
+        "source": "Princeton WordNet 3.0 synset 00824767-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "rag",
+        "meaningZh": "严厉斥责；痛斥",
+        "senseEn": "censure severely or angrily",
+        "source": "Princeton WordNet 3.0 synset 00824767-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "scold",
+        "meaningZh": "严厉斥责；痛斥",
+        "senseEn": "censure severely or angrily",
+        "source": "Princeton WordNet 3.0 synset 00824767-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "chide",
+        "meaningZh": "严厉斥责；痛斥",
+        "senseEn": "censure severely or angrily",
+        "source": "Princeton WordNet 3.0 synset 00824767-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      }
+    ]
+  },
+  {
+    "id": "encampment",
+    "word": "encampment",
+    "pronunciationUs": "/ɪnˈkæmpmɪnt/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 露营, 宿营",
+    "difficulty": 9,
+    "rank": 15809,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "encamp",
+        "meaningZh": "vi. 扎营, 露营\nvt. 使宿营",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "encampments",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɛnkˈæmpmənt/",
+    "synonyms": [
+      {
+        "word": "camp",
+        "meaningZh": "n. 露营, 帐篷\nvi. 露营, 扎营\nvt. 使扎营",
+        "senseEn": "temporary living quarters specially built by the army for soldiers",
+        "source": "Princeton WordNet 3.0 synset 02944826-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "camping",
+        "meaningZh": "n. 野营, 露营",
+        "senseEn": "the act of encamping and living in tents in a camp",
+        "source": "Princeton WordNet 3.0 synset 01055165-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "campsite",
+        "meaningZh": "n. 营地",
+        "senseEn": "a site where people on holiday can pitch a tent",
+        "source": "Princeton WordNet 3.0 synset 08518171-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "campground",
+        "meaningZh": "n. 露营场所；野营地",
+        "senseEn": "a site where people on holiday can pitch a tent",
+        "source": "Princeton WordNet 3.0 synset 08518171-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "bivouac",
+        "meaningZh": "n. 野营, 露营, 露营地\nvi. 露宿",
+        "senseEn": "temporary living quarters specially built by the army for soldiers",
+        "source": "Princeton WordNet 3.0 synset 02944826-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "finality",
+    "word": "finality",
+    "pronunciationUs": "/faɪˈnæɫəti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 终结, 定局, 终结性言行",
+    "difficulty": 9,
+    "rank": 15811,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "final",
+        "meaningZh": "n. 期末考试, 结局, 决赛\na. 最后的, 终极的, 决定性的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "finalist",
+        "meaningZh": "n. 决赛选手, 决赛队",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置7：∅ → s；位置8：y → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "finalities",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/faɪnˈælɪti/",
+    "synonyms": []
+  },
+  {
+    "id": "tantalize",
+    "word": "tantalize",
+    "pronunciationUs": "/ˈtænəˌɫaɪz/, /ˈtæntəˌɫaɪz/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 逗弄, 使干着急",
+    "difficulty": 9,
+    "rank": 15919,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "tantalization",
+        "meaningZh": "n. 逗弄, 使干着急",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "tantalizing",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "tantalizes",
+        "meaningZh": "第三人称单数"
+      },
+      {
+        "word": "tantalized",
+        "meaningZh": "过去式 / 过去分词"
+      }
+    ],
+    "pronunciationUk": "/ˈtæntəlaɪz/",
+    "synonyms": [
+      {
+        "word": "ride",
+        "meaningZh": "n. 骑马, 乘坐, 乘车, 搭便车\nvt. 骑, 乘坐, 压迫, 控制\nvi. 骑马, 乘车, 漂游",
+        "senseEn": "harass with persistent criticism or carping",
+        "source": "Princeton WordNet 3.0 synset 00850501-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "rally",
+        "meaningZh": "n. 重振旗鼓, 集合, 群众集会, 跌停回升\nv. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑",
+        "senseEn": "harass with persistent criticism or carping",
+        "source": "Princeton WordNet 3.0 synset 00850501-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "tease",
+        "meaningZh": "n. 揶揄, 戏弄, 逗惹\nvt. 戏弄, 取笑, 强求, 梳理, 使起毛",
+        "senseEn": "harass with persistent criticism or carping",
+        "source": "Princeton WordNet 3.0 synset 00850501-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "bait",
+        "meaningZh": "n. 饵\nvt. 以饵引诱, 欺负\nvi. 中途休息",
+        "senseEn": "harass with persistent criticism or carping",
+        "source": "Princeton WordNet 3.0 synset 00850501-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "rag",
+        "meaningZh": "n. 碎布, 抹布, 碎片, 碎屑, 少量, 破旧衣服\nvt. 责骂, 揶揄, 戏弄\nvi. 喧闹",
+        "senseEn": "harass with persistent criticism or carping",
+        "source": "Princeton WordNet 3.0 synset 00850501-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "profusion",
+    "word": "profusion",
+    "pronunciationUs": "/pɹəfˈjuʒən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 大量, 慷慨, 挥霍, 充沛, 浪费",
+    "difficulty": 9,
+    "rank": 15972,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "perfusion",
+        "meaningZh": "n. 灌注, 充满",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置2：∅ → e；位置3：o → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/pɹəfjˈuːʒən/",
+    "synonyms": [
+      {
+        "word": "richness",
+        "meaningZh": "n. 富裕, 丰富, 肥沃",
+        "senseEn": "the property of being extremely abundant",
+        "source": "Princeton WordNet 3.0 synset 05115804-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "cornucopia",
+        "meaningZh": "n. 丰盛",
+        "senseEn": "the property of being extremely abundant",
+        "source": "Princeton WordNet 3.0 synset 05115804-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "wholeness",
+    "word": "wholeness",
+    "pronunciationUs": "/ˈhoʊɫnɪs/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 全体, 一切, 完全",
+    "difficulty": 9,
+    "rank": 16016,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "whole",
+        "meaningZh": "n. 全部, 全体, 整体, 完全之体系\na. 所有的, 完整的, 完全的, 纯粹的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/hˈəʊlnəs/",
+    "synonyms": [
+      {
+        "word": "integrity",
+        "meaningZh": "n. 正直, 廉正, 完整",
+        "senseEn": "an undivided or unbroken completeness or totality with nothing wanting",
+        "source": "Princeton WordNet 3.0 synset 14460565-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "unity",
+        "meaningZh": "n. 一致, 联合, 单一(性), 个体",
+        "senseEn": "an undivided or unbroken completeness or totality with nothing wanting",
+        "source": "Princeton WordNet 3.0 synset 14460565-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "passivity",
+    "word": "passivity",
+    "pronunciationUs": "/pəˈsɪvɪti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 被动, 被动性, 无抵抗, 钝性, 被动结构",
+    "difficulty": 9,
+    "rank": 16036,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "passive",
+        "meaningZh": "a. 消极的, 被动的, 冷漠的, 顺从的, 无源的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/pɑːsˈɪvɪti/",
+    "synonyms": []
+  },
+  {
+    "id": "expletive",
+    "word": "expletive",
+    "pronunciationUs": "/ˈɛkspɫətɪv/",
+    "partOfSpeech": "adj. / n.",
+    "meaningZh": "a. 填补的, 多余的, 附加的, 补足的\nn. 语助词, 虚词, 感叹词, 诅咒语, 咒骂语, 惊叹语, 填补物, 附加物",
+    "difficulty": 9,
+    "rank": 16119,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "expletives",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɛksplˈiːtɪv/",
+    "synonyms": [
+      {
+        "word": "curse",
+        "meaningZh": "n. 咒骂, 诅咒\nvt. 诅咒, 咒骂",
+        "senseEn": "profane or obscene expression usually of surprise or anger",
+        "source": "Princeton WordNet 3.0 synset 07125096-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "oath",
+        "meaningZh": "n. 誓约, 誓言, 咒骂",
+        "senseEn": "profane or obscene expression usually of surprise or anger",
+        "source": "Princeton WordNet 3.0 synset 07125096-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "cuss",
+        "meaningZh": "n. 诅咒, 坏话, 家伙\nv. 诅咒, 咒骂",
+        "senseEn": "profane or obscene expression usually of surprise or anger",
+        "source": "Princeton WordNet 3.0 synset 07125096-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "disingenuous",
+    "word": "disingenuous",
+    "pronunciationUs": "/dɪsɪnˈdʒɛnjuəs/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 不老实的, 不诚实的, 狡猾的",
+    "difficulty": 9,
+    "rank": 16155,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "disingenuously",
+        "meaningZh": "词族关联 · adv. 不诚实地, 不坦白地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/dˌɪsɪndʒˈɛnjuːəs/",
+    "synonyms": [
+      {
+        "word": "artful",
+        "meaningZh": "a. 巧妙的, 狡猾的",
+        "senseEn": "not straightforward or candid; giving a false appearance of frankness",
+        "source": "Princeton WordNet 3.0 synset 01310685-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "affable",
+    "word": "affable",
+    "pronunciationUs": "/ˈæfəbəɫ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 和蔼可亲的, 友善的, 亲切的, 慈祥的",
+    "difficulty": 9,
+    "rank": 16207,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "affability",
+        "meaningZh": "n. 和蔼, 谦恭有礼, 亲切",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "affably",
+        "meaningZh": "词族关联 · adv. 和蔼地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ˈæfəbəl/",
+    "synonyms": [
+      {
+        "word": "cordial",
+        "meaningZh": "n. 兴奋剂, 补品\na. 热忱的, 诚恳的, 有兴奋作用的",
+        "senseEn": "diffusing warmth and friendliness",
+        "source": "Princeton WordNet 3.0 synset 01075178-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "amiable",
+        "meaningZh": "a. 亲切的, 和蔼可亲的",
+        "senseEn": "diffusing warmth and friendliness",
+        "source": "Princeton WordNet 3.0 synset 01075178-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "genial",
+        "meaningZh": "a. 和蔼的, 亲切的, 友善的",
+        "senseEn": "diffusing warmth and friendliness",
+        "source": "Princeton WordNet 3.0 synset 01075178-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "uneasiness",
+    "word": "uneasiness",
+    "pronunciationUs": "/ˌəˈnizinəs/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 不舒适, 不安, 局促",
+    "difficulty": 9,
+    "rank": 16215,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "uneasy",
+        "meaningZh": "a. 心神不安的, 不自在的, 不稳定的, 不舒服的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "queasiness",
+        "meaningZh": "n. 恶心",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：∅ → q；位置2：n → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/ʌnˈiːzɪnəs/",
+    "synonyms": [
+      {
+        "word": "unease",
+        "meaningZh": "n. 不安",
+        "senseEn": "the trait of seeming ill at ease",
+        "source": "Princeton WordNet 3.0 synset 04904851-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "malaise",
+        "meaningZh": "n. 不舒服",
+        "senseEn": "physical discomfort (as mild sickness or depression)",
+        "source": "Princeton WordNet 3.0 synset 14447019-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "restlessness",
+        "meaningZh": "n. 坐立不安；不安定",
+        "senseEn": "inability to rest or relax or be still",
+        "source": "Princeton WordNet 3.0 synset 04625284-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "disquiet",
+        "meaningZh": "vt. 打搅, 使烦恼, 使忧虑, 使不安\nn. 不安, 焦虑, 不平静",
+        "senseEn": "the trait of seeming ill at ease",
+        "source": "Princeton WordNet 3.0 synset 04904851-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "queasiness",
+        "meaningZh": "n. 恶心",
+        "senseEn": "inability to rest or relax or be still",
+        "source": "Princeton WordNet 3.0 synset 04625284-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "indignity",
+    "word": "indignity",
+    "pronunciationUs": "/ˌɪnˈdɪɡnəˌti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 侮辱",
+    "difficulty": 9,
+    "rank": 16237,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "indignities",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɪndˈɪɡnɪti/",
+    "synonyms": []
+  },
+  {
+    "id": "elucidate",
+    "word": "elucidate",
+    "pronunciationUs": "/ɪˈɫusəˌdeɪt/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 阐明, 说明",
+    "difficulty": 9,
+    "rank": 16285,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "lucidity",
+        "meaningZh": "n. 明朗, 清澈, 透明",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "elucidation",
+        "meaningZh": "n. 说明, 阐明",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "elucidative",
+        "meaningZh": "a. 解释的, 说明的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "elucidated",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "elucidating",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "elucidates",
+        "meaningZh": "第三人称单数 / 复数"
+      }
+    ],
+    "pronunciationUk": "/ɪlˈuːsɪdˌeɪt/",
+    "synonyms": [
+      {
+        "word": "clear",
+        "meaningZh": "a. 清楚的, 明确的, 澄清的\nadv. 清晰地\nvt. 澄清, 清除障碍\nvi. 放晴, 变清澈\nn. 空隙",
+        "senseEn": "make free from confusion or ambiguity; make clear",
+        "source": "Princeton WordNet 3.0 synset 00621058-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "clarify",
+        "meaningZh": "vi. 澄清, 阐明\nvt. 使明晰",
+        "senseEn": "make clear and (more) comprehensible",
+        "source": "Princeton WordNet 3.0 synset 00939857-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "illuminate",
+        "meaningZh": "vt. 照明, 用灯装饰, 阐明, 说明, 使灿烂\nvi. 照亮, 用灯装饰",
+        "senseEn": "make free from confusion or ambiguity; make clear",
+        "source": "Princeton WordNet 3.0 synset 00621058-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "enlighten",
+        "meaningZh": "vt. 教育, 启发, 启蒙, 开导, 教导",
+        "senseEn": "make free from confusion or ambiguity; make clear",
+        "source": "Princeton WordNet 3.0 synset 00621058-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "crystallize",
+        "meaningZh": "vt. 使结晶, 使具体化\nvi. 结晶, 具体化",
+        "senseEn": "make free from confusion or ambiguity; make clear",
+        "source": "Princeton WordNet 3.0 synset 00621058-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "burdensome",
+    "word": "burdensome",
+    "pronunciationUs": "/ˈbɝdənsəm/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 累赘的, 恼人的, 繁重的",
+    "difficulty": 9,
+    "rank": 16292,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/bˈɜːdənsˌʌm/",
+    "synonyms": [
+      {
+        "word": "onerous",
+        "meaningZh": "a. 繁重的, 负有法律责任的",
+        "senseEn": "not easily borne; wearing",
+        "source": "Princeton WordNet 3.0 synset 01189109-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "taxing",
+        "meaningZh": "a. 繁重的, 费力的",
+        "senseEn": "not easily borne; wearing",
+        "source": "Princeton WordNet 3.0 synset 01189109-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "universality",
+    "word": "universality",
+    "pronunciationUs": "/ˌjunəvɝˈsæɫəti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 普遍性, 一般性, 广泛性",
+    "difficulty": 9,
+    "rank": 16322,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "universal",
+        "meaningZh": "a. 全世界的, 普遍的, 宇宙的, 通用的\nn. 一般概念",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "universalities",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/jˌuːnɪvˈɜːsˈælɪti/",
+    "synonyms": []
+  },
+  {
+    "id": "abatement",
+    "word": "abatement",
+    "pronunciationUs": "/əˈbeɪtmənt/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 减少, 减轻, 缓和, 折扣, 撤消, 中止",
+    "difficulty": 9,
+    "rank": 16332,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "asbestos abatement",
+        "zh": "消除石棉",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "nuisance abatement",
+        "zh": "公害控制",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "en": "abatement of a nuisance",
+        "zh": "减轻滋扰",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "abate",
+        "meaningZh": "vt. 减少, 减轻, 减弱, 废除, 打折扣\nvi. 减轻, 减弱, 减少, 失效, 被废除",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "abatements",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɐbˈeɪtmənt/",
+    "synonyms": [
+      {
+        "word": "suspension",
+        "meaningZh": "n. 悬挂, 暂停, 中止",
+        "senseEn": "an interruption in the intensity or amount of something",
+        "source": "Princeton WordNet 3.0 synset 07368256-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "respite",
+        "meaningZh": "n. 短暂的休息；喘息；暂缓；缓期执行\nvt. 使暂缓",
+        "senseEn": "an interruption in the intensity or amount of something",
+        "source": "Princeton WordNet 3.0 synset 07368256-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "hiatus",
+        "meaningZh": "n. 裂缝, 中断, 空隙, 间隙, 裂孔, (稿件)脱字, 漏句\npl. 裂缝, 中断, 空隙, 间隙, 裂孔, (稿件)脱字, 漏句",
+        "senseEn": "an interruption in the intensity or amount of something",
+        "source": "Princeton WordNet 3.0 synset 07368256-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "reprieve",
+        "meaningZh": "n. 缓刑, 缓刑令, 暂缓\nvt. 暂时解救, 缓期执行",
+        "senseEn": "an interruption in the intensity or amount of something",
+        "source": "Princeton WordNet 3.0 synset 07368256-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "frenetic",
+    "word": "frenetic",
+    "pronunciationUs": "/fɹəˈnɛtɪk/",
+    "partOfSpeech": "adj. / n.",
+    "meaningZh": "a. 发狂的, 狂热的\nn. 发狂者",
+    "difficulty": 9,
+    "rank": 16374,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "frenetically",
+        "meaningZh": "词族关联 · adv. 发疯般地；极其激动地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/fɹɛnˈɛtɪk/",
+    "synonyms": [
+      {
+        "word": "frantic",
+        "meaningZh": "a. 狂乱的, 疯狂的",
+        "senseEn": "excessively agitated; distraught with fear or other violent emotion",
+        "source": "Princeton WordNet 3.0 synset 00086341-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "frenzied",
+        "meaningZh": "a. 狂热的, 狂乱的, 激怒的",
+        "senseEn": "excessively agitated; distraught with fear or other violent emotion",
+        "source": "Princeton WordNet 3.0 synset 00086341-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "liberalize",
+    "word": "liberalize",
+    "pronunciationUs": "/ˈɫɪˌbɝəˌɫaɪz/",
+    "partOfSpeech": "vt. / vi.",
+    "meaningZh": "vt. 宽大, 使自由主义化\nvi. 自由主义化",
+    "difficulty": 9,
+    "rank": 16375,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "liberalization",
+        "meaningZh": "n. 自由主义化, 宽大",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "liberalizing",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "liberalized",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "liberalizes",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/ˈlɪbəɹəlaɪz/",
+    "synonyms": []
+  },
+  {
+    "id": "denunciation",
+    "word": "denunciation",
+    "pronunciationUs": "/dɪˌnənsiˈeɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 谴责, 告发",
+    "difficulty": 9,
+    "rank": 16387,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "renunciation",
+        "meaningZh": "n. 放弃, 废弃, 弃权, 脱离关系",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：d → r。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "denunciations",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/dɪnˌʌnsɪˈeɪʃən/",
+    "synonyms": []
+  },
+  {
+    "id": "illustrious",
+    "word": "illustrious",
+    "pronunciationUs": "/ˌɪˈɫəstɹiəs/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 著名的, 辉煌的, 明亮的",
+    "difficulty": 9,
+    "rank": 16464,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "illustriousness",
+        "meaningZh": "优秀\nn. 有名",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "illustriously",
+        "meaningZh": "词族关联 · adv. 有名地, 优秀地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɪlˈʌstɹɪəs/",
+    "synonyms": [
+      {
+        "word": "famous",
+        "meaningZh": "著名的；享有盛誉的",
+        "senseEn": "widely known and esteemed",
+        "source": "Princeton WordNet 3.0 synset 01375831-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "notable",
+        "meaningZh": "著名的；享有盛誉的",
+        "senseEn": "widely known and esteemed",
+        "source": "Princeton WordNet 3.0 synset 01375831-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "renowned",
+        "meaningZh": "著名的；享有盛誉的",
+        "senseEn": "widely known and esteemed",
+        "source": "Princeton WordNet 3.0 synset 01375831-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "celebrated",
+        "meaningZh": "著名的；享有盛誉的",
+        "senseEn": "widely known and esteemed",
+        "source": "Princeton WordNet 3.0 synset 01375831-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      },
+      {
+        "word": "famed",
+        "meaningZh": "著名的；享有盛誉的",
+        "senseEn": "widely known and esteemed",
+        "source": "Princeton WordNet 3.0 synset 01375831-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。",
+        "translationCredit": "义项中文：项目原创复核 v12（CC0）"
+      }
+    ]
+  },
+  {
+    "id": "peculiarity",
+    "word": "peculiarity",
+    "pronunciationUs": "/pɪkˌjuɫiˈɛɹəti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 特质, 特性, 怪癖",
+    "difficulty": 9,
+    "rank": 16495,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "peculiar",
+        "meaningZh": "a. 奇特的, 罕见的, 特殊的, 特别的\nn. 特有财产, 特权",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "peculiarities",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/pɪkjˌuːlɪˈæɹɪti/",
+    "synonyms": [
+      {
+        "word": "curiosity",
+        "meaningZh": "n. 好奇心, 新奇的事物, 珍品",
+        "senseEn": "something unusual -- perhaps worthy of collecting",
+        "source": "Princeton WordNet 3.0 synset 03149951-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "specialty",
+        "meaningZh": "n. 专业, 专长, 特产, 特制品, 特性, 特点\na. 专门的, 独立的",
+        "senseEn": "a distinguishing trait",
+        "source": "Princeton WordNet 3.0 synset 04763925-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "rarity",
+        "meaningZh": "n. 稀罕, 罕有, 珍奇, 稀薄",
+        "senseEn": "something unusual -- perhaps worthy of collecting",
+        "source": "Princeton WordNet 3.0 synset 03149951-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "oddity",
+        "meaningZh": "n. 奇异, 奇特, 怪人, 怪事, 怪僻",
+        "senseEn": "something unusual -- perhaps worthy of collecting",
+        "source": "Princeton WordNet 3.0 synset 03149951-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "speciality",
+        "meaningZh": "n. 专长, 擅长, 特种技能, 详细说明, 特性, 特产, 专业",
+        "senseEn": "a distinguishing trait",
+        "source": "Princeton WordNet 3.0 synset 04763925-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "remittance",
+    "word": "remittance",
+    "pronunciationUs": "/ɹəˈmɪtəns/, /ɹiˈmɪtəns/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 汇款",
+    "difficulty": 9,
+    "rank": 16559,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "remittance man",
+        "zh": "依靠国内汇款生活的人",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "remit",
+        "meaningZh": "vt. 宽恕, 赦免, 免除, 汇出, 缓解, 减轻, 把...提交, 使恢复原状, 推迟\nvi. 缓解, 汇款\nn. 移交的事物",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "remittances",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɹɪmˈɪtəns/",
+    "synonyms": [
+      {
+        "word": "remission",
+        "meaningZh": "n. 宽恕, 豁免, 免罪, 缓和, 减轻",
+        "senseEn": "a payment of money sent to a person in another place",
+        "source": "Princeton WordNet 3.0 synset 13299453-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "chastity",
+    "word": "chastity",
+    "pronunciationUs": "/ˈtʃæstəti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 纯洁, 贞操",
+    "difficulty": 9,
+    "rank": 16601,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "chaste",
+        "meaningZh": "a. 贞洁的, 纯洁的, 朴素的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/tʃˈɑːstɪti/",
+    "synonyms": [
+      {
+        "word": "virtue",
+        "meaningZh": "n. 德行, 美德, 优点, 功效, 效力",
+        "senseEn": "morality with respect to sexual relations",
+        "source": "Princeton WordNet 3.0 synset 04849759-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "celibacy",
+        "meaningZh": "n. 独身",
+        "senseEn": "abstaining from sexual relations (as because of religious vows)",
+        "source": "Princeton WordNet 3.0 synset 01069125-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "immobilize",
+    "word": "immobilize",
+    "pronunciationUs": "/ˌɪˈmoʊbəˌɫaɪz/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 使不动, 使固定, 使不能移动",
+    "difficulty": 9,
+    "rank": 16616,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "immobile",
+        "meaningZh": "a. 不动的, 不变的, 固定的, 静止的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "immobilization",
+        "meaningZh": "n. 固定, 使停止流通",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "immobilizing",
+        "meaningZh": "v. 使不动, 使固定( immobilize的现在分词 )",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "immobilized",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "immobilizes",
+        "meaningZh": "第三人称单数"
+      },
+      {
+        "word": "immobilizing",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "",
+    "synonyms": [
+      {
+        "word": "block",
+        "meaningZh": "n. 街区, 木块, 石块, 块\nvt. 阻塞, 封锁, 使成块状",
+        "senseEn": "prohibit the conversion or use of (assets)",
+        "source": "Princeton WordNet 3.0 synset 00269423-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "freeze",
+        "meaningZh": "vi. 冻结, 冷冻, 僵硬, 楞住\nvt. 使结冰, 使冻住, 使呆住\nn. 结冰, 凝固",
+        "senseEn": "prohibit the conversion or use of (assets)",
+        "source": "Princeton WordNet 3.0 synset 00269423-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "trap",
+        "meaningZh": "n. 圈套, 陷阱, 诡计, 存水弯\nvi. 设圈套, 设陷阱\nvt. 诱捕, 诱骗, 抓住, 使受限制",
+        "senseEn": "to hold fast or prevent from moving",
+        "source": "Princeton WordNet 3.0 synset 01207149-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "pin",
+        "meaningZh": "n. 大头针, 针, 别针, 栓, 销子, 图钉, 插头, 管脚, 品(液量单位)\nvt. 将...用针别住, 钉住, 压住, 牵制, 使不能动, 归罪于\na. 针的, 销子的, 闩的",
+        "senseEn": "to hold fast or prevent from moving",
+        "source": "Princeton WordNet 3.0 synset 01207149-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "paucity",
+    "word": "paucity",
+    "pronunciationUs": "/ˈpɔsəˌti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 少数, 少量, 缺乏",
+    "difficulty": 9,
+    "rank": 16637,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [
+      {
+        "word": "opacity",
+        "meaningZh": "n. 不透明, 电波不透过, 不透明体",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：∅ → o；位置3：u → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/pˈɔːsɪti/",
+    "synonyms": [
+      {
+        "word": "dearth",
+        "meaningZh": "n. 缺乏, 粮食不足, 饥馑",
+        "senseEn": "an insufficient quantity or number",
+        "source": "Princeton WordNet 3.0 synset 05117140-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "eloquence",
+    "word": "eloquence",
+    "pronunciationUs": "/ˈɛɫəkwəns/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 口才, 雄辩术, 雄辩",
+    "difficulty": 9,
+    "rank": 16655,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "eloquent",
+        "meaningZh": "a. 雄辩的, 有口才的, 有说服力的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ˈɛləkwəns/",
+    "synonyms": [
+      {
+        "word": "fluency",
+        "meaningZh": "n. 流畅, 雄辩, 善辩",
+        "senseEn": "powerful and effective language",
+        "source": "Princeton WordNet 3.0 synset 07069210-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "smoothness",
+        "meaningZh": "n. 柔滑, 平滑, 平坦",
+        "senseEn": "powerful and effective language",
+        "source": "Princeton WordNet 3.0 synset 07069210-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "etiology",
+    "word": "etiology",
+    "pronunciationUs": "/ˌiˌtiˈɑɫədʒi/, /ˌitiˈɑɫədʒi/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 病原学, 病因学",
+    "difficulty": 9,
+    "rank": 16669,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "etiological",
+        "meaningZh": "a. 病原学, 病因学",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "etiologic",
+        "meaningZh": "a. 病原学, 病因学",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "etiologies",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "",
+    "synonyms": []
+  },
+  {
+    "id": "exhilaration",
+    "word": "exhilaration",
+    "pronunciationUs": "/ɪɡˌzɪɫɝˈeɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 令人高兴, 愉快",
+    "difficulty": 9,
+    "rank": 16673,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "exhilarate",
+        "meaningZh": "vt. 使高兴, 使愉快, 鼓励",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "exhilarating",
+        "meaningZh": "a. 令人喜欢的, 使人愉快的, 爽快的",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置11：o → ∅；位置13：∅ → g。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/ɛɡzˌɪlɐɹˈeɪʃən/",
+    "synonyms": [
+      {
+        "word": "excitement",
+        "meaningZh": "n. 刺激, 兴奋",
+        "senseEn": "the feeling of lively and cheerful joy",
+        "source": "Princeton WordNet 3.0 synset 07528212-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "restate",
+    "word": "restate",
+    "pronunciationUs": "/ɹiˈsteɪt/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 重新叙述, 重申",
+    "difficulty": 9,
+    "rank": 16704,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "restatement",
+        "meaningZh": "n. 再声明, 重述",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "estate",
+        "meaningZh": "n. 不动产, (人生的)阶段, 阶层, 财产",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：r → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "restart",
+        "meaningZh": "v. 重新开始, 重新启动",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置6：∅ → r；位置7：e → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "restage",
+        "meaningZh": "vt. 重新上演；重演",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置6：t → g。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "restated",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "restating",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "restates",
+        "meaningZh": "第三人称单数 / 复数"
+      }
+    ],
+    "pronunciationUk": "/ɹɪstˈeɪt/",
+    "synonyms": [
+      {
+        "word": "repeat",
+        "meaningZh": "n. 重复, 反复\nvt. 重做, 重复, 复述, 使再现, 复制\nvi. 重复",
+        "senseEn": "to say, state, or perform again",
+        "source": "Princeton WordNet 3.0 synset 00958334-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "reiterate",
+        "meaningZh": "vt. 反复地说, 重申, 反复地做",
+        "senseEn": "to say, state, or perform again",
+        "source": "Princeton WordNet 3.0 synset 00958334-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "retell",
+        "meaningZh": "vt. 再讲, 重复, 重说",
+        "senseEn": "to say, state, or perform again",
+        "source": "Princeton WordNet 3.0 synset 00958334-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "dialectical",
+    "word": "dialectical",
+    "pronunciationUs": "/ˌdaɪəˈɫɛktɪkəɫ/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 辩证的, 辩证法的",
+    "difficulty": 9,
+    "rank": 16715,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "dialectical materialism",
+        "zh": "n. 辩证唯物主义",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "dialectic",
+        "meaningZh": "a. 辩证的, 辩证法的\nn. 辩证法, 逻辑论证",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/daɪəlˈɛktɪkəl/",
+    "synonyms": [
+      {
+        "word": "dialectic",
+        "meaningZh": "a. 辩证的, 辩证法的\nn. 辩证法, 逻辑论证",
+        "senseEn": "of or relating to or employing dialectic",
+        "source": "Princeton WordNet 3.0 synset 03023644-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "atonement",
+    "word": "atonement",
+    "pronunciationUs": "/əˈtoʊnmənt/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 赎罪, 补偿",
+    "difficulty": 9,
+    "rank": 16716,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "atone",
+        "meaningZh": "vi. 补偿, 弥补",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɐtˈəʊnmənt/",
+    "synonyms": [
+      {
+        "word": "satisfaction",
+        "meaningZh": "n. 满足, 满意, 快事, 赔偿, 赎罪, 报仇的机会",
+        "senseEn": "compensation for a wrong",
+        "source": "Princeton WordNet 3.0 synset 13292787-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "infestation",
+    "word": "infestation",
+    "pronunciationUs": "/ˌɪnˈfɛsˈteɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 骚扰, 大批出没, 横行",
+    "difficulty": 9,
+    "rank": 16718,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "infest",
+        "meaningZh": "vt. 骚扰, 寄生于, 大批出没",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "infestations",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɪnfɛstˈeɪʃən/",
+    "synonyms": [
+      {
+        "word": "plague",
+        "meaningZh": "n. 瘟疫, 天罚, 麻烦, 灾祸\nvt. 折磨, 使苦恼, 使得灾祸",
+        "senseEn": "a swarm of insects that attack plants",
+        "source": "Princeton WordNet 3.0 synset 07996412-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "inducement",
+    "word": "inducement",
+    "pronunciationUs": "/ˌɪnˈdusmənt/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 诱因, 动机, 吸引力, 刺激物",
+    "difficulty": 9,
+    "rank": 16799,
+    "examples": [],
+    "collocations": [
+      {
+        "en": "fraud in the inducement",
+        "zh": "诱因欺诈",
+        "source": "WordNet 词典短语 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "derivatives": [
+      {
+        "word": "induce",
+        "meaningZh": "vt. 引诱, 招致, 归纳出, 感应",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "inducements",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɪndjˈuːsmənt/",
+    "synonyms": [
+      {
+        "word": "incentive",
+        "meaningZh": "n. 动机\na. 激励的",
+        "senseEn": "a positive motivational influence",
+        "source": "Princeton WordNet 3.0 synset 09179776-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "motivator",
+        "meaningZh": "n. 激起行为(或行动)的人(或事物),促进因素, 激发因素",
+        "senseEn": "a positive motivational influence",
+        "source": "Princeton WordNet 3.0 synset 09179776-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "evocation",
+    "word": "evocation",
+    "pronunciationUs": "/ˌivoʊˈkeɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 唤出, 招魂, 唤起",
+    "difficulty": 9,
+    "rank": 16844,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "evoke",
+        "meaningZh": "vt. 唤起, 引起, 召(魂)",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "revocation",
+        "meaningZh": "n. 废止, 取消, 撤回",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：∅ → r。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "vocation",
+        "meaningZh": "n. 职业, 天命, 天职, 才能, 行业",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：e → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      },
+      {
+        "word": "avocation",
+        "meaningZh": "n. 副业, 嗜好",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：e → a。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [
+      {
+        "word": "evocations",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/ɪvəkˈeɪʃən/",
+    "synonyms": [
+      {
+        "word": "induction",
+        "meaningZh": "n. 归纳法, 感应, 就职, 入门",
+        "senseEn": "stimulation that calls up (draws forth) a particular class of behaviors",
+        "source": "Princeton WordNet 3.0 synset 05827253-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "summoning",
+        "meaningZh": "v. 传唤( summon的现在分词 ); 召唤; 传讯（出庭）; 鼓起（勇气）",
+        "senseEn": "calling up supposed supernatural forces by spells and incantations",
+        "source": "Princeton WordNet 3.0 synset 05978623-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "enunciate",
+    "word": "enunciate",
+    "pronunciationUs": "/iˈnənsiˌeɪt/, /ɪˈnənsiˌeɪt/",
+    "partOfSpeech": "vt. / vi.",
+    "meaningZh": "vt. 明确地叙述, 表明\nvi. 发音",
+    "difficulty": 9,
+    "rank": 16845,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "enunciation",
+        "meaningZh": "n. 说明, 发音, 宣布",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "enunciated",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "enunciating",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "enunciates",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/ɪnˈʌnsɪˌeɪt/",
+    "synonyms": [
+      {
+        "word": "say",
+        "meaningZh": "vt. 说, 讲, 念, 说明, 指明\nvi. 说, 讲\nn. 意见, 发言权",
+        "senseEn": "speak, pronounce, or utter in a certain way",
+        "source": "Princeton WordNet 3.0 synset 00978549-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "articulate",
+        "meaningZh": "a. 发音清晰的, 口才好的\nvt. 明白地说, 以关节连接, 使成为系统的整体",
+        "senseEn": "express or state clearly",
+        "source": "Princeton WordNet 3.0 synset 00978369-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "pronounce",
+        "meaningZh": "v. 发音, 宣告, 断言",
+        "senseEn": "speak, pronounce, or utter in a certain way",
+        "source": "Princeton WordNet 3.0 synset 00978549-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "vocalize",
+        "meaningZh": "vt. 使发声, 使发成元音\nvi. 发声, 练声, 元音化",
+        "senseEn": "express or state clearly",
+        "source": "Princeton WordNet 3.0 synset 00978369-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "judicious",
+    "word": "judicious",
+    "pronunciationUs": "/dʒuˈdɪʃəs/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 头脑精明的, 贤明的, 判断正确的",
+    "difficulty": 9,
+    "rank": 16886,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "judiciousness",
+        "meaningZh": "n. 明智",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "judicial",
+        "meaningZh": "a. 法庭的, 公正的, 审判上的, 司法的",
+        "note": "易错辨析：judicial 表示司法的；judicious 表示判断明智的。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/dʒuːdˈɪʃəs/",
+    "synonyms": [
+      {
+        "word": "wise",
+        "meaningZh": "a. 明智的, 慎虑的, 聪明的, 博学的, 狡猾的, 机灵的\nvi. 知道\nvt. 教导, 告诉, 劝导\nn. 方法, 方式",
+        "senseEn": "marked by the exercise of good judgment or common sense in practical matters",
+        "source": "Princeton WordNet 3.0 synset 01898722-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "heady",
+        "meaningZh": "a. 顽固的, 任性的, 性急的, 猛烈的",
+        "senseEn": "marked by the exercise of good judgment or common sense in practical matters",
+        "source": "Princeton WordNet 3.0 synset 01898722-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "convulsion",
+    "word": "convulsion",
+    "pronunciationUs": "/kənˈvəɫʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 震动, 震撼, 动乱, 惊厥, 痉挛",
+    "difficulty": 9,
+    "rank": 16936,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "convulse",
+        "meaningZh": "vt. 使震动, 使震撼, 使抽搐",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "convulsions",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/kənvˈʌlʃən/",
+    "synonyms": [
+      {
+        "word": "fit",
+        "meaningZh": "n. 适宜, 合身, 发作, 痉挛\na. 适宜的, 对的, 准备好的\nvt. 适合, 安装, 使合身, 使适应, 使合格\nvi. 适合, 符合, 合身",
+        "senseEn": "a sudden uncontrollable attack",
+        "source": "Princeton WordNet 3.0 synset 14082788-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "turmoil",
+        "meaningZh": "n. 骚动, 混乱",
+        "senseEn": "a violent disturbance",
+        "source": "Princeton WordNet 3.0 synset 13977732-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "upheaval",
+        "meaningZh": "n. 举起, 隆起, 大变动, 剧变",
+        "senseEn": "a violent disturbance",
+        "source": "Princeton WordNet 3.0 synset 13977732-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "unsavory",
+    "word": "unsavory",
+    "pronunciationUs": "/ənˈseɪvɝi/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 没有味道的, 没有香味的, 难吃的, 难闻的, 令人不快的, 不可接受的",
+    "difficulty": 9,
+    "rank": 16968,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ʌnˈseɪv.əɹ.i/",
+    "synonyms": [
+      {
+        "word": "offensive",
+        "meaningZh": "a. 令人不快的, 侮辱的, 攻击性的",
+        "senseEn": "morally offensive",
+        "source": "Princeton WordNet 3.0 synset 01627965-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "distasteful",
+        "meaningZh": "a. 味道差的, 使人不愉快的, 讨厌的",
+        "senseEn": "not pleasing in odor or taste",
+        "source": "Princeton WordNet 3.0 synset 01716971-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "sensuality",
+    "word": "sensuality",
+    "pronunciationUs": "/ˌsɛnˌʃuˈæɫəˌti/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 耽于声色, 淫荡, 好色",
+    "difficulty": 9,
+    "rank": 17015,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "sensual",
+        "meaningZh": "a. 肉欲的, 感觉的, 感觉论的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "sensualities",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/sˌɛnsjuːˈælɪti/",
+    "synonyms": []
+  },
+  {
+    "id": "preemption",
+    "word": "preemption",
+    "pronunciationUs": "/ˌpɹiˈɛmpʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 先买, 先买权",
+    "difficulty": 9,
+    "rank": 17017,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "preempt",
+        "meaningZh": "vt. 先买, 先取\nvi. 先发制人地叫牌",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "redemption",
+        "meaningZh": "n. 赎回, 赎身, 偿还, 拯救",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：p → ∅；位置4：∅ → d。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/priːˈɛmpʃən/",
+    "synonyms": []
+  },
+  {
+    "id": "dynamism",
+    "word": "dynamism",
+    "pronunciationUs": "/ˈdaɪnəˌmɪzəm/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 物力论, 力本说",
+    "difficulty": 9,
+    "rank": 17078,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "dynamical",
+        "meaningZh": "a. 动力的, 动态的, 动力学的, (褒)有生气的, 有力的, 能动的, 精悍的, 机能上的\nn. 动力, 动态, 原动力",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "dynamics",
+        "meaningZh": "n. 动力学",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置7：∅ → c；位置8：m → ∅。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/dˈaɪnɐmˌɪzəm/",
+    "synonyms": [
+      {
+        "word": "vigor",
+        "meaningZh": "n. 精力, 活力",
+        "senseEn": "active strength of body or mind",
+        "source": "Princeton WordNet 3.0 synset 05030806-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "oomph",
+        "meaningZh": "n. 性感, 热情, 精力, 吸引力",
+        "senseEn": "the activeness of an energetic personality",
+        "source": "Princeton WordNet 3.0 synset 04635482-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "pizzazz",
+        "meaningZh": "n. 精力, 劲儿, 精神, 漂亮, 时髦派头",
+        "senseEn": "the activeness of an energetic personality",
+        "source": "Princeton WordNet 3.0 synset 04635482-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "zing",
+        "meaningZh": "n. 尖啸声, 活力\nvi. 发尖啸声\nvt. 对...挑剔",
+        "senseEn": "the activeness of an energetic personality",
+        "source": "Princeton WordNet 3.0 synset 04635482-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "mutilation",
+    "word": "mutilation",
+    "pronunciationUs": "/ˌmjutəˈɫeɪʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 切断, 毁损",
+    "difficulty": 9,
+    "rank": 17127,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "mutilate",
+        "meaningZh": "vt. 切断, 使残废, 使不完整",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "mutilations",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/mjˌuːtɪlˈeɪʃən/",
+    "synonyms": []
+  },
+  {
+    "id": "vilify",
+    "word": "vilify",
+    "pronunciationUs": "/ˈvɪɫɪˌfaɪ/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 诽谤, 贬低",
+    "difficulty": 9,
+    "rank": 17173,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "vilification",
+        "meaningZh": "n. 诽谤",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "vilifier",
+        "meaningZh": "n. 诬蔑者, 诽谤者, 中伤者",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "vilified",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "vilifying",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "vilifies",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/vˈɪlɪfˌaɪ/",
+    "synonyms": [
+      {
+        "word": "rail",
+        "meaningZh": "n. 横杆, 围栏, 栏杆, 铁轨, 扶手, 秧鸡\nvt. 以横木围栏, 给...铺铁轨\nvi. 责骂, 抱怨",
+        "senseEn": "spread negative information about",
+        "source": "Princeton WordNet 3.0 synset 00847870-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "revile",
+        "meaningZh": "v. 辱骂, 斥责",
+        "senseEn": "spread negative information about",
+        "source": "Princeton WordNet 3.0 synset 00847870-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "fortitude",
+    "word": "fortitude",
+    "pronunciationUs": "/ˈfɔɹtɪˌtud/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 刚毅, 坚毅, 不屈不挠",
+    "difficulty": 9,
+    "rank": 17185,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "fortitudes",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/fˈɔːtɪtjˌuːd/",
+    "synonyms": []
+  },
+  {
+    "id": "trivialize",
+    "word": "trivialize",
+    "pronunciationUs": "/ˈtɹɪviəˌɫaɪz/",
+    "partOfSpeech": "vt.",
+    "meaningZh": "vt. 使平凡, 使琐碎",
+    "difficulty": 9,
+    "rank": 17203,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "trivial",
+        "meaningZh": "a. 琐碎的, 不重要的, 轻微的, 平常的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "trivialized",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "trivializing",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "trivializes",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/ˈtɹɪviəlaɪz/",
+    "synonyms": []
+  },
+  {
+    "id": "empathetic",
+    "word": "empathetic",
+    "pronunciationUs": "/ˌɛmpəˈθɛtɪk/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 移情作用的；同感的（等于empathic）",
+    "difficulty": 9,
+    "rank": 17215,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "empathy",
+        "meaningZh": "n. 移情作用, 共鸣",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ˌɛmpɐθˈɛtɪk/",
+    "synonyms": []
+  },
+  {
+    "id": "futurist",
+    "word": "futurist",
+    "pronunciationUs": "/ˈfjutʃɝɪst/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 未来派画家, 未来主义者",
+    "difficulty": 9,
+    "rank": 17244,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "futurism",
+        "meaningZh": "n. 未来派",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "futurists",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/fjˈuːtʃəɹˌɪst/",
+    "synonyms": [
+      {
+        "word": "futuristic",
+        "meaningZh": "a. 未来派的",
+        "senseEn": "of or relating to futurism",
+        "source": "Princeton WordNet 3.0 synset 02993094-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "midsection",
+    "word": "midsection",
+    "pronunciationUs": "/ˈmɪdˌsɛkʃən/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 中央部分, 上腹部",
+    "difficulty": 9,
+    "rank": 17293,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "midsections",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/mɪdsˈɛkʃən/",
+    "synonyms": [
+      {
+        "word": "middle",
+        "meaningZh": "n. 中央, 中间, 腰部\na. 中央的, 中庸的, 中间的",
+        "senseEn": "the middle area of the human torso (usually in front)",
+        "source": "Princeton WordNet 3.0 synset 05555473-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "inordinate",
+    "word": "inordinate",
+    "pronunciationUs": "/ˌɪˈnɔɹdənɪt/",
+    "partOfSpeech": "adj.",
+    "meaningZh": "a. 过度的, 紊乱的, 过分的",
+    "difficulty": 9,
+    "rank": 17393,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "inordinately",
+        "meaningZh": "词族关联 · adv. 紊乱地, 不规则地, 无限制地, 过分地, 无节制地, 放纵地, 过度地",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "/ɪnˈɔːdɪnət/",
+    "synonyms": [
+      {
+        "word": "excessive",
+        "meaningZh": "a. 过度的, 过多的, 极端的",
+        "senseEn": "beyond normal limits",
+        "source": "Princeton WordNet 3.0 synset 01533974-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "unreasonable",
+        "meaningZh": "a. 不合理的, 过度的, 不切实际的",
+        "senseEn": "beyond normal limits",
+        "source": "Princeton WordNet 3.0 synset 01533974-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "undue",
+        "meaningZh": "a. 不适当的, 过度的, 未到期的",
+        "senseEn": "beyond normal limits",
+        "source": "Princeton WordNet 3.0 synset 01533974-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "internist",
+    "word": "internist",
+    "pronunciationUs": "/ˌɪnˈtɝnɪst/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 内科医师",
+    "difficulty": 9,
+    "rank": 17483,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "intern",
+        "meaningZh": "n. 实习生, 被拘留者\nvi. 作实习医师(教师、实习生)\nvt. 拘留, 扣留",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [],
+    "pronunciationUk": "",
+    "synonyms": []
+  },
+  {
+    "id": "ameliorate",
+    "word": "ameliorate",
+    "pronunciationUs": "/əˈmiɫjɝˌeɪt/",
+    "partOfSpeech": "v.",
+    "meaningZh": "v. 改善, 改良, 改进",
+    "difficulty": 9,
+    "rank": 17496,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "amelioration",
+        "meaningZh": "n. 改善, 改良, 改进",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "ameliorative",
+        "meaningZh": "a. 起改善作用的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "amelioratory",
+        "meaningZh": "a. 起改善(或改进、改良)作用的；起减轻(或缓和)作用的；【语言学】词义转佳的, 褒义的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "ameliorated",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "ameliorates",
+        "meaningZh": "第三人称单数"
+      },
+      {
+        "word": "ameliorating",
+        "meaningZh": "现在分词"
+      }
+    ],
+    "pronunciationUk": "/ɐmˈiːliəɹˌeɪt/",
+    "synonyms": [
+      {
+        "word": "better",
+        "meaningZh": "a. 较好的\nadv. 比较好",
+        "senseEn": "get better",
+        "source": "Princeton WordNet 3.0 synset 00205046-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "improve",
+        "meaningZh": "vt. 改良, 提高...的价值, 改善, 利用\nvi. 变得更好, 增加",
+        "senseEn": "get better",
+        "source": "Princeton WordNet 3.0 synset 00205046-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "amend",
+        "meaningZh": "vt. 修改, 改善, 改良\nvi. 改过自新",
+        "senseEn": "to make better",
+        "source": "Princeton WordNet 3.0 synset 00205885-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "masturbate",
+    "word": "masturbate",
+    "pronunciationUs": "/ˈmæstɝˌbeɪt/",
+    "partOfSpeech": "v.",
+    "meaningZh": "v. 手淫",
+    "difficulty": 9,
+    "rank": 17500,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "masturbator",
+        "meaningZh": "n. 手淫者",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "masturbating",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "masturbated",
+        "meaningZh": "过去分词 / 过去式"
+      },
+      {
+        "word": "masturbates",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/mˈɑːstəbˌeɪt/",
+    "synonyms": []
+  },
+  {
+    "id": "pragmatist",
+    "word": "pragmatist",
+    "pronunciationUs": "/ˈpɹæɡmətɪst/",
+    "partOfSpeech": "n.",
+    "meaningZh": "n. 实用主义者, 爱管闲事的人",
+    "difficulty": 9,
+    "rank": 17575,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "pragmatism",
+        "meaningZh": "n. 实用主义",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "pragmatists",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/pɹˈæɡmɐtˌɪst/",
+    "synonyms": []
+  },
+  {
+    "id": "polemic",
+    "word": "polemic",
+    "pronunciationUs": "/pəˈɫɛmɪk/",
+    "partOfSpeech": "adj. / n.",
+    "meaningZh": "a. 争辩的, 好争论的\nn. 争论, 辩论, 辩论者",
+    "difficulty": 9,
+    "rank": 17583,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "polemical",
+        "meaningZh": "a. 好辩的；好争论的；挑起论战的",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "polemicize",
+        "meaningZh": "vi.参加争辩,参加辩论,发表辩论文",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      },
+      {
+        "word": "polemize",
+        "meaningZh": "vi. 参加辩论",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "polemics",
+        "meaningZh": "复数"
+      }
+    ],
+    "pronunciationUk": "/pɒlˈɛmɪk/",
+    "synonyms": [
+      {
+        "word": "polemical",
+        "meaningZh": "a. 好辩的；好争论的；挑起论战的",
+        "senseEn": "of or involving dispute or controversy",
+        "source": "Princeton WordNet 3.0 synset 00602563-adj",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      },
+      {
+        "word": "polemicist",
+        "meaningZh": "n. 辩论家",
+        "senseEn": "a writer who argues in opposition to others (especially in theology)",
+        "source": "Princeton WordNet 3.0 synset 10448670-noun",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  },
+  {
+    "id": "distinctively",
+    "word": "distinctively",
+    "pronunciationUs": "/dɪˈstɪŋktɪvɫi/",
+    "partOfSpeech": "adv.",
+    "meaningZh": "adv. 区别地, 特殊地",
+    "difficulty": 9,
+    "rank": 17675,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "distinctive",
+        "meaningZh": "词族关联 · a. 有特色的, 出众的",
+        "relation": "pertainym",
+        "source": "Open English WordNet 2025 · ECDICT 中文",
+        "sourceUrl": "https://en-word.net/",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "confusables": [
+      {
+        "word": "instinctively",
+        "meaningZh": "adv. 本能地, 直觉地",
+        "note": "形近对照（自动筛选，未验证学习者错误率）：位置1：d → ∅；位置3：∅ → n。请对照两词释义，不能仅凭相似拼写替换。"
+      }
+    ],
+    "wordForms": [],
+    "pronunciationUk": "/dɪstˈɪŋktɪvli/",
+    "synonyms": []
+  },
+  {
+    "id": "antagonize",
+    "word": "antagonize",
+    "pronunciationUs": "/ænˈtæɡəˌnaɪz/",
+    "partOfSpeech": "vt. / vi.",
+    "meaningZh": "vt. 使对抗, 使敌对, 反对\nvi. 引起反抗",
+    "difficulty": 9,
+    "rank": 17720,
+    "examples": [],
+    "collocations": [],
+    "derivatives": [
+      {
+        "word": "antagonism",
+        "meaningZh": "n. 对立, 敌对, 敌意",
+        "source": "WordNet 派生关系 · ECDICT 中文",
+        "sourceUrl": "https://wordnet.princeton.edu/"
+      }
+    ],
+    "confusables": [],
+    "wordForms": [
+      {
+        "word": "antagonized",
+        "meaningZh": "过去式 / 过去分词"
+      },
+      {
+        "word": "antagonizing",
+        "meaningZh": "现在分词"
+      },
+      {
+        "word": "antagonizes",
+        "meaningZh": "第三人称单数"
+      }
+    ],
+    "pronunciationUk": "/ænˈtæɡ.ɪ.naɪz/",
+    "synonyms": [
+      {
+        "word": "counteract",
+        "meaningZh": "vt. 抵消, 阻碍, 中和",
+        "senseEn": "act in opposition to",
+        "source": "Princeton WordNet 3.0 synset 02564841-verb",
+        "sourceUrl": "https://wordnet.princeton.edu/",
+        "note": "仅对应所列义项，不保证所有语境可互换。"
+      }
+    ]
+  }
+]

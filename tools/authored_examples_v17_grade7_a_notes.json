@@ -1,0 +1,251 @@
+{
+  "version": 17,
+  "license": "CC0 1.0",
+  "scope": {
+    "wordCount": 500,
+    "firstWord": "ratify",
+    "lastWord": "muffle",
+    "order": "rank ascending, then id",
+    "inputSnapshot": "/private/tmp/lingo-v209-vocabulary-before.json",
+    "inputSnapshotSha256": "faa3a9ca03737e9184549165aaca44a8cfb594a322bb576cb58a503789cbb8d5",
+    "selection": "旧快照 difficulty==7 且 examples 为空；冻结名单时当前 Android assets 仍为空；排除 tools/authored_content_v17_a.json；取前500词。"
+  },
+  "outputFile": "tools/authored_examples_v17_grade7_a.json",
+  "outputSha256": "01991834530e9415e23775303bffd5a1546ad601d4fa35a8a7e9b020a56c5311",
+  "authorship": "500条英文例句及中文翻译逐词原创，未复制外部例句；无新增音标、派生词、同义词或事实性医疗指导。",
+  "validation": {
+    "totalEntries": 500,
+    "uniqueEnglishSentences": 500,
+    "exactFrozenTargetCoverage": true,
+    "overlapWithParentV17A": 0,
+    "oldDifficulty7AndPreviouslyEmpty": true,
+    "allChineseTranslationsPresent": true,
+    "allSourceAttributionPresent": true,
+    "targetWordHit": {
+      "exactOrCaseVariant": 499,
+      "explicitInflection": {
+        "auspice": "auspices"
+      }
+    }
+  },
+  "uncertainMeaningWords": [],
+  "meaningCorrectionsNeeded": [
+    {
+      "word": "prosthesis",
+      "kind": "错误或词性污染",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 弥补, 添字首音",
+      "suggestedMeaningZh": "假体；义肢，假肢",
+      "reason": "缺最常用医学义；“添字首音”属语言学专门义，不适合作主释义。",
+      "exampleEn": "The technician adjusted the prosthesis to fit her leg more comfortably."
+    },
+    {
+      "word": "sequential",
+      "kind": "错误或词性污染",
+      "oldPartOfSpeech": "adj.",
+      "oldMeaningZh": "a. 继续的, 后果的",
+      "suggestedMeaningZh": "按顺序的；连续的；相继的",
+      "reason": "“继续的，后果的”不能准确表达 sequential 的顺序关系。",
+      "exampleEn": "Each folder has a sequential number to make it easier to locate."
+    },
+    {
+      "word": "fungal",
+      "kind": "错误或词性污染",
+      "oldPartOfSpeech": "adj.",
+      "oldMeaningZh": "a. 真菌, 突然发生而迅速生长的东西, 真菌类植物, 海绵肿, 真菌类病害",
+      "suggestedMeaningZh": "真菌的；由真菌引起的",
+      "reason": "形容词被填入多项 fungus 名词义，含“真菌类植物”等错误表述。",
+      "exampleEn": "The laboratory examined the sample for signs of fungal growth."
+    },
+    {
+      "word": "leek",
+      "kind": "错误或词性污染",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 韭",
+      "suggestedMeaningZh": "韭葱；大葱属的一种蔬菜",
+      "reason": "单写“韭”易与 chives 混淆；例句使用韭葱入汤。",
+      "exampleEn": "She sliced a leek and added it to the potato soup."
+    },
+    {
+      "word": "cornmeal",
+      "kind": "错误或词性污染",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 玉蜀黍粉, 玉米片, 麦片",
+      "suggestedMeaningZh": "玉米粉；玉米面",
+      "reason": "删除不等价的“玉米片、麦片”；cornmeal 是研磨玉米得到的粉/粗粉。",
+      "exampleEn": "She dusted the baking tray with cornmeal before adding the dough."
+    },
+    {
+      "word": "scallions",
+      "kind": "错误或词性污染",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 青葱( scallion的名词复数 ); 冬葱; 大葱; 韭菜",
+      "suggestedMeaningZh": "青葱；小葱（scallion 的复数）",
+      "reason": "不应译为“韭菜”；可保留地区性大葱/冬葱用法。",
+      "exampleEn": "She sprinkled chopped scallions over the noodles."
+    },
+    {
+      "word": "finder",
+      "kind": "错误或词性污染",
+      "oldPartOfSpeech": "adj.",
+      "oldMeaningZh": "a. 发现者, 寻星镜",
+      "suggestedMeaningZh": "n. 发现者；查找器；寻星镜",
+      "reason": "现有中文为名词，但词性标为 adj.；例句选发现者义。",
+      "exampleEn": "The finder of the missing wallet handed it to the police."
+    },
+    {
+      "word": "attracting",
+      "kind": "错误或词性污染",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 吸引",
+      "suggestedMeaningZh": "v. 吸引；引起（attract 的现在分词）",
+      "reason": "现有词性错误地标为 n.；例句使用现在进行时。",
+      "exampleEn": "The new exhibition is attracting visitors from nearby towns."
+    },
+    {
+      "word": "nah",
+      "kind": "错误或词性污染",
+      "oldPartOfSpeech": "adj.",
+      "oldMeaningZh": "a. 没有；很少, 很小",
+      "suggestedMeaningZh": "interj. 不；不要；不了（非正式）",
+      "reason": "现有 adj. 及“很少、很小”均不适用于本词常见用法。",
+      "exampleEn": "“Nah, I'm not hungry,” she said when he offered her a sandwich."
+    },
+    {
+      "word": "amish",
+      "kind": "错误或词性污染",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 孟诺教派；孟诺教派之教徒",
+      "suggestedMeaningZh": "阿米什派；阿米什派信徒；阿米什派的",
+      "reason": "现有“孟诺教派”泛化错误，应明确 Amish 分支名称，增补形容词用法。",
+      "exampleEn": "The exhibition includes quilts made by Amish craftspeople."
+    },
+    {
+      "word": "coronary",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "adj.",
+      "oldMeaningZh": "a. 冠的, 花冠的, 冠状的",
+      "suggestedMeaningZh": "冠状动脉的；冠状的",
+      "reason": "例句为 coronary arteries；花冠/冠形旧义可保留但不应掩盖医学常用义。",
+      "exampleEn": "The diagram shows the coronary arteries around the heart."
+    },
+    {
+      "word": "exec",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 主任参谋, 副舰长",
+      "suggestedMeaningZh": "经理；主管；高管（executive 的非正式缩写）",
+      "reason": "现有只列军舰副长相关职务；例句使用公司高管。",
+      "exampleEn": "A senior exec from the company attended the product launch."
+    },
+    {
+      "word": "bisexual",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "adj.",
+      "oldMeaningZh": "a. 两性的, 雌雄同体的",
+      "suggestedMeaningZh": "双性恋的；双性恋者；两性的",
+      "reason": "应补人的性取向常见义，勿仅用雌雄同体解释。",
+      "exampleEn": "The memoir describes her experience of coming out as bisexual."
+    },
+    {
+      "word": "underworld",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 下层社会, 地狱, 下流社会",
+      "suggestedMeaningZh": "黑社会；犯罪集团；阴间",
+      "reason": "“下层社会/下流社会”不能准确代替犯罪世界；例句是 criminal underworld。",
+      "exampleEn": "The novel follows a detective investigating the city's criminal underworld."
+    },
+    {
+      "word": "respite",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "n. / vt.",
+      "oldMeaningZh": "n. 暂缓, 缓期执行\nvt. 使暂缓",
+      "suggestedMeaningZh": "短暂的休息；喘息；暂缓",
+      "reason": "现有仅司法暂缓义；例句为暂避酷热的喘息机会。",
+      "exampleEn": "The shade offered a brief respite from the afternoon heat."
+    },
+    {
+      "word": "grinder",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 推磨的人, 研磨者",
+      "suggestedMeaningZh": "研磨机；磨碎器；磨工",
+      "reason": "缺器械义，例句为 coffee grinder。",
+      "exampleEn": "He adjusted the coffee grinder to produce a finer powder."
+    },
+    {
+      "word": "mounting",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 装备, 衬托纸, 舞台效果, 上马",
+      "suggestedMeaningZh": "adj. 不断增加的；逐渐加剧的；n. 安装；底座",
+      "reason": "现有仅列名词装备/衬纸等，缺 mounting pressure 的常见形容词义。",
+      "exampleEn": "Mounting pressure from residents forced the council to reconsider the closure."
+    },
+    {
+      "word": "stoke",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "v.",
+      "oldMeaningZh": "v. 司炉, (使)大吃",
+      "suggestedMeaningZh": "给炉火添燃料；拨旺；煽动；激起",
+      "reason": "“司炉”不足以表达及物动词；例句为 stoke the fire。",
+      "exampleEn": "He added another log to stoke the fire."
+    },
+    {
+      "word": "custard",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 蛋奶糕",
+      "suggestedMeaningZh": "蛋奶酱；蛋奶冻；蛋奶糕",
+      "reason": "应补可流动的蛋奶酱，例句为浇在苹果派上的 custard。",
+      "exampleEn": "She spooned warm custard over a slice of apple pie."
+    },
+    {
+      "word": "configure",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "vt.",
+      "oldMeaningZh": "vt. 装配, 使成形",
+      "suggestedMeaningZh": "配置；设置；使成形",
+      "reason": "缺现代软件/设备配置义，例句为配置路由器。",
+      "exampleEn": "The technician helped us configure the new router."
+    },
+    {
+      "word": "hooker",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 用钩子的人, 渔船",
+      "suggestedMeaningZh": "橄榄球钩球队员；妓女（非正式，需用法标记）；用钩者；小渔船",
+      "reason": "例句采用橄榄球位置义；原有义项保留但缺常见现代词义。",
+      "exampleEn": "The rugby team's hooker threw the ball into the lineout."
+    },
+    {
+      "word": "pulitzer",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 普利策（美国新闻业经营者）",
+      "suggestedMeaningZh": "普利策；普利策奖（Pulitzer Prize 的常用指称）",
+      "reason": "现有仅人物说明；例句使用 Pulitzer Prize，建议关联专名短语而非只给人物。",
+      "exampleEn": "The journalist's Pulitzer Prize was displayed beside her first newspaper article."
+    },
+    {
+      "word": "silicone",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 硅树脂",
+      "suggestedMeaningZh": "硅酮；有机硅聚合物；硅胶（材料俗称）",
+      "reason": "“硅树脂”范围过窄；例句是柔性烘焙模具用有机硅材料。",
+      "exampleEn": "The baker poured the batter into a flexible silicone mold."
+    },
+    {
+      "word": "limbo",
+      "kind": "缺少常见义项",
+      "oldPartOfSpeech": "n.",
+      "oldMeaningZh": "n. 地狱边缘, 监狱, 忘却",
+      "suggestedMeaningZh": "悬而未决的状态；被遗忘的境地；地狱边缘",
+      "reason": "现有无最常见 in limbo 义；例句为申请因职责争议而悬而未决。",
+      "exampleEn": "The application remained in limbo while the two offices disputed responsibility."
+    }
+  ],
+  "changesMadeToAssetsOrIOS": false
+}

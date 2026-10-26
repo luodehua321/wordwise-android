@@ -1,0 +1,1 @@
+NGSL by Browne, Culligan and Phillips: CC BY-SA 4.0. The bundled mirror is the 2801-headword pre-1.2 list. Project adaptation: headword membership caps and project learning-order labels, not CEFR. Adapted classification data and vocabulary_levels.py: CC BY-SA 4.0. Other dictionary fields retain their respective licenses.

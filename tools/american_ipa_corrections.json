@@ -1,0 +1,17 @@
+{
+  "august": {
+    "ipa": "/ɔːˈɡʌst/",
+    "reason": "小写形容词为后重音，月份名称August单独保留原始源读音。",
+    "reference": "https://www.oxfordlearnersdictionaries.com/definition/english/august_1"
+  },
+  "dogged": {
+    "ipa": "/ˈdɔːɡɪd/, /dɔɡd/",
+    "reason": "原始美式源只有动词过去式读音；先补入与常用形容词义对应的两音节读音，保留动词读音。",
+    "reference": "https://www.oxfordlearnersdictionaries.com/definition/english/dogged"
+  },
+  "moped": {
+    "ipa": "/ˈmoʊpɛd/",
+    "reason": "本库 moped 主词性为名词助动车；仅保留已有名词读音，去除混入的 mope 过去式 /ˈmoʊpt/。未引入新音标。",
+    "reference": "项目内置 moped、mope 条目互证；tools/confirmed_content_fixes_v12.json"
+  }
+}
